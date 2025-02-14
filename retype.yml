@@ -1,0 +1,24 @@
+input: .
+output: .retype
+url: https://TerresPerdues.github.io/
+meta:
+  title: " | Guide des Terres Perdues"
+branding:
+  title: Terres Perdues
+  label: v0.8
+  logo: images/logo-circle.png
+  colors:
+    label:
+      text: "#58180d"
+      background: "#eee5ce"
+favicon: images/logo-circle.png
+links:
+- text: Bienvenue!
+  link: /
+- text: Start Here
+  link: /character-building/start-here/
+- text: FAQ
+  link: /faq/common-faq/
+-
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
