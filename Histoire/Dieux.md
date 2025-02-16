@@ -8,6 +8,7 @@ icon: ":scroll:"
 La lumière blanche représente la lumière, l’arcane, la vie et la paix. C'est une religion qui prône toute forme de lumière. Les disciples de La lumière blanche combattent farouchement le mal qu’ils appellent les ténèbres ou le néant. Malgré que La lumière blanche n’a pas de forme physique ou de personnalité, on dit que la lumière peut montrer la voie à suivre sous plusieurs formes et de façon plus claire que certains dieu. C’est une vieille religion qui avait perdu de son éclat mais qui revient en force avec l'arrivée des ténèbres. Ses cathédrales et monuments sont très imposants.
 
 ## Waltz 
+![](Images/Waltz.png)
 Dieu de la l’Arcane, de la connaissance, des cimetières et de la supercherie. Waltz était un magicien qui étudiait la magie et il avait plus d’un tour dans son sac. Il créa L’éveil qui changea les royaumes à tout jamais. Il sacrifia son essence vitale et devint une divinité à ce moment. Il est souvent représenté comme un oeil blanc ouvert qui observe et s’émerveille. La majorité des magiciens et savants le vénèrent, il représente les sciences de toutes sortes. Certains nécromanciens érudits le préfèrent également car il a plus de charme et de panache.
 
 ## Dhums 
