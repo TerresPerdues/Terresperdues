@@ -1,3 +1,9 @@
+---
+label: Les Dieux
+order: 1002
+icon: ":scroll:"
+---
+
 ## La lumière blanche 
 La lumière blanche représente la lumière, l’arcane, la vie et la paix. C'est une religion qui prône toute forme de lumière. Les disciples de La lumière blanche combattent farouchement le mal qu’ils appellent les ténèbres ou le néant. Malgré que La lumière blanche n’a pas de forme physique ou de personnalité, on dit que la lumière peut montrer la voie à suivre sous plusieurs formes et de façon plus claire que certains dieu. C’est une vieille religion qui avait perdu de son éclat mais qui revient en force avec l'arrivée des ténèbres. Ses cathédrales et monuments sont très imposants.
 
