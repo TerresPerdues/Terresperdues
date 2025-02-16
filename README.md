@@ -1,6 +1,6 @@
 # Terres Perdues Guide
 
-Il s'agit du dépôt pour le site Terres Perdues, [hébergé ici sur GitHub Pages].([https:/dndworld.github.io/](https://terresperdues.github.io/Terresperdues/)).
+Il s'agit du dépôt pour le site Terres Perdues, [hébergé ici sur GitHub Pages].([https:/TerresPerdues.github.io/](https://terresperdues.github.io/Terresperdues/)).
 
 ## Mission Statement
 
