@@ -4,7 +4,7 @@ order: 1000
 icon: ":sparkles:"
 ---
 :::banner
-![]((https://github.com/TerresPerdues/Terresperdues/blob/2e8a913fe4b5bb86e6a2f4d5d812ab1295bc7182/Images/TerresPerduesLogo.png))
+![](https://github.com/TerresPerdues/Terresperdues/Images/TerresPerduesLogo.png)
 :::
 
 <style>
