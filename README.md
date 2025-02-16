@@ -1,4 +1,4 @@
-# Dnd World Guide
+# Terres Perdues Guide
 
 This is the repository for the DW Guide site, [hosted here on GitHub Pages](https:/dndworld.github.io/).
 
