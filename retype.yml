@@ -1,0 +1,24 @@
+input: .
+output: .retype
+url: https://terresperdues.github.io/Terresperdues/
+meta:
+  title: " | Terres Perdues Guides"
+branding:
+  title: Terres Perdues Guide
+  label: v1.1
+  logo: images/logo-circle.png
+  colors:
+    label:
+      text: "#58180d"
+      background: "#eee5ce"
+favicon: images/logo-circle.png
+links:
+- text: Welcome!
+  link: /
+- text: Start Here
+  link: /character-building/start-here/
+- text: FAQ
+  link: /faq/common-faq/
+-
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
