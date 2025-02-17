@@ -25,7 +25,7 @@ Tiamat prenait du terrain jusqu’à ce que certains de ses lieutenants changent
 ### Les chasseurs de Dragons 
 Plusieurs elfes, qui ont vécu pendant les années de la guerre des rois dragons, ont développé des techniques de chasse contre ces créatures gigantesques. Après la guerre, les chasseurs de dragons ont continué à traquer et tuer ces créatures des pires façons qui soit. Avec l’aide des dieux ils ont même créé une malédictions rendant les œufs de dragons stériles ou avec une intelligence inférieure répondant ainsi seulement à leur instinct basique.
 
-###L’Empire Oublié 
+### L’Empire Oublié 
 Il y a plus d’un millénaire, un royaume supplémentaire existait. Sylinaï, le royaume des êtres féériques. Ces terres étaient arpentées par des satyrs, des fées et d’autres créatures. Elles étaient très douées pour mélanger la magie et la technologie à tel point que parfois, il était impossible de les distinguer l’une de l’autre. On dit que ce seraient eux les créateurs des Portes-célestes.
 
 Mais ils gardaient jalousement leurs secrets. Ce qui attira la méfiance des autres royaumes. Devant de telles prouesses, la graine de la peur grandit jusqu’à devenir une grande colère. Une guerre éclata, ce qui créa La fracture, Le royaume de Sylinaï fut expulsé du plan matériel vers l’inconnu!
