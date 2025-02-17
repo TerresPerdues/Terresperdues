@@ -18,22 +18,22 @@ Par conséquent, l'âme d'un agent doit être incorruptible. Beaucoup pensent l'
 Les Umbra Tenebrae forment un réseau clandestin d’érudits, d'espions, de poètes et d’historiens qui cherchent les connaissances occultes, les mystères du monde ou simplement de belles histoires à raconter.
 L'organisation est toujours à la recherche de puissants objets magiques, en particulier pour les garder hors de portée des êtres maléfiques. Pour cela, ses agents utilisent différentes formes et identités pour accéder à des secrets soigneusement gardés comme des cartes ancestrales, des villes souterraines ou bien encore des tours de mages. 
 
-### Objectifs
++++ Objectifs
 - Rassembler des informations à travers tous les Terres Perdues.
 - Protéger le savoir.
 - Empêcher que des connaissances occultes tombent dans de mauvaises mains.
 - Éduquer les ignares.
 
-### Croyances
++++ Croyances
 - On ne peut jamais rassembler suffisamment d'informations ou de connaissances magiques.
 - Trop de pouvoir mène à la corruption. L'abus de magie doit être surveillé de près.
 - Le savoir est le plus grand pouvoir.
 
-### Formations
++++ Formations
 - Instruments de musique
 - Matériel de calligraphie
 - Kit de déguisement
-
++++
 ### Traits des membres
 Les agents de l’Umbra Tenebrae sont formés pour opérer seuls, néanmoins ils n’hésitent pas à s'entraider en cas de besoin, et les amitiés qui se lient entre eux sont presque indestructibles. Maître-espions et infiltrés, ils utilisent diverses formes et identités secrètes pour nouer des relations, cultiver leurs réseaux d'informateurs et manipuler les autres pour faire ce qui doit être fait. 
 
