@@ -1,6 +1,6 @@
 ---
 label: Les Mythes et Légendes
-order: 1001
+order: 1
 icon: ":scroll:"
 ---
 
