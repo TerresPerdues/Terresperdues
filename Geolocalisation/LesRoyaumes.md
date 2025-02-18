@@ -188,6 +188,7 @@ Un endroit reconnu pour la détente, un savoir qui se perd. Rien n’est plus re
 === Les malédictions et les pactes :
 Malheureusement, plusieurs personnes ont fait des pactes avec des fées dans cette ville. Régler ses problèmes soi-même serait une bien meilleure alternative.
 ===
++++
 
 ## L’Archipel Fracassé
 
@@ -211,53 +212,53 @@ Ces îles ont les plus beaux couchés et levés de soleil. Ce sont des lieux mag
 De ce mélange proviennent les brumes, elles se faufilent partout autour des îles rendant la circulation difficile. Parfois épaisses, parfois froides, d’autre fois humides ou même chaudes, on ne peut les prévoir. De ce fait, certaines îles n’ont jamais été complètement explorées, leurs jungles cachant encore des secrets de l'ancien monde.
 
 
-Le colisée de Myre
+==- Le colisée de Myre
 Les plus grands combattants de tous les royaumes vont souvent régler leurs comptes dans l’arène de Myre. On y présente toutes sortes de combats et souvent des combats à mort.
 
-Mont Olys
+==- Mont Olys
 Un mont très élevé qui monte jusqu'au-dessus des nuages. On dit que cette montagne a plus de 14 000 marches et certains pèlerins font le chemin pour se rendre jusqu’au sommet où se trouve des effigies de plusieurs dieux.
-
-Valheureux, Cité des rêves
++++ Capitale
+=== Valheureux, Cité des rêves
 Valheureux est contrôlée par un conseil de marchands. La ville est basée sur les commerces, les restaurants et les tout inclus. Elle est réputée pour ses maisons aux toits bleutés et ses murs d’un blanc étincelant. Plusieurs vieux généraux vivent également dans cette ville, on les dit à la retraite, mais le sont-ils vraiment?
-Quoi faire sur l’île:
 
-Guilde d’aventurier : Tout le monde a besoin d’aide et la guilde d’aventurier est là pour répondre à ce besoin. Vous voulez vous faire de l’argent rapidement? Il y a toujours une quête qui n’attend que vous.
-Jeu politique : Que ce soit pour aider un baron ou en devenir un, Valheureux regorge d’intrigues, de trahisons et de possibilités enrichissantes.
-Visiter Valheureux : Valheureux est une ville magnifique, avec ses sculptures et son architecture étrange et ses couleurs bleutées.
++++ Activités
+Quoi faire dans ce royaume:
 
+=== Guilde d’aventurier : 
+Tout le monde a besoin d’aide et la guilde d’aventurier est là pour répondre à ce besoin. Vous voulez vous faire de l’argent rapidement? Il y a toujours une quête qui n’attend que vous.
+=== Jeu politique : 
+Que ce soit pour aider un baron ou en devenir un, Valheureux regorge d’intrigues, de trahisons et de possibilités enrichissantes.
+=== Visiter Valheureux :
+ Valheureux est une ville magnifique, avec ses sculptures et son architecture étrange et ses couleurs bleutées.
 
-
-
-Les Terres de Glace ou Glaceterre.
+## Les Terres de Glace ou Glaceterre.
 
 
 Au nord se trouvent des terres gelées à l’année. Bien que la cause de ce gel soit inconnue, certaines croyances stipulent que ce froid intense serait dû à un cataclysme magique; d’autres, que ce serait à cause d’une créature qui daterait d’avant les âges. Quoi qu’il en soit, le froid progresse d’année en année. Sous ce sol gelé se cachent d’anciens royaumes. D’innombrables richesses y sont enfouies et c’est ce qui pousse les aventuriers à explorer ces lieux.
 
-
-
-Politique
-Un grand royaume nain couvre la première partie des Terres de Glace. Plusieurs peuples ont choisi de vivre sur ces terres glacées. Certains vivent librement, d’autres sont sous le règne de la reine des glaces et d’autres encore car ils ont été bannis de leur royaume. Les habitants des terres gelées vivent en tribus. Les querelles sont fréquentes et les terres sont difficiles à diviser. La hiérarchie fonctionne sur l’honneur et le respect.
-
-Géographie 
-65% des terres sont recouvertes de neige à l’année. La plus grande ville est Valbrise, une ville portuaire au nord de la région. Les Terres de Glace se terminent au nord par une chaîne de montagnes appelée la barrière. De l’autre côté se trouve la terre des géants.
-
-
-Religion
++++ Religion
 La plupart des habitants du nord respectent les vieilles traditions. Il reste peu des premières créatures d’avant les âges des humains, mais les nains ont gardé certaines croyances ancestrales. Les divinités élémentaires y sont toujours vénérées.
 
++++ Politique
+Un grand royaume nain couvre la première partie des Terres de Glace. Plusieurs peuples ont choisi de vivre sur ces terres glacées. Certains vivent librement, d’autres sont sous le règne de la reine des glaces et d’autres encore car ils ont été bannis de leur royaume. Les habitants des terres gelées vivent en tribus. Les querelles sont fréquentes et les terres sont difficiles à diviser. La hiérarchie fonctionne sur l’honneur et le respect.
 
-Val Gelé
++++ Géographie 
+65% des terres sont recouvertes de neige à l’année. La plus grande ville est Valbrise, une ville portuaire au nord de la région. Les Terres de Glace se terminent au nord par une chaîne de montagnes appelée la barrière. De l’autre côté se trouve la terre des géants.
+
++++ Capitale
+=== Val Gelé
 C’est une ville fortifiée pour se protéger des monstres du nord. On y retrouve également une vieille cité naine qui a été vidé de ses ressources.
+
 Quoi faire dans ce royaume:
-Courte explication
-Exemple:
 
-Chercher des objets magiques : C’est une vieille terre où de nombreux combats ont eu lieu jadis. On parle de guerre des nains et des elfes.
-Combattre le mal : Le mal est toujours présent dans le nord, des créatures maléfiques semblent provenir de partout sous la glace épaisse.
+=== Chercher des objets magiques :
+C’est une vieille terre où de nombreux combats ont eu lieu jadis. On parle de guerre des nains et des elfes.
+=== Combattre le mal :
+Le mal est toujours présent dans le nord, des créatures maléfiques semblent provenir de partout sous la glace épaisse.
+===
++++
 
-La Côte du Bouclier
-
-
+## La Côte du Bouclier
 
 La Côte du Bouclier a été nommée ainsi à cause de ses falaises qui restent stoïques contre les assauts répétés de l’océan contre son rivage. Difficile d’accoster sur la côte à l’exception de quelques endroits qu’on nomme les écorchures. Cette côte est très prospère pour la pêche et la chasse et ses paysages montagneux sont dignes des plus belles peintures.
 
@@ -401,12 +402,6 @@ Sur l'extrémité ouest, nous retrouvons L’Archipel Fracassé et l'Océan intr
 Les brumes et les îles mouvantes n'aident pas non plus. Les îles mouvantes seraient le résultat de changements constants des plaques tectoniques selon certains. Cependant les brumes qui sont envahissantes et mystiques en seraient également la cause. Peu de scientifiques en sont revenus sains et saufs et peu veulent prendre le risque de connaître la vérité.
 
 Géographie
-
-
-
-
-
-
 
 
 
