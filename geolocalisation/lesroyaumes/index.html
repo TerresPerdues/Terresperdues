@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="turbo-root" content="/Terresperdues">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.793224553778">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.793225224921">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.6.0">
@@ -31,11 +31,11 @@
 
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="../../resources/css/retype.css?v=3.6.0.793224553778" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.6.0.793225224921" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.793224553778" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.793225224921" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.6.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.793224553778" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.793225224921" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -297,27 +297,27 @@
     </h3>
 </doc-anchor-target>
 <doc-panels>
-   <doc-panel id="guilde-d-aventurier">
+   <doc-panel id="guilde-d-aventurier" collapsed>
        <template #title>Guilde d’aventurier :</template>
 <p>Tout le monde à besoin d’aide et la guilde d’aventurier est là pour répondre à ce besoin. Vous voulez vous faire de l’argent rapidement? Il y a toujours une quête qui n’attend que vous.</p>
    </doc-panel>
-   <doc-panel id="jeu-politique">
+   <doc-panel id="jeu-politique" collapsed>
        <template #title>Jeu politique :</template>
 <p>Que ce soit pour aider un baron ou en devenir un, les royaumes regorgent d’intrigues, de trahisons et de possibilités enrichissantes.</p>
    </doc-panel>
-   <doc-panel id="devenir-chevalier">
+   <doc-panel id="devenir-chevalier" collapsed>
        <template #title>Devenir chevalier :</template>
 <p>Il n’est pas simple de devenir un héros, c’est un travail acharné qui amène de grandes récompenses, la vie d’un chevalier est une vie de combats et d’aventures.</p>
    </doc-panel>
-   <doc-panel id="visiter-valôme">
+   <doc-panel id="visiter-valôme" collapsed>
        <template #title>Visiter Valôme :</template>
 <p>Valôme est la plus grande métropole du monde connu. Si vous cherchez quelque chose, les chances que quelqu’un à Valôme puisse vous aider sont très élevées.</p>
    </doc-panel>
-   <doc-panel id="chasse-aux-envahisseurs">
+   <doc-panel id="chasse-aux-envahisseurs" collapsed>
        <template #title>Chasse aux envahisseurs :</template>
 <p>Il existe des tribus de sauvages, d’orcs, de trolls et autres qui attaquent sans relâche le peuple d’avant.</p>
    </doc-panel>
-   <doc-panel id="fermer-des-portails">
+   <doc-panel id="fermer-des-portails" collapsed>
        <template #title>Fermer des portails :</template>
 <p>Les Royaumes d’Avant couvre un territoire gigantesque et des portails s’y cachent à chaque recoin.</p>
    </doc-panel>
@@ -396,19 +396,19 @@ plus grande partie de la ville. Une tranchée contourne la palissade à quelques
     </h3>
 </doc-anchor-target>
 <doc-panels>
-   <doc-panel id="guildes-de-mercenaires">
+   <doc-panel id="guildes-de-mercenaires" collapsed>
        <template #title>Guildes de mercenaires :</template>
 <p>Les guildes de mercenaires du royaume du nord sont les plus réputées. Après tout, les peuples du nord voient plus de combat en une année que en une vie dans d’autres royaumes.</p>
    </doc-panel>
-   <doc-panel id="chasse-et-pêche">
+   <doc-panel id="chasse-et-pêche" collapsed>
        <template #title>Chasse et pêche :</template>
 <p>Que ce soit pour aider un baron ou en devenir un, les royaumes regorgent d’intrigues, de trahisons et de possibilités enrichissantes.</p>
    </doc-panel>
-   <doc-panel id="étudier-les-lois-à-francval">
+   <doc-panel id="étudier-les-lois-à-francval" collapsed>
        <template #title>Étudier les lois à FrancVal :</template>
 <p>Toutes les lois des royaumes s’y trouvent et des sages les connaissent presque par cœur ou du moins savent où chercher.</p>
    </doc-panel>
-   <doc-panel id="les-bibliothèques-du-passé-à-francval">
+   <doc-panel id="les-bibliothèques-du-passé-à-francval" collapsed>
        <template #title>Les bibliothèques du passé à FrancVal :</template>
 <p>Les écrits restent et les bibliothèques du passé conservent la majorité de ceux-ci. On peut trouver des exemplaires datant de l&#x27;arrivée des nains sur ces terres.</p>
    </doc-panel>
@@ -444,17 +444,21 @@ plus grande partie de la ville. Une tranchée contourne la palissade à quelques
 </doc-tab>
 <doc-tab v-cloak id="capitale">
 <template #title>Capitale</template>
-<p>== Hautval
-C’est une ville très grande en superficie, peu d’édifices en hauteur; si bien que l’on voit très bien les gigantesques moulins à vent. Très peu de protection également, il n’y a pas de point spécifique d’entrée à la ville. Le centre de la ville est le mieux protégé, c’est le quartier du prince et de la haute bourgeoisie. On retrouve tout autour les quartiers plus pauvres. Plusieurs grandes rivières serpentent la ville, on y retrouve des ponts qui peuvent contenir des quartiers complets.</p>
 <doc-panels>
-   <doc-panel id="la-haute-ville">
+   <doc-panel id="hautval" collapsed>
+       <template #title>Hautval</template>
+<p>C’est une ville très grande en superficie, peu d’édifices en hauteur; si bien que l’on voit très bien les gigantesques moulins à vent. Très peu de protection également, il n’y a pas de point spécifique d’entrée à la ville. Le centre de la ville est le mieux protégé, c’est le quartier du prince et de la haute bourgeoisie. On retrouve tout autour les quartiers plus pauvres. Plusieurs grandes rivières serpentent la ville, on y retrouve des ponts qui peuvent contenir des quartiers complets.</p>
+   </doc-panel>
+   <doc-panel id="la-haute-ville" collapsed>
        <template #title>La haute ville</template>
 <p>La haute ville est peuplée par la bourgeoisie, on y retrouve beaucoup de créatures elfiques et une grande concentration de haut elf, les maisons sont habituellement en hauteur.</p>
    </doc-panel>
-   <doc-panel id="la-basse-ville">
+   <doc-panel id="la-basse-ville" collapsed>
        <template #title>La basse ville</template>
 <p>Aux extrémités de la ville ou encore sous les ponts, se trouvent les moins fortunés de la ville. Ils sont souvent négligés, la maladie les ronge, la famine et les prédateurs y courent.</p>
-<doc-tabs>
+   </doc-panel>
+</doc-panels>
+</doc-tab>
 <doc-tab v-cloak id="activités">
 <template #title>Activités</template>
 <p>Quoi faire dans ce royaume:</p>
@@ -466,8 +470,6 @@ C’est une ville très grande en superficie, peu d’édifices en hauteur; si b
    <doc-panel id="les-malédictions-et-les-pactes">
        <template #title>Les malédictions et les pactes :</template>
 <p>Malheureusement, plusieurs personnes ont fait des pactes avec des fées dans cette ville. Régler ses problèmes soi-même serait une bien meilleure alternative.</p>
-   </doc-panel>
-</doc-tab>
    </doc-panel>
 </doc-panels>
 </doc-tab>
@@ -503,35 +505,31 @@ C’est une ville très grande en superficie, peu d’édifices en hauteur; si b
    <doc-panel id="mont-olys" collapsed>
        <template #title>Mont Olys</template>
 <p>Un mont très élevé qui monte jusqu&#x27;au-dessus des nuages. On dit que cette montagne a plus de 14 000 marches et certains pèlerins font le chemin pour se rendre jusqu’au sommet où se trouve des effigies de plusieurs dieux.</p>
-<doc-tabs>
+   </doc-panel>
+</doc-panels>
+</doc-tab>
 <doc-tab v-cloak id="capitale">
 <template #title>Capitale</template>
-<doc-panels>
-   <doc-panel id="valheureux-cité-des-rêves">
-       <template #title>Valheureux, Cité des rêves</template>
+<doc-panel id="valheureux-cité-des-rêves">
+    <template #title>Valheureux, Cité des rêves</template>
 <p>Valheureux est contrôlée par un conseil de marchands. La ville est basée sur les commerces, les restaurants et les tout inclus. Elle est réputée pour ses maisons aux toits bleutés et ses murs d’un blanc étincelant. Plusieurs vieux généraux vivent également dans cette ville, on les dit à la retraite, mais le sont-ils vraiment?</p>
 <doc-tabs>
 <doc-tab v-cloak id="activités">
 <template #title>Activités</template>
 <p>Quoi faire dans ce royaume:</p>
+<p>====- Guilde d’aventurier :
+Tout le monde a besoin d’aide et la guilde d’aventurier est là pour répondre à ce besoin. Vous voulez vous faire de l’argent rapidement? Il y a toujours une quête qui n’attend que vous.</p>
 <doc-panels>
-   <doc-panel id="guilde-d-aventurier">
-       <template #title>Guilde d’aventurier :</template>
-<p>Tout le monde a besoin d’aide et la guilde d’aventurier est là pour répondre à ce besoin. Vous voulez vous faire de l’argent rapidement? Il y a toujours une quête qui n’attend que vous.</p>
-   </doc-panel>
    <doc-panel id="jeu-politique">
        <template #title>Jeu politique :</template>
 <p>Que ce soit pour aider un baron ou en devenir un, Valheureux regorge d’intrigues, de trahisons et de possibilités enrichissantes.</p>
    </doc-panel>
-   <doc-panel id="visiter-valheureux">
+   <doc-panel id="visiter-valheureux" collapsed>
        <template #title>Visiter Valheureux :</template>
 <p>Valheureux est une ville magnifique, avec ses sculptures et son architecture étrange et ses couleurs bleutées.</p>
    </doc-panel>
 </doc-tab>
-   </doc-panel>
-</doc-tab>
-   </doc-panel>
-</doc-panels>
+</doc-panel>
 </doc-tab>
 </doc-tabs>
 <doc-anchor-target id="les-terres-de-glace-ou-glaceterre">
@@ -556,17 +554,20 @@ C’est une ville très grande en superficie, peu d’édifices en hauteur; si b
 </doc-tab>
 <doc-tab v-cloak id="capitale">
 <template #title>Capitale</template>
-<doc-panels>
-   <doc-panel id="val-gelé">
-       <template #title>Val Gelé</template>
+<doc-panel id="val-gelé">
+    <template #title>Val Gelé</template>
 <p>C’est une ville fortifiée pour se protéger des monstres du nord. On y retrouve également une vieille cité naine qui a été vidé de ses ressources.</p>
+</doc-panel>
+</doc-tab>
+<doc-tab v-cloak id="activités">
+<template #title>Activités</template>
 <p>Quoi faire dans ce royaume:</p>
-   </doc-panel>
+<doc-panels>
    <doc-panel id="chercher-des-objets-magiques">
        <template #title>Chercher des objets magiques :</template>
 <p>C’est une vieille terre où de nombreux combats ont eu lieu jadis. On parle de guerre des nains et des elfes.</p>
    </doc-panel>
-   <doc-panel id="combattre-le-mal">
+   <doc-panel id="combattre-le-mal" collapsed>
        <template #title>Combattre le mal :</template>
 <p>Le mal est toujours présent dans le nord, des créatures maléfiques semblent provenir de partout sous la glace épaisse.</p>
    </doc-panel>
@@ -607,18 +608,18 @@ C’est une ville très grande en superficie, peu d’édifices en hauteur; si b
 </doc-anchor-target>
 <p>Valrive est une ville portuaire réputée pour ses inventions magiques et son ouverture envers toutes les races. On y retrouve plusieurs quartiers industriels, la production est grandement supérieure à partout ailleurs. Près du port, ce sont de multiples usines arcaniques qui fonctionnent à plein régime sur le flanc de la montagne. Les rues sont pavées de belles pierres et éclairées de lampadaires à lumière continuelle qui permettent de voir malgré la fumée qui s’expire des poumons sales de la ville.</p>
 <doc-anchor-target id="valdorei">
-    <h2>
+    <h3>
         <doc-anchor-trigger class="header-anchor-trigger" to="#valdorei">#</doc-anchor-trigger>
         <span>Val’dorei,</span>
-    </h2>
+    </h3>
 </doc-anchor-target>
 <p>L’ancienne cité des ancêtres, avant la guerre la cité s’appelait ValBois. Mais depuis que la cité est devenue une ruine, elle a retrouvé son nom elfique de Val’dorei. En son centre se trouve un arbre datant de la création, il fait plusieurs kilomètres de haut si bien que parfois la cime se trouve dans les nuages. L’arbre de vie semble mort. Il est dénudé de feuille et des sortes de longue bannière, passerelle ou demeure pendent de ses branches donnant un aspect lugubre à ce qui était autrefois un phare de la vie. S’ajoute à cela le sifflement du vent au travers ces vestiges et de la mélodie sombre et profonde que les restes des passerelles de bois qui se frappent ensemble pouvant rappeler de façon macabre un carillon de bois.</p>
 </doc-tab>
 <doc-tab v-cloak id="activités">
 <template #title>Activités</template>
 <p>Quoi faire dans ce royaume :</p>
-<p>Exemple :</p>
-<p>Guilde d’aventurier :</p>
+</doc-tab>
+</doc-tabs>
 <doc-anchor-target id="les-terres-de-lespoir">
     <h2>
         <doc-anchor-trigger class="header-anchor-trigger" to="#les-terres-de-lespoir">#</doc-anchor-trigger>
@@ -626,7 +627,7 @@ C’est une ville très grande en superficie, peu d’édifices en hauteur; si b
     </h2>
 </doc-anchor-target>
 <p>Cette vallée était au départ un lieu féérique, mais après l’apparition d’une tour noire, la vallée s&#x27;assombrit. Cette terre a longtemps été emprisonnée dans cette ombre et cette dernière a pris racine, les arbres sont tordus et les bêtes autant effrayées qu’effrayantes. Aussi étrange qu’improbable, cette terre fut sauvée par la reine des ténèbres Marie et son armée de Tiefling. Depuis cet événement la tour noire est détruite et a cessé de cracher sa fumée d’ombre sur cette vallée.</p>
-</doc-tab>
+<doc-tabs>
 <doc-tab v-cloak id="religion-et-faction">
 <template #title>Religion et faction</template>
 <p>Le voyageur est la religion la plus représentée.</p>
@@ -650,6 +651,8 @@ C’est une ville très grande en superficie, peu d’édifices en hauteur; si b
 <doc-tab v-cloak id="activités">
 <template #title>Activités</template>
 <p>Quoi faire dans ce royaume :</p>
+</doc-tab>
+</doc-tabs>
 <doc-anchor-target id="les-terres-de-waltz">
     <h2>
         <doc-anchor-trigger class="header-anchor-trigger" to="#les-terres-de-waltz">#</doc-anchor-trigger>
@@ -659,7 +662,7 @@ C’est une ville très grande en superficie, peu d’édifices en hauteur; si b
 <p>Sur un territoire en constant changement où la magie a fusionné avec la nature et où les lois de la physique n’ont aucune emprise, se trouve le royaume de Waltz. Il est commun sur ces terres de voir des animaux parler ou même des arbres discuter de convictions philosophiques. L’université magique d’Albion reste le meilleur endroit pour apprendre l’art de la magie sur tout le continent. Les habitants de ce royaume se croient plus évolués que les autres qui ont toujours peur de la magie qu’ils appellent sorcellerie! Cependant, des choses horribles se cachent dans l’ombre de ce royaume. C’est souvent de ces terres d’où proviennent les pires monstruosités et son origine a apporté plusieurs cataclysmes.
 Un lieu magique</p>
 <p>La magie est omniprésente sur les terres de Waltz, tout ce qui est vivant en est imbue. Les arbres peuvent lancer des sorts aussi bien que les animaux ou les autres créatures. Le territoire change toujours et on ne peut y faire une carte, on doit suivre le chemin de pierre et les indications. Il existe des lieux gouvernés par les animaux, des lieux où les saisons changent en une journée et d’autres où il n’y a pas de nuit ou encore où c’est toujours la nuit. Les plus belles légendes viennent de ces terres, que ce soit l’épée magique dans la pierre, les souliers de verre volants ou la cape d’invisibilité, il y a toujours un conte fantastique à explorer. Il est cependant fortement conseillé de ne jamais quitter le chemin de pierre et de ne jamais suivre une fée.</p>
-</doc-tab>
+<doc-tabs>
 <doc-tab v-cloak id="religion">
 <template #title>Religion</template>
 </doc-tab>
@@ -672,22 +675,22 @@ Un lieu magique</p>
 <doc-tab v-cloak id="géographie">
 <template #title>Géographie</template>
 <doc-panels>
-   <doc-panel id="les-terres-de-l-oubli">
+   <doc-panel id="les-terres-de-l-oubli" collapsed>
        <template #title>Les terres de l’oubli</template>
 <p>Si vous avez oublié ou perdu quelque chose un jour ou l’autre, il est possible qu’elle se trouve dans les terres de l’oubli. C’est un endroit avec des montagnes d’objets empilés, tous oubliés ou perdus par leur propriétaire. Le danger lorsque l’on se promène sur ces terres c’est d’oublier qui on est.</p>
    </doc-panel>
-   <doc-panel id="la-terre-des-fées">
+   <doc-panel id="la-terre-des-fées" collapsed>
        <template #title>La terre des fées</template>
 <p>Il existe une terre avec des jardins magnifiques que les fées entretiennent avec passion.</p>
    </doc-panel>
-   <doc-panel id="la-baie-des-pirates">
+   <doc-panel id="la-baie-des-pirates" collapsed>
        <template #title>La baie des pirates</template>
 <p>Attention moussaillon, cet endroit n’est pas pour les marins d’eau douce!</p>
    </doc-panel>
-   <doc-panel id="les-îles-flottantes">
+   <doc-panel id="les-îles-flottantes" collapsed>
        <template #title>Les îles flottantes</template>
    </doc-panel>
-   <doc-panel id="les-terres-du-futures">
+   <doc-panel id="les-terres-du-futures" collapsed>
        <template #title>Les terres du futures</template>
    </doc-panel>
 </doc-panels>
@@ -704,15 +707,15 @@ Un lieu magique</p>
 <template #title>Activités</template>
 <p>Quoi faire sur les terres de Waltz :</p>
 <doc-panels>
-   <doc-panel id="visiter-le-collège-d-albion">
+   <doc-panel id="visiter-le-collège-d-albion" collapsed>
        <template #title>Visiter le collège d’Albion :</template>
 <p>Vous cherchez à apprendre la magie, ne cherchez pas plus loin, c’est la meilleure école, cependant, si le collège ne vous a pas choisi, vous risquez de ne jamais vous y rendre…</p>
    </doc-panel>
-   <doc-panel id="trouver-un-objet-perdu-sur-les-terres-de-l-oubli">
+   <doc-panel id="trouver-un-objet-perdu-sur-les-terres-de-l-oubli" collapsed>
        <template #title>Trouver un objet perdu sur les terres de l’oubli :</template>
 <p>Lorsque l’on oublie quelque chose il arrive souvent qu’elle tombe sur les terres de l’oubli. Le plus grand danger est de s&#x27;oublier soi-même!</p>
    </doc-panel>
-   <doc-panel id="les-conseils-du-grand-chêne">
+   <doc-panel id="les-conseils-du-grand-chêne" collapsed>
        <template #title>Les conseils du grand chêne :</template>
 <p>Dans la forêt enchantée se trouve un chêne gigantesque que les elfes appellent « le grand chêne » ils manquaient d’imagination à l’époque, mais reste que ce chêne possède des millénaires de connaissances. Il est un peu dur de la feuille, mais peut guider les âmes protectrices de la faune.</p>
    </doc-panel>
@@ -745,35 +748,62 @@ Un lieu magique</p>
 </doc-tab>
 <doc-tab v-cloak id="géographie">
 <template #title>Géographie</template>
-<p>Guilde d’aventurier :
-Autres
-Océan Intrépide
-S’étendant du nord au sud à l’ouest des royaumes, l&#x27;Océan intrépide est souvent appelé aussi l&#x27;Océan de la vie car il est présent depuis des lustres et depuis même la création. Ce n&#x27;est pas pour rien qu&#x27;il abrite la terre des anciens dieux. Cependant plus l&#x27;étendue est grande, tumultueuse, historique plus de nombreux événements maritimes ont eu lieu. Guerres navales, tempêtes, créatures gigantesques sont quelques-unes des raisons des nombreuses épaves dans le fond des profondeurs de cet immense monde aquatique.</p>
-<p>Mer des quatre plis
-Situé au sud des Terres d&#x27;Avant, bordée par le domaine de la Sacrifiée et Les Terres libres à l&#x27;est. La Mer des quatre plis, aussi belle qu&#x27;un miroir lorsque que les vents sont calmes et chaotique quand les brumes et les vents d&#x27;Okomé se mettent de la partie. Ce qui rend la tâche difficile et dangereuse pour les navigateurs les plus chevronnés.</p>
+</doc-tab>
+<doc-tab v-cloak id="capitale">
+<template #title>Capitale</template>
+</doc-tab>
+<doc-tab v-cloak id="activités">
+<template #title>Activités</template>
+<p>Guilde d’aventurier :</p>
+</doc-tab>
+</doc-tabs>
+<doc-anchor-target id="autres">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#autres">#</doc-anchor-trigger>
+        <span>Autres</span>
+    </h2>
+</doc-anchor-target>
+<doc-panels>
+   <doc-panel id="océan-intrépide" collapsed>
+       <template #title>Océan Intrépide</template>
+<p>S’étendant du nord au sud à l’ouest des royaumes, l&#x27;Océan intrépide est souvent appelé aussi l&#x27;Océan de la vie car il est présent depuis des lustres et depuis même la création. Ce n&#x27;est pas pour rien qu&#x27;il abrite la terre des anciens dieux. Cependant plus l&#x27;étendue est grande, tumultueuse, historique plus de nombreux événements maritimes ont eu lieu. Guerres navales, tempêtes, créatures gigantesques sont quelques-unes des raisons des nombreuses épaves dans le fond des profondeurs de cet immense monde aquatique.</p>
+   </doc-panel>
+   <doc-panel id="mer-des-quatre-plis" collapsed>
+       <template #title>Mer des quatre plis</template>
+<p>Situé au sud des Terres d&#x27;Avant, bordée par le domaine de la Sacrifiée et Les Terres libres à l&#x27;est. La Mer des quatre plis, aussi belle qu&#x27;un miroir lorsque que les vents sont calmes et chaotique quand les brumes et les vents d&#x27;Okomé se mettent de la partie. Ce qui rend la tâche difficile et dangereuse pour les navigateurs les plus chevronnés.</p>
 <p>Sur l&#x27;extrémité ouest, nous retrouvons L’Archipel Fracassé et l&#x27;Océan intrépide qui rejoignent celle-ci. Ce qui est possiblement la cause majeure des climats changeant de cette mer. L’Archipel est également un carrefour vers les plans élémentaires. Alors de tout mettre sur le dos de Okomé serait possiblement erroné pour certains.</p>
 <p>Les brumes et les îles mouvantes n&#x27;aident pas non plus. Les îles mouvantes seraient le résultat de changements constants des plaques tectoniques selon certains. Cependant les brumes qui sont envahissantes et mystiques en seraient également la cause. Peu de scientifiques en sont revenus sains et saufs et peu veulent prendre le risque de connaître la vérité.</p>
-<p>Géographie</p>
 <p>Le nom de la Mer des quatre plis provient justement de la population aquatique qui l’habite. Ils disent que la mer est séparée de façon bien définie en quatre strates. Chacune déterminant les territoires de chacun.
 La mer intérieure
 L&#x27;entre-mer
 L&#x27;outre-mer
 Les profondeurs inconnues</p>
-<p>La longue barrière
-Cette chaîne de montagne septentrionale est la plus longue de tous les royaumes. Cette barrière naturelle permet encore de protéger du froid glacial provenant de Glaceterre. Débutant peu après à l&#x27;est des Gordals et progresse vers le nord en dépassant les terres du nord-est.
+   </doc-panel>
+   <doc-panel id="la-longue-barrière" collapsed>
+       <template #title>La longue barrière</template>
+<p>Cette chaîne de montagne septentrionale est la plus longue de tous les royaumes. Cette barrière naturelle permet encore de protéger du froid glacial provenant de Glaceterre. Débutant peu après à l&#x27;est des Gordals et progresse vers le nord en dépassant les terres du nord-est.
 Par le passé, ce bouclier naturel à peut-être protégé, selon des dires, d&#x27;un cataclysme arcanique sans  précédent qui aurait mis les royaumes dans une époque glaciaire qui aurait sûrement dévasté le monde. Cependant les sages de la cité de Valbrume ont remarqué une progression de la calotte glacière de Glaceterre. Alors une inquiétude règne sur l’avenir prometteur que nous connaissons.</p>
-<p>Les Grands Pics
-Séparant deux terres et abritant la porte de multiple d&#x27;autres. Les Grands Pics est une frontière naturelle des terres d&#x27;avant, de la basse garde et de la haute garde.  Celle-ci regorge de plusieurs minerais.
+   </doc-panel>
+   <doc-panel id="les-grands-pics" collapsed>
+       <template #title>Les Grands Pics</template>
+<p>Séparant deux terres et abritant la porte de multiple d&#x27;autres. Les Grands Pics est une frontière naturelle des terres d&#x27;avant, de la basse garde et de la haute garde.  Celle-ci regorge de plusieurs minerais.
 Populations
 Anciennement abrité par les nains mais aujourd&#x27;hui de plus en plus inhospitalière du côté nord des grands pics. Les humanoïdes sont de plus en plus rares. Par contre, la partie sud est habitée par la partie mystérieuse de l&#x27;endroit.  Le passage de brume est la porte vers les terres de waltz et le célèbre collège de mage d&#x27;Albion.  L&#x27;illusion est maintenant la réalité. Phrase souvent entendue des gens de la région des terres d&#x27;avant expliquant la complexité de l&#x27;endroit.
 Faunes
 Il y a plusieurs  années, les grands pics étaient infestés de Béhir. Cette créature au tempérament vicieux et malfaisant était un fléau pour les nains qui partageaient le territoire à l&#x27;époque. Avec le temps, les nains ont réussi à exterminer cette race dans la région. Dont le nom de leur forteresse du même nom. Cependant cette extermination à permis aux créatures draconiques les Drakes de prendre de l&#x27;expansion. Aujourd&#x27;hui plusieurs chasseurs sont à la recherche de ceux-ci pour prévenir la population grandissante.
 Dernièrement certains chasseurs ont remarqué la présence de créatures gigantesques ailées dans les hautes montagnes. La brève description donne l&#x27;apparence de Roc.</p>
-<p>Glace Mer</p>
-<p>Cette mer intérieure nouvellement née est en fait le résultat d&#x27;un courant chaud de l&#x27;Océan intrépide qui a pénétré sur les terres du nord. L&#x27;océan de l&#x27;ouest des royaumes a en fait débordé avec le temps. Le facteur provoquant ce phénomène est que les mers qui existaient sur le côté nord des terres gelées sont devenues d&#x27;immenses terres de glace. Cette expansion a poussé l’Océan Intrépide à se frayer un chemin entre le Mont de la divinité et les Sanguinaires. Ce qui a engendré la seule voie maritime praticable dans le Glaceterre et permettant de se rendre dans la première cité que l&#x27;on nomme Valbrise. Cela n&#x27;empêche pas que la navigation reste ardue avec les nombreux icebergs qui se fracassent. Seuls des navigateurs avec de l&#x27;expérience se risquent au périple, connaissant les courants marins de l&#x27;endroit.
-Le Monde d’En Dessous</p>
+   </doc-panel>
+   <doc-panel id="glace-mer" collapsed>
+       <template #title>Glace Mer</template>
+<p>Cette mer intérieure nouvellement née est en fait le résultat d&#x27;un courant chaud de l&#x27;Océan intrépide qui a pénétré sur les terres du nord. L&#x27;océan de l&#x27;ouest des royaumes a en fait débordé avec le temps. Le facteur provoquant ce phénomène est que les mers qui existaient sur le côté nord des terres gelées sont devenues d&#x27;immenses terres de glace. Cette expansion a poussé l’Océan Intrépide à se frayer un chemin entre le Mont de la divinité et les Sanguinaires. Ce qui a engendré la seule voie maritime praticable dans le Glaceterre et permettant de se rendre dans la première cité que l&#x27;on nomme Valbrise. Cela n&#x27;empêche pas que la navigation reste ardue avec les nombreux icebergs qui se fracassent. Seuls des navigateurs avec de l&#x27;expérience se risquent au périple, connaissant les courants marins de l&#x27;endroit.</p>
+<doc-anchor-target id="le-monde-den-dessous">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#le-monde-den-dessous">#</doc-anchor-trigger>
+        <span>Le Monde d’En Dessous</span>
+    </h2>
+</doc-anchor-target>
 <p>Le Monde d’En dessous est une histoire d’horreur pour les enfants…</p>
-</doc-tab>
+   </doc-panel>
 
                                 
                                 <!-- Required only on API pages -->
