@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="turbo-root" content="/Terresperdues">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.793212766849">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.793221085968">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.6.0">
@@ -31,11 +31,11 @@
 
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="../../resources/css/retype.css?v=3.6.0.793212766849" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.6.0.793221085968" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.793212766849" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.793221085968" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.6.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.793212766849" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.793221085968" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -210,47 +210,54 @@
 <template #title>Géographie</template>
 <p>Sur un territoire immense comprenant des plaines à perte de vue, des forêts gigantesques et des montagnes qui dépassent le ciel se trouvent les terres d&#x27;Avant. Le sol est riche et les récoltes sont abondantes. Les rivières sont peuplées de poissons et les forêts peuplées d&#x27;animaux sauvages. On peut y retrouver toutes les races et la population est très ouverte aux autres cultures et religions.</p>
 <doc-panels>
-   <doc-panel id="cap-de-la-honte">
+   <doc-panel id="cap-de-la-honte" collapsed>
        <template #title><strong>Cap de la Honte</strong></template>
 <p>Au sud des Terres d’avant se trouve Le Cap de la honte. Le cap a été nommé ainsi pour se rappeler des anciennes guerres du passé entre les royaumes.</p>
    </doc-panel>
-   <doc-panel id="douvecourte">
+   <doc-panel id="douvecourte" collapsed>
        <template #title><strong>Douvecourte</strong></template>
 <p>Une tour prison qui se trouve au nord. C’est une petite prison pour des cas d’infractions mineures et de courtes sentences. Il y a un travail ardu sur les monts autour de la prison pour concasser de la pierre de construction ou pour l’entretien des chemins et du chemin de fer.</p>
    </doc-panel>
-   <doc-panel id="bois-des-trois-lacs">
+   <doc-panel id="bois-des-trois-lacs" collapsed>
        <template #title><strong>Bois des trois lacs</strong></template>
 <p>Une forêt gigantesque abritant plusieurs elfes, ferals, hobgoblins et firbolgs. Un terrain de chasse très imposant et contrôlé. Les arbres sont tellement hauts que certains touchent presque les nuages. Plusieurs druides protègent cette forêt.</p>
    </doc-panel>
+   <doc-panel id="blancpont" collapsed>
+       <template #title><strong>BlancPont</strong></template>
+<p>Petite ville de pêcheur et de forestier près d’une rivière. La rivière aide à amener le bois coupé vers les petits moulins de BlancPont. La ville porte le nom de BlancPont car il y a un long pont couvert blanc qui lie les deux rives.</p>
+   </doc-panel>
+   <doc-panel id="les-soeurs" collapsed>
+       <template #title><strong>Les Soeurs</strong></template>
+<p>La Grande Sœur et La Petite Sœur sont deux tours de défense pour Valôme. Dans La Petite Sœur on retrouve l&#x27;entraînement militaire de la milice et l&#x27;armée de la garde de l’aube, l&#x27;armée des 12 royaumes.</p>
+   </doc-panel>
+   <doc-panel id="froide-roche" collapsed>
+       <template #title>Froide Roche</template>
+<p>C’est une grande mine de marbre à ciel ouvert. On y trouve une grande population de nains et d’orcs qui travaillent rigoureusement à l’exploitation de cette mine.</p>
+   </doc-panel>
+   <doc-panel id="vieuxbourg" collapsed>
+       <template #title>Vieuxbourg</template>
+<p>C’est une ville de pêcheurs et de vignerons. On y trouve beaucoup d&#x27;artisans et d&#x27;artistes qui cherchent un coin de pays chaud et calme. La ville a souvent été attaquée dans le passé, mais elle a toujours tenu et donne un petit côté historique à cette ville qui grandit toujours.</p>
+   </doc-panel>
+   <doc-panel id="sousmoulin" collapsed>
+       <template #title>SousMoulin</template>
+<p>C’est une ville axée sur l’agriculture. Il y a le plus gros moulin à vent qui ne sert plus mais reste magnifique.</p>
+   </doc-panel>
+   <doc-panel id="citadelle-sur-bois" collapsed>
+       <template #title>Citadelle-sur-bois</template>
+<p>Une grande ville elfique en harmonie avec la nature. On peut trouver plusieurs ponts d’arbre en arbre. Les animaux sauvages se retrouvent souvent dans les rues de cette ville, marchant librement; carnivores et herbivores se côtoient sans problème.</p>
+   </doc-panel>
+   <doc-panel id="behir" collapsed>
+       <template #title>Behir</template>
+<p>Un ancienne forteresse naine, très vieille, remplit de sous terrains. Quelques drake se trouvent dans la région et les chasseurs de draconides s’y pratiquent souvent à la chasse.</p>
+   </doc-panel>
+   <doc-panel id="kavarkd-hum" collapsed>
+       <template #title>Kavarkd’hum</template>
+<p>Passage entre les montagnes, c’est un tunnel immense d&#x27;ingénierie naine qui traverse 100 km de montagne. On retrouve des gravures représentant l’histoire des nains. Il y a également des haltes et des restaurants dans le tunnel.</p>
+   </doc-panel>
 </doc-panels>
-<ul>
-<li><p><strong>BlancPont</strong>
-Petite ville de pêcheur et de forestier près d’une rivière. La rivière aide à amener le bois coupé vers les petits moulins de BlancPont. La ville porte le nom de BlancPont car il y a un long pont couvert blanc qui lie les deux rives.</p>
-</li>
-<li><p><strong>Les Soeurs</strong>
-La Grande Sœur et La Petite Sœur sont deux tours de défense pour Valôme. Dans La Petite Sœur on retrouve l&#x27;entraînement militaire de la milice et l&#x27;armée de la garde de l’aube, l&#x27;armée des 12 royaumes.</p>
-</li>
-<li><p>Froide Roche
-C’est une grande mine de marbre à ciel ouvert. On y trouve une grande population de nains et d’orcs qui travaillent rigoureusement à l’exploitation de cette mine.</p>
-</li>
-<li><p>Vieuxbourg
-C’est une ville de pêcheurs et de vignerons. On y trouve beaucoup d&#x27;artisans et d&#x27;artistes qui cherchent un coin de pays chaud et calme. La ville a souvent été attaquée dans le passé, mais elle a toujours tenu et donne un petit côté historique à cette ville qui grandit toujours.</p>
-</li>
-<li><p>SousMoulin
-C’est une ville axée sur l’agriculture. Il y a le plus gros moulin à vent qui ne sert plus mais reste magnifique.</p>
-</li>
-<li><p>Citadelle-sur-bois
-Une grande ville elfique en harmonie avec la nature. On peut trouver plusieurs ponts d’arbre en arbre. Les animaux sauvages se retrouvent souvent dans les rues de cette ville, marchant librement; carnivores et herbivores se côtoient sans problème.</p>
-</li>
-<li><p>Behir
-Un ancienne forteresse naine, très vieille, remplit de sous terrains. Quelques drake se trouvent dans la région et les chasseurs de draconides s’y pratiquent souvent à la chasse.</p>
-</li>
-<li><p>Kavarkd’hum
-Passage entre les montagnes, c’est un tunnel immense d&#x27;ingénierie naine qui traverse 100 km de montagne. On retrouve des gravures représentant l’histoire des nains. Il y a également des haltes et des restaurants dans le tunnel.</p>
-</li>
-</ul>
 </doc-tab>
-</doc-tabs>
+<doc-tab v-cloak id="capitale">
+<template #title>Capitale</template>
 <doc-anchor-target id="valôme-la-cité-libre">
     <h2>
         <doc-anchor-trigger class="header-anchor-trigger" to="#valôme-la-cité-libre">#</doc-anchor-trigger>
@@ -258,42 +265,59 @@ Passage entre les montagnes, c’est un tunnel immense d&#x27;ingénierie naine 
     </h2>
 </doc-anchor-target>
 <p>Valôme se trouve près de de l’océan intrépide. C’est dans cette cité que se trouve le grand conseil des princes. La cité abrite La Compagnie de l’aube qui est entretenue par les royaumes. La ville est sur une colline. La plus haute partie de la colline regroupe les plus grands temples, le château et le grand théâtre. Sur les flancs de la colline se trouve la bourgeoisie et plus bas les ouvriers, paysans et mendiants ainsi que la grande cathédrale de La Lumière blanche. Comme toute grande ville, il existe un grand écart entre les riches et les pauvres.</p>
-<ul>
-<li><p>Le chemin royal
-De l’entrée de Valôme jusqu’au sommet de la colline se trouve un chemin pavé de pierres avec des motifs racontant le passé. Le chemin est en pente et en ligne droite. Des arbres matures se trouvent au centre du chemin en rangée, tel une armée protégeant le chemin vers le château.</p>
-</li>
-<li><p>Le château des royaumes
-Au sommet de la colline se trouve le grand château. La plus grande partie est au centre, composé d’une tour centrale qui relie six tours autour qui représente les premiers royaumes. Un château immense de style baroque avec des plafonds ridiculement hauts recouverts de peintures décrivant le passé des royaumes. La partie centrale comprend une salle contenant les trônes au centre sur un petit piédestal et autour, des estrades où les membres des royaumes peuvent siéger pour débattre de politique. On trouve à l’extérieur de cette partie des jardins et quelques maisons pour les invités. Après les jardins vient un mur qui lie les six tours. Le mur comprend plusieurs enclaves où l’on retrouve des trésors du passé et qui lie les douze tours. Il y a une grande porte avec une herse qui est l’entrée de cette magnifique architecture.</p>
-</li>
-</ul>
-<doc-tabs>
+<doc-panels>
+   <doc-panel id="le-chemin-royal" collapsed>
+       <template #title>Le chemin royal</template>
+<p>De l’entrée de Valôme jusqu’au sommet de la colline se trouve un chemin pavé de pierres avec des motifs racontant le passé. Le chemin est en pente et en ligne droite. Des arbres matures se trouvent au centre du chemin en rangée, tel une armée protégeant le chemin vers le château.</p>
+   </doc-panel>
+   <doc-panel id="le-château-des-royaumes" collapsed>
+       <template #title>Le château des royaumes</template>
+<p>Au sommet de la colline se trouve le grand château. La plus grande partie est au centre, composé d’une tour centrale qui relie six tours autour qui représente les premiers royaumes. Un château immense de style baroque avec des plafonds ridiculement hauts recouverts de peintures décrivant le passé des royaumes. La partie centrale comprend une salle contenant les trônes au centre sur un petit piédestal et autour, des estrades où les membres des royaumes peuvent siéger pour débattre de politique. On trouve à l’extérieur de cette partie des jardins et quelques maisons pour les invités. Après les jardins vient un mur qui lie les six tours. Le mur comprend plusieurs enclaves où l’on retrouve des trésors du passé et qui lie les douze tours. Il y a une grande porte avec une herse qui est l’entrée de cette magnifique architecture.</p>
+   </doc-panel>
+</doc-panels>
+</doc-tab>
 <doc-tab v-cloak id="la-hauteville">
 <template #title>La hauteville</template>
 <p>Le grand marché fait tout le tour du château, on y retrouve presque de tout. Il y a également, adossée à la muraille qui protège la haute ville, un bon nombre de boutiques, auberges et résidences pour les princes et leurs invités. On retrouve également le grand théâtre qui est une ancienne cathédrale de La Lumière blanche modifiée. Dans les hauts quartiers juste en bas du grand marché, on retrouve les maisons de la bourgeoisie avec des pubs, restaurants, bains, parcs et spectacles de rue.</p>
-<ul>
-<li>Sortilège, magie et objets exotiques en tout genre.
-Près du château, entre un magasin de vêtements à la mode et un restaurant de fruits de mer, dans un petit recoin de deux mètres de large, se trouve une petite bâtisse de trois étages en vieilles planches noires.  Gravé sur une pancarte de bois, il est inscrit de ne pas nourrir les chats. Étrangement, il y a toujours des chats qui attendent patiemment devant ce magasin. On peut retrouver de tout dans ce magasin.</li>
-</ul>
+<doc-panel id="sortilège-magie-et-objets-exotiques-en-tout-genre" collapsed>
+    <template #title>Sortilège, magie et objets exotiques en tout genre.</template>
+<p>Près du château, entre un magasin de vêtements à la mode et un restaurant de fruits de mer, dans un petit recoin de deux mètres de large, se trouve une petite bâtisse de trois étages en vieilles planches noires.  Gravé sur une pancarte de bois, il est inscrit de ne pas nourrir les chats. Étrangement, il y a toujours des chats qui attendent patiemment devant ce magasin. On peut retrouver de tout dans ce magasin.</p>
+</doc-panel>
 </doc-tab>
 <doc-tab v-cloak id="la-basse-ville">
 <template #title>La basse ville</template>
 <p>La majorité de la population se trouve dans la basse ville, dans des maisons collées les unes aux autres. Il y a toujours une odeur humide qui rôde. On y trouve également la plupart des industries. Il y a beaucoup de moulins, de chantiers navals et de forges. Le bâtiment le plus important dans la basse ville est la cathédrale de La Lumière blanche. Une cathédrale gigantesque qui veille sur les habitants de la capitale.</p>
 </doc-tab>
-</doc-tabs>
+<doc-tab v-cloak id="activités">
+<template #title>Activités</template>
 <doc-anchor-target id="quoi-faire-dans-les-terres-davant">
     <h3>
         <doc-anchor-trigger class="header-anchor-trigger" to="#quoi-faire-dans-les-terres-davant">#</doc-anchor-trigger>
         <span>Quoi faire dans Les Terres d’avant:</span>
     </h3>
 </doc-anchor-target>
-<ul>
-<li>Guilde d’aventurier : Tout le monde à besoin d’aide et la guilde d’aventurier est là pour répondre à ce besoin. Vous voulez vous faire de l’argent rapidement? Il y a toujours une quête qui n’attend que vous.</li>
-<li>Jeu politique : Que ce soit pour aider un baron ou en devenir un, les royaumes regorgent d’intrigues, de trahisons et de possibilités enrichissantes.</li>
-<li>Devenir chevalier : Il n’est pas simple de devenir un héros, c’est un travail acharné qui amène de grandes récompenses, la vie d’un chevalier est une vie de combats et d’aventures.</li>
-<li>Visiter Valôme : Valôme est la plus grande métropole du monde connu. Si vous cherchez quelque chose, les chances que quelqu’un à Valôme puisse vous aider sont très élevées.</li>
-<li>Chasse aux envahisseurs : Il existe des tribus de sauvages, d’orcs, de trolls et autres qui attaquent sans relâche le peuple d’avant.</li>
-<li>Fermer des portails : Les Royaumes d’Avant couvre un territoire gigantesque et des portails s’y cachent à chaque recoin.</li>
-</ul>
+<doc-panels>
+   <doc-panel id="guilde-d-aventurier-tout-le-monde-à-besoin-d-aide-et-la-guilde-d-aventurier-est-là-pour-répondre-à-ce-besoin-vous-voulez-vous-faire-de-l-argent-rapidement-il-y-a-toujours-une-quête-qui-n-attend-que-vous">
+       <template #title>Guilde d’aventurier : Tout le monde à besoin d’aide et la guilde d’aventurier est là pour répondre à ce besoin. Vous voulez vous faire de l’argent rapidement? Il y a toujours une quête qui n’attend que vous.</template>
+   </doc-panel>
+   <doc-panel id="jeu-politique-que-ce-soit-pour-aider-un-baron-ou-en-devenir-un-les-royaumes-regorgent-d-intrigues-de-trahisons-et-de-possibilités-enrichissantes">
+       <template #title>Jeu politique : Que ce soit pour aider un baron ou en devenir un, les royaumes regorgent d’intrigues, de trahisons et de possibilités enrichissantes.</template>
+   </doc-panel>
+   <doc-panel id="devenir-chevalier-il-n-est-pas-simple-de-devenir-un-héros-c-est-un-travail-acharné-qui-amène-de-grandes-récompenses-la-vie-d-un-chevalier-est-une-vie-de-combats-et-d-aventures">
+       <template #title>Devenir chevalier : Il n’est pas simple de devenir un héros, c’est un travail acharné qui amène de grandes récompenses, la vie d’un chevalier est une vie de combats et d’aventures.</template>
+   </doc-panel>
+   <doc-panel id="visiter-valôme-valôme-est-la-plus-grande-métropole-du-monde-connu-si-vous-cherchez-quelque-chose-les-chances-que-quelqu-un-à-valôme-puisse-vous-aider-sont-très-élevées">
+       <template #title>Visiter Valôme : Valôme est la plus grande métropole du monde connu. Si vous cherchez quelque chose, les chances que quelqu’un à Valôme puisse vous aider sont très élevées.</template>
+   </doc-panel>
+   <doc-panel id="chasse-aux-envahisseurs-il-existe-des-tribus-de-sauvages-d-orcs-de-trolls-et-autres-qui-attaquent-sans-relâche-le-peuple-d-avant">
+       <template #title>Chasse aux envahisseurs : Il existe des tribus de sauvages, d’orcs, de trolls et autres qui attaquent sans relâche le peuple d’avant.</template>
+   </doc-panel>
+   <doc-panel id="fermer-des-portails-les-royaumes-d-avant-couvre-un-territoire-gigantesque-et-des-portails-s-y-cachent-à-chaque-recoin">
+       <template #title>Fermer des portails : Les Royaumes d’Avant couvre un territoire gigantesque et des portails s’y cachent à chaque recoin.</template>
+   </doc-panel>
+</doc-panels>
+</doc-tab>
+</doc-tabs>
 <doc-anchor-target id="la-haute-garde-et-la-basse-garde">
     <h2>
         <doc-anchor-trigger class="header-anchor-trigger" to="#la-haute-garde-et-la-basse-garde">#</doc-anchor-trigger>
@@ -302,37 +326,91 @@ Près du château, entre un magasin de vêtements à la mode et un restaurant de
 </doc-anchor-target>
 <p>La Haute-Garde est connue pour ses guerriers sans peur. Ils doivent repousser sans cesse les invasions de tribus d’orcs, de géants ou toutes autres sources du chaos qui provient des Terres de glace. C’est un peuple qui est beaucoup axé sur la bravoure et l’honneur démontrés par des prouesses physiques. On dit que les grands guerriers qui meurent au combat deviennent les lumières qui vacillent sur Les Terres du nord. Lorsqu’on n’est pas apte à se battre ou trop vieux, on devient un cueilleur de petits fruits, ce qui est une insulte pour tout combattant qui se respecte.</p>
 <p>La Basse-Garde est une région peu hospitalière et plutôt pauvre. C’est un peu pour cela qu’elle fut choisie pour établir les lois des royaumes. Plusieurs chevaliers de la lumière étudient en ces lieux pour défendre la justice. C’est également l’endroit où La Compagnie de l’aube et La Compagnie du crépuscule forment leurs soldats.</p>
-<p>Religion
-Il y a une nouvelle religion qui fait beaucoup d&#x27;adeptes dans le nord. Trois rois des glaces capricieux qui demandent d&#x27;étranges offrandes, parfois de nature humaine. Sinon les habitants sont plus penchés vers d’anciens dieux comme Okomé ou Dhums.</p>
-<p>Politique
-Le prince des royaumes est élu tous les 5 ans. Il est voté lors d’un grand rassemblement à Valnord. Les prouesses physiques et l’honneur sont les principaux critères pour élire le nouveau prince. Avant, seuls les Nordiens pouvaient se présenter mais cela à changé depuis quelques décennies pour renforcer les gènes.</p>
-<p>Population
-On retrouve beaucoup d’humains comme dans le reste du royaume, mais c’est l’endroit où il y a le plus d&#x27;orcs, de demi-orcs et de goliaths. Les autres races s’y retrouvent en proportion moindre et sont dispersées. Les Nordiens sont généralement</p>
-<p>Géographie</p>
-<p>La Haute-Garde se situe juste avant les Terres de glace. Des terres avec de grandes collines vertes et des petits boisés. La végétation n’atteint pas une grande hauteur et le sol n’est pas riche pour l’agriculture mais les bêtes qui vivent en ces terres sont immenses et goûteuses.</p>
-<p>La Basse-Garde est un endroit marécageux et humide.</p>
-<p>L’Aigle de pierre
-Une forteresse qui observe le sud, et un bon point d’observation sur les Gordals. Cette forteresse est faite de pierre et longe une colline verte. La verdure a réussi à pénétrer la base de la forteresse et s&#x27;esquisse vers le sommet de celle-ci. La garde qui s’y trouve est légère car beaucoup de tribus se trouvent dans les Gordals et un simple son de la cloche de L’Aigle de pierre attire les plus grands guerriers de ces tribus qui ont soif de gloire.</p>
-<p>La Croisée
-Une ville qui se trouve au centre de deux routes et deux rivières qui confluent. C’est le plus grand marché du du nord, de nombreux commerçants y font escale pour acheter ou vendre des produits locaux.</p>
-<p>Les Gordals
-Les Gordals sont plusieurs collines attachées les unes aux autres. Sur ces terres vivent la majorité des peuples du nord. De type plus nomade, il y a peu de ville ou village dans cette région. Les peuples suivent les troupeaux d’animaux sauvages gigantesques pour aller par la suite vendre leurs prises à La Croisée.</p>
-<p>Pointe-à-la-croix
-Un petit village de pêcheurs au sud des Terres du nord. Village avec beaucoup de bateaux de pêche qui nourrit une bonne partie des villes et villages des royaumes du nord. Il éclate parfois de petites chicanes de pêcheurs entre Pointe-à-la-Croix et Mismourt.</p>
-<p>Mismourt
-Une ville qui vit de la chasse et de la pêche. Moins connue pour ses prises spectaculaires que Pointe-à-la-Croix, Mismourt est par contre reconnue pour ses chasseurs hors pair.</p>
-<p>FrancVal, la Cité de la justice
-FrancVal est une ville froide, les murs sont élevés et imposants. Les tours sont grises et il y a peu de végétation dans la ville. Les gens sont peu bavards et se mêlent peu des affaires des autres.  On y trouve un palais de justice très ancien où les hauts jugements et l’écriture de lois se font toujours. Il y a également la bibliothèque du passé qui contient l’histoire des royaumes et plusieurs écrits datant de l&#x27;arrivée des nains, de la guerre des elfes. Il va s’en dire qu’il y traîne beaucoup d’érudits dans les rues et ils sont aussi mornes que  cette ville.</p>
-<p>Valnord, la cité des guerriers</p>
+<doc-tabs>
+<doc-tab v-cloak id="religion">
+<template #title>Religion</template>
+<p>Il y a une nouvelle religion qui fait beaucoup d&#x27;adeptes dans le nord. Trois rois des glaces capricieux qui demandent d&#x27;étranges offrandes, parfois de nature humaine. Sinon les habitants sont plus penchés vers d’anciens dieux comme Okomé ou Dhums.</p>
+</doc-tab>
+<doc-tab v-cloak id="politique">
+<template #title>Politique</template>
+<p>Le prince des royaumes est élu tous les 5 ans. Il est voté lors d’un grand rassemblement à Valnord. Les prouesses physiques et l’honneur sont les principaux critères pour élire le nouveau prince. Avant, seuls les Nordiens pouvaient se présenter mais cela à changé depuis quelques décennies pour renforcer les gènes.</p>
+</doc-tab>
+<doc-tab v-cloak id="population">
+<template #title>Population</template>
+<p>On retrouve beaucoup d’humains comme dans le reste du royaume, mais c’est l’endroit où il y a le plus d&#x27;orcs, de demi-orcs et de goliaths. Les autres races s’y retrouvent en proportion moindre et sont dispersées. Les Nordiens sont généralement</p>
+</doc-tab>
+<doc-tab v-cloak id="géographie">
+<template #title>Géographie</template>
+<p><strong>La Haute-Garde</strong> se situe juste avant les Terres de glace. Des terres avec de grandes collines vertes et des petits boisés. La végétation n’atteint pas une grande hauteur et le sol n’est pas riche pour l’agriculture mais les bêtes qui vivent en ces terres sont immenses et goûteuses.</p>
+<p><strong>La Basse-Garde</strong> est un endroit marécageux et humide.</p>
+<doc-panels>
+   <doc-panel id="l-aigle-de-pierre" collapsed>
+       <template #title><strong>L’Aigle de pierre</strong></template>
+<p>Une forteresse qui observe le sud, et un bon point d’observation sur les Gordals. Cette forteresse est faite de pierre et longe une colline verte. La verdure a réussi à pénétrer la base de la forteresse et s&#x27;esquisse vers le sommet de celle-ci. La garde qui s’y trouve est légère car beaucoup de tribus se trouvent dans les Gordals et un simple son de la cloche de L’Aigle de pierre attire les plus grands guerriers de ces tribus qui ont soif de gloire.</p>
+   </doc-panel>
+   <doc-panel id="la-croisée" collapsed>
+       <template #title><strong>La Croisée</strong></template>
+<p>Une ville qui se trouve au centre de deux routes et deux rivières qui confluent. C’est le plus grand marché du du nord, de nombreux commerçants y font escale pour acheter ou vendre des produits locaux.</p>
+   </doc-panel>
+   <doc-panel id="les-gordals" collapsed>
+       <template #title><strong>Les Gordals</strong></template>
+<p>Les Gordals sont plusieurs collines attachées les unes aux autres. Sur ces terres vivent la majorité des peuples du nord. De type plus nomade, il y a peu de ville ou village dans cette région. Les peuples suivent les troupeaux d’animaux sauvages gigantesques pour aller par la suite vendre leurs prises à La Croisée.</p>
+   </doc-panel>
+   <doc-panel id="pointe-à-la-croix" collapsed>
+       <template #title><strong>Pointe-à-la-croix</strong></template>
+<p>Un petit village de pêcheurs au sud des Terres du nord. Village avec beaucoup de bateaux de pêche qui nourrit une bonne partie des villes et villages des royaumes du nord. Il éclate parfois de petites chicanes de pêcheurs entre Pointe-à-la-Croix et Mismourt.</p>
+   </doc-panel>
+   <doc-panel id="mismourt" collapsed>
+       <template #title><strong>Mismourt</strong></template>
+<p>Une ville qui vit de la chasse et de la pêche. Moins connue pour ses prises spectaculaires que Pointe-à-la-Croix, Mismourt est par contre reconnue pour ses chasseurs hors pair.</p>
+   </doc-panel>
+</doc-panels>
+</doc-tab>
+<doc-tab v-cloak id="capitale">
+<template #title>Capitale</template>
+<doc-panels>
+   <doc-panel id="francval-la-cité-de-la-justice" collapsed>
+       <template #title>FrancVal, la Cité de la justice</template>
+<p>FrancVal est une ville froide, les murs sont élevés et imposants. Les tours sont grises et il y a peu de végétation dans la ville. Les gens sont peu bavards et se mêlent peu des affaires des autres.  On y trouve un palais de justice très ancien où les hauts jugements et l’écriture de lois se font toujours. Il y a également la bibliothèque du passé qui contient l’histoire des royaumes et plusieurs écrits datant de l&#x27;arrivée des nains, de la guerre des elfes. Il va s’en dire qu’il y traîne beaucoup d’érudits dans les rues et ils sont aussi mornes que  cette ville.</p>
+   </doc-panel>
+   <doc-panel id="valnord-la-cité-des-guerriers" collapsed>
+       <template #title>Valnord, la cité des guerriers</template>
 <p>Capitale des royaumes du nord, Valnord reste très modeste. Une palissade de bois entoure la
 plus grande partie de la ville. Une tranchée contourne la palissade à quelques mètres de distance et un pont levis pliant permet de la traverser.</p>
 <p>La capitale est grosse comme une ville pour d’autres royaumes, mais c’est une grande agglomération de population pour le nord. Majoritairement nomade, le peuple du nord est rarement regroupé à un seul endroit. On y retrouve des artisans de renom capables de tanner les peaux des créatures féroces chassées sur les terres pour en faire de belles armures, tentes ou autres objets de cuir.</p>
-<p>Quoi faire dans la Basse-Garde et la Haute-Garde:</p>
-<p>Guildes de mercenaires : Les guildes de mercenaires du royaume du nord sont les plus réputées. Après tout, les peuples du nord voient plus de combat en une année que en une vie dans d’autres royaumes.
-Chasse et pêche : Que ce soit pour aider un baron ou en devenir un, les royaumes regorgent d’intrigues, de trahisons et de possibilités enrichissantes.
-Étudier les lois à FrancVal : Toutes les lois des royaumes s’y trouvent et des sages les connaissent presque par cœur ou du moins savent où chercher.
-Les bibliothèques du passé à FrancVal : Les écrits restent et les bibliothèques du passé conservent la majorité de ceux-ci. On peut trouver des exemplaires datant de l&#x27;arrivée des nains sur ces terres.
-Le Domaine de la Sacrifiée</p>
+<doc-tabs>
+<doc-tab v-cloak id="activités">
+<template #title>Activités</template>
+<doc-anchor-target id="quoi-faire-dans-la-basse-garde-et-la-haute-garde">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#quoi-faire-dans-la-basse-garde-et-la-haute-garde">#</doc-anchor-trigger>
+        <span>Quoi faire dans la Basse-Garde et la Haute-Garde:</span>
+    </h3>
+</doc-anchor-target>
+<doc-panels>
+   <doc-panel id="guildes-de-mercenaires-les-guildes-de-mercenaires-du-royaume-du-nord-sont-les-plus-réputées-après-tout-les-peuples-du-nord-voient-plus-de-combat-en-une-année-que-en-une-vie-dans-d-autres-royaumes">
+       <template #title>Guildes de mercenaires : Les guildes de mercenaires du royaume du nord sont les plus réputées. Après tout, les peuples du nord voient plus de combat en une année que en une vie dans d’autres royaumes.</template>
+   </doc-panel>
+   <doc-panel id="chasse-et-pêche-que-ce-soit-pour-aider-un-baron-ou-en-devenir-un-les-royaumes-regorgent-d-intrigues-de-trahisons-et-de-possibilités-enrichissantes">
+       <template #title>Chasse et pêche : Que ce soit pour aider un baron ou en devenir un, les royaumes regorgent d’intrigues, de trahisons et de possibilités enrichissantes.</template>
+   </doc-panel>
+   <doc-panel id="étudier-les-lois-à-francval-toutes-les-lois-des-royaumes-s-y-trouvent-et-des-sages-les-connaissent-presque-par-cœur-ou-du-moins-savent-où-chercher">
+       <template #title>Étudier les lois à FrancVal : Toutes les lois des royaumes s’y trouvent et des sages les connaissent presque par cœur ou du moins savent où chercher.</template>
+   </doc-panel>
+   <doc-panel id="les-bibliothèques-du-passé-à-francval-les-écrits-restent-et-les-bibliothèques-du-passé-conservent-la-majorité-de-ceux-ci-on-peut-trouver-des-exemplaires-datant-de-l-arrivée-des-nains-sur-ces-terres">
+       <template #title>Les bibliothèques du passé à FrancVal : Les écrits restent et les bibliothèques du passé conservent la majorité de ceux-ci. On peut trouver des exemplaires datant de l&#x27;arrivée des nains sur ces terres.</template>
+   </doc-panel>
+</doc-tab>
+   </doc-panel>
+</doc-panels>
+</doc-tab>
+</doc-tabs>
+<doc-anchor-target id="le-domaine-de-la-sacrifiée">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#le-domaine-de-la-sacrifiée">#</doc-anchor-trigger>
+        <span>Le Domaine de la Sacrifiée</span>
+    </h2>
+</doc-anchor-target>
 <p>Ces terres sont riches en minéraux et très fertiles. L&#x27;agriculture y est très développée et très avancée grâce à la magie. Hautval est également un lieu où les talents artistiques sont à l&#x27;honneur, que ce soit la peinture, la couture, le chant ou la danse. En fait, HautVal est un petit paradis, tout a meilleur goût, le vin, le pain et même l&#x27;amour. Cependant, ces terres sont sous l&#x27;influence du monde des fées; les portails entre les deux mondes sont nombreux et influencent beaucoup la population malgré les avertissements répétés de nombreuses fois.</p>
 <p>Religion et faction
 Les cultes et les sectes étranges sont monnaie courante dans ce royaume. Le culte de la Sacrifiée est très présent en ces terres. On raconte qu’une femme a offert en sacrifice sa vie et tout l’amour qu’elle avait pour son peuple en échange que les fées annulent les pactes de ces derniers. Elle se serait noyée dans l’eau avec une pierre au cou. Les prêtres de la Sacrifiée portent une corde autour du cou avec une pierre pour porter la souffrance de leur déesse. Il existe également plusieurs cultes reliés aux diverses monstres qui vivent en ces lieux.</p>
