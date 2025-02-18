@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="turbo-root" content="/Terresperdues">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.793205676134">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.793205737998">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.6.0">
@@ -31,11 +31,11 @@
 
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="../../resources/css/retype.css?v=3.6.0.793205676134" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.6.0.793205737998" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.793205676134" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.793205737998" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.6.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.793205676134" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.793205737998" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -244,6 +244,8 @@ Un ancienne forteresse naine, très vieille, remplit de sous terrains. Quelques 
 Passage entre les montagnes, c’est un tunnel immense d&#x27;ingénierie naine qui traverse 100 km de montagne. On retrouve des gravures représentant l’histoire des nains. Il y a également des haltes et des restaurants dans le tunnel.</p>
 </li>
 </ul>
+</doc-tab>
+</doc-tabs>
 <doc-anchor-target id="valôme-la-cité-libre">
     <h2>
         <doc-anchor-trigger class="header-anchor-trigger" to="#valôme-la-cité-libre">#</doc-anchor-trigger>
@@ -259,24 +261,20 @@ De l’entrée de Valôme jusqu’au sommet de la colline se trouve un chemin pa
 Au sommet de la colline se trouve le grand château. La plus grande partie est au centre, composé d’une tour centrale qui relie six tours autour qui représente les premiers royaumes. Un château immense de style baroque avec des plafonds ridiculement hauts recouverts de peintures décrivant le passé des royaumes. La partie centrale comprend une salle contenant les trônes au centre sur un petit piédestal et autour, des estrades où les membres des royaumes peuvent siéger pour débattre de politique. On trouve à l’extérieur de cette partie des jardins et quelques maisons pour les invités. Après les jardins vient un mur qui lie les six tours. Le mur comprend plusieurs enclaves où l’on retrouve des trésors du passé et qui lie les douze tours. Il y a une grande porte avec une herse qui est l’entrée de cette magnifique architecture.</p>
 </li>
 </ul>
-<doc-anchor-target id="la-hauteville">
-    <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#la-hauteville">#</doc-anchor-trigger>
-        <span>La hauteville</span>
-    </h3>
-</doc-anchor-target>
+<doc-tabs>
+<doc-tab v-cloak id="la-hauteville">
+<template #title>La hauteville</template>
 <p>Le grand marché fait tout le tour du château, on y retrouve presque de tout. Il y a également, adossée à la muraille qui protège la haute ville, un bon nombre de boutiques, auberges et résidences pour les princes et leurs invités. On retrouve également le grand théâtre qui est une ancienne cathédrale de La Lumière blanche modifiée. Dans les hauts quartiers juste en bas du grand marché, on retrouve les maisons de la bourgeoisie avec des pubs, restaurants, bains, parcs et spectacles de rue.</p>
 <ul>
 <li>Sortilège, magie et objets exotiques en tout genre.
 Près du château, entre un magasin de vêtements à la mode et un restaurant de fruits de mer, dans un petit recoin de deux mètres de large, se trouve une petite bâtisse de trois étages en vieilles planches noires.  Gravé sur une pancarte de bois, il est inscrit de ne pas nourrir les chats. Étrangement, il y a toujours des chats qui attendent patiemment devant ce magasin. On peut retrouver de tout dans ce magasin.</li>
 </ul>
-<doc-anchor-target id="la-basse-ville">
-    <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#la-basse-ville">#</doc-anchor-trigger>
-        <span>La basse ville</span>
-    </h3>
-</doc-anchor-target>
+</doc-tab>
+<doc-tab v-cloak id="la-basse-ville">
+<template #title>La basse ville</template>
 <p>La majorité de la population se trouve dans la basse ville, dans des maisons collées les unes aux autres. Il y a toujours une odeur humide qui rôde. On y trouve également la plupart des industries. Il y a beaucoup de moulins, de chantiers navals et de forges. Le bâtiment le plus important dans la basse ville est la cathédrale de La Lumière blanche. Une cathédrale gigantesque qui veille sur les habitants de la capitale.</p>
+</doc-tab>
+</doc-tabs>
 <doc-anchor-target id="quoi-faire-dans-les-terres-davant">
     <h3>
         <doc-anchor-trigger class="header-anchor-trigger" to="#quoi-faire-dans-les-terres-davant">#</doc-anchor-trigger>
@@ -485,7 +483,6 @@ Dernièrement certains chasseurs ont remarqué la présence de créatures gigant
 <p>Cette mer intérieure nouvellement née est en fait le résultat d&#x27;un courant chaud de l&#x27;Océan intrépide qui a pénétré sur les terres du nord. L&#x27;océan de l&#x27;ouest des royaumes a en fait débordé avec le temps. Le facteur provoquant ce phénomène est que les mers qui existaient sur le côté nord des terres gelées sont devenues d&#x27;immenses terres de glace. Cette expansion a poussé l’Océan Intrépide à se frayer un chemin entre le Mont de la divinité et les Sanguinaires. Ce qui a engendré la seule voie maritime praticable dans le Glaceterre et permettant de se rendre dans la première cité que l&#x27;on nomme Valbrise. Cela n&#x27;empêche pas que la navigation reste ardue avec les nombreux icebergs qui se fracassent. Seuls des navigateurs avec de l&#x27;expérience se risquent au périple, connaissant les courants marins de l&#x27;endroit.
 Le Monde d’En Dessous</p>
 <p>Le Monde d’En dessous est une histoire d’horreur pour les enfants…</p>
-</doc-tab>
 
                                 
                                 <!-- Required only on API pages -->
