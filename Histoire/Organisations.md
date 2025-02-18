@@ -11,6 +11,7 @@ Les organisations dans les Terres Perdues sont des dérivés de celles que l’o
 
 
 ## Umbra Tenebrae (les ménestrels)
+![](/Images/UmbraTenebrae.png)-
 > Un agent de la Umbra Tenebrae est d'abord et avant tout autonome, car personne ne peut le tenter en utilisant le pouvoir comme béquille. Il doit être souverain de lui-même.
 Par conséquent, l'âme d'un agent doit être incorruptible. Beaucoup pensent l'être, mais le pouvoir se présente sous de nombreuses formes, et il trouvera sûrement votre faiblesse. De cela, soyez-en sûrs. Seul un vrai agent peut passer ce test et transformer une faiblesse en force. C'est pourquoi nous sommes la main qui arrête le tyran, nourrit les opprimés et ne demande rien en retour. 
 -Vladovich-
@@ -100,7 +101,7 @@ Le troisième œil travaille dans l’ombre avec un réseau noir pour tenter de 
 Les agents du Troisième œil sont très curieux et adorent se casser la tête. Que ce soit pour la stratégie à adopter lors de combat, le chemin à suivre ou le meilleur “deal” avec une sorcière. Ils travaillent généralement pour eux-mêmes ou ont déjà plusieurs coups d’avance sur les autres, comme si le monde était un grand échiquier en mouvement et eux seuls pouvaient prévoir le prochain coup. Ils leurs arrivent souvent de devoir plier les règles établies. Ils adorent porter fièrement des tenues luxueuses ou des objets ayant de la valeur.  La richesse parle plus que la plume. Les oculus sont la crème des mercenaires tant que vous avez de l’argent à leur offrir. Il est arrivé que des nobles ou de riches marchands perdent toute protection lorsque leurs coffres sont vides. 
 
 ## La guilde marchande (L’alliance des seigneurs)
-![](/Images/GuildeMarchande.png)
+-![](/Images/GuildeMarchande.png)
 > Tout le monde veut dormir la nuit et se sentir en sécurité dans sa maison, mais combien sont prêts à faire le nécessaire pour garder la marée du mal à distance ? À se tenir debout sous la pluie et dans le froid, en attendant la bataille alors que la faim vous tenaille le ventre ? Beaucoup souhaitent récolter les fruits d'une bonne récolte, mais peu prennent soin d'enlever les pierres et de labourer les champs avant la plantation.
 La guilde marchande combat des choses dont le marchand dans son lit n'a même jamais entendu parler. Nous éliminons les menaces avant que le maire de la ville n'en entende parler. Nous faisons en sorte que les choses mauvaises disparaissent. C'est ce à quoi nous sommes bons.
 - Aubin-
