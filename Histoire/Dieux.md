@@ -1,7 +1,7 @@
 ---
 label: Les Dieux
-order: 1002
-icon: ":scroll:"
+order: 3
+icon: ":classical_building:"
 ---
 
 ## La lumière blanche 
