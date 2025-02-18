@@ -65,14 +65,14 @@ De l’entrée de Valôme jusqu’au sommet de la colline se trouve un chemin pa
 ==- Le château des royaumes
 Au sommet de la colline se trouve le grand château. La plus grande partie est au centre, composé d’une tour centrale qui relie six tours autour qui représente les premiers royaumes. Un château immense de style baroque avec des plafonds ridiculement hauts recouverts de peintures décrivant le passé des royaumes. La partie centrale comprend une salle contenant les trônes au centre sur un petit piédestal et autour, des estrades où les membres des royaumes peuvent siéger pour débattre de politique. On trouve à l’extérieur de cette partie des jardins et quelques maisons pour les invités. Après les jardins vient un mur qui lie les six tours. Le mur comprend plusieurs enclaves où l’on retrouve des trésors du passé et qui lie les douze tours. Il y a une grande porte avec une herse qui est l’entrée de cette magnifique architecture.
 ===
-+++
-+++ La hauteville
+
+==- La hauteville
 Le grand marché fait tout le tour du château, on y retrouve presque de tout. Il y a également, adossée à la muraille qui protège la haute ville, un bon nombre de boutiques, auberges et résidences pour les princes et leurs invités. On retrouve également le grand théâtre qui est une ancienne cathédrale de La Lumière blanche modifiée. Dans les hauts quartiers juste en bas du grand marché, on retrouve les maisons de la bourgeoisie avec des pubs, restaurants, bains, parcs et spectacles de rue.
 
 ==- Sortilège, magie et objets exotiques en tout genre.
 Près du château, entre un magasin de vêtements à la mode et un restaurant de fruits de mer, dans un petit recoin de deux mètres de large, se trouve une petite bâtisse de trois étages en vieilles planches noires.  Gravé sur une pancarte de bois, il est inscrit de ne pas nourrir les chats. Étrangement, il y a toujours des chats qui attendent patiemment devant ce magasin. On peut retrouver de tout dans ce magasin.
-===
-+++ La basse ville
+
+==- La basse ville
 La majorité de la population se trouve dans la basse ville, dans des maisons collées les unes aux autres. Il y a toujours une odeur humide qui rôde. On y trouve également la plupart des industries. Il y a beaucoup de moulins, de chantiers navals et de forges. Le bâtiment le plus important dans la basse ville est la cathédrale de La Lumière blanche. Une cathédrale gigantesque qui veille sur les habitants de la capitale.
 
 +++ Activités
