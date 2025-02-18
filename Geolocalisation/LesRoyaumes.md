@@ -5,7 +5,6 @@ icon: ":scroll:"
 ---
 
 ## Les Terres d'Avant
-
 Les Terres d’Avant est un des premiers royaumes établis sur ces terres. C’était un moment de gloire et paisible pour les peuples unis. On y retrouve une des plus grandes et anciennes villes, et le château est un mélange d’architecture des premiers peuples, les nains, les elfes et les humains. On regarde souvent cet endroit comme un modèle de civilisation. Il y eut quelques rois qui ont siégé pendant des années, mais généralement c’est un lieu libre, gouverné par les princes et les organisations des Terres Perdues.
 
 +++ Religion
@@ -18,66 +17,50 @@ Il y a longtemps, un conseil des royaumes a été créé pour unir les royaumes 
 On retrouve beaucoup d’humains comme dans le reste du royaume mais c’est l’endroit multiculturel; c’est également le noyau central de tous les royaumes.
 
 +++ Géographie 
-
 Sur un territoire immense comprenant des plaines à perte de vue, des forêts gigantesques et des montagnes qui dépassent le ciel se trouvent les terres d'Avant. Le sol est riche et les récoltes sont abondantes. Les rivières sont peuplées de poissons et les forêts peuplées d'animaux sauvages. On peut y retrouver toutes les races et la population est très ouverte aux autres cultures et religions.
 
 ==- **Cap de la Honte**
 Au sud des Terres d’avant se trouve Le Cap de la honte. Le cap a été nommé ainsi pour se rappeler des anciennes guerres du passé entre les royaumes.
-
 ==- **Douvecourte**
 Une tour prison qui se trouve au nord. C’est une petite prison pour des cas d’infractions mineures et de courtes sentences. Il y a un travail ardu sur les monts autour de la prison pour concasser de la pierre de construction ou pour l’entretien des chemins et du chemin de fer.
-
 ==- **Bois des trois lacs**
 Une forêt gigantesque abritant plusieurs elfes, ferals, hobgoblins et firbolgs. Un terrain de chasse très imposant et contrôlé. Les arbres sont tellement hauts que certains touchent presque les nuages. Plusieurs druides protègent cette forêt.
-
 ==- **BlancPont** 
 Petite ville de pêcheur et de forestier près d’une rivière. La rivière aide à amener le bois coupé vers les petits moulins de BlancPont. La ville porte le nom de BlancPont car il y a un long pont couvert blanc qui lie les deux rives.
-
 ==- **Les Soeurs**
 La Grande Sœur et La Petite Sœur sont deux tours de défense pour Valôme. Dans La Petite Sœur on retrouve l'entraînement militaire de la milice et l'armée de la garde de l’aube, l'armée des 12 royaumes.
-
 ==- Froide Roche
 C’est une grande mine de marbre à ciel ouvert. On y trouve une grande population de nains et d’orcs qui travaillent rigoureusement à l’exploitation de cette mine.
-
 ==- Vieuxbourg 
 C’est une ville de pêcheurs et de vignerons. On y trouve beaucoup d'artisans et d'artistes qui cherchent un coin de pays chaud et calme. La ville a souvent été attaquée dans le passé, mais elle a toujours tenu et donne un petit côté historique à cette ville qui grandit toujours.
-
 ==- SousMoulin
 C’est une ville axée sur l’agriculture. Il y a le plus gros moulin à vent qui ne sert plus mais reste magnifique.
-
 ==- Citadelle-sur-bois
 Une grande ville elfique en harmonie avec la nature. On peut trouver plusieurs ponts d’arbre en arbre. Les animaux sauvages se retrouvent souvent dans les rues de cette ville, marchant librement; carnivores et herbivores se côtoient sans problème.
- 
 ==- **Behir**
 Un ancienne forteresse naine, très vieille, remplit de sous terrains. Quelques drake se trouvent dans la région et les chasseurs de draconides s’y pratiquent souvent à la chasse.
-
 ==- **Kavarkd’hum**
 Passage entre les montagnes, c’est un tunnel immense d'ingénierie naine qui traverse 100 km de montagne. On retrouve des gravures représentant l’histoire des nains. Il y a également des haltes et des restaurants dans le tunnel.
 ===
+
 +++ Capitale
 ## Valôme, la cité libre
-
 Valôme se trouve près de de l’océan intrépide. C’est dans cette cité que se trouve le grand conseil des princes. La cité abrite La Compagnie de l’aube qui est entretenue par les royaumes. La ville est sur une colline. La plus haute partie de la colline regroupe les plus grands temples, le château et le grand théâtre. Sur les flancs de la colline se trouve la bourgeoisie et plus bas les ouvriers, paysans et mendiants ainsi que la grande cathédrale de La Lumière blanche. Comme toute grande ville, il existe un grand écart entre les riches et les pauvres.
 
 ==- Le chemin royal
 De l’entrée de Valôme jusqu’au sommet de la colline se trouve un chemin pavé de pierres avec des motifs racontant le passé. Le chemin est en pente et en ligne droite. Des arbres matures se trouvent au centre du chemin en rangée, tel une armée protégeant le chemin vers le château.
-
 ==- Le château des royaumes
 Au sommet de la colline se trouve le grand château. La plus grande partie est au centre, composé d’une tour centrale qui relie six tours autour qui représente les premiers royaumes. Un château immense de style baroque avec des plafonds ridiculement hauts recouverts de peintures décrivant le passé des royaumes. La partie centrale comprend une salle contenant les trônes au centre sur un petit piédestal et autour, des estrades où les membres des royaumes peuvent siéger pour débattre de politique. On trouve à l’extérieur de cette partie des jardins et quelques maisons pour les invités. Après les jardins vient un mur qui lie les six tours. Le mur comprend plusieurs enclaves où l’on retrouve des trésors du passé et qui lie les douze tours. Il y a une grande porte avec une herse qui est l’entrée de cette magnifique architecture.
-
 ==- La hauteville
 Le grand marché fait tout le tour du château, on y retrouve presque de tout. Il y a également, adossée à la muraille qui protège la haute ville, un bon nombre de boutiques, auberges et résidences pour les princes et leurs invités. On retrouve également le grand théâtre qui est une ancienne cathédrale de La Lumière blanche modifiée. Dans les hauts quartiers juste en bas du grand marché, on retrouve les maisons de la bourgeoisie avec des pubs, restaurants, bains, parcs et spectacles de rue.
-
 ==- Sortilège, magie et objets exotiques en tout genre.
 Près du château, entre un magasin de vêtements à la mode et un restaurant de fruits de mer, dans un petit recoin de deux mètres de large, se trouve une petite bâtisse de trois étages en vieilles planches noires.  Gravé sur une pancarte de bois, il est inscrit de ne pas nourrir les chats. Étrangement, il y a toujours des chats qui attendent patiemment devant ce magasin. On peut retrouver de tout dans ce magasin.
-
 ==- La basse ville
 La majorité de la population se trouve dans la basse ville, dans des maisons collées les unes aux autres. Il y a toujours une odeur humide qui rôde. On y trouve également la plupart des industries. Il y a beaucoup de moulins, de chantiers navals et de forges. Le bâtiment le plus important dans la basse ville est la cathédrale de La Lumière blanche. Une cathédrale gigantesque qui veille sur les habitants de la capitale.
 ===
 
 +++ Activités
 ### Quoi faire dans Les Terres d’avant:
-
 ==- Guilde d’aventurier :
 Tout le monde à besoin d’aide et la guilde d’aventurier est là pour répondre à ce besoin. Vous voulez vous faire de l’argent rapidement? Il y a toujours une quête qui n’attend que vous.
 ==- Jeu politique :
@@ -94,7 +77,6 @@ Les Royaumes d’Avant couvre un territoire gigantesque et des portails s’y ca
 +++
 
 ## La Haute-Garde et la Basse-Garde
-
 La Haute-Garde est connue pour ses guerriers sans peur. Ils doivent repousser sans cesse les invasions de tribus d’orcs, de géants ou toutes autres sources du chaos qui provient des Terres de glace. C’est un peuple qui est beaucoup axé sur la bravoure et l’honneur démontrés par des prouesses physiques. On dit que les grands guerriers qui meurent au combat deviennent les lumières qui vacillent sur Les Terres du nord. Lorsqu’on n’est pas apte à se battre ou trop vieux, on devient un cueilleur de petits fruits, ce qui est une insulte pour tout combattant qui se respecte.
 
 La Basse-Garde est une région peu hospitalière et plutôt pauvre. C’est un peu pour cela qu’elle fut choisie pour établir les lois des royaumes. Plusieurs chevaliers de la lumière étudient en ces lieux pour défendre la justice. C’est également l’endroit où La Compagnie de l’aube et La Compagnie du crépuscule forment leurs soldats.
@@ -109,39 +91,32 @@ Le prince des royaumes est élu tous les 5 ans. Il est voté lors d’un grand r
 On retrouve beaucoup d’humains comme dans le reste du royaume, mais c’est l’endroit où il y a le plus d'orcs, de demi-orcs et de goliaths. Les autres races s’y retrouvent en proportion moindre et sont dispersées. Les Nordiens sont généralement
 
 +++ Géographie 
-
 **La Haute-Garde** se situe juste avant les Terres de glace. Des terres avec de grandes collines vertes et des petits boisés. La végétation n’atteint pas une grande hauteur et le sol n’est pas riche pour l’agriculture mais les bêtes qui vivent en ces terres sont immenses et goûteuses. 
-
 **La Basse-Garde** est un endroit marécageux et humide.
-
 ==- **L’Aigle de pierre**
 Une forteresse qui observe le sud, et un bon point d’observation sur les Gordals. Cette forteresse est faite de pierre et longe une colline verte. La verdure a réussi à pénétrer la base de la forteresse et s'esquisse vers le sommet de celle-ci. La garde qui s’y trouve est légère car beaucoup de tribus se trouvent dans les Gordals et un simple son de la cloche de L’Aigle de pierre attire les plus grands guerriers de ces tribus qui ont soif de gloire.
-
 ==- **La Croisée**
 Une ville qui se trouve au centre de deux routes et deux rivières qui confluent. C’est le plus grand marché du du nord, de nombreux commerçants y font escale pour acheter ou vendre des produits locaux.
-
 ==- **Les Gordals**
 Les Gordals sont plusieurs collines attachées les unes aux autres. Sur ces terres vivent la majorité des peuples du nord. De type plus nomade, il y a peu de ville ou village dans cette région. Les peuples suivent les troupeaux d’animaux sauvages gigantesques pour aller par la suite vendre leurs prises à La Croisée.
-
 ==- **Pointe-à-la-croix**
 Un petit village de pêcheurs au sud des Terres du nord. Village avec beaucoup de bateaux de pêche qui nourrit une bonne partie des villes et villages des royaumes du nord. Il éclate parfois de petites chicanes de pêcheurs entre Pointe-à-la-Croix et Mismourt.
-
 ==- **Mismourt**
 Une ville qui vit de la chasse et de la pêche. Moins connue pour ses prises spectaculaires que Pointe-à-la-Croix, Mismourt est par contre reconnue pour ses chasseurs hors pair.
 ===
+
 +++ Capitale
 ==- FrancVal, la Cité de la justice
 FrancVal est une ville froide, les murs sont élevés et imposants. Les tours sont grises et il y a peu de végétation dans la ville. Les gens sont peu bavards et se mêlent peu des affaires des autres.  On y trouve un palais de justice très ancien où les hauts jugements et l’écriture de lois se font toujours. Il y a également la bibliothèque du passé qui contient l’histoire des royaumes et plusieurs écrits datant de l'arrivée des nains, de la guerre des elfes. Il va s’en dire qu’il y traîne beaucoup d’érudits dans les rues et ils sont aussi mornes que  cette ville.
-
 ==- Valnord, la cité des guerriers
 Capitale des royaumes du nord, Valnord reste très modeste. Une palissade de bois entoure la 
 plus grande partie de la ville. Une tranchée contourne la palissade à quelques mètres de distance et un pont levis pliant permet de la traverser.
 
 La capitale est grosse comme une ville pour d’autres royaumes, mais c’est une grande agglomération de population pour le nord. Majoritairement nomade, le peuple du nord est rarement regroupé à un seul endroit. On y retrouve des artisans de renom capables de tanner les peaux des créatures féroces chassées sur les terres pour en faire de belles armures, tentes ou autres objets de cuir.
 ===
+
 +++ Activités
 ### Quoi faire dans la Basse-Garde et la Haute-Garde:
-
 ==- Guildes de mercenaires : 
 Les guildes de mercenaires du royaume du nord sont les plus réputées. Après tout, les peuples du nord voient plus de combat en une année que en une vie dans d’autres royaumes.
 ==- Chasse et pêche : 
@@ -154,7 +129,6 @@ Les écrits restent et les bibliothèques du passé conservent la majorité de c
 +++
 
 ## Le Domaine de la Sacrifiée
-
 Ces terres sont riches en minéraux et très fertiles. L'agriculture y est très développée et très avancée grâce à la magie. Hautval est également un lieu où les talents artistiques sont à l'honneur, que ce soit la peinture, la couture, le chant ou la danse. En fait, HautVal est un petit paradis, tout a meilleur goût, le vin, le pain et même l'amour. Cependant, ces terres sont sous l'influence du monde des fées; les portails entre les deux mondes sont nombreux et influencent beaucoup la population malgré les avertissements répétés de nombreuses fois.
 
 +++ Religion et faction
@@ -167,20 +141,19 @@ Le prince de ce royaume adore les fêtes, les bals et les tournois. Il possède 
 On retrouve de tout dans ce royaume, même des monstres. Il existe une différence marquée entre la classe bourgeoise et la classe ouvrière. Malgré tout, la population est toujours courtoise, c’est mal vu de ne pas dire bonjour à quelqu’un que l’on croise. La population se pervertit dans les pactes avec des fées et a plusieurs coutumes toutes aussi étranges que farfelues; par exemple pour la natalité, lors de la conception se mettre du sel sur la tête donne plus de chance d’avoir un garçon et c’est du poivre pour une fille. Il y a également une méfiance envers les peuples autres que ceux provenant de la féérie.
 
 +++ Géographie
-
 ==- Le lac de la Sacrifiée
 C’est un lac qui couvre une grande partie de la vallée. C’est dans celui-ci qu’une elfe s'est sacrifiée pour faire annuler les pactes que les gens de son peuple avaient fait avec les fées. Malheureusement, les gens du peuple ont recommencé ces pratiques malsaines.
 ===
+
 +++ Capitale
 ==- Hautval
 C’est une ville très grande en superficie, peu d’édifices en hauteur; si bien que l’on voit très bien les gigantesques moulins à vent. Très peu de protection également, il n’y a pas de point spécifique d’entrée à la ville. Le centre de la ville est le mieux protégé, c’est le quartier du prince et de la haute bourgeoisie. On retrouve tout autour les quartiers plus pauvres. Plusieurs grandes rivières serpentent la ville, on y retrouve des ponts qui peuvent contenir des quartiers complets.
-
 ==- La haute ville
 La haute ville est peuplée par la bourgeoisie, on y retrouve beaucoup de créatures elfiques et une grande concentration de haut elf, les maisons sont habituellement en hauteur.
-
 ==- La basse ville
 Aux extrémités de la ville ou encore sous les ponts, se trouvent les moins fortunés de la ville. Ils sont souvent négligés, la maladie les ronge, la famine et les prédateurs y courent.
 ===
+
 +++ Activités
 Quoi faire dans ce royaume:
 
@@ -192,26 +165,23 @@ Malheureusement, plusieurs personnes ont fait des pactes avec des fées dans cet
 +++
 
 ## L’Archipel Fracassé
+Avant de rejoindre l’océan, on peut apercevoir un archipel constitué de centaines d’îles. Certaines minuscules et d’autres pouvant abriter plusieurs villes. L’Archipel Fracassé est un lieu où tous peuvent faire fortune, ou périr.
 
-Avant de rejoindre l’océan, on peut apercevoir un archipel constitué de centaines d’îles. Certaines minuscules et d’autres pouvant abriter plusieurs villes. L’Archipel Fracassé est un lieu où tous peuvent faire fortune, ou périr. Le climat et la végétation sont très variés.
+L'Archipel Fracassé est une série d'îles qui comportent plusieurs biomes climatiques. Il y a des jungles tropicales humides, des îles avec une savane plus sèche ou encore des monts enneigés. Plusieurs races parcourent ses îles qui ont autant une bonne réputation pour ses paysages paradisiaques, qu’une mauvaise dû à la piraterie très développée dans ses eaux riches. Effectivement, les richesses sont nombreuses, que ce soit dans les mines de pierres précieuses ou les coraux.
 
 +++ Religion
 
 +++ Politique 
 
-L'Archipel Fracassé est une série d'îles qui comportent plusieurs biomes climatiques. Il y a des jungles tropicales humides, des îles avec une savane plus sèche ou encore des monts enneigés. Plusieurs races parcourent ses îles qui ont autant une bonne réputation pour ses paysages paradisiaques, qu’une mauvaise dû à la piraterie très développée dans ses eaux riches. Effectivement, les richesses sont nombreuses, que ce soit dans les mines de pierres précieuses ou les coraux.
-
 On y trouve plusieurs états dirigés par plusieurs élus qui élisent un prince pour les représenter.  Pendant longtemps ils furent de grands pirates, mais depuis un siècle une sorte d'ordre a été créé lorsque les pirates sont devenus de riches marchands.
 
 +++ Population
-
 
 +++ Géographie
 
 Ces îles ont les plus beaux couchés et levés de soleil. Ce sont des lieux magnifiques qui attirent les touristes. Sur ces centaines d’îles se trouve une multitude de faune et de flore. On y retrouve des plantes et des fruits uniques. Les îles sont de toutes dimensions, des petites de quelques mètres et des grandes pouvant avoir quelques écosystèmes complètement différents. L'archipel est situé sur un carrefour des plans élémentaire et astral. Ce qui fait que les climats sont très changeants.
 
 De ce mélange proviennent les brumes, elles se faufilent partout autour des îles rendant la circulation difficile. Parfois épaisses, parfois froides, d’autre fois humides ou même chaudes, on ne peut les prévoir. De ce fait, certaines îles n’ont jamais été complètement explorées, leurs jungles cachant encore des secrets de l'ancien monde.
-
 
 ==- Le colisée de Myre
 Les plus grands combattants de tous les royaumes vont souvent régler leurs comptes dans l’arène de Myre. On y présente toutes sortes de combats et souvent des combats à mort.
@@ -222,11 +192,11 @@ Un mont très élevé qui monte jusqu'au-dessus des nuages. On dit que cette mon
 +++ Capitale
 === Valheureux, Cité des rêves
 Valheureux est contrôlée par un conseil de marchands. La ville est basée sur les commerces, les restaurants et les tout inclus. Elle est réputée pour ses maisons aux toits bleutés et ses murs d’un blanc étincelant. Plusieurs vieux généraux vivent également dans cette ville, on les dit à la retraite, mais le sont-ils vraiment?
-
+===
 +++ Activités
 Quoi faire dans ce royaume:
 
-====- Guilde d’aventurier : 
+===- Guilde d’aventurier : 
 Tout le monde a besoin d’aide et la guilde d’aventurier est là pour répondre à ce besoin. Vous voulez vous faire de l’argent rapidement? Il y a toujours une quête qui n’attend que vous.
 ===- Jeu politique : 
 Que ce soit pour aider un baron ou en devenir un, Valheureux regorge d’intrigues, de trahisons et de possibilités enrichissantes.
@@ -255,7 +225,7 @@ C’est une ville fortifiée pour se protéger des monstres du nord. On y retrou
 +++ Activités
 Quoi faire dans ce royaume:
 
-=== Chercher des objets magiques :
+==- Chercher des objets magiques :
 C’est une vieille terre où de nombreux combats ont eu lieu jadis. On parle de guerre des nains et des elfes.
 ==- Combattre le mal :
 Le mal est toujours présent dans le nord, des créatures maléfiques semblent provenir de partout sous la glace épaisse.
