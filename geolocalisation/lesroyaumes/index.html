@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="turbo-root" content="/Terresperdues">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.793222999941">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.793223341663">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.6.0">
@@ -31,11 +31,11 @@
 
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="../../resources/css/retype.css?v=3.6.0.793222999941" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.6.0.793223341663" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.793222999941" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.793223341663" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.6.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.793222999941" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.793223341663" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -470,6 +470,8 @@ C’est une ville très grande en superficie, peu d’édifices en hauteur; si b
 </doc-tab>
    </doc-panel>
 </doc-panels>
+</doc-tab>
+</doc-tabs>
 <doc-anchor-target id="larchipel-fracassé">
     <h2>
         <doc-anchor-trigger class="header-anchor-trigger" to="#larchipel-fracassé">#</doc-anchor-trigger>
@@ -477,7 +479,7 @@ C’est une ville très grande en superficie, peu d’édifices en hauteur; si b
     </h2>
 </doc-anchor-target>
 <p>Avant de rejoindre l’océan, on peut apercevoir un archipel constitué de centaines d’îles. Certaines minuscules et d’autres pouvant abriter plusieurs villes. L’Archipel Fracassé est un lieu où tous peuvent faire fortune, ou périr. Le climat et la végétation sont très variés.</p>
-</doc-tab>
+<doc-tabs>
 <doc-tab v-cloak id="religion">
 <template #title>Religion</template>
 </doc-tab>
@@ -493,32 +495,88 @@ C’est une ville très grande en superficie, peu d’édifices en hauteur; si b
 <template #title>Géographie</template>
 <p>Ces îles ont les plus beaux couchés et levés de soleil. Ce sont des lieux magnifiques qui attirent les touristes. Sur ces centaines d’îles se trouve une multitude de faune et de flore. On y retrouve des plantes et des fruits uniques. Les îles sont de toutes dimensions, des petites de quelques mètres et des grandes pouvant avoir quelques écosystèmes complètement différents. L&#x27;archipel est situé sur un carrefour des plans élémentaire et astral. Ce qui fait que les climats sont très changeants.</p>
 <p>De ce mélange proviennent les brumes, elles se faufilent partout autour des îles rendant la circulation difficile. Parfois épaisses, parfois froides, d’autre fois humides ou même chaudes, on ne peut les prévoir. De ce fait, certaines îles n’ont jamais été complètement explorées, leurs jungles cachant encore des secrets de l&#x27;ancien monde.</p>
-<p>Le colisée de Myre
-Les plus grands combattants de tous les royaumes vont souvent régler leurs comptes dans l’arène de Myre. On y présente toutes sortes de combats et souvent des combats à mort.</p>
-<p>Mont Olys
-Un mont très élevé qui monte jusqu&#x27;au-dessus des nuages. On dit que cette montagne a plus de 14 000 marches et certains pèlerins font le chemin pour se rendre jusqu’au sommet où se trouve des effigies de plusieurs dieux.</p>
-<p>Valheureux, Cité des rêves
-Valheureux est contrôlée par un conseil de marchands. La ville est basée sur les commerces, les restaurants et les tout inclus. Elle est réputée pour ses maisons aux toits bleutés et ses murs d’un blanc étincelant. Plusieurs vieux généraux vivent également dans cette ville, on les dit à la retraite, mais le sont-ils vraiment?
-Quoi faire sur l’île:</p>
-<p>Guilde d’aventurier : Tout le monde a besoin d’aide et la guilde d’aventurier est là pour répondre à ce besoin. Vous voulez vous faire de l’argent rapidement? Il y a toujours une quête qui n’attend que vous.
-Jeu politique : Que ce soit pour aider un baron ou en devenir un, Valheureux regorge d’intrigues, de trahisons et de possibilités enrichissantes.
-Visiter Valheureux : Valheureux est une ville magnifique, avec ses sculptures et son architecture étrange et ses couleurs bleutées.</p>
-<p>Les Terres de Glace ou Glaceterre.</p>
+<doc-panels>
+   <doc-panel id="le-colisée-de-myre" collapsed>
+       <template #title>Le colisée de Myre</template>
+<p>Les plus grands combattants de tous les royaumes vont souvent régler leurs comptes dans l’arène de Myre. On y présente toutes sortes de combats et souvent des combats à mort.</p>
+   </doc-panel>
+   <doc-panel id="mont-olys" collapsed>
+       <template #title>Mont Olys</template>
+<p>Un mont très élevé qui monte jusqu&#x27;au-dessus des nuages. On dit que cette montagne a plus de 14 000 marches et certains pèlerins font le chemin pour se rendre jusqu’au sommet où se trouve des effigies de plusieurs dieux.</p>
+<doc-tabs>
+<doc-tab v-cloak id="capitale">
+<template #title>Capitale</template>
+<doc-panels>
+   <doc-panel id="valheureux-cité-des-rêves">
+       <template #title>Valheureux, Cité des rêves</template>
+<p>Valheureux est contrôlée par un conseil de marchands. La ville est basée sur les commerces, les restaurants et les tout inclus. Elle est réputée pour ses maisons aux toits bleutés et ses murs d’un blanc étincelant. Plusieurs vieux généraux vivent également dans cette ville, on les dit à la retraite, mais le sont-ils vraiment?</p>
+<doc-tabs>
+<doc-tab v-cloak id="activités">
+<template #title>Activités</template>
+<p>Quoi faire dans ce royaume:</p>
+<doc-panels>
+   <doc-panel id="guilde-d-aventurier">
+       <template #title>Guilde d’aventurier :</template>
+<p>Tout le monde a besoin d’aide et la guilde d’aventurier est là pour répondre à ce besoin. Vous voulez vous faire de l’argent rapidement? Il y a toujours une quête qui n’attend que vous.</p>
+   </doc-panel>
+   <doc-panel id="jeu-politique">
+       <template #title>Jeu politique :</template>
+<p>Que ce soit pour aider un baron ou en devenir un, Valheureux regorge d’intrigues, de trahisons et de possibilités enrichissantes.</p>
+   </doc-panel>
+   <doc-panel id="visiter-valheureux">
+       <template #title>Visiter Valheureux :</template>
+<p>Valheureux est une ville magnifique, avec ses sculptures et son architecture étrange et ses couleurs bleutées.</p>
+<doc-anchor-target id="les-terres-de-glace-ou-glaceterre">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#les-terres-de-glace-ou-glaceterre">#</doc-anchor-trigger>
+        <span>Les Terres de Glace ou Glaceterre.</span>
+    </h2>
+</doc-anchor-target>
 <p>Au nord se trouvent des terres gelées à l’année. Bien que la cause de ce gel soit inconnue, certaines croyances stipulent que ce froid intense serait dû à un cataclysme magique; d’autres, que ce serait à cause d’une créature qui daterait d’avant les âges. Quoi qu’il en soit, le froid progresse d’année en année. Sous ce sol gelé se cachent d’anciens royaumes. D’innombrables richesses y sont enfouies et c’est ce qui pousse les aventuriers à explorer ces lieux.</p>
-<p>Politique
-Un grand royaume nain couvre la première partie des Terres de Glace. Plusieurs peuples ont choisi de vivre sur ces terres glacées. Certains vivent librement, d’autres sont sous le règne de la reine des glaces et d’autres encore car ils ont été bannis de leur royaume. Les habitants des terres gelées vivent en tribus. Les querelles sont fréquentes et les terres sont difficiles à diviser. La hiérarchie fonctionne sur l’honneur et le respect.</p>
-<p>Géographie
-65% des terres sont recouvertes de neige à l’année. La plus grande ville est Valbrise, une ville portuaire au nord de la région. Les Terres de Glace se terminent au nord par une chaîne de montagnes appelée la barrière. De l’autre côté se trouve la terre des géants.</p>
-<p>Religion
-La plupart des habitants du nord respectent les vieilles traditions. Il reste peu des premières créatures d’avant les âges des humains, mais les nains ont gardé certaines croyances ancestrales. Les divinités élémentaires y sont toujours vénérées.</p>
-<p>Val Gelé
-C’est une ville fortifiée pour se protéger des monstres du nord. On y retrouve également une vieille cité naine qui a été vidé de ses ressources.
-Quoi faire dans ce royaume:
-Courte explication
-Exemple:</p>
-<p>Chercher des objets magiques : C’est une vieille terre où de nombreux combats ont eu lieu jadis. On parle de guerre des nains et des elfes.
-Combattre le mal : Le mal est toujours présent dans le nord, des créatures maléfiques semblent provenir de partout sous la glace épaisse.</p>
-<p>La Côte du Bouclier</p>
+<doc-tabs>
+<doc-tab v-cloak id="religion">
+<template #title>Religion</template>
+<p>La plupart des habitants du nord respectent les vieilles traditions. Il reste peu des premières créatures d’avant les âges des humains, mais les nains ont gardé certaines croyances ancestrales. Les divinités élémentaires y sont toujours vénérées.</p>
+</doc-tab>
+<doc-tab v-cloak id="politique">
+<template #title>Politique</template>
+<p>Un grand royaume nain couvre la première partie des Terres de Glace. Plusieurs peuples ont choisi de vivre sur ces terres glacées. Certains vivent librement, d’autres sont sous le règne de la reine des glaces et d’autres encore car ils ont été bannis de leur royaume. Les habitants des terres gelées vivent en tribus. Les querelles sont fréquentes et les terres sont difficiles à diviser. La hiérarchie fonctionne sur l’honneur et le respect.</p>
+</doc-tab>
+<doc-tab v-cloak id="géographie">
+<template #title>Géographie</template>
+<p>65% des terres sont recouvertes de neige à l’année. La plus grande ville est Valbrise, une ville portuaire au nord de la région. Les Terres de Glace se terminent au nord par une chaîne de montagnes appelée la barrière. De l’autre côté se trouve la terre des géants.</p>
+</doc-tab>
+<doc-tab v-cloak id="capitale">
+<template #title>Capitale</template>
+<doc-panels>
+   <doc-panel id="val-gelé">
+       <template #title>Val Gelé</template>
+<p>C’est une ville fortifiée pour se protéger des monstres du nord. On y retrouve également une vieille cité naine qui a été vidé de ses ressources.</p>
+<p>Quoi faire dans ce royaume:</p>
+   </doc-panel>
+   <doc-panel id="chercher-des-objets-magiques">
+       <template #title>Chercher des objets magiques :</template>
+<p>C’est une vieille terre où de nombreux combats ont eu lieu jadis. On parle de guerre des nains et des elfes.</p>
+   </doc-panel>
+   <doc-panel id="combattre-le-mal">
+       <template #title>Combattre le mal :</template>
+<p>Le mal est toujours présent dans le nord, des créatures maléfiques semblent provenir de partout sous la glace épaisse.</p>
+   </doc-panel>
+</doc-tab>
+   </doc-panel>
+</doc-tab>
+   </doc-panel>
+</doc-tab>
+   </doc-panel>
+</doc-panels>
+</doc-tab>
+</doc-tabs>
+<doc-anchor-target id="la-côte-du-bouclier">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#la-côte-du-bouclier">#</doc-anchor-trigger>
+        <span>La Côte du Bouclier</span>
+    </h2>
+</doc-anchor-target>
 <p>La Côte du Bouclier a été nommée ainsi à cause de ses falaises qui restent stoïques contre les assauts répétés de l’océan contre son rivage. Difficile d’accoster sur la côte à l’exception de quelques endroits qu’on nomme les écorchures. Cette côte est très prospère pour la pêche et la chasse et ses paysages montagneux sont dignes des plus belles peintures.</p>
 <p>Religion et faction
 Toutes les religions sont représentées dans ce royaume, mais la Lumière blanche a encore peu d’adeptes, les vieux dieux et déesses sont plus à l’honneur. Les lieux sacrés sont très communs un peu partout sur le territoire.</p>
@@ -621,7 +679,6 @@ Dernièrement certains chasseurs ont remarqué la présence de créatures gigant
 <p>Cette mer intérieure nouvellement née est en fait le résultat d&#x27;un courant chaud de l&#x27;Océan intrépide qui a pénétré sur les terres du nord. L&#x27;océan de l&#x27;ouest des royaumes a en fait débordé avec le temps. Le facteur provoquant ce phénomène est que les mers qui existaient sur le côté nord des terres gelées sont devenues d&#x27;immenses terres de glace. Cette expansion a poussé l’Océan Intrépide à se frayer un chemin entre le Mont de la divinité et les Sanguinaires. Ce qui a engendré la seule voie maritime praticable dans le Glaceterre et permettant de se rendre dans la première cité que l&#x27;on nomme Valbrise. Cela n&#x27;empêche pas que la navigation reste ardue avec les nombreux icebergs qui se fracassent. Seuls des navigateurs avec de l&#x27;expérience se risquent au périple, connaissant les courants marins de l&#x27;endroit.
 Le Monde d’En Dessous</p>
 <p>Le Monde d’En dessous est une histoire d’horreur pour les enfants…</p>
-</doc-tab>
 
                                 
                                 <!-- Required only on API pages -->
