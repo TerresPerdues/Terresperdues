@@ -134,7 +134,7 @@ Les agents de La guilde marchande sont vaillants et fonceurs. Ils n’ont pas pe
 Les agents sont choisis principalement pour leur fidélité et sont des experts en observation, discrétion, insinuations et combat. Soutenus par les riches et les privilégiés, ils possèdent un bel équipement (souvent déguisé pour paraître commun). Ils éliminent les menaces de manière proactive et par tous les moyens, se battant avec fierté pour la gloire et la sécurité de leurs peuples et des princes 
 
 ## La maison Krucklepuff (L'Enclave d'émeraude)
-![](/Images/Krucklepuff.png)-
+![](/Images/MaisonKrucklepuff.png)-
 > La maison Krucklepuff est la gardienne de ce vaste espace au-delà des murs de la ville. La plupart ont oublié qu'un ordre ancien et naturel existe depuis bien plus longtemps que le concept intellectuel que nous en avons. Entrer en contact avec cet ordre primitif c'est toucher la puissance qui guide toutes vies. 
 Ceux qui suivent ce chemin sont imprégnés de cette puissance. Nous ne sommes jamais seuls. Même au milieu d'une ville bruyante et bondée nous pouvons sentir la présence du monde naturel en nous, frais, fort et vivant. 
 - Delaan Belette sage, Scout de quatrième rang -
