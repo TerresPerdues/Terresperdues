@@ -139,7 +139,7 @@ Capitale des royaumes du nord, Valnord reste très modeste. Une palissade de boi
 plus grande partie de la ville. Une tranchée contourne la palissade à quelques mètres de distance et un pont levis pliant permet de la traverser.
 
 La capitale est grosse comme une ville pour d’autres royaumes, mais c’est une grande agglomération de population pour le nord. Majoritairement nomade, le peuple du nord est rarement regroupé à un seul endroit. On y retrouve des artisans de renom capables de tanner les peaux des créatures féroces chassées sur les terres pour en faire de belles armures, tentes ou autres objets de cuir.
-
+===
 +++ Activités
 ### Quoi faire dans la Basse-Garde et la Haute-Garde:
 
