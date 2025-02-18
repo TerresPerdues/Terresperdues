@@ -21,67 +21,71 @@ On retrouve beaucoup d’humains comme dans le reste du royaume mais c’est l�
 
 Sur un territoire immense comprenant des plaines à perte de vue, des forêts gigantesques et des montagnes qui dépassent le ciel se trouvent les terres d'Avant. Le sol est riche et les récoltes sont abondantes. Les rivières sont peuplées de poissons et les forêts peuplées d'animaux sauvages. On peut y retrouver toutes les races et la population est très ouverte aux autres cultures et religions.
 
-=== **Cap de la Honte**
+==- **Cap de la Honte**
 Au sud des Terres d’avant se trouve Le Cap de la honte. Le cap a été nommé ainsi pour se rappeler des anciennes guerres du passé entre les royaumes.
 
-=== **Douvecourte**
+==- **Douvecourte**
 Une tour prison qui se trouve au nord. C’est une petite prison pour des cas d’infractions mineures et de courtes sentences. Il y a un travail ardu sur les monts autour de la prison pour concasser de la pierre de construction ou pour l’entretien des chemins et du chemin de fer.
 
-=== **Bois des trois lacs**
+==- **Bois des trois lacs**
 Une forêt gigantesque abritant plusieurs elfes, ferals, hobgoblins et firbolgs. Un terrain de chasse très imposant et contrôlé. Les arbres sont tellement hauts que certains touchent presque les nuages. Plusieurs druides protègent cette forêt.
-===
-- **BlancPont** 
+
+==- **BlancPont** 
 Petite ville de pêcheur et de forestier près d’une rivière. La rivière aide à amener le bois coupé vers les petits moulins de BlancPont. La ville porte le nom de BlancPont car il y a un long pont couvert blanc qui lie les deux rives.
 
-- **Les Soeurs**
+==- **Les Soeurs**
 La Grande Sœur et La Petite Sœur sont deux tours de défense pour Valôme. Dans La Petite Sœur on retrouve l'entraînement militaire de la milice et l'armée de la garde de l’aube, l'armée des 12 royaumes.
 
-- Froide Roche
+==- Froide Roche
 C’est une grande mine de marbre à ciel ouvert. On y trouve une grande population de nains et d’orcs qui travaillent rigoureusement à l’exploitation de cette mine.
 
-- Vieuxbourg 
+==- Vieuxbourg 
 C’est une ville de pêcheurs et de vignerons. On y trouve beaucoup d'artisans et d'artistes qui cherchent un coin de pays chaud et calme. La ville a souvent été attaquée dans le passé, mais elle a toujours tenu et donne un petit côté historique à cette ville qui grandit toujours.
 
-- SousMoulin
+==- SousMoulin
 C’est une ville axée sur l’agriculture. Il y a le plus gros moulin à vent qui ne sert plus mais reste magnifique.
 
-- Citadelle-sur-bois
+==- Citadelle-sur-bois
 Une grande ville elfique en harmonie avec la nature. On peut trouver plusieurs ponts d’arbre en arbre. Les animaux sauvages se retrouvent souvent dans les rues de cette ville, marchant librement; carnivores et herbivores se côtoient sans problème.
  
-- Behir
+==- Behir
 Un ancienne forteresse naine, très vieille, remplit de sous terrains. Quelques drake se trouvent dans la région et les chasseurs de draconides s’y pratiquent souvent à la chasse.
 
-- Kavarkd’hum
+==- Kavarkd’hum
 Passage entre les montagnes, c’est un tunnel immense d'ingénierie naine qui traverse 100 km de montagne. On retrouve des gravures représentant l’histoire des nains. Il y a également des haltes et des restaurants dans le tunnel.
-+++
+===
++++ Capitale
 ## Valôme, la cité libre
 
 Valôme se trouve près de de l’océan intrépide. C’est dans cette cité que se trouve le grand conseil des princes. La cité abrite La Compagnie de l’aube qui est entretenue par les royaumes. La ville est sur une colline. La plus haute partie de la colline regroupe les plus grands temples, le château et le grand théâtre. Sur les flancs de la colline se trouve la bourgeoisie et plus bas les ouvriers, paysans et mendiants ainsi que la grande cathédrale de La Lumière blanche. Comme toute grande ville, il existe un grand écart entre les riches et les pauvres.
 
-- Le chemin royal
+==- Le chemin royal
 De l’entrée de Valôme jusqu’au sommet de la colline se trouve un chemin pavé de pierres avec des motifs racontant le passé. Le chemin est en pente et en ligne droite. Des arbres matures se trouvent au centre du chemin en rangée, tel une armée protégeant le chemin vers le château.
 
-- Le château des royaumes
+==- Le château des royaumes
 Au sommet de la colline se trouve le grand château. La plus grande partie est au centre, composé d’une tour centrale qui relie six tours autour qui représente les premiers royaumes. Un château immense de style baroque avec des plafonds ridiculement hauts recouverts de peintures décrivant le passé des royaumes. La partie centrale comprend une salle contenant les trônes au centre sur un petit piédestal et autour, des estrades où les membres des royaumes peuvent siéger pour débattre de politique. On trouve à l’extérieur de cette partie des jardins et quelques maisons pour les invités. Après les jardins vient un mur qui lie les six tours. Le mur comprend plusieurs enclaves où l’on retrouve des trésors du passé et qui lie les douze tours. Il y a une grande porte avec une herse qui est l’entrée de cette magnifique architecture.
-
+===
 +++ La hauteville
 Le grand marché fait tout le tour du château, on y retrouve presque de tout. Il y a également, adossée à la muraille qui protège la haute ville, un bon nombre de boutiques, auberges et résidences pour les princes et leurs invités. On retrouve également le grand théâtre qui est une ancienne cathédrale de La Lumière blanche modifiée. Dans les hauts quartiers juste en bas du grand marché, on retrouve les maisons de la bourgeoisie avec des pubs, restaurants, bains, parcs et spectacles de rue.
 
 
-- Sortilège, magie et objets exotiques en tout genre.
+==- Sortilège, magie et objets exotiques en tout genre.
 Près du château, entre un magasin de vêtements à la mode et un restaurant de fruits de mer, dans un petit recoin de deux mètres de large, se trouve une petite bâtisse de trois étages en vieilles planches noires.  Gravé sur une pancarte de bois, il est inscrit de ne pas nourrir les chats. Étrangement, il y a toujours des chats qui attendent patiemment devant ce magasin. On peut retrouver de tout dans ce magasin.
-
+===
 +++ La basse ville
 La majorité de la population se trouve dans la basse ville, dans des maisons collées les unes aux autres. Il y a toujours une odeur humide qui rôde. On y trouve également la plupart des industries. Il y a beaucoup de moulins, de chantiers navals et de forges. Le bâtiment le plus important dans la basse ville est la cathédrale de La Lumière blanche. Une cathédrale gigantesque qui veille sur les habitants de la capitale.
-+++
+
++++ Activités
 ### Quoi faire dans Les Terres d’avant:
 
-- Guilde d’aventurier : Tout le monde à besoin d’aide et la guilde d’aventurier est là pour répondre à ce besoin. Vous voulez vous faire de l’argent rapidement? Il y a toujours une quête qui n’attend que vous.
-- Jeu politique : Que ce soit pour aider un baron ou en devenir un, les royaumes regorgent d’intrigues, de trahisons et de possibilités enrichissantes.
-- Devenir chevalier : Il n’est pas simple de devenir un héros, c’est un travail acharné qui amène de grandes récompenses, la vie d’un chevalier est une vie de combats et d’aventures.
-- Visiter Valôme : Valôme est la plus grande métropole du monde connu. Si vous cherchez quelque chose, les chances que quelqu’un à Valôme puisse vous aider sont très élevées.
-- Chasse aux envahisseurs : Il existe des tribus de sauvages, d’orcs, de trolls et autres qui attaquent sans relâche le peuple d’avant.
-- Fermer des portails : Les Royaumes d’Avant couvre un territoire gigantesque et des portails s’y cachent à chaque recoin.
+=== Guilde d’aventurier : Tout le monde à besoin d’aide et la guilde d’aventurier est là pour répondre à ce besoin. Vous voulez vous faire de l’argent rapidement? Il y a toujours une quête qui n’attend que vous.
+=== Jeu politique : Que ce soit pour aider un baron ou en devenir un, les royaumes regorgent d’intrigues, de trahisons et de possibilités enrichissantes.
+=== Devenir chevalier : Il n’est pas simple de devenir un héros, c’est un travail acharné qui amène de grandes récompenses, la vie d’un chevalier est une vie de combats et d’aventures.
+=== Visiter Valôme : Valôme est la plus grande métropole du monde connu. Si vous cherchez quelque chose, les chances que quelqu’un à Valôme puisse vous aider sont très élevées.
+=== Chasse aux envahisseurs : Il existe des tribus de sauvages, d’orcs, de trolls et autres qui attaquent sans relâche le peuple d’avant.
+=== Fermer des portails : Les Royaumes d’Avant couvre un territoire gigantesque et des portails s’y cachent à chaque recoin.
+===
++++
 
 ## La Haute-Garde et la Basse-Garde
 
@@ -89,58 +93,58 @@ La Haute-Garde est connue pour ses guerriers sans peur. Ils doivent repousser sa
 
 La Basse-Garde est une région peu hospitalière et plutôt pauvre. C’est un peu pour cela qu’elle fut choisie pour établir les lois des royaumes. Plusieurs chevaliers de la lumière étudient en ces lieux pour défendre la justice. C’est également l’endroit où La Compagnie de l’aube et La Compagnie du crépuscule forment leurs soldats.
 
-Religion
++++ Religion
 Il y a une nouvelle religion qui fait beaucoup d'adeptes dans le nord. Trois rois des glaces capricieux qui demandent d'étranges offrandes, parfois de nature humaine. Sinon les habitants sont plus penchés vers d’anciens dieux comme Okomé ou Dhums.
 
-Politique
++++ Politique
 Le prince des royaumes est élu tous les 5 ans. Il est voté lors d’un grand rassemblement à Valnord. Les prouesses physiques et l’honneur sont les principaux critères pour élire le nouveau prince. Avant, seuls les Nordiens pouvaient se présenter mais cela à changé depuis quelques décennies pour renforcer les gènes.
 
-Population
++++ Population
 On retrouve beaucoup d’humains comme dans le reste du royaume, mais c’est l’endroit où il y a le plus d'orcs, de demi-orcs et de goliaths. Les autres races s’y retrouvent en proportion moindre et sont dispersées. Les Nordiens sont généralement
 
++++ Géographie 
 
+**La Haute-Garde** se situe juste avant les Terres de glace. Des terres avec de grandes collines vertes et des petits boisés. La végétation n’atteint pas une grande hauteur et le sol n’est pas riche pour l’agriculture mais les bêtes qui vivent en ces terres sont immenses et goûteuses. 
 
+**La Basse-Garde** est un endroit marécageux et humide.
 
-Géographie 
-
-La Haute-Garde se situe juste avant les Terres de glace. Des terres avec de grandes collines vertes et des petits boisés. La végétation n’atteint pas une grande hauteur et le sol n’est pas riche pour l’agriculture mais les bêtes qui vivent en ces terres sont immenses et goûteuses. 
-
-La Basse-Garde est un endroit marécageux et humide.
-
-L’Aigle de pierre
+==- **L’Aigle de pierre**
 Une forteresse qui observe le sud, et un bon point d’observation sur les Gordals. Cette forteresse est faite de pierre et longe une colline verte. La verdure a réussi à pénétrer la base de la forteresse et s'esquisse vers le sommet de celle-ci. La garde qui s’y trouve est légère car beaucoup de tribus se trouvent dans les Gordals et un simple son de la cloche de L’Aigle de pierre attire les plus grands guerriers de ces tribus qui ont soif de gloire.
 
-La Croisée
+==- **La Croisée**
 Une ville qui se trouve au centre de deux routes et deux rivières qui confluent. C’est le plus grand marché du du nord, de nombreux commerçants y font escale pour acheter ou vendre des produits locaux.
 
-Les Gordals
+==- **Les Gordals**
 Les Gordals sont plusieurs collines attachées les unes aux autres. Sur ces terres vivent la majorité des peuples du nord. De type plus nomade, il y a peu de ville ou village dans cette région. Les peuples suivent les troupeaux d’animaux sauvages gigantesques pour aller par la suite vendre leurs prises à La Croisée.
 
-Pointe-à-la-croix
+==- **Pointe-à-la-croix**
 Un petit village de pêcheurs au sud des Terres du nord. Village avec beaucoup de bateaux de pêche qui nourrit une bonne partie des villes et villages des royaumes du nord. Il éclate parfois de petites chicanes de pêcheurs entre Pointe-à-la-Croix et Mismourt.
 
-Mismourt
+==- **Mismourt**
 Une ville qui vit de la chasse et de la pêche. Moins connue pour ses prises spectaculaires que Pointe-à-la-Croix, Mismourt est par contre reconnue pour ses chasseurs hors pair.
-  
-
-
-FrancVal, la Cité de la justice
+===
++++ Capitale
+==- FrancVal, la Cité de la justice
 FrancVal est une ville froide, les murs sont élevés et imposants. Les tours sont grises et il y a peu de végétation dans la ville. Les gens sont peu bavards et se mêlent peu des affaires des autres.  On y trouve un palais de justice très ancien où les hauts jugements et l’écriture de lois se font toujours. Il y a également la bibliothèque du passé qui contient l’histoire des royaumes et plusieurs écrits datant de l'arrivée des nains, de la guerre des elfes. Il va s’en dire qu’il y traîne beaucoup d’érudits dans les rues et ils sont aussi mornes que  cette ville.
 
-Valnord, la cité des guerriers
+==- Valnord, la cité des guerriers
 
 Capitale des royaumes du nord, Valnord reste très modeste. Une palissade de bois entoure la 
 plus grande partie de la ville. Une tranchée contourne la palissade à quelques mètres de distance et un pont levis pliant permet de la traverser.
 
 La capitale est grosse comme une ville pour d’autres royaumes, mais c’est une grande agglomération de population pour le nord. Majoritairement nomade, le peuple du nord est rarement regroupé à un seul endroit. On y retrouve des artisans de renom capables de tanner les peaux des créatures féroces chassées sur les terres pour en faire de belles armures, tentes ou autres objets de cuir.
 
-Quoi faire dans la Basse-Garde et la Haute-Garde:
++++ Activités
+### Quoi faire dans la Basse-Garde et la Haute-Garde:
 
-Guildes de mercenaires : Les guildes de mercenaires du royaume du nord sont les plus réputées. Après tout, les peuples du nord voient plus de combat en une année que en une vie dans d’autres royaumes.
-Chasse et pêche : Que ce soit pour aider un baron ou en devenir un, les royaumes regorgent d’intrigues, de trahisons et de possibilités enrichissantes.
-Étudier les lois à FrancVal : Toutes les lois des royaumes s’y trouvent et des sages les connaissent presque par cœur ou du moins savent où chercher.
-Les bibliothèques du passé à FrancVal : Les écrits restent et les bibliothèques du passé conservent la majorité de ceux-ci. On peut trouver des exemplaires datant de l'arrivée des nains sur ces terres.
-Le Domaine de la Sacrifiée
+=== Guildes de mercenaires : Les guildes de mercenaires du royaume du nord sont les plus réputées. Après tout, les peuples du nord voient plus de combat en une année que en une vie dans d’autres royaumes.
+=== Chasse et pêche : Que ce soit pour aider un baron ou en devenir un, les royaumes regorgent d’intrigues, de trahisons et de possibilités enrichissantes.
+=== Étudier les lois à FrancVal : Toutes les lois des royaumes s’y trouvent et des sages les connaissent presque par cœur ou du moins savent où chercher.
+=== Les bibliothèques du passé à FrancVal : Les écrits restent et les bibliothèques du passé conservent la majorité de ceux-ci. On peut trouver des exemplaires datant de l'arrivée des nains sur ces terres.
+===
++++
+
+## Le Domaine de la Sacrifiée
 
 
 Ces terres sont riches en minéraux et très fertiles. L'agriculture y est très développée et très avancée grâce à la magie. Hautval est également un lieu où les talents artistiques sont à l'honneur, que ce soit la peinture, la couture, le chant ou la danse. En fait, HautVal est un petit paradis, tout a meilleur goût, le vin, le pain et même l'amour. Cependant, ces terres sont sous l'influence du monde des fées; les portails entre les deux mondes sont nombreux et influencent beaucoup la population malgré les avertissements répétés de nombreuses fois.
