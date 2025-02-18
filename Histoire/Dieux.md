@@ -33,7 +33,7 @@ Dieu de la nature, la vie, les tempêtes et la lumière. Il avait d'autres rôle
 Déesse de l'ordre, la forge, la lumière et la paix. Runel est une déesse créée par le peuple nain au départ, lors de l’établissement des lois. Ces lois sont encore utilisées aujourd’hui. On représente Runel par un marteau ou la lance de la justice. La représentation physique de Runel change selon le peuple, parfois une ange aux cheveux longs, les yeux bandés; une naine au regard accusateur ou même une elfe en armure avec une lance qui pointe devant elle. On prête souvent serment devant elle. Runel représente également une fête lors du solstice d'hiver où l’on offrent des cadeaux aux autres. Partout dans les royaumes on nomme ce moment la fête de Runel.
 
 ## Le voyageur/se
-![](/Images/Voyageyrse.png)-
+![](/Images/Voyageurse.png)-
 Dieu ou déesse du crépuscule, des supercheries et des connaissances. Il ou elle est nouveau/nouvelle dans le panthéon. Le monde le ou la lie à La guilde marchande. On le ou la représente par une paire de bottes ou une cagoule. Il ou elle est de plus en plus reconnu(e) dans le panthéon. Bien qu’il ou elle n’a toujours pas de visage, ses fidèles le ou la respectent énormément. C’est une sorte de vision du futur où tout le monde s’entraide et travaille ensemble sans se fier aux idées préconçues. Souvent prêché par les voyageurs, les bardes et voleurs.
 
 ## Waltz 
