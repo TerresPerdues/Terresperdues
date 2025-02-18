@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="turbo-root" content="/Terresperdues">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.793221085968">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.793221403829">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.6.0">
@@ -31,11 +31,11 @@
 
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="../../resources/css/retype.css?v=3.6.0.793221085968" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.6.0.793221403829" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.793221085968" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.793221403829" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.6.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.793221085968" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.793221403829" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -247,11 +247,11 @@
 <p>Une grande ville elfique en harmonie avec la nature. On peut trouver plusieurs ponts d’arbre en arbre. Les animaux sauvages se retrouvent souvent dans les rues de cette ville, marchant librement; carnivores et herbivores se côtoient sans problème.</p>
    </doc-panel>
    <doc-panel id="behir" collapsed>
-       <template #title>Behir</template>
+       <template #title><strong>Behir</strong></template>
 <p>Un ancienne forteresse naine, très vieille, remplit de sous terrains. Quelques drake se trouvent dans la région et les chasseurs de draconides s’y pratiquent souvent à la chasse.</p>
    </doc-panel>
    <doc-panel id="kavarkd-hum" collapsed>
-       <template #title>Kavarkd’hum</template>
+       <template #title><strong>Kavarkd’hum</strong></template>
 <p>Passage entre les montagnes, c’est un tunnel immense d&#x27;ingénierie naine qui traverse 100 km de montagne. On retrouve des gravures représentant l’histoire des nains. Il y a également des haltes et des restaurants dans le tunnel.</p>
    </doc-panel>
 </doc-panels>
@@ -276,6 +276,8 @@
    </doc-panel>
 </doc-panels>
 </doc-tab>
+</doc-tabs>
+<doc-tabs>
 <doc-tab v-cloak id="la-hauteville">
 <template #title>La hauteville</template>
 <p>Le grand marché fait tout le tour du château, on y retrouve presque de tout. Il y a également, adossée à la muraille qui protège la haute ville, un bon nombre de boutiques, auberges et résidences pour les princes et leurs invités. On retrouve également le grand théâtre qui est une ancienne cathédrale de La Lumière blanche modifiée. Dans les hauts quartiers juste en bas du grand marché, on retrouve les maisons de la bourgeoisie avec des pubs, restaurants, bains, parcs et spectacles de rue.</p>
@@ -297,23 +299,29 @@
     </h3>
 </doc-anchor-target>
 <doc-panels>
-   <doc-panel id="guilde-d-aventurier-tout-le-monde-à-besoin-d-aide-et-la-guilde-d-aventurier-est-là-pour-répondre-à-ce-besoin-vous-voulez-vous-faire-de-l-argent-rapidement-il-y-a-toujours-une-quête-qui-n-attend-que-vous">
-       <template #title>Guilde d’aventurier : Tout le monde à besoin d’aide et la guilde d’aventurier est là pour répondre à ce besoin. Vous voulez vous faire de l’argent rapidement? Il y a toujours une quête qui n’attend que vous.</template>
+   <doc-panel id="guilde-d-aventurier">
+       <template #title>Guilde d’aventurier :</template>
+<p>Tout le monde à besoin d’aide et la guilde d’aventurier est là pour répondre à ce besoin. Vous voulez vous faire de l’argent rapidement? Il y a toujours une quête qui n’attend que vous.</p>
    </doc-panel>
-   <doc-panel id="jeu-politique-que-ce-soit-pour-aider-un-baron-ou-en-devenir-un-les-royaumes-regorgent-d-intrigues-de-trahisons-et-de-possibilités-enrichissantes">
-       <template #title>Jeu politique : Que ce soit pour aider un baron ou en devenir un, les royaumes regorgent d’intrigues, de trahisons et de possibilités enrichissantes.</template>
+   <doc-panel id="jeu-politique">
+       <template #title>Jeu politique :</template>
+<p>Que ce soit pour aider un baron ou en devenir un, les royaumes regorgent d’intrigues, de trahisons et de possibilités enrichissantes.</p>
    </doc-panel>
-   <doc-panel id="devenir-chevalier-il-n-est-pas-simple-de-devenir-un-héros-c-est-un-travail-acharné-qui-amène-de-grandes-récompenses-la-vie-d-un-chevalier-est-une-vie-de-combats-et-d-aventures">
-       <template #title>Devenir chevalier : Il n’est pas simple de devenir un héros, c’est un travail acharné qui amène de grandes récompenses, la vie d’un chevalier est une vie de combats et d’aventures.</template>
+   <doc-panel id="devenir-chevalier">
+       <template #title>Devenir chevalier :</template>
+<p>Il n’est pas simple de devenir un héros, c’est un travail acharné qui amène de grandes récompenses, la vie d’un chevalier est une vie de combats et d’aventures.</p>
    </doc-panel>
-   <doc-panel id="visiter-valôme-valôme-est-la-plus-grande-métropole-du-monde-connu-si-vous-cherchez-quelque-chose-les-chances-que-quelqu-un-à-valôme-puisse-vous-aider-sont-très-élevées">
-       <template #title>Visiter Valôme : Valôme est la plus grande métropole du monde connu. Si vous cherchez quelque chose, les chances que quelqu’un à Valôme puisse vous aider sont très élevées.</template>
+   <doc-panel id="visiter-valôme">
+       <template #title>Visiter Valôme :</template>
+<p>Valôme est la plus grande métropole du monde connu. Si vous cherchez quelque chose, les chances que quelqu’un à Valôme puisse vous aider sont très élevées.</p>
    </doc-panel>
-   <doc-panel id="chasse-aux-envahisseurs-il-existe-des-tribus-de-sauvages-d-orcs-de-trolls-et-autres-qui-attaquent-sans-relâche-le-peuple-d-avant">
-       <template #title>Chasse aux envahisseurs : Il existe des tribus de sauvages, d’orcs, de trolls et autres qui attaquent sans relâche le peuple d’avant.</template>
+   <doc-panel id="chasse-aux-envahisseurs">
+       <template #title>Chasse aux envahisseurs :</template>
+<p>Il existe des tribus de sauvages, d’orcs, de trolls et autres qui attaquent sans relâche le peuple d’avant.</p>
    </doc-panel>
-   <doc-panel id="fermer-des-portails-les-royaumes-d-avant-couvre-un-territoire-gigantesque-et-des-portails-s-y-cachent-à-chaque-recoin">
-       <template #title>Fermer des portails : Les Royaumes d’Avant couvre un territoire gigantesque et des portails s’y cachent à chaque recoin.</template>
+   <doc-panel id="fermer-des-portails">
+       <template #title>Fermer des portails :</template>
+<p>Les Royaumes d’Avant couvre un territoire gigantesque et des portails s’y cachent à chaque recoin.</p>
    </doc-panel>
 </doc-panels>
 </doc-tab>
@@ -412,14 +420,22 @@ plus grande partie de la ville. Une tranchée contourne la palissade à quelques
     </h2>
 </doc-anchor-target>
 <p>Ces terres sont riches en minéraux et très fertiles. L&#x27;agriculture y est très développée et très avancée grâce à la magie. Hautval est également un lieu où les talents artistiques sont à l&#x27;honneur, que ce soit la peinture, la couture, le chant ou la danse. En fait, HautVal est un petit paradis, tout a meilleur goût, le vin, le pain et même l&#x27;amour. Cependant, ces terres sont sous l&#x27;influence du monde des fées; les portails entre les deux mondes sont nombreux et influencent beaucoup la population malgré les avertissements répétés de nombreuses fois.</p>
-<p>Religion et faction
-Les cultes et les sectes étranges sont monnaie courante dans ce royaume. Le culte de la Sacrifiée est très présent en ces terres. On raconte qu’une femme a offert en sacrifice sa vie et tout l’amour qu’elle avait pour son peuple en échange que les fées annulent les pactes de ces derniers. Elle se serait noyée dans l’eau avec une pierre au cou. Les prêtres de la Sacrifiée portent une corde autour du cou avec une pierre pour porter la souffrance de leur déesse. Il existe également plusieurs cultes reliés aux diverses monstres qui vivent en ces lieux.</p>
-<p>Politique
-Le prince de ce royaume adore les fêtes, les bals et les tournois. Il possède de nombreux châteaux qui sont tout autant magnifiques les uns que les autres. Il règne en roi, il peut changer des lois comme bon lui semble et surtout, à son avantage. HautVal est réputé pour être à l’avance sur la mode et dicte souvent les nouvelles tendances aux autres royaumes.</p>
-<p>Population
-On retrouve de tout dans ce royaume, même des monstres. Il existe une différence marquée entre la classe bourgeoise et la classe ouvrière. Malgré tout, la population est toujours courtoise, c’est mal vu de ne pas dire bonjour à quelqu’un que l’on croise. La population se pervertit dans les pactes avec des fées et a plusieurs coutumes toutes aussi étranges que farfelues; par exemple pour la natalité, lors de la conception se mettre du sel sur la tête donne plus de chance d’avoir un garçon et c’est du poivre pour une fille. Il y a également une méfiance envers les peuples autres que ceux provenant de la féérie.</p>
-<p>Géographie</p>
-<p>Le lac de la Sacrifiée
+<doc-tabs>
+<doc-tab v-cloak id="religion-et-faction">
+<template #title>Religion et faction</template>
+<p>Les cultes et les sectes étranges sont monnaie courante dans ce royaume. Le culte de la Sacrifiée est très présent en ces terres. On raconte qu’une femme a offert en sacrifice sa vie et tout l’amour qu’elle avait pour son peuple en échange que les fées annulent les pactes de ces derniers. Elle se serait noyée dans l’eau avec une pierre au cou. Les prêtres de la Sacrifiée portent une corde autour du cou avec une pierre pour porter la souffrance de leur déesse. Il existe également plusieurs cultes reliés aux diverses monstres qui vivent en ces lieux.</p>
+</doc-tab>
+<doc-tab v-cloak id="politique">
+<template #title>Politique</template>
+<p>Le prince de ce royaume adore les fêtes, les bals et les tournois. Il possède de nombreux châteaux qui sont tout autant magnifiques les uns que les autres. Il règne en roi, il peut changer des lois comme bon lui semble et surtout, à son avantage. HautVal est réputé pour être à l’avance sur la mode et dicte souvent les nouvelles tendances aux autres royaumes.</p>
+</doc-tab>
+<doc-tab v-cloak id="population">
+<template #title>Population</template>
+<p>On retrouve de tout dans ce royaume, même des monstres. Il existe une différence marquée entre la classe bourgeoise et la classe ouvrière. Malgré tout, la population est toujours courtoise, c’est mal vu de ne pas dire bonjour à quelqu’un que l’on croise. La population se pervertit dans les pactes avec des fées et a plusieurs coutumes toutes aussi étranges que farfelues; par exemple pour la natalité, lors de la conception se mettre du sel sur la tête donne plus de chance d’avoir un garçon et c’est du poivre pour une fille. Il y a également une méfiance envers les peuples autres que ceux provenant de la féérie.</p>
+</doc-tab>
+<doc-tab v-cloak id="géographie">
+<template #title>Géographie</template>
+<p>** Le lac de la Sacrifiée
 C’est un lac qui couvre une grande partie de la vallée. C’est dans celui-ci qu’une elfe s&#x27;est sacrifiée pour faire annuler les pactes que les gens de son peuple avaient fait avec les fées. Malheureusement, les gens du peuple ont recommencé ces pratiques malsaines.
 Hautval
 C’est une ville très grande en superficie, peu d’édifices en hauteur; si bien que l’on voit très bien les gigantesques moulins à vent. Très peu de protection également, il n’y a pas de point spécifique d’entrée à la ville. Le centre de la ville est le mieux protégé, c’est le quartier du prince et de la haute bourgeoisie. On retrouve tout autour les quartiers plus pauvres. Plusieurs grandes rivières serpentent la ville, on y retrouve des ponts qui peuvent contenir des quartiers complets.</p>
@@ -566,6 +582,7 @@ Dernièrement certains chasseurs ont remarqué la présence de créatures gigant
 <p>Cette mer intérieure nouvellement née est en fait le résultat d&#x27;un courant chaud de l&#x27;Océan intrépide qui a pénétré sur les terres du nord. L&#x27;océan de l&#x27;ouest des royaumes a en fait débordé avec le temps. Le facteur provoquant ce phénomène est que les mers qui existaient sur le côté nord des terres gelées sont devenues d&#x27;immenses terres de glace. Cette expansion a poussé l’Océan Intrépide à se frayer un chemin entre le Mont de la divinité et les Sanguinaires. Ce qui a engendré la seule voie maritime praticable dans le Glaceterre et permettant de se rendre dans la première cité que l&#x27;on nomme Valbrise. Cela n&#x27;empêche pas que la navigation reste ardue avec les nombreux icebergs qui se fracassent. Seuls des navigateurs avec de l&#x27;expérience se risquent au périple, connaissant les courants marins de l&#x27;endroit.
 Le Monde d’En Dessous</p>
 <p>Le Monde d’En dessous est une histoire d’horreur pour les enfants…</p>
+</doc-tab>
 
                                 
                                 <!-- Required only on API pages -->
