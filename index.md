@@ -4,7 +4,7 @@ order: 1000
 icon: ":sparkles:"
 ---
 :::banner
-![](/Images/TerresPerduesLogo.png)
+![](/Images/TerresPerduesLogoPetit.png)
 :::
 
 <style>
