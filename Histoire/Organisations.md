@@ -1,6 +1,6 @@
 ---
 label: Les Organisations
-order: 1004
+order: 4
 icon: ":scroll:"
 ---
 
