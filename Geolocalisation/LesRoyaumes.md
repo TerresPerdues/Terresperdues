@@ -78,17 +78,17 @@ La majorité de la population se trouve dans la basse ville, dans des maisons co
 +++ Activités
 ### Quoi faire dans Les Terres d’avant:
 
-=== Guilde d’aventurier :
+==- Guilde d’aventurier :
 Tout le monde à besoin d’aide et la guilde d’aventurier est là pour répondre à ce besoin. Vous voulez vous faire de l’argent rapidement? Il y a toujours une quête qui n’attend que vous.
-=== Jeu politique :
+==- Jeu politique :
 Que ce soit pour aider un baron ou en devenir un, les royaumes regorgent d’intrigues, de trahisons et de possibilités enrichissantes.
-=== Devenir chevalier :
+==- Devenir chevalier :
 Il n’est pas simple de devenir un héros, c’est un travail acharné qui amène de grandes récompenses, la vie d’un chevalier est une vie de combats et d’aventures.
-=== Visiter Valôme :
+==- Visiter Valôme :
 Valôme est la plus grande métropole du monde connu. Si vous cherchez quelque chose, les chances que quelqu’un à Valôme puisse vous aider sont très élevées.
-=== Chasse aux envahisseurs :
+==- Chasse aux envahisseurs :
 Il existe des tribus de sauvages, d’orcs, de trolls et autres qui attaquent sans relâche le peuple d’avant.
-=== Fermer des portails :
+==- Fermer des portails :
 Les Royaumes d’Avant couvre un territoire gigantesque et des portails s’y cachent à chaque recoin.
 ===
 +++
@@ -142,13 +142,13 @@ La capitale est grosse comme une ville pour d’autres royaumes, mais c’est un
 +++ Activités
 ### Quoi faire dans la Basse-Garde et la Haute-Garde:
 
-=== Guildes de mercenaires : 
+==- Guildes de mercenaires : 
 Les guildes de mercenaires du royaume du nord sont les plus réputées. Après tout, les peuples du nord voient plus de combat en une année que en une vie dans d’autres royaumes.
-=== Chasse et pêche : 
+==- Chasse et pêche : 
 Que ce soit pour aider un baron ou en devenir un, les royaumes regorgent d’intrigues, de trahisons et de possibilités enrichissantes.
-=== Étudier les lois à FrancVal : 
+==- Étudier les lois à FrancVal : 
 Toutes les lois des royaumes s’y trouvent et des sages les connaissent presque par cœur ou du moins savent où chercher.
-=== Les bibliothèques du passé à FrancVal : 
+==- Les bibliothèques du passé à FrancVal : 
 Les écrits restent et les bibliothèques du passé conservent la majorité de ceux-ci. On peut trouver des exemplaires datant de l'arrivée des nains sur ces terres.
 ===
 +++
@@ -172,14 +172,15 @@ On retrouve de tout dans ce royaume, même des monstres. Il existe une différen
 C’est un lac qui couvre une grande partie de la vallée. C’est dans celui-ci qu’une elfe s'est sacrifiée pour faire annuler les pactes que les gens de son peuple avaient fait avec les fées. Malheureusement, les gens du peuple ont recommencé ces pratiques malsaines.
 ===
 +++ Capitale
-== Hautval
+==- Hautval
 C’est une ville très grande en superficie, peu d’édifices en hauteur; si bien que l’on voit très bien les gigantesques moulins à vent. Très peu de protection également, il n’y a pas de point spécifique d’entrée à la ville. Le centre de la ville est le mieux protégé, c’est le quartier du prince et de la haute bourgeoisie. On retrouve tout autour les quartiers plus pauvres. Plusieurs grandes rivières serpentent la ville, on y retrouve des ponts qui peuvent contenir des quartiers complets.
 
-=== La haute ville
+==- La haute ville
 La haute ville est peuplée par la bourgeoisie, on y retrouve beaucoup de créatures elfiques et une grande concentration de haut elf, les maisons sont habituellement en hauteur.
 
-=== La basse ville
+==- La basse ville
 Aux extrémités de la ville ou encore sous les ponts, se trouvent les moins fortunés de la ville. Ils sont souvent négligés, la maladie les ronge, la famine et les prédateurs y courent.
+===
 +++ Activités
 Quoi faire dans ce royaume:
 
@@ -217,6 +218,7 @@ Les plus grands combattants de tous les royaumes vont souvent régler leurs comp
 
 ==- Mont Olys
 Un mont très élevé qui monte jusqu'au-dessus des nuages. On dit que cette montagne a plus de 14 000 marches et certains pèlerins font le chemin pour se rendre jusqu’au sommet où se trouve des effigies de plusieurs dieux.
+===
 +++ Capitale
 === Valheureux, Cité des rêves
 Valheureux est contrôlée par un conseil de marchands. La ville est basée sur les commerces, les restaurants et les tout inclus. Elle est réputée pour ses maisons aux toits bleutés et ses murs d’un blanc étincelant. Plusieurs vieux généraux vivent également dans cette ville, on les dit à la retraite, mais le sont-ils vraiment?
@@ -224,12 +226,12 @@ Valheureux est contrôlée par un conseil de marchands. La ville est basée sur 
 +++ Activités
 Quoi faire dans ce royaume:
 
-=== Guilde d’aventurier : 
+====- Guilde d’aventurier : 
 Tout le monde a besoin d’aide et la guilde d’aventurier est là pour répondre à ce besoin. Vous voulez vous faire de l’argent rapidement? Il y a toujours une quête qui n’attend que vous.
-=== Jeu politique : 
+===- Jeu politique : 
 Que ce soit pour aider un baron ou en devenir un, Valheureux regorge d’intrigues, de trahisons et de possibilités enrichissantes.
-=== Visiter Valheureux :
- Valheureux est une ville magnifique, avec ses sculptures et son architecture étrange et ses couleurs bleutées.
+==- Visiter Valheureux :
+Valheureux est une ville magnifique, avec ses sculptures et son architecture étrange et ses couleurs bleutées.
 ===
 +++
 
@@ -249,12 +251,13 @@ Un grand royaume nain couvre la première partie des Terres de Glace. Plusieurs 
 +++ Capitale
 === Val Gelé
 C’est une ville fortifiée pour se protéger des monstres du nord. On y retrouve également une vieille cité naine qui a été vidé de ses ressources.
-
+===
++++ Activités
 Quoi faire dans ce royaume:
 
 === Chercher des objets magiques :
 C’est une vieille terre où de nombreux combats ont eu lieu jadis. On parle de guerre des nains et des elfes.
-=== Combattre le mal :
+==- Combattre le mal :
 Le mal est toujours présent dans le nord, des créatures maléfiques semblent provenir de partout sous la glace épaisse.
 ===
 +++
@@ -272,7 +275,6 @@ C’est une seule famille qui dirige toujours le royaume de La Côte du Bouclier
 +++ Population
 Il y a un peu de tout dans ce royaume. On y trouve même plusieurs vampires et dhampirs qui ont un quartier à eu dans Valrive. Les humains restent les plus nombreux et il a de moins en moins de représentants du peuple de la féérie, qui quittent tranquillement ce royaume pour aller vers d’autres plus prometteurs.
 
-
 +++ Géographie 
 On décrit les principaux lieux de ce royaume.
 
@@ -280,15 +282,12 @@ On décrit les principaux lieux de ce royaume.
 ### Valrive
 Valrive est une ville portuaire réputée pour ses inventions magiques et son ouverture envers toutes les races. On y retrouve plusieurs quartiers industriels, la production est grandement supérieure à partout ailleurs. Près du port, ce sont de multiples usines arcaniques qui fonctionnent à plein régime sur le flanc de la montagne. Les rues sont pavées de belles pierres et éclairées de lampadaires à lumière continuelle qui permettent de voir malgré la fumée qui s’expire des poumons sales de la ville.
 
-## Val’dorei,
+### Val’dorei,
 L’ancienne cité des ancêtres, avant la guerre la cité s’appelait ValBois. Mais depuis que la cité est devenue une ruine, elle a retrouvé son nom elfique de Val’dorei. En son centre se trouve un arbre datant de la création, il fait plusieurs kilomètres de haut si bien que parfois la cime se trouve dans les nuages. L’arbre de vie semble mort. Il est dénudé de feuille et des sortes de longue bannière, passerelle ou demeure pendent de ses branches donnant un aspect lugubre à ce qui était autrefois un phare de la vie. S’ajoute à cela le sifflement du vent au travers ces vestiges et de la mélodie sombre et profonde que les restes des passerelles de bois qui se frappent ensemble pouvant rappeler de façon macabre un carillon de bois. 
 
 +++ Activités
 Quoi faire dans ce royaume :
-
-Exemple :
-
-Guilde d’aventurier : 
++++
 
 ## Les Terres de l’Espoir
 
@@ -311,7 +310,7 @@ une description de la capitale et de ses lieux importants.
 
 +++ Activités 
 Quoi faire dans ce royaume :
-
++++
 
 ## Les Terres de Waltz
 
@@ -322,28 +321,25 @@ La magie est omniprésente sur les terres de Waltz, tout ce qui est vivant en es
 
 +++ Religion
 
-
 +++ Politique
-
 
 +++ Population
 
-
 +++ Géographie 
 
-=== Les terres de l’oubli 
+==- Les terres de l’oubli 
 
 Si vous avez oublié ou perdu quelque chose un jour ou l’autre, il est possible qu’elle se trouve dans les terres de l’oubli. C’est un endroit avec des montagnes d’objets empilés, tous oubliés ou perdus par leur propriétaire. Le danger lorsque l’on se promène sur ces terres c’est d’oublier qui on est.
 
-=== La terre des fées
+==- La terre des fées
 Il existe une terre avec des jardins magnifiques que les fées entretiennent avec passion.
 
-=== La baie des pirates 
+==- La baie des pirates 
 Attention moussaillon, cet endroit n’est pas pour les marins d’eau douce!
 
-=== Les îles flottantes 
+==- Les îles flottantes 
 
-=== Les terres du futures 
+==- Les terres du futures 
 ===
 
 +++ Capitale
@@ -358,11 +354,11 @@ Le collège ressemble à un château avec des tours rondes, les couleurs peuvent
 +++ Activités 
 Quoi faire sur les terres de Waltz :
 
-=== Visiter le collège d’Albion : 
+==- Visiter le collège d’Albion : 
 Vous cherchez à apprendre la magie, ne cherchez pas plus loin, c’est la meilleure école, cependant, si le collège ne vous a pas choisi, vous risquez de ne jamais vous y rendre…
-=== Trouver un objet perdu sur les terres de l’oubli : 
+==- Trouver un objet perdu sur les terres de l’oubli : 
 Lorsque l’on oublie quelque chose il arrive souvent qu’elle tombe sur les terres de l’oubli. Le plus grand danger est de s'oublier soi-même!
-=== Les conseils du grand chêne : 
+==- Les conseils du grand chêne : 
 Dans la forêt enchantée se trouve un chêne gigantesque que les elfes appellent « le grand chêne » ils manquaient d’imagination à l’époque, mais reste que ce chêne possède des millénaires de connaissances. Il est un peu dur de la feuille, mais peut guider les âmes protectrices de la faune.
 ===
 +++
@@ -389,22 +385,23 @@ La population générale de ce royaume
 
 +++ Géographie 
 
++++ Capitale
 
++++ Activités
 Guilde d’aventurier : 
-Autres
-Océan Intrépide
+
++++
+
+## Autres
+==- Océan Intrépide
 S’étendant du nord au sud à l’ouest des royaumes, l'Océan intrépide est souvent appelé aussi l'Océan de la vie car il est présent depuis des lustres et depuis même la création. Ce n'est pas pour rien qu'il abrite la terre des anciens dieux. Cependant plus l'étendue est grande, tumultueuse, historique plus de nombreux événements maritimes ont eu lieu. Guerres navales, tempêtes, créatures gigantesques sont quelques-unes des raisons des nombreuses épaves dans le fond des profondeurs de cet immense monde aquatique.
 
-Mer des quatre plis
+==- Mer des quatre plis
 Situé au sud des Terres d'Avant, bordée par le domaine de la Sacrifiée et Les Terres libres à l'est. La Mer des quatre plis, aussi belle qu'un miroir lorsque que les vents sont calmes et chaotique quand les brumes et les vents d'Okomé se mettent de la partie. Ce qui rend la tâche difficile et dangereuse pour les navigateurs les plus chevronnés.
 
 Sur l'extrémité ouest, nous retrouvons L’Archipel Fracassé et l'Océan intrépide qui rejoignent celle-ci. Ce qui est possiblement la cause majeure des climats changeant de cette mer. L’Archipel est également un carrefour vers les plans élémentaires. Alors de tout mettre sur le dos de Okomé serait possiblement erroné pour certains.
 
 Les brumes et les îles mouvantes n'aident pas non plus. Les îles mouvantes seraient le résultat de changements constants des plaques tectoniques selon certains. Cependant les brumes qui sont envahissantes et mystiques en seraient également la cause. Peu de scientifiques en sont revenus sains et saufs et peu veulent prendre le risque de connaître la vérité.
-
-Géographie
-
-
 
 Le nom de la Mer des quatre plis provient justement de la population aquatique qui l’habite. Ils disent que la mer est séparée de façon bien définie en quatre strates. Chacune déterminant les territoires de chacun. 
 La mer intérieure
@@ -413,11 +410,11 @@ L'outre-mer
 Les profondeurs inconnues
 
 
-La longue barrière
+==- La longue barrière
 Cette chaîne de montagne septentrionale est la plus longue de tous les royaumes. Cette barrière naturelle permet encore de protéger du froid glacial provenant de Glaceterre. Débutant peu après à l'est des Gordals et progresse vers le nord en dépassant les terres du nord-est. 
 Par le passé, ce bouclier naturel à peut-être protégé, selon des dires, d'un cataclysme arcanique sans  précédent qui aurait mis les royaumes dans une époque glaciaire qui aurait sûrement dévasté le monde. Cependant les sages de la cité de Valbrume ont remarqué une progression de la calotte glacière de Glaceterre. Alors une inquiétude règne sur l’avenir prometteur que nous connaissons.
 
-Les Grands Pics
+==- Les Grands Pics
 Séparant deux terres et abritant la porte de multiple d'autres. Les Grands Pics est une frontière naturelle des terres d'avant, de la basse garde et de la haute garde.  Celle-ci regorge de plusieurs minerais. 
 Populations
 Anciennement abrité par les nains mais aujourd'hui de plus en plus inhospitalière du côté nord des grands pics. Les humanoïdes sont de plus en plus rares. Par contre, la partie sud est habitée par la partie mystérieuse de l'endroit.  Le passage de brume est la porte vers les terres de waltz et le célèbre collège de mage d'Albion.  L'illusion est maintenant la réalité. Phrase souvent entendue des gens de la région des terres d'avant expliquant la complexité de l'endroit.
@@ -425,9 +422,10 @@ Faunes
 Il y a plusieurs  années, les grands pics étaient infestés de Béhir. Cette créature au tempérament vicieux et malfaisant était un fléau pour les nains qui partageaient le territoire à l'époque. Avec le temps, les nains ont réussi à exterminer cette race dans la région. Dont le nom de leur forteresse du même nom. Cependant cette extermination à permis aux créatures draconiques les Drakes de prendre de l'expansion. Aujourd'hui plusieurs chasseurs sont à la recherche de ceux-ci pour prévenir la population grandissante.
 Dernièrement certains chasseurs ont remarqué la présence de créatures gigantesques ailées dans les hautes montagnes. La brève description donne l'apparence de Roc.
 
-Glace Mer
+==- Glace Mer
 
 Cette mer intérieure nouvellement née est en fait le résultat d'un courant chaud de l'Océan intrépide qui a pénétré sur les terres du nord. L'océan de l'ouest des royaumes a en fait débordé avec le temps. Le facteur provoquant ce phénomène est que les mers qui existaient sur le côté nord des terres gelées sont devenues d'immenses terres de glace. Cette expansion a poussé l’Océan Intrépide à se frayer un chemin entre le Mont de la divinité et les Sanguinaires. Ce qui a engendré la seule voie maritime praticable dans le Glaceterre et permettant de se rendre dans la première cité que l'on nomme Valbrise. Cela n'empêche pas que la navigation reste ardue avec les nombreux icebergs qui se fracassent. Seuls des navigateurs avec de l'expérience se risquent au périple, connaissant les courants marins de l'endroit.
-Le Monde d’En Dessous
+
+## Le Monde d’En Dessous
 
 Le Monde d’En dessous est une histoire d’horreur pour les enfants…
