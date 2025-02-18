@@ -64,7 +64,6 @@ De l’entrée de Valôme jusqu’au sommet de la colline se trouve un chemin pa
 
 ==- Le château des royaumes
 Au sommet de la colline se trouve le grand château. La plus grande partie est au centre, composé d’une tour centrale qui relie six tours autour qui représente les premiers royaumes. Un château immense de style baroque avec des plafonds ridiculement hauts recouverts de peintures décrivant le passé des royaumes. La partie centrale comprend une salle contenant les trônes au centre sur un petit piédestal et autour, des estrades où les membres des royaumes peuvent siéger pour débattre de politique. On trouve à l’extérieur de cette partie des jardins et quelques maisons pour les invités. Après les jardins vient un mur qui lie les six tours. Le mur comprend plusieurs enclaves où l’on retrouve des trésors du passé et qui lie les douze tours. Il y a une grande porte avec une herse qui est l’entrée de cette magnifique architecture.
-===
 
 ==- La hauteville
 Le grand marché fait tout le tour du château, on y retrouve presque de tout. Il y a également, adossée à la muraille qui protège la haute ville, un bon nombre de boutiques, auberges et résidences pour les princes et leurs invités. On retrouve également le grand théâtre qui est une ancienne cathédrale de La Lumière blanche modifiée. Dans les hauts quartiers juste en bas du grand marché, on retrouve les maisons de la bourgeoisie avec des pubs, restaurants, bains, parcs et spectacles de rue.
@@ -74,6 +73,7 @@ Près du château, entre un magasin de vêtements à la mode et un restaurant de
 
 ==- La basse ville
 La majorité de la population se trouve dans la basse ville, dans des maisons collées les unes aux autres. Il y a toujours une odeur humide qui rôde. On y trouve également la plupart des industries. Il y a beaucoup de moulins, de chantiers navals et de forges. Le bâtiment le plus important dans la basse ville est la cathédrale de La Lumière blanche. Une cathédrale gigantesque qui veille sur les habitants de la capitale.
+===
 
 +++ Activités
 ### Quoi faire dans Les Terres d’avant:
@@ -134,7 +134,6 @@ Une ville qui vit de la chasse et de la pêche. Moins connue pour ses prises spe
 FrancVal est une ville froide, les murs sont élevés et imposants. Les tours sont grises et il y a peu de végétation dans la ville. Les gens sont peu bavards et se mêlent peu des affaires des autres.  On y trouve un palais de justice très ancien où les hauts jugements et l’écriture de lois se font toujours. Il y a également la bibliothèque du passé qui contient l’histoire des royaumes et plusieurs écrits datant de l'arrivée des nains, de la guerre des elfes. Il va s’en dire qu’il y traîne beaucoup d’érudits dans les rues et ils sont aussi mornes que  cette ville.
 
 ==- Valnord, la cité des guerriers
-
 Capitale des royaumes du nord, Valnord reste très modeste. Une palissade de bois entoure la 
 plus grande partie de la ville. Une tranchée contourne la palissade à quelques mètres de distance et un pont levis pliant permet de la traverser.
 
@@ -143,10 +142,14 @@ La capitale est grosse comme une ville pour d’autres royaumes, mais c’est un
 +++ Activités
 ### Quoi faire dans la Basse-Garde et la Haute-Garde:
 
-=== Guildes de mercenaires : Les guildes de mercenaires du royaume du nord sont les plus réputées. Après tout, les peuples du nord voient plus de combat en une année que en une vie dans d’autres royaumes.
-=== Chasse et pêche : Que ce soit pour aider un baron ou en devenir un, les royaumes regorgent d’intrigues, de trahisons et de possibilités enrichissantes.
-=== Étudier les lois à FrancVal : Toutes les lois des royaumes s’y trouvent et des sages les connaissent presque par cœur ou du moins savent où chercher.
-=== Les bibliothèques du passé à FrancVal : Les écrits restent et les bibliothèques du passé conservent la majorité de ceux-ci. On peut trouver des exemplaires datant de l'arrivée des nains sur ces terres.
+=== Guildes de mercenaires : 
+Les guildes de mercenaires du royaume du nord sont les plus réputées. Après tout, les peuples du nord voient plus de combat en une année que en une vie dans d’autres royaumes.
+=== Chasse et pêche : 
+Que ce soit pour aider un baron ou en devenir un, les royaumes regorgent d’intrigues, de trahisons et de possibilités enrichissantes.
+=== Étudier les lois à FrancVal : 
+Toutes les lois des royaumes s’y trouvent et des sages les connaissent presque par cœur ou du moins savent où chercher.
+=== Les bibliothèques du passé à FrancVal : 
+Les écrits restent et les bibliothèques du passé conservent la majorité de ceux-ci. On peut trouver des exemplaires datant de l'arrivée des nains sur ces terres.
 ===
 +++
 
@@ -165,35 +168,43 @@ On retrouve de tout dans ce royaume, même des monstres. Il existe une différen
 
 +++ Géographie
 
-** Le lac de la Sacrifiée
+==- Le lac de la Sacrifiée
 C’est un lac qui couvre une grande partie de la vallée. C’est dans celui-ci qu’une elfe s'est sacrifiée pour faire annuler les pactes que les gens de son peuple avaient fait avec les fées. Malheureusement, les gens du peuple ont recommencé ces pratiques malsaines.
-Hautval
+===
++++ Capitale
+== Hautval
 C’est une ville très grande en superficie, peu d’édifices en hauteur; si bien que l’on voit très bien les gigantesques moulins à vent. Très peu de protection également, il n’y a pas de point spécifique d’entrée à la ville. Le centre de la ville est le mieux protégé, c’est le quartier du prince et de la haute bourgeoisie. On retrouve tout autour les quartiers plus pauvres. Plusieurs grandes rivières serpentent la ville, on y retrouve des ponts qui peuvent contenir des quartiers complets.
 
-La haute ville
+=== La haute ville
 La haute ville est peuplée par la bourgeoisie, on y retrouve beaucoup de créatures elfiques et une grande concentration de haut elf, les maisons sont habituellement en hauteur.
 
-La basse ville
+=== La basse ville
 Aux extrémités de la ville ou encore sous les ponts, se trouvent les moins fortunés de la ville. Ils sont souvent négligés, la maladie les ronge, la famine et les prédateurs y courent.
++++ Activités
 Quoi faire dans ce royaume:
 
-Les bains elfiques : Un endroit reconnu pour la détente, un savoir qui se perd. Rien n’est plus relaxant que les bains elfiques.
-Les malédictions et les pactes : Malheureusement, plusieurs personnes ont fait des pactes avec des fées dans cette ville. Régler ses problèmes soi-même serait une bien meilleure alternative.
+=== Les bains elfiques :
+Un endroit reconnu pour la détente, un savoir qui se perd. Rien n’est plus relaxant que les bains elfiques.
+=== Les malédictions et les pactes :
+Malheureusement, plusieurs personnes ont fait des pactes avec des fées dans cette ville. Régler ses problèmes soi-même serait une bien meilleure alternative.
+===
 
-
-L’Archipel Fracassé
+## L’Archipel Fracassé
 
 Avant de rejoindre l’océan, on peut apercevoir un archipel constitué de centaines d’îles. Certaines minuscules et d’autres pouvant abriter plusieurs villes. L’Archipel Fracassé est un lieu où tous peuvent faire fortune, ou périr. Le climat et la végétation sont très variés.
 
-Politique 
++++ Religion
 
++++ Politique 
 
 L'Archipel Fracassé est une série d'îles qui comportent plusieurs biomes climatiques. Il y a des jungles tropicales humides, des îles avec une savane plus sèche ou encore des monts enneigés. Plusieurs races parcourent ses îles qui ont autant une bonne réputation pour ses paysages paradisiaques, qu’une mauvaise dû à la piraterie très développée dans ses eaux riches. Effectivement, les richesses sont nombreuses, que ce soit dans les mines de pierres précieuses ou les coraux.
 
 On y trouve plusieurs états dirigés par plusieurs élus qui élisent un prince pour les représenter.  Pendant longtemps ils furent de grands pirates, mais depuis un siècle une sorte d'ordre a été créé lorsque les pirates sont devenus de riches marchands.
 
++++ Population
 
-Géographie
+
++++ Géographie
 
 Ces îles ont les plus beaux couchés et levés de soleil. Ce sont des lieux magnifiques qui attirent les touristes. Sur ces centaines d’îles se trouve une multitude de faune et de flore. On y retrouve des plantes et des fruits uniques. Les îles sont de toutes dimensions, des petites de quelques mètres et des grandes pouvant avoir quelques écosystèmes complètement différents. L'archipel est situé sur un carrefour des plans élémentaire et astral. Ce qui fait que les climats sont très changeants.
 
