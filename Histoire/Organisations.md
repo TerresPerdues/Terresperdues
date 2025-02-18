@@ -1,7 +1,7 @@
 ---
 label: Les Organisations
 order: 4
-icon: ":Compass:"
+icon: ":compass:"
 ---
 
 ## Les organisations
