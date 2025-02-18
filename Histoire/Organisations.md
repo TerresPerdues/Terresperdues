@@ -42,7 +42,7 @@ Les agents de l’Umbra Tenebrae sont formés pour opérer seuls, néanmoins ils
 Vladovich un ancien vampire qui cherche à trouver un moyen de redevenir vivant. Il adore les chats car il voit en eux une source de connaissance et de sagesse. Il vit dans un grand manoir qui sert également de repère et possède plusieurs musées qui servent à protéger les connaissances. Difficile de dire combien sont sous ses ordres.
 
 ## La légion de fer (l’ordre du gantelet)
-
+![](/Images/LegionDeFer.png)-
 > C'est ça le mal : c'est l'obscurité, c'est l'ombre, il se cache dans votre angle mort. Puis, lorsque vous êtes distrait, il s'infiltre. Le mal est maître dans l'art du déguisement, et quel est son meilleur déguisement, me direz-vous ? Vous-même. 
 Personne ne naît mauvais, il faut du temps pour que le mal puisse vous tromper et vous faire croire que cette voix est la vôtre. C'est pourquoi savoir qui vous êtes vraiment est ce que la légion exige de chaque nouvel espoir qui souhaite rejoindre ses rangs. Être brave, ce n'est pas combattre un dragon, c'est combattre son dragon intérieur. 
 - Kilmi Forgefer -
@@ -73,6 +73,7 @@ Pour la légion, l'amitié et la camaraderie sont importantes pour les membres d
 Kilmi Forgefer est un nain guerrier d’une grande expérience. Il a déjà combattu dans plusieurs guerres et il en connaît les horreurs. Il respecte très bien la neutralité de de son organisation qui vient en aide au plus démunis et ceux qui ne peuvent se défendre.
 
 ## L’oculus (Zentarim)
+![](/Images/Oculus.png)-
 > L'adhésion à l'oculus est comme la clé d'un millier de portes, chacune d'elles étant une passerelle vers la réalisation d'un désir personnel. La plupart des gens répugnent à ce genre de liberté. Ils aiment leurs contraintes, les lois, et l'emmaillotage. Cela leur donne l'illusion de la sécurité. 
 Le Réseau Noir fournit ce dont j'ai besoin pour explorer des royaumes et des dimensions qui déchirent les esprits habitués aux limites. Il n'y a que dans ces endroits que je peux trouver une magie assez puissante pour vaincre des êtres qui ne connaissent pas ce que sont le temps, la peur et la pitié. Vous pouvez ne pas apprécier les méthodes mais si un démon sort des Abysses pour aller chercher votre famille, vous seriez heureux de savoir que je suis allé dans le plus sombre des royaumes chercher la réponse à votre problème.  
 - Ignès-
@@ -101,7 +102,7 @@ Le troisième œil travaille dans l’ombre avec un réseau noir pour tenter de 
 Les agents du Troisième œil sont très curieux et adorent se casser la tête. Que ce soit pour la stratégie à adopter lors de combat, le chemin à suivre ou le meilleur “deal” avec une sorcière. Ils travaillent généralement pour eux-mêmes ou ont déjà plusieurs coups d’avance sur les autres, comme si le monde était un grand échiquier en mouvement et eux seuls pouvaient prévoir le prochain coup. Ils leurs arrivent souvent de devoir plier les règles établies. Ils adorent porter fièrement des tenues luxueuses ou des objets ayant de la valeur.  La richesse parle plus que la plume. Les oculus sont la crème des mercenaires tant que vous avez de l’argent à leur offrir. Il est arrivé que des nobles ou de riches marchands perdent toute protection lorsque leurs coffres sont vides. 
 
 ## La guilde marchande (L’alliance des seigneurs)
--![](/Images/GuildeMarchande.png)
+![](/Images/GuildeMarchande.png)-
 > Tout le monde veut dormir la nuit et se sentir en sécurité dans sa maison, mais combien sont prêts à faire le nécessaire pour garder la marée du mal à distance ? À se tenir debout sous la pluie et dans le froid, en attendant la bataille alors que la faim vous tenaille le ventre ? Beaucoup souhaitent récolter les fruits d'une bonne récolte, mais peu prennent soin d'enlever les pierres et de labourer les champs avant la plantation.
 La guilde marchande combat des choses dont le marchand dans son lit n'a même jamais entendu parler. Nous éliminons les menaces avant que le maire de la ville n'en entende parler. Nous faisons en sorte que les choses mauvaises disparaissent. C'est ce à quoi nous sommes bons.
 - Aubin-
@@ -133,7 +134,7 @@ Les agents de La guilde marchande sont vaillants et fonceurs. Ils n’ont pas pe
 Les agents sont choisis principalement pour leur fidélité et sont des experts en observation, discrétion, insinuations et combat. Soutenus par les riches et les privilégiés, ils possèdent un bel équipement (souvent déguisé pour paraître commun). Ils éliminent les menaces de manière proactive et par tous les moyens, se battant avec fierté pour la gloire et la sécurité de leurs peuples et des princes 
 
 ## La maison Krucklepuff (L'Enclave d'émeraude)
-
+![](/Images/Krucklepuff.png)-
 > La maison Krucklepuff est la gardienne de ce vaste espace au-delà des murs de la ville. La plupart ont oublié qu'un ordre ancien et naturel existe depuis bien plus longtemps que le concept intellectuel que nous en avons. Entrer en contact avec cet ordre primitif c'est toucher la puissance qui guide toutes vies. 
 Ceux qui suivent ce chemin sont imprégnés de cette puissance. Nous ne sommes jamais seuls. Même au milieu d'une ville bruyante et bondée nous pouvons sentir la présence du monde naturel en nous, frais, fort et vivant. 
 - Delaan Belette sage, Scout de quatrième rang -
