@@ -4,7 +4,7 @@ order: 5
 icon: ":globe_with_meridians:"
 ---
 
-## L’économie 
+==- L’économie 
 
 Il existait plusieurs pièces de monnaie dans les royaumes avant que les Nains décident de prendre le contrôle de la production. Il faut dire que les nains étaient les premiers arrivant et avaient amassé beaucoup de richesses. Ce qui donne un système économique plus stable et plus équitable.
 
@@ -12,18 +12,19 @@ Une pièce de Dragon est une pièce en or qui vaut dix Kraken, une pièce d’ar
 
 L’origine de leur nom est simple, l’or étant ce que les dragons préfèrent, il était simple de nommer cette pièce en l’honneur de ces bêtes féroces. Le Kraken est une pièce d'origine plus étrange et ancienne, il est dit que l’on peut prédire l’arrivée d’un kraken en mer en regardant la surface de l’eau qui devient argentée. Puis, l’origine du Cerf vient du troc: il était coutume de vendre une peau de cerf à un prix qui ressemble beaucoup à la pièce.
 
-## Transport
+==- Transport
 Il existe plusieurs moyens de transport dans les royaumes mais le plus récent et le plus impressionnant est le chemin de fer.
 
-### Le train éthéré 
++++ Le train éthéré 
 Le train éthéré est une révolution pour le transport dans les royaumes, il ne relie pas encore tous les royaumes mais son déploiement avance grandement. Les locomotives, ces gigantesques bêtes de métal, de feu et d’électricité, se déplacent sur des chemins dans le monde éthéré à vitesse modérée mais avec des charges titanesques. Le coût d’un billet est si abordable qu’il est fou de ne pas l’utiliser pour se déplacer là où le train se trouve. Quelques Cerfs peuvent vous faire traverser un royaume et pour un Kraken vous aurez même la chance de vous reposer dans une cabine au long du trajet.
 
-### Les voies maritimes
++++ Les voies maritimes
 Il existe beaucoup de voies maritimes. Les navires peuvent atteindre des grosseurs inimaginables, certains sont presque des villes. Les navires sont encore le meilleur moyen de transporter beaucoup de marchandise. Un nouveau domaine fait sont entrée également, celui du transport touristique.
 
-### Les voies aériennes
++++ Les voies aériennes
 Gagnant en popularité pour sa rapidité mais encore très dangereux, le voyage aérien est utilisé dans une grande partie des royaumes, que ce soit un bateau dirigeable, un gyrocoptère ou un griffon, il est conseillé de voler avec un professionnel et de toujours avoir une protection comme un bracelet de feuille morte.
-
++++
+===
 ## Les Terres d'Avant
 Les Terres d’Avant est un des premiers royaumes établis sur ces terres. C’était un moment de gloire et paisible pour les peuples unis. On y retrouve une des plus grandes et anciennes villes, et le château est un mélange d’architecture des premiers peuples, les nains, les elfes et les humains. On regarde souvent cet endroit comme un modèle de civilisation. Il y eut quelques rois qui ont siégé pendant des années, mais généralement c’est un lieu libre, gouverné par les princes et les organisations des Terres Perdues.
 
