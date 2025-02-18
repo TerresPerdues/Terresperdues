@@ -21,19 +21,19 @@ On retrouve beaucoup d’humains comme dans le reste du royaume mais c’est l�
 
 Sur un territoire immense comprenant des plaines à perte de vue, des forêts gigantesques et des montagnes qui dépassent le ciel se trouvent les terres d'Avant. Le sol est riche et les récoltes sont abondantes. Les rivières sont peuplées de poissons et les forêts peuplées d'animaux sauvages. On peut y retrouver toutes les races et la population est très ouverte aux autres cultures et religions.
 
-- Cap de la Honte
+=== **Cap de la Honte**
 Au sud des Terres d’avant se trouve Le Cap de la honte. Le cap a été nommé ainsi pour se rappeler des anciennes guerres du passé entre les royaumes.
 
-- Douvecourte
+=== **Douvecourte**
 Une tour prison qui se trouve au nord. C’est une petite prison pour des cas d’infractions mineures et de courtes sentences. Il y a un travail ardu sur les monts autour de la prison pour concasser de la pierre de construction ou pour l’entretien des chemins et du chemin de fer.
 
-- Bois des trois lacs
+=== **Bois des trois lacs**
 Une forêt gigantesque abritant plusieurs elfes, ferals, hobgoblins et firbolgs. Un terrain de chasse très imposant et contrôlé. Les arbres sont tellement hauts que certains touchent presque les nuages. Plusieurs druides protègent cette forêt.
-
-- BlancPont 
+===
+- **BlancPont** 
 Petite ville de pêcheur et de forestier près d’une rivière. La rivière aide à amener le bois coupé vers les petits moulins de BlancPont. La ville porte le nom de BlancPont car il y a un long pont couvert blanc qui lie les deux rives.
 
-- Les Soeurs
+- **Les Soeurs**
 La Grande Sœur et La Petite Sœur sont deux tours de défense pour Valôme. Dans La Petite Sœur on retrouve l'entraînement militaire de la milice et l'armée de la garde de l’aube, l'armée des 12 royaumes.
 
 - Froide Roche
