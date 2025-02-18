@@ -1,7 +1,7 @@
 ---
 label: Les Royaumes
-order: 2001
-icon: ":scroll:"
+order: 5
+icon: ":globe_with_meridians:"
 ---
 
 ## Les Terres d'Avant
