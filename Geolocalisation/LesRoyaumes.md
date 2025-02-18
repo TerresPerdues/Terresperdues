@@ -230,9 +230,10 @@ Tout le monde a besoin d’aide et la guilde d’aventurier est là pour répond
 Que ce soit pour aider un baron ou en devenir un, Valheureux regorge d’intrigues, de trahisons et de possibilités enrichissantes.
 === Visiter Valheureux :
  Valheureux est une ville magnifique, avec ses sculptures et son architecture étrange et ses couleurs bleutées.
+===
++++
 
 ## Les Terres de Glace ou Glaceterre.
-
 
 Au nord se trouvent des terres gelées à l’année. Bien que la cause de ce gel soit inconnue, certaines croyances stipulent que ce froid intense serait dû à un cataclysme magique; d’autres, que ce serait à cause d’une créature qui daterait d’avant les âges. Quoi qu’il en soit, le froid progresse d’année en année. Sous ce sol gelé se cachent d’anciens royaumes. D’innombrables richesses y sont enfouies et c’est ce qui pousse les aventuriers à explorer ces lieux.
 
@@ -262,106 +263,111 @@ Le mal est toujours présent dans le nord, des créatures maléfiques semblent p
 
 La Côte du Bouclier a été nommée ainsi à cause de ses falaises qui restent stoïques contre les assauts répétés de l’océan contre son rivage. Difficile d’accoster sur la côte à l’exception de quelques endroits qu’on nomme les écorchures. Cette côte est très prospère pour la pêche et la chasse et ses paysages montagneux sont dignes des plus belles peintures.
 
-Religion et faction
++++ Religion et faction
 Toutes les religions sont représentées dans ce royaume, mais la Lumière blanche a encore peu d’adeptes, les vieux dieux et déesses sont plus à l’honneur. Les lieux sacrés sont très communs un peu partout sur le territoire.
 
-Politique
++++ Politique
 C’est une seule famille qui dirige toujours le royaume de La Côte du Bouclier, les Orthega. Ils sont là depuis que les humains sont arrivés sur ces terres et la famille a toujours contrôlé cette partie du royaume. De façon générale, les Orthega ne sont pas portés vers la guerre et ont rarement pris part aux conflits ou aux décisions des autres royaumes. Dû à cela, ils ont la réputation de faire cavalier seul. Ça ne sert à rien de demander de l’aide à ce royaume, ils ne feront rien de toute façon. C’est une très grande famille, et étrangement, plusieurs sont des Runiques. Ce qui n’aide en rien leur réputation. Par contre, au sein de leur royaume, ils sont louangés, presque adorés. Il fait bon vivre sur ces terres, on se sent en sécurité et la pauvreté est à la baisse.
 
-Population
++++ Population
 Il y a un peu de tout dans ce royaume. On y trouve même plusieurs vampires et dhampirs qui ont un quartier à eu dans Valrive. Les humains restent les plus nombreux et il a de moins en moins de représentants du peuple de la féérie, qui quittent tranquillement ce royaume pour aller vers d’autres plus prometteurs.
 
 
-Géographie 
++++ Géographie 
 On décrit les principaux lieux de ce royaume.
-Valrive
+
++++ Capitale
+### Valrive
 Valrive est une ville portuaire réputée pour ses inventions magiques et son ouverture envers toutes les races. On y retrouve plusieurs quartiers industriels, la production est grandement supérieure à partout ailleurs. Près du port, ce sont de multiples usines arcaniques qui fonctionnent à plein régime sur le flanc de la montagne. Les rues sont pavées de belles pierres et éclairées de lampadaires à lumière continuelle qui permettent de voir malgré la fumée qui s’expire des poumons sales de la ville.
 
-Val’dorei,
+## Val’dorei,
 L’ancienne cité des ancêtres, avant la guerre la cité s’appelait ValBois. Mais depuis que la cité est devenue une ruine, elle a retrouvé son nom elfique de Val’dorei. En son centre se trouve un arbre datant de la création, il fait plusieurs kilomètres de haut si bien que parfois la cime se trouve dans les nuages. L’arbre de vie semble mort. Il est dénudé de feuille et des sortes de longue bannière, passerelle ou demeure pendent de ses branches donnant un aspect lugubre à ce qui était autrefois un phare de la vie. S’ajoute à cela le sifflement du vent au travers ces vestiges et de la mélodie sombre et profonde que les restes des passerelles de bois qui se frappent ensemble pouvant rappeler de façon macabre un carillon de bois. 
 
-
-
-Sortilège, magie et objets exotiques en tout genre
-Sur la rue marchande principale, entre un magasin de vêtements à la mode et un restaurant de fruits de mer, dans un petit recoin de deux mètres de large, se trouve une petite bâtisse de trois étages en vieilles planches noires. Gravé sur une pancarte en bois il est inscrit de ne pas nourrir les chats. Étrangement, il y a toujours des chats qui attendent patiemment devant ce magasin où l’on trouve de tout, même un ami.
++++ Activités
 Quoi faire dans ce royaume :
 
 Exemple :
 
 Guilde d’aventurier : 
 
-Les Terres de l’Espoir
+## Les Terres de l’Espoir
 
 Cette vallée était au départ un lieu féérique, mais après l’apparition d’une tour noire, la vallée s'assombrit. Cette terre a longtemps été emprisonnée dans cette ombre et cette dernière a pris racine, les arbres sont tordus et les bêtes autant effrayées qu’effrayantes. Aussi étrange qu’improbable, cette terre fut sauvée par la reine des ténèbres Marie et son armée de Tiefling. Depuis cet événement la tour noire est détruite et a cessé de cracher sa fumée d’ombre sur cette vallée.
 
-Religion et faction
++++ Religion et faction
 Le voyageur est la religion la plus représentée.
 
-Politique
++++ Politique
 Marie dirige ce royaume avec une main de fer. Son peuple est derrière elle. Elle gère son royaume à sa manière et sa voix est la loi.
 
-Population
++++ Population
 La population générale est composée de tieflings, forgeliers et changelins.
 
-Géographie 
++++ Géographie 
 On décrit les principaux lieux de ce royaume.
-La capital du royaume
+
++++ Capitale
 une description de la capitale et de ses lieux importants.
 
-La hauteville
-
-
-La basse ville 
++++ Activités 
 Quoi faire dans ce royaume :
-Courte explication 
-Exemple :
 
-Guilde d’aventurier : 
 
-Les Terres de Waltz
+## Les Terres de Waltz
 
 Sur un territoire en constant changement où la magie a fusionné avec la nature et où les lois de la physique n’ont aucune emprise, se trouve le royaume de Waltz. Il est commun sur ces terres de voir des animaux parler ou même des arbres discuter de convictions philosophiques. L’université magique d’Albion reste le meilleur endroit pour apprendre l’art de la magie sur tout le continent. Les habitants de ce royaume se croient plus évolués que les autres qui ont toujours peur de la magie qu’ils appellent sorcellerie! Cependant, des choses horribles se cachent dans l’ombre de ce royaume. C’est souvent de ces terres d’où proviennent les pires monstruosités et son origine a apporté plusieurs cataclysmes.
 Un lieu magique 
 
 La magie est omniprésente sur les terres de Waltz, tout ce qui est vivant en est imbue. Les arbres peuvent lancer des sorts aussi bien que les animaux ou les autres créatures. Le territoire change toujours et on ne peut y faire une carte, on doit suivre le chemin de pierre et les indications. Il existe des lieux gouvernés par les animaux, des lieux où les saisons changent en une journée et d’autres où il n’y a pas de nuit ou encore où c’est toujours la nuit. Les plus belles légendes viennent de ces terres, que ce soit l’épée magique dans la pierre, les souliers de verre volants ou la cape d’invisibilité, il y a toujours un conte fantastique à explorer. Il est cependant fortement conseillé de ne jamais quitter le chemin de pierre et de ne jamais suivre une fée.
 
++++ Religion
 
 
++++ Politique
 
-Les terres de l’oubli 
+
++++ Population
+
+
++++ Géographie 
+
+=== Les terres de l’oubli 
 
 Si vous avez oublié ou perdu quelque chose un jour ou l’autre, il est possible qu’elle se trouve dans les terres de l’oubli. C’est un endroit avec des montagnes d’objets empilés, tous oubliés ou perdus par leur propriétaire. Le danger lorsque l’on se promène sur ces terres c’est d’oublier qui on est.
 
-La terre des fées
+=== La terre des fées
 Il existe une terre avec des jardins magnifiques que les fées entretiennent avec passion.
 
-La baie des pirates 
+=== La baie des pirates 
 Attention moussaillon, cet endroit n’est pas pour les marins d’eau douce!
 
-Les îles flottantes 
+=== Les îles flottantes 
 
-Les terres du futures 
+=== Les terres du futures 
+===
 
-
-
-Le collège d’Albion
++++ Capitale
+=== Le collège d’Albion
 
 Les Terres de Waltz ne se plient pas aux règles normales. Si on suit le chemin de pierre on trouvera toujours le collège d’Albion au centre des terres, cependant le voyage peut prendre quelques heures ou quelques semaines et ce en partant de n’importe quelle frontière. On raconte qu’un roi des royaumes a déjà voulu faire une croisade pour prendre le contrôle des Terres de Waltz. Le roi et son armée ont marché pendant deux mois pour tenter de rejoindre le collège d’Albion, ils avaient perdu la moitié des hommes en chemin avant d’abandonner. Quelques heures après avoir rebroussé chemin, tous se retrouvèrent en même temps à la frontière. Jamais plus il n’y a eu une telle entreprise.
 
 
 Le collège ressemble à un château avec des tours rondes, les couleurs peuvent changer selon son tempérament. Le temps est relatif et les saisons ne se suivent pas forcément. On y enseigne toutes les écoles de magie arcane et bardique. Il y a quelques ensorceleurs qui se la pète et des sorciers qui tentent de contrôler leurs pouvoirs.
+===
 
-
- 
++++ Activités 
 Quoi faire sur les terres de Waltz :
 
-Visiter le collège d’Albion : Vous cherchez à apprendre la magie, ne cherchez pas plus loin, c’est la meilleure école, cependant, si le collège ne vous a pas choisi, vous risquez de ne jamais vous y rendre…
-Trouver un objet perdu sur les terres de l’oubli : Lorsque l’on oublie quelque chose il arrive souvent qu’elle tombe sur les terres de l’oubli. Le plus grand danger est de s'oublier soi-même!
-Les conseils du grand chêne : Dans la forêt enchantée se trouve un chêne gigantesque que les elfes appellent « le grand chêne » ils manquaient d’imagination à l’époque, mais reste que ce chêne possède des millénaires de connaissances. Il est un peu dur de la feuille, mais peut guider les âmes protectrices de la faune.
+=== Visiter le collège d’Albion : 
+Vous cherchez à apprendre la magie, ne cherchez pas plus loin, c’est la meilleure école, cependant, si le collège ne vous a pas choisi, vous risquez de ne jamais vous y rendre…
+=== Trouver un objet perdu sur les terres de l’oubli : 
+Lorsque l’on oublie quelque chose il arrive souvent qu’elle tombe sur les terres de l’oubli. Le plus grand danger est de s'oublier soi-même!
+=== Les conseils du grand chêne : 
+Dans la forêt enchantée se trouve un chêne gigantesque que les elfes appellent « le grand chêne » ils manquaient d’imagination à l’époque, mais reste que ce chêne possède des millénaires de connaissances. Il est un peu dur de la feuille, mais peut guider les âmes protectrices de la faune.
+===
++++
 
-
-
-Les Terres libres
+## Les Terres libres
 Les Terres libres sont majoritairement peuplées de tribus barbares qui refusent de se soumettre aux étrangers. C’est la loi du plus fort, la faiblesse n’a pas sa place ici. Certaines tribus ont des villages permanents, alors que d'autres ont un style de vie plutôt nomade.
 
 Il est possible d’acheter la protection d’une tribu, mais rien ne garantit qu’une autre ne viendra pas vous piller.
@@ -372,22 +378,17 @@ Certains riches seigneurs réussissent à établir des forteresses bien armées 
 
 Les relations entre les tribus sont assez complexes, il y a toujours une lutte pour prendre le pouvoir. Mais ils savent se rallier si on menace leurs terres.
 
-Religion et faction
++++ Religion et faction
 c’est expliquer comment les religions et les factions sont vu dans ce royaume
 
-Politique
++++ Politique
 Une description de la politique de ce royaume
 
-Population
++++ Population
 La population générale de ce royaume
 
-Géographie 
-On décrit les principaux lieux de ce royaume.
-La capital du royaume
-Il n’y a pas vraiment de capitale. SansVal est ce qui y ressemble le plus, mais de manière non officielle.
-Quoi faire dans ce royaume:
-Courte explication 
-Exemple:
++++ Géographie 
+
 
 Guilde d’aventurier : 
 Autres
