@@ -157,9 +157,9 @@ Aux extrémités de la ville ou encore sous les ponts, se trouvent les moins for
 +++ Activités
 Quoi faire dans ce royaume:
 
-=== Les bains elfiques :
+==- Les bains elfiques :
 Un endroit reconnu pour la détente, un savoir qui se perd. Rien n’est plus relaxant que les bains elfiques.
-=== Les malédictions et les pactes :
+==- Les malédictions et les pactes :
 Malheureusement, plusieurs personnes ont fait des pactes avec des fées dans cette ville. Régler ses problèmes soi-même serait une bien meilleure alternative.
 ===
 +++
