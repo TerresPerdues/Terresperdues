@@ -48,10 +48,10 @@ C’est une ville axée sur l’agriculture. Il y a le plus gros moulin à vent 
 ==- Citadelle-sur-bois
 Une grande ville elfique en harmonie avec la nature. On peut trouver plusieurs ponts d’arbre en arbre. Les animaux sauvages se retrouvent souvent dans les rues de cette ville, marchant librement; carnivores et herbivores se côtoient sans problème.
  
-==- Behir
+==- **Behir**
 Un ancienne forteresse naine, très vieille, remplit de sous terrains. Quelques drake se trouvent dans la région et les chasseurs de draconides s’y pratiquent souvent à la chasse.
 
-==- Kavarkd’hum
+==- **Kavarkd’hum**
 Passage entre les montagnes, c’est un tunnel immense d'ingénierie naine qui traverse 100 km de montagne. On retrouve des gravures représentant l’histoire des nains. Il y a également des haltes et des restaurants dans le tunnel.
 ===
 +++ Capitale
@@ -65,9 +65,9 @@ De l’entrée de Valôme jusqu’au sommet de la colline se trouve un chemin pa
 ==- Le château des royaumes
 Au sommet de la colline se trouve le grand château. La plus grande partie est au centre, composé d’une tour centrale qui relie six tours autour qui représente les premiers royaumes. Un château immense de style baroque avec des plafonds ridiculement hauts recouverts de peintures décrivant le passé des royaumes. La partie centrale comprend une salle contenant les trônes au centre sur un petit piédestal et autour, des estrades où les membres des royaumes peuvent siéger pour débattre de politique. On trouve à l’extérieur de cette partie des jardins et quelques maisons pour les invités. Après les jardins vient un mur qui lie les six tours. Le mur comprend plusieurs enclaves où l’on retrouve des trésors du passé et qui lie les douze tours. Il y a une grande porte avec une herse qui est l’entrée de cette magnifique architecture.
 ===
++++
 +++ La hauteville
 Le grand marché fait tout le tour du château, on y retrouve presque de tout. Il y a également, adossée à la muraille qui protège la haute ville, un bon nombre de boutiques, auberges et résidences pour les princes et leurs invités. On retrouve également le grand théâtre qui est une ancienne cathédrale de La Lumière blanche modifiée. Dans les hauts quartiers juste en bas du grand marché, on retrouve les maisons de la bourgeoisie avec des pubs, restaurants, bains, parcs et spectacles de rue.
-
 
 ==- Sortilège, magie et objets exotiques en tout genre.
 Près du château, entre un magasin de vêtements à la mode et un restaurant de fruits de mer, dans un petit recoin de deux mètres de large, se trouve une petite bâtisse de trois étages en vieilles planches noires.  Gravé sur une pancarte de bois, il est inscrit de ne pas nourrir les chats. Étrangement, il y a toujours des chats qui attendent patiemment devant ce magasin. On peut retrouver de tout dans ce magasin.
@@ -78,12 +78,18 @@ La majorité de la population se trouve dans la basse ville, dans des maisons co
 +++ Activités
 ### Quoi faire dans Les Terres d’avant:
 
-=== Guilde d’aventurier : Tout le monde à besoin d’aide et la guilde d’aventurier est là pour répondre à ce besoin. Vous voulez vous faire de l’argent rapidement? Il y a toujours une quête qui n’attend que vous.
-=== Jeu politique : Que ce soit pour aider un baron ou en devenir un, les royaumes regorgent d’intrigues, de trahisons et de possibilités enrichissantes.
-=== Devenir chevalier : Il n’est pas simple de devenir un héros, c’est un travail acharné qui amène de grandes récompenses, la vie d’un chevalier est une vie de combats et d’aventures.
-=== Visiter Valôme : Valôme est la plus grande métropole du monde connu. Si vous cherchez quelque chose, les chances que quelqu’un à Valôme puisse vous aider sont très élevées.
-=== Chasse aux envahisseurs : Il existe des tribus de sauvages, d’orcs, de trolls et autres qui attaquent sans relâche le peuple d’avant.
-=== Fermer des portails : Les Royaumes d’Avant couvre un territoire gigantesque et des portails s’y cachent à chaque recoin.
+=== Guilde d’aventurier :
+Tout le monde à besoin d’aide et la guilde d’aventurier est là pour répondre à ce besoin. Vous voulez vous faire de l’argent rapidement? Il y a toujours une quête qui n’attend que vous.
+=== Jeu politique :
+Que ce soit pour aider un baron ou en devenir un, les royaumes regorgent d’intrigues, de trahisons et de possibilités enrichissantes.
+=== Devenir chevalier :
+Il n’est pas simple de devenir un héros, c’est un travail acharné qui amène de grandes récompenses, la vie d’un chevalier est une vie de combats et d’aventures.
+=== Visiter Valôme :
+Valôme est la plus grande métropole du monde connu. Si vous cherchez quelque chose, les chances que quelqu’un à Valôme puisse vous aider sont très élevées.
+=== Chasse aux envahisseurs :
+Il existe des tribus de sauvages, d’orcs, de trolls et autres qui attaquent sans relâche le peuple d’avant.
+=== Fermer des portails :
+Les Royaumes d’Avant couvre un territoire gigantesque et des portails s’y cachent à chaque recoin.
 ===
 +++
 
@@ -146,24 +152,20 @@ La capitale est grosse comme une ville pour d’autres royaumes, mais c’est un
 
 ## Le Domaine de la Sacrifiée
 
-
 Ces terres sont riches en minéraux et très fertiles. L'agriculture y est très développée et très avancée grâce à la magie. Hautval est également un lieu où les talents artistiques sont à l'honneur, que ce soit la peinture, la couture, le chant ou la danse. En fait, HautVal est un petit paradis, tout a meilleur goût, le vin, le pain et même l'amour. Cependant, ces terres sont sous l'influence du monde des fées; les portails entre les deux mondes sont nombreux et influencent beaucoup la population malgré les avertissements répétés de nombreuses fois.
 
-Religion et faction
++++ Religion et faction
 Les cultes et les sectes étranges sont monnaie courante dans ce royaume. Le culte de la Sacrifiée est très présent en ces terres. On raconte qu’une femme a offert en sacrifice sa vie et tout l’amour qu’elle avait pour son peuple en échange que les fées annulent les pactes de ces derniers. Elle se serait noyée dans l’eau avec une pierre au cou. Les prêtres de la Sacrifiée portent une corde autour du cou avec une pierre pour porter la souffrance de leur déesse. Il existe également plusieurs cultes reliés aux diverses monstres qui vivent en ces lieux.
 
-Politique
++++ Politique
 Le prince de ce royaume adore les fêtes, les bals et les tournois. Il possède de nombreux châteaux qui sont tout autant magnifiques les uns que les autres. Il règne en roi, il peut changer des lois comme bon lui semble et surtout, à son avantage. HautVal est réputé pour être à l’avance sur la mode et dicte souvent les nouvelles tendances aux autres royaumes.
 
-Population
++++ Population
 On retrouve de tout dans ce royaume, même des monstres. Il existe une différence marquée entre la classe bourgeoise et la classe ouvrière. Malgré tout, la population est toujours courtoise, c’est mal vu de ne pas dire bonjour à quelqu’un que l’on croise. La population se pervertit dans les pactes avec des fées et a plusieurs coutumes toutes aussi étranges que farfelues; par exemple pour la natalité, lors de la conception se mettre du sel sur la tête donne plus de chance d’avoir un garçon et c’est du poivre pour une fille. Il y a également une méfiance envers les peuples autres que ceux provenant de la féérie.
 
++++ Géographie
 
-
-Géographie
-
-
-Le lac de la Sacrifiée
+** Le lac de la Sacrifiée
 C’est un lac qui couvre une grande partie de la vallée. C’est dans celui-ci qu’une elfe s'est sacrifiée pour faire annuler les pactes que les gens de son peuple avaient fait avec les fées. Malheureusement, les gens du peuple ont recommencé ces pratiques malsaines.
 Hautval
 C’est une ville très grande en superficie, peu d’édifices en hauteur; si bien que l’on voit très bien les gigantesques moulins à vent. Très peu de protection également, il n’y a pas de point spécifique d’entrée à la ville. Le centre de la ville est le mieux protégé, c’est le quartier du prince et de la haute bourgeoisie. On retrouve tout autour les quartiers plus pauvres. Plusieurs grandes rivières serpentent la ville, on y retrouve des ponts qui peuvent contenir des quartiers complets.
