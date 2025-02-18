@@ -28,6 +28,8 @@ Gagnant en popularité pour sa rapidité mais encore très dangereux, le voyage 
 ## Les Terres d'Avant
 Les Terres d’Avant est un des premiers royaumes établis sur ces terres. C’était un moment de gloire et paisible pour les peuples unis. On y retrouve une des plus grandes et anciennes villes, et le château est un mélange d’architecture des premiers peuples, les nains, les elfes et les humains. On regarde souvent cet endroit comme un modèle de civilisation. Il y eut quelques rois qui ont siégé pendant des années, mais généralement c’est un lieu libre, gouverné par les princes et les organisations des Terres Perdues.
 
++++ X
+
 +++ Religion
 Toutes les religions principales ont un lieu culte à Valôme. Même après quelques disputes, la cathédrale de La lumière blanche fut rebâtie dans les bas quartiers. On disait qu’elle prenait trop de place en haute ville et faisait de l’ombre sur les temples des autres religions.
 
@@ -101,6 +103,8 @@ Les Royaumes d’Avant couvre un territoire gigantesque et des portails s’y ca
 La Haute-Garde est connue pour ses guerriers sans peur. Ils doivent repousser sans cesse les invasions de tribus d’orcs, de géants ou toutes autres sources du chaos qui provient des Terres de glace. C’est un peuple qui est beaucoup axé sur la bravoure et l’honneur démontrés par des prouesses physiques. On dit que les grands guerriers qui meurent au combat deviennent les lumières qui vacillent sur Les Terres du nord. Lorsqu’on n’est pas apte à se battre ou trop vieux, on devient un cueilleur de petits fruits, ce qui est une insulte pour tout combattant qui se respecte.
 
 La Basse-Garde est une région peu hospitalière et plutôt pauvre. C’est un peu pour cela qu’elle fut choisie pour établir les lois des royaumes. Plusieurs chevaliers de la lumière étudient en ces lieux pour défendre la justice. C’est également l’endroit où La Compagnie de l’aube et La Compagnie du crépuscule forment leurs soldats.
+
++++ X
 
 +++ Religion
 Il y a une nouvelle religion qui fait beaucoup d'adeptes dans le nord. Trois rois des glaces capricieux qui demandent d'étranges offrandes, parfois de nature humaine. Sinon les habitants sont plus penchés vers d’anciens dieux comme Okomé ou Dhums.
