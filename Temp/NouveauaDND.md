@@ -21,7 +21,7 @@ Nous jouons actuellement à la **5ème édition (5e)** 2024.
 
 Il y a plusieurs façons de jouer à D&D en ligne. Ici, nous utilisons foundry VTT ainsi qu'un jeu de rôle textuel sur Discord, et les dés sont lancés à l'aide du robot Avrae.
 
-Qu'en est-il des dés physiques ?
+!!!Qu'en est-il des dés physiques ?
 Même si nous apprécions les parties en personne, tous nos lancers sont effectués à l'aide de foundry ou d'Avrae pour éviter la tricherie.
 !!!
 
