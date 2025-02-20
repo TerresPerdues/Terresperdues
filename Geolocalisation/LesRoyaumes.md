@@ -28,21 +28,18 @@ Gagnant en popularité pour sa rapidité mais encore très dangereux, le voyage 
 ## Les Terres d'Avant
 Les Terres d’Avant est un des premiers royaumes établis sur ces terres. C’était un moment de gloire et paisible pour les peuples unis. On y retrouve une des plus grandes et anciennes villes, et le château est un mélange d’architecture des premiers peuples, les nains, les elfes et les humains. On regarde souvent cet endroit comme un modèle de civilisation. Il y eut quelques rois qui ont siégé pendant des années, mais généralement c’est un lieu libre, gouverné par les princes et les organisations des Terres Perdues.
 
-+++ X
 
-+++ Religion
+
+==- Religion
 Toutes les religions principales ont un lieu culte à Valôme. Même après quelques disputes, la cathédrale de La lumière blanche fut rebâtie dans les bas quartiers. On disait qu’elle prenait trop de place en haute ville et faisait de l’ombre sur les temples des autres religions.
 
-+++ Politique
+==- Politique
 Il y a longtemps, un conseil des royaumes a été créé pour unir les royaumes et mettre fin aux guerres de territoires. Les Terres d'avant sont gouvernées par ce conseil qui réunit tous les princes des royaumes. Il peut arriver sous certaine circonstance qu’un roi soit nommé, le roi agit à titre de chef suprême jusqu’à la fin de son mandat. Par la suite, il redevient généralement un prince.
 
-+++ Population
+==- Population
 On retrouve beaucoup d’humains comme dans le reste du royaume mais c’est l’endroit multiculturel; c’est également le noyau central de tous les royaumes.
 
-+++
-
 +++ X
-
 +++ Géographie 
 Sur un territoire immense comprenant des plaines à perte de vue, des forêts gigantesques et des montagnes qui dépassent le ciel se trouvent les terres d'Avant. Le sol est riche et les récoltes sont abondantes. Les rivières sont peuplées de poissons et les forêts peuplées d'animaux sauvages. On peut y retrouver toutes les races et la population est très ouverte aux autres cultures et religions.
 
