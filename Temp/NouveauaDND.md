@@ -23,7 +23,7 @@ Il y a plusieurs façons de jouer à D&D en ligne. Ici, nous utilisons foundry V
 
 Qu'en est-il des dés physiques ?
 Même si nous apprécions les parties en personne, tous nos lancers sont effectués à l'aide de foundry ou d'Avrae pour éviter la tricherie.
-! !!
+!!!
 
 ## Qu'est-ce que West Marches/monde vivant D&D ?
 
@@ -33,13 +33,13 @@ Les parties se déroulent dans le style West Marches avec quelques changements. 
 
 **Si vous êtes libre à ce moment-là, et que vous avez un personnage de ce niveau, inscrivez-vous.** Le DM choisira alors un groupe. Ces sessions sont typiquement des one-shots autonomes, et il n'y a pas d'intrigue globale. Cela réduit l'engagement nécessaire, surtout si vous voulez juste essayer le jeu.
 
-!!!Ce n'est pas votre style ?
+!!! Ce n'est pas votre style ?
 Nous vous encourageons à essayer ! De nombreuses personnes qui ont d'abord rejoint le jeu pour les campagnes ont fini par apprécier l'atmosphère et sont restées pendant des années. Cependant, si vous cherchez *uniquement* des jeux traditionnels de type campagne, vous êtes invités à essayer les avenues suivantes :
 
 - [Nos serveurs partenaires](/misc/partner-servers/)
 - [!badge icon=« link-external » variant=« info » text=« The r/LFG subreddit »](https://www.reddit.com/r/lfg/)
 - [!badge icon=« /images/discord-mark-blue.svg » variant=« info » text=« Le serveur officiel de Donjons et Dragons »](https://discord.gg/dnd)
-! !!
+!!!
 
 ## Comment avez-vous découvert D&D ?
 
@@ -56,7 +56,7 @@ Everyone loves a good meme, but it is important to understand that memes only re
 ==- :video_camera: Streams/Podcasts (e.g. *Critical Role* or *Dimension 20*)
 Streams and podcasts like CR or D20 are popular ways people get introduced to the game. However, it is vital to note that their actors are professionals, and Matt Mercer is a master worldbuilder. As such, you should not expect yourself, other players, or the DM to roleplay to their standard.
 
-!!!Take Note: Critical Role content is considered Homebrew here
+!!! Take Note: Critical Role content is considered Homebrew here
 We use a modified version of Blood Hunter. For full list of sources, please see [here](cc-rules/)
 !!!
 
