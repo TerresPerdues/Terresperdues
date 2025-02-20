@@ -65,7 +65,7 @@ Un ancienne forteresse naine, très vieille, remplit de sous terrains. Quelques 
 ==- **Kavarkd’hum**
 Passage entre les montagnes, c’est un tunnel immense d'ingénierie naine qui traverse 100 km de montagne. On retrouve des gravures représentant l’histoire des nains. Il y a également des haltes et des restaurants dans le tunnel.
 ===
-
++++
 +++ Capitale
 ## Valôme, la cité libre
 Valôme se trouve près de de l’océan intrépide. C’est dans cette cité que se trouve le grand conseil des princes. La cité abrite La Compagnie de l’aube qui est entretenue par les royaumes. La ville est sur une colline. La plus haute partie de la colline regroupe les plus grands temples, le château et le grand théâtre. Sur les flancs de la colline se trouve la bourgeoisie et plus bas les ouvriers, paysans et mendiants ainsi que la grande cathédrale de La Lumière blanche. Comme toute grande ville, il existe un grand écart entre les riches et les pauvres.
