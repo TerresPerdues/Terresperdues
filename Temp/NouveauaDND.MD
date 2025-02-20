@@ -75,65 +75,65 @@ In *Stranger Things*, the characters play the *Dungeons & Dragons Expert Set*, w
 Here, we play Dungeons & Dragons 5th Edition, a more recent and the most popular version of D&D, and have our own homemade setting called Icris, which means you unfortunately won't see villain crossovers like Vecna.
 ==-
 
-## Planning Your Character
+## Planifier son personnage
 
-!!!I can play anything I want?!
-D&D certainly has a great number of possibilities for what character you want to create. However, you can't just make anything up. Browse D&D Beyond for a list of [!badge icon="link-external" variant="info" text="races"](https://www.dndbeyond.com/species) and [!badge icon="link-external" variant="info" text="classes"](https://www.dndbeyond.com/classes), which will help you greatly in planning your character.
+!!!Je peux jouer ce que je veux ?!
+D&D offre certainement un grand nombre de possibilités pour le personnage que vous voulez créer. Cependant, vous ne pouvez pas inventer n'importe quoi. Parcourez D&D Beyond pour obtenir une liste de [!badge icon=« link-external » variant=« info » text=« races »](https://www.dndbeyond.com/species) et [!badge icon=« link-external » variant=« info » text=« classes »](https://www.dndbeyond.com/classes), qui vous aideront grandement à planifier votre personnage.
 
-As a Level 1 character, what you can achieve now is limited. The [Backstory Guide](/charcre-v2/4/) goes into more detail about what topics to avoid if you would like to flesh out your backstory.
-!!!
+En tant que personnage de niveau 1, vos possibilités sont limitées. Le [Guide de l'histoire](/charcre-v2/4/) explique en détail les sujets à éviter si vous souhaitez étoffer votre histoire.
+! !!
 
-Before you begin, start by imagining what kind of character you want to create.
+Avant de commencer, imaginez le type de personnage que vous voulez créer.
 
-- How is your character's personality like? Are they serious, witty, cold, or emotional?
-- Do they care about good and evil, or are they more of a grey character?
-- Are they someone who casts spells? A traditional sword and board warrior? Or both?
-- What role in the party should they fulfil? Do you want to play a heroic defender who protects others? A skirmisher assassin who lurks in the shadows? A versatile spellcaster who supports their team?
-- Which is more important to you, combat or roleplay? Both?
-  - Does having an optimized character matter to you?
-- Do you want to focus on being good at one thing, or know many different things?
-  - The former will be easier to play, while the latter will have higher complexity.
+- Quelle est la personnalité de votre personnage ? Est-il sérieux, spirituel, froid ou émotif ?
+- Se préoccupe-t-il du bien et du mal, ou est-il plutôt un personnage gris ?
+- S'agit-il d'un lanceur de sorts ? Un guerrier traditionnel à l'épée et à la planche ? Ou les deux ?
+- Quel rôle doit-il jouer au sein du groupe ? Voulez-vous jouer un défenseur héroïque qui protège les autres ? Un tirailleur assassin qui se cache dans l'ombre ? Un lanceur de sorts polyvalent qui soutient son équipe ?
+- Qu'est-ce qui est le plus important pour vous, le combat ou le jeu de rôle ? Les deux ?
+  - Est-ce que le fait d'avoir un personnage optimisé est important pour vous ?
+- Souhaitez-vous vous concentrer sur une seule chose ou connaître plusieurs choses différentes ?
+  - Le premier sera plus facile à jouer, tandis que le second sera plus complexe.
 
-Your answers will influence how you make your choices in the next section. Race/species, class, subclass, and background are key components that come together to fulfil your dream character.
+Vos réponses influenceront vos choix dans la section suivante. La race/l'espèce, la classe, la sous-classe et le background sont des éléments clés qui s'associent pour créer le personnage de vos rêves.
 
-Each class has their own advantages and disadvantages. Below is a simplified list of classes and what each of them focus on:
+Chaque classe a ses propres avantages et inconvénients. Vous trouverez ci-dessous une liste simplifiée des classes et de ce sur quoi chacune d'entre elles se concentre :
 
-<img src="https://i.imgur.com/d8Oi7pL.png" alt="Class Overview" width="500"/>
+<img src=« https://i.imgur.com/d8Oi7pL.png » alt=« Class Overview » width=« 500 »/>
 </p>
 
-A fun resource for character creation: [!badge icon="link-external" variant="info" text="*Is your D&D Character Too Perfect?*"](https://youtu.be/5DECGUi_hQc) by Ginny Di 
+Une ressource amusante pour la création de personnages : [!badge icon=« link-external » variant=« info » text=« *Is your D&D Character Too Perfect?* »](https://youtu.be/5DECGUi_hQc) par Ginny Di 
 
-!!!warning I want to play a Summoner!
-We generally don't encourage new players try a summoner build as their first character. Put simply, **D&D is not designed to accommodate Summoners**, and it will greatly increase the amount of busywork you have to do. If you are set on playing a summoner build, check out [this guide](/tips/video-games-vs-dnd/#summoner).
-!!!
+!!!avertissement Je veux jouer un invocateur !
+Nous n'encourageons généralement pas les nouveaux joueurs à essayer un invocateur comme premier personnage. Pour faire simple, **D&D n'est pas conçu pour accueillir des invocateurs**, et cela augmentera considérablement la quantité de travail que vous aurez à faire. Si vous souhaitez jouer un invocateur, consultez [ce guide] (/tips/video-games-vs-dnd/#summoner).
+! !!
 
-## How to Learn D&D
+## Comment apprendre D&D
 
-!!!Making a Character Sheet
-Your character is defined by their Character Sheet, which is the digital paper that details what your character is capable of. You will need one to enter the server proper. Read on to find out more.
-!!!
+!!!Faire une feuille de personnage
+Votre personnage est défini par sa feuille de personnage, qui est le papier numérique qui détaille ce dont votre personnage est capable. Vous aurez besoin d'une feuille de personnage pour entrer dans le serveur. Lisez la suite pour en savoir plus.
+! !!
 
-The most comprehensive way to learn D&D is to start with the [!badge icon="link-external" variant="info" text="**Basic Rules (2014)**"](https://www.dndbeyond.com/sources/dnd/basic-rules-2014). You do not have to read everything all at once, and it is not necessary to read everything:
+La façon la plus complète d'apprendre D&D est de commencer par les [!badge icon=« link-external » variant=« info » text=« **Basic Rules (2014)** »](https://www.dndbeyond.com/sources/dnd/basic-rules-2014). Vous n'êtes pas obligé de tout lire d'un coup, et il n'est pas nécessaire de tout lire :
 
 {.compact}
-|Section|Must Read?|
+|Il n'est pas nécessaire de tout lire : {.compact}
 |---|---|
-| 1. **Step by Step Characters** | <img class="emoji" src="/images/emoji-yea.webp"> **Yes, please read this.** This section goes hand-in-and with [the below steps](#dd-beyond-character-builder) and will help you make your first DnD character. |
-| 2. **Races** | <img class="emoji" src="/images/emoji-yea.webp"> **Just read those you are interested in** |
-| 3. **Classes** | <img class="emoji" src="/images/emoji-yea.webp"> **Just read those you are interested in** |
-| 4. Personalities & Backgrounds | :point_right: Skip directly to Backgrounds section (you can come up with your own Character Details) |
-| 5. Equipment | :point_right: Skim this, unless you plan on manually calculating your stats |
-| 6. Customization Options | :hourglass_flowing_sand: Ignore this for now; you can read it when you level up |
-| 7. **Ability Scores** | <img class="emoji" src="/images/emoji-yea.webp"> **Absolutely necessary to read** |
-| 8. Adventuring | :point_right: Skip directly to The Environment; this section is more situational |
-| 9. **Combat** | <img class="emoji" src="/images/emoji-yea.webp"> **Absolute necessary to read** |
-| 10. **Spellcasting** | :point_right: **Only if you play a spellcaster.** You can skip if you are starting as a Barbarian, Fighter, Monk or Rogue. |
-| 11. Spells | :point_right: Skip for now; for spellcasters, you can read the Level 1 spells on your sheet later. |
-| Monsters | <img class="emoji" src="/images/emoji-nay.webp"> Don't read this. |
-| Building Combat Encounters | <img class="emoji" src="/images/emoji-nay.webp"> Don't read this. |
-| Magic Items | :hourglass_flowing_sand: Ignore for now. |
-| Appendix A | :point_right: Useful reference, give it a skim if anything remains unclear. |
-| Appendix B-D | <img class="emoji" src="/images/emoji-nay.webp"> Don't read this. |
+| Cette section va de pair avec [les étapes ci-dessous](#dd-beyond-character-builder) et vous aidera à créer votre premier personnage DnD. |
+| Les races : 2 - Les races** - <img class=« emoji » src=« /images/emoji-yea.webp »> **Lisez simplement celles qui vous intéressent** - <img class=« emoji » src=« /images/emoji-yea.webp »> 3 - Les classes : 3
+| 3. classes** <img class=« emoji » src=« /images/emoji-yea.webp »> **Lisez simplement celles qui vous intéressent** | 4. personnalités et antécédents** *.
+| Personnalités et antécédents | :point_right : Passez directement à la section des antécédents (vous pouvez créer vos propres détails de personnage).
+| 5. équipement - :point_right : Passez cette section, à moins que vous n'ayez l'intention de calculer manuellement vos statistiques.
+| 6. Options de personnalisation | :hourglass_flowing_sand : Ignorer cette section pour l'instant ; vous pourrez la lire lorsque vous monterez en niveau.
+| 7. **Les scores de capacité** <img class=« emoji » src=« /images/emoji-yea.webp »> **Il est absolument nécessaire de les lire**.
+| 8. Aventure | :point_right : Passez directement à l'Environnement ; cette section est plus adaptée à la situation.
+| 9. **Combat** | <img class=« emoji » src=« /images/emoji-yea.webp »> **Absolument nécessaire de lire** |
+| 10. **Lanceur de sorts** | :point_right : **Vous pouvez sauter cette étape si vous commencez en tant que barbare, combattant, moine ou voleur. |
+| 11. Sorts | :point_right : Pour les lanceurs de sorts, vous pourrez lire les sorts de niveau 1 sur votre feuille plus tard. |
+| Monsters | <img class=« emoji » src=« /images/emoji-nay.webp »> Ne lisez pas ceci. |
+| Construire des rencontres de combat | <img class=« emoji » src=« /images/emoji-nay.webp »> Ne lisez pas ceci. |
+| Objets magiques | :hourglass_flowing_sand : Ignorer pour l'instant. |
+| Annexe A :point_right : Référence utile, à parcourir si quelque chose n'est pas clair. |
+| Annexe B-D <img class=« emoji » src=« /images/emoji-nay.webp »> Ne lisez pas ceci. |
 
 If this felt overwhelming, you can also read the somewhat simplified [!badge icon="link-external" variant="info" text="SRD Document"](https://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf). This is helpful if you struggle to read long blocks of text and only want to read the most important parts. If you require more detailed explanation, the Basic Rules above are better.
 
