@@ -4,6 +4,23 @@ order: 3
 icon: ":classical_building:"
 ---
 
+Domain  | Domaine | Divinités
+---    | --- | ---
+Arcana | Arcane | Louvert, Sheilia (Lumière Sacré), Waltz
+Death | Mort | Blaise, Dhums, Sheilia (Lumière Sacré)
+Forge | Forge | Aed, Runel
+Grave | Cimetière | Dhums, Waltz
+Knowledge | Connaissance | Le Voyageur, Waltz
+Life | Vie | Okomé, Sheilia (Lumière Sacré)
+Light | Lumière |  Okomé, Runel, Sheilia (Lumière Sacré)
+Nature | Nature | Okomé, Blaise
+Order | Ordre | Aed, Runel
+Peace | Paix | Lumière Sacré, Runel
+Tempest | Tempête | Blaise, Okomé
+Trickery | Supercherie | Le Voyageur, Loubert, Waltz
+Twilight | Crépuscule | Dhums, Le Voyageur
+War | Guerre | Aed, Blaise, Loubert
+
 ## Aed
 ![](/Images/Aed.png)
 Déesse de la forge, la guerre, et l’ordre. Elle est représentée par une femme avec un casque argent et un bouclier pourpre. Elle représente la stratégie et les tactiques militaires. C’est à elle que les armées implorent des faveurs. Plusieurs paladins, guerriers et soldats la vénèrent également. On dit qu’elle serait la jeune sœur de Runel, elle est beaucoup moins pacifique et n’hésite pas à prendre les armes pour enrayer les détracteurs.
