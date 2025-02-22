@@ -29,14 +29,14 @@ L'anéantissement de Drakkenheim a provoqué un grave schisme religieux au sein 
 ### Académie Améthyste
 L'Académie Améthyste est une école magique pour sorciers et magiciens, où les étudiants apprennent la magie dans des châteaux et des universités isolés. Dirigée par une cabale obscure de puissants archimages, l'Académie gère également une guilde de mages entreprenante qui contrôle la fabrication d'articles magiques, et orchestre un influent syndicat des arcanes qui fournit des conseils occultes à la noblesse du continent. La destruction de Drakkenheim a cependant porté un coup terrible à l'Académie, car la ville abritait son plus grand bastion : la Tour Inscrutable. L'Archimage Eldrick Runeweaver dirige les efforts de l'Académie pour accéder à la tour et sauvegarder les connaissances secrètes qu'elle renferme. Pendant ce temps, les équipes d'enquêteurs mènent des recherches sur les qualités surnaturelles et les dangers inconnus du delerium. Les mages prévoient d'exploiter les vastes énergies des cristaux pour fabriquer des objets magiques et lancer de nouveaux sorts arcaniques.
 
-### La brume
+## La brume
 Il y a plus de dangers à Drakkenheim que de monstres et de factions rivales. La ville entière est envahie par une brume gonflée, remplie de grains multicolores scintillants, que les aventuriers appellent la brume. C'est comme si la poussière n'était jamais vraiment retombée après la chute du météore.
 Les personnages ne tirent aucun bénéfice d'un long repos dans la brume. Les aventuriers doivent être bien reposés avant de se rendre dans les ruines, car ils devront s'échapper de la ville pour regagner leurs points de vie et leurs emplacements de sorts. Cet effet ne peut être contourné par aucun équipement ordinaire, ni par des sorts tels que tour de corde, hutte minuscule ou autres capacités similaires. 
 
-### Contamination
+## Contamination
 Les personnages rencontreront également des contaminations mortelles causées par des créatures, le delerium et d'autres phénomènes magiques à Drakkenheim. Les capacités, l'équipement et les sorts qui protègent contre les maladies, la magie ou les poisons ne fonctionnent pas contre la contamination. Celle-ci ne peut être guérie naturellement, ni éliminée par des sorts de bas niveau. Les personnages-joueurs devront travailler avec les factions et trouver des solutions créatives pour gérer ces problèmes au cours de leurs aventures. Les règles complètes et les effets débilitants de la contamination sont décrits dans l'annexe C : Contamination.
 
-### Les dangers de la cité des ténèbres
+## Les dangers de la cité des ténèbres
 Enfin, sachez qu'à Drakkenheim, les personnages tomberont souvent sur des créatures et d'autres dangers bien au-delà de ce qu'ils peuvent vaincre par eux-mêmes. La discrétion et la ruse peuvent l'emporter sur la force des armes. Les aventuriers doivent rechercher des alliés partageant les mêmes idées et se méfier de se faire de nouveaux ennemis. Ils doivent disposer de tout l'équipement nécessaire avant de partir en expédition, utiliser leurs ressources avec prudence et être prêts à battre en retraite à tout moment !
 
 ## Quêtes personnelles
