@@ -201,5 +201,10 @@ Résurrection | 300
 Résurrection suprême | 500
 
 
+## MORT, MALADIE ET MALÉDICTION
+Pendant les sessions de jeu, si vous mourez, si vous subissez un effet persistant tel qu'une maladie ou une malédiction, ou si vous êtes retiré de l'aventure, vous en subissez les conséquences pendant toute la durée de la session de jeu. À la fin de cette session, vous pouvez choisir le sort suivant :
+- Vous rendez la vie à votre personnage ou vous supprimez l'effet négatif. Si vous avez été retiré de l'aventure, vous gagnez les récompenses obtenues sauf les points d'intermèdes. 
+- Vous retirez votre personnage, succombant à votre destin.
+Si vous revenez dans l'aventure avant la fin de la session de jeu, vous pouvez gagner toutes les récompenses offertes au groupe, y compris pendant votre absence. 
 
   
