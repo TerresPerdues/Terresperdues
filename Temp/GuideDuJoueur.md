@@ -183,6 +183,7 @@ Pour les objets ayant une valeur supérieure à 100 Pièces d’Or, il est possi
 ### Préparer une potion de soin (selon la potion)
 Préparer une potion de soins ne nécessite pas d’être compétent avec l’outil d'herboriste (Herbalism Kit) et ne nécessite pas d’avoir le Herbalism Kit.
 Coûts de création d’une potion de soin
+
 Type | Périodes d’intermède | Pièces d’Or 
 --- | --- | ---
 Healing | 1 | 25
@@ -193,6 +194,7 @@ Supreme healing | 20 | 10 000
 ### Services magiques par des marchands
 (5 Périodes d'intermèdes par sort)
 Les sorts lancés par des PNJ requièrent d’utiliser des Périodes d’Intermède ainsi que des Pièces d’Or ou des Points de Trésor.  Vous pouvez uniquement recevoir des services magiques des personnages présents à votre partie
+
 Sort | Pièces d’Or
 --- | ---
 Enlever une malédiction | 50
