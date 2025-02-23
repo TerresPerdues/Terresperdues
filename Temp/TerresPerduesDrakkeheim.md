@@ -1,11 +1,11 @@
 ## Aperçu de la campagne
 Dungeons of Drakkenheim est une aventure fantastique qui se déroule dans une ville gothique en ruines de la Renaissance. La campagne est conçue pour quatre joueurs, mais vous pouvez l'adapter à des groupes plus petits ou plus grands. Vous pouvez jouer Drakkenheim comme une série de quêtes d'exploration sans lien entre elles ou comme un récit imprévisible rempli de conflits entre factions. 
 
-=== **EXPLORATION** 
+=== EXPLORATION 
 Les personnages se lancent dans de dangereuses expéditions dans des ruines remplies de monstres, des rues hantées, des jardins décrépits, des tours de mage brisées, des cathédrales baroques et d'anciens châteaux pour piller des trésors et résoudre des mystères.
-=== **INTERACTION** 
+=== INTERACTION
 Cinq factions rivales se disputent les ruines de Drakkenheim. Un enchevêtrement de secrets, de subterfuges et de sabotages vous attend lorsque les objectifs opposés des factions et les buts personnels de vos personnages entrent en conflit !
-=== **COMBAT** 
+=== COMBAT 
 Au-delà des féroces guerriers envoyés par les factions, Drakkenheim est peuplé de toutes sortes d'horreurs extraterrestres. Les personnages affrontent des morts-vivants, des bêtes prédatrices, des monstruosités mutantes et des abominations terrifiantes produites par le mystérieux météore.
 ===
 ## Delerium
@@ -17,19 +17,19 @@ Drakkenheim était la capitale cosmopolite du Westemär, gouvernée par l'impér
 ## Les factions rivales
 Cinq factions sont arrivées à Drakkenheim pour faire avancer leurs projets ambitieux. Bien que leurs idéologies et leurs méthodes diffèrent, chacune d'entre elles recherche des ressources précieuses et des secrets perdus dans la cité. Cependant, les ruines présentent de nombreux obstacles pour leurs agents. Ainsi, toutes les factions espèrent attirer des aventuriers talentueux à leur cause, entraînant les héros en herbe dans une intrigue politique féroce qui pourrait déboucher sur une lutte violente. Ceux qui souhaitent décider du sort de Drakkenheim doivent bien choisir leurs alliés et leurs ennemis! 
 
-==- **Lanternes à capuchon(hooded Lanterns)**
+==- Lanternes à capuchon(hooded Lanterns)
 Officiellement connue sous le nom de 4e corps expéditionnaire provisoire pour la reconquête de la capitale, la Lanterne à capuche est une armée irrégulière composée de vétérans de la guerre civile et de vestiges de l'ancienne garde municipale de Drakkenheim. Dirigés par le terne Lord Commandant Elias Drexel, ils mènent une guérilla contre les monstres, les bandits et les charognards qui ont pris racine dans la capitale de leur nation. Chacun a engagé son épée et sa vie pour reconstruire Drakkenheim et restaurer le royaume de Westemär. Plusieurs maisons nobles ont mis de côté leurs querelles pour soutenir les efforts des Lanternes à capuchon. Ces familles pensent qu'une fois la ville restaurée, des preuves apparaîtront, révélant le véritable héritier du trône de Drakkenheim... ou permettant à une maison rusée de s'emparer de la couronne.
 
-==- **Les hommes de la reine**
+==- Les hommes de la reine
 Les Hommes de la Reine sont une affiliation libre entre une centaine de gangs de brigands, de hors-la-loi et de crapules, tous redevables à l'énigmatique Reine des Voleurs. Ces réprouvés s'attaquent aux pèlerins, prospecteurs et explorateurs attirés par la ville, extorquent et volent les aventuriers, font passer en contrebande le delerium à des clients peu recommandables dans des pays lointains, et pillent les trésors fantastiques et les richesses incroyables laissés dans la ville. La Reine des voleurs rêve de bâtir un empire criminel influent et puissant, forgé dans l'anarchie et l'illégalité des ruines, et conspire contre les autres factions à chaque instant.
 
-==- **Chevaliers de l'Ordre d'argent**
+==- Chevaliers de l'Ordre d'argent
 Les Chevaliers de l'Ordre d'Argent sont une organisation de paladins liés par serment et de guerriers dévoués qui ont juré de combattre le mal surnaturel, la magie noire et les incursions d'autres mondes. Les chevaliers en quête parcourent normalement les royaumes en petites bandes et compagnies, et adhèrent à la Foi de la Flamme Sacrée, la religion dominante sur le continent. Ils pensent que le delerium est un fléau contaminant issu du chaos le plus sombre et ont décidé d'anéantir les cristaux corrompus, de tuer tous les monstres qu'il a créés et de traquer les mages diaboliques qui utiliseraient son pouvoir pour faire de la magie maléfique. Un régiment entier a été envoyé à Drakkenheim pour mener à bien cette juste tâche, sous la direction du capitaine-chevalier Théodore Marshal.
 
-==- **Les adeptes du feu tombant**
+==- Les adeptes du feu tombant
 L'anéantissement de Drakkenheim a provoqué un grave schisme religieux au sein de la Foi de la Flamme Sacrée. Une nouvelle secte a vu le jour, les Followers of the Falling Fire, qui adhèrent aux prophéties de l'ancienne gardienne de la flamme Lucretia Mathias. Elle atteste que le delerium est un don divin, et non un fléau, et que ces pierres sacrées offriront le salut contre une plus grande obscurité à venir. Le clergé a excommunié Lucretia Mathias et qualifié ses adeptes de secte démente aux croyances hérétiques et aux pratiques blasphématoires. Malgré cela, des masses de gens du peuple dévoués se lancent dans un dangereux pèlerinage à Drakkenheim pour prendre leur place dans le plan divin.
 
-==- **Académie Améthyste**
+==- Académie Améthyste
 L'Académie Améthyste est une école magique pour sorciers et magiciens, où les étudiants apprennent la magie dans des châteaux et des universités isolés. Dirigée par une cabale obscure de puissants archimages, l'Académie gère également une guilde de mages entreprenante qui contrôle la fabrication d'articles magiques, et orchestre un influent syndicat des arcanes qui fournit des conseils occultes à la noblesse du continent. La destruction de Drakkenheim a cependant porté un coup terrible à l'Académie, car la ville abritait son plus grand bastion : la Tour Inscrutable. L'Archimage Eldrick Runeweaver dirige les efforts de l'Académie pour accéder à la tour et sauvegarder les connaissances secrètes qu'elle renferme. Pendant ce temps, les équipes d'enquêteurs mènent des recherches sur les qualités surnaturelles et les dangers inconnus du delerium. Les mages prévoient d'exploiter les vastes énergies des cristaux pour fabriquer des objets magiques et lancer de nouveaux sorts arcaniques.
 ===
 ## La brume
@@ -55,7 +55,7 @@ Les personnages-joueurs peuvent choisir parmi les quêtes ci-dessous, ou travail
 
 === Mision apocalyptique
 Depuis quinze ans, je suis hanté par des visions du météore. Chaque fois que je dors, je le vois s'écraser sur moi. Ma quête personnelle est de voir par moi-même ce qui se trouve au cœur du cratère. Je dois surmonter ce que j'y trouverai pour mettre fin à ces cauchemars.
-=== **Secrets arcaniques.** 
+=== Secrets arcaniques. 
 Drakkenheim recèle des légendes interdites. Plusieurs sorciers noirs vivant dans les ruines ont maîtrisé de nouvelles magies terribles et puissantes. La bibliothèque de la Tour Inscrutable est sans surveillance, remplie de livres de sorts contenant des arcanes secrètes. Ma quête personnelle est d'apprendre ces sorts.
 === Paysage détruit. 
 Un fléau de l'ordre naturel enveloppe Drakkenheim, mais la contamination pourrait s'étendre au-delà de la ville. Ma quête personnelle est d'étudier les phénomènes non naturels que l'on trouve dans les endroits les plus corrompus de la ville : Le jardin de Queen's Park, les cours d'eau souterrains et le Crater's Edge. Peut-être pourrai-je alors mettre au point un moyen d'inverser la contamination.
