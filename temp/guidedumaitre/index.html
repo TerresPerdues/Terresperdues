@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="turbo-root" content="/Terresperdues">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.793596331637">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.793596967089">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.6.0">
@@ -31,11 +31,11 @@
 
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="../../resources/css/retype.css?v=3.6.0.793596331637" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.6.0.793596967089" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.793596331637" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.793596967089" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.6.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.793596331637" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.793596967089" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -206,11 +206,22 @@
         <span>Ce dont vous avez besoin pour mener une partie</span>
     </h3>
 </doc-anchor-target>
-<p>Pour pouvoir mener une partie en tant que MD des Terres Perdues, vous aurez besoin :
-Du Player&#x27;s Handbook ® Manuel des joueurs ou des Règles de Base de D&amp;D. Le document PDF des règles de base est disponible gratuitement sur le site de Wizards of the Coast. Il contient toutes les règles de base du jeu.
-Des joueurs. Le jeu dans le cadre des Terres Perdues est prévu pour une table de cinq joueurs, mais peut être adapté pour jouer à  trois joueurs. Des tables plus petites ou plus grandes que ces limites ne sont pas permises.
-Mener une partie
-Vous pouvez faire jouer un groupe de 3 à 5 joueurs à la fois – chaque joueur ayant son propre personnage dont le niveau correspond à l’intervalle prescrit pour l’aventure jouée.</p>
+<p>Pour pouvoir mener une partie en tant que MD des Terres Perdues, vous aurez besoin :</p>
+<doc-tabs>
+<doc-tab v-cloak id="donjons-et-dragons">
+<template #title>Donjons et dragons</template>
+<p>Du Player&#x27;s Handbook ® Manuel des joueurs ou des Règles de Base de D&amp;D. Le document PDF des règles de base est disponible gratuitement sur le site de Wizards of the Coast. Il contient toutes les règles de base du jeu.
+Des joueurs. Le jeu dans le cadre des Terres Perdues est prévu pour une table de cinq joueurs, mais peut être adapté pour jouer à  trois joueurs. Des tables plus petites ou plus grandes que ces limites ne sont pas permises.</p>
+</doc-tab>
+<doc-tab v-cloak id="pathfinder-2">
+<template #title>Pathfinder 2</template>
+<p>à venir</p>
+</doc-tab>
+<doc-tab v-cloak id="dragonbane">
+<template #title>Dragonbane</template>
+<p>à venir</p>
+</doc-tab>
+</doc-tabs>
 <doc-anchor-target id="la-gestion-des-aventures">
     <h2>
         <doc-anchor-trigger class="header-anchor-trigger" to="#la-gestion-des-aventures">#</doc-anchor-trigger>
@@ -282,7 +293,7 @@ Il est mieux d’utiliser des npcs jetables que des npcs important pour ne pas t
         <span>Récompenses des joueurs</span>
     </h2>
 </doc-anchor-target>
-<p>Les personnages gagnent des récompenses sous la forme de points de progression, d’objets magiques débloqués, et d’autres types de récompenses ou de nouvelles activités pour les périodes d’intermède. Ces récompenses sont notées sur les fiches de contrôle avant de quitter la table de jeu. Les joueurs sont responsables de la mise à jour de leur propre fiche de contrôle.</p>
+<p>Les personnages gagnent des récompenses sous la forme de points de progression, d’objets magiques débloqués, et d’autres types de récompenses ou de nouvelles activités pour les périodes d’intermède. Les joueurs sont responsables de la mise à jour de leur propre fiche.</p>
 <doc-anchor-target id="distribution-des-récompenses">
     <h2>
         <doc-anchor-trigger class="header-anchor-trigger" to="#distribution-des-récompenses">#</doc-anchor-trigger>
@@ -296,7 +307,7 @@ Il est mieux d’utiliser des npcs jetables que des npcs important pour ne pas t
         <span>Or et trésor ordinaire</span>
     </h3>
 </doc-anchor-target>
-<p>Toutes les références à des trésors ou récompenses ayant une valeur monétaire sont ignorées. L’équipement ordinaire peut être utilisé (mais pas vendu) par les personnages durant la session, mais est perdu à la fin de la session. Certains objets non-magiques trouvés durant une aventure peuvent être débloqués et rendus disponibles à l’achat en utilisant des points de trésor. Un autre document contiendra des informations spécifiques aux aventures concernant ces objets en tant que récompenses, apportant des exceptions à ce paragraphe de règles. Tous les livres de sorts récupérés par les personnages peuvent être conservés par un personnage de la table (déterminé aléatoirement en cas de dispute).</p>
+<p>Toutes les références à des trésors ou récompenses ayant une valeur monétaire sont ignorées. L’équipement ordinaire peut être utilisé (mais pas vendu) par les personnages durant la session, mais est perdu à la fin de la session. Certains objets non-magiques trouvés durant une aventure peuvent être débloqués et rendus disponibles à l’achat. Un autre document contiendra des informations spécifiques aux aventures concernant ces objets en tant que récompenses, apportant des exceptions à ce paragraphe de règles. Tous les livres de sorts récupérés par les personnages peuvent être conservés par un personnage de la table (déterminé aléatoirement en cas de dispute).</p>
 <doc-anchor-target id="objets-magiques">
     <h3>
         <doc-anchor-trigger class="header-anchor-trigger" to="#objets-magiques">#</doc-anchor-trigger>
