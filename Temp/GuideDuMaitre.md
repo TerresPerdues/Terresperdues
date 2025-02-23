@@ -6,10 +6,14 @@ Ce document est un guide pour débuter en tant que Maître du donjon dans le cad
 
 ### Ce dont vous avez besoin pour mener une partie
 Pour pouvoir mener une partie en tant que MD des Terres Perdues, vous aurez besoin :
++++ Donjons et dragons
 Du Player's Handbook ® Manuel des joueurs ou des Règles de Base de D&D. Le document PDF des règles de base est disponible gratuitement sur le site de Wizards of the Coast. Il contient toutes les règles de base du jeu.
 Des joueurs. Le jeu dans le cadre des Terres Perdues est prévu pour une table de cinq joueurs, mais peut être adapté pour jouer à  trois joueurs. Des tables plus petites ou plus grandes que ces limites ne sont pas permises.
-Mener une partie
-Vous pouvez faire jouer un groupe de 3 à 5 joueurs à la fois – chaque joueur ayant son propre personnage dont le niveau correspond à l’intervalle prescrit pour l’aventure jouée.
++++ Pathfinder 2
+à venir
++++ Dragonbane
+à venir
++++
 
 ## LA GESTION DES AVENTURES
 Vous êtes le Maître du Donjon d'un groupe de joueurs à la fois.
@@ -35,13 +39,13 @@ Il est mieux d’utiliser des npcs jetables que des npcs important pour ne pas t
 Il est important de garder sa mission le plus épurée possible. C’est impossible de tout suivre pour tout le monde, il ne faut pas trop mettre d’artifice, pour ne pas étouffer les joueurs sous trop d'informations. Alors avec un objectif clair et simple, l’aventure sera un succès.
 
 ## Récompenses des joueurs
-Les personnages gagnent des récompenses sous la forme de points de progression, d’objets magiques débloqués, et d’autres types de récompenses ou de nouvelles activités pour les périodes d’intermède. Ces récompenses sont notées sur les fiches de contrôle avant de quitter la table de jeu. Les joueurs sont responsables de la mise à jour de leur propre fiche de contrôle.
+Les personnages gagnent des récompenses sous la forme de points de progression, d’objets magiques débloqués, et d’autres types de récompenses ou de nouvelles activités pour les périodes d’intermède. Les joueurs sont responsables de la mise à jour de leur propre fiche.
 
 ## Distribution des récompenses
 Les récompenses sont distribuées à la fin d’une session de jeu en utilisant les directives suivantes :
 
 ### Or et trésor ordinaire 
-Toutes les références à des trésors ou récompenses ayant une valeur monétaire sont ignorées. L’équipement ordinaire peut être utilisé (mais pas vendu) par les personnages durant la session, mais est perdu à la fin de la session. Certains objets non-magiques trouvés durant une aventure peuvent être débloqués et rendus disponibles à l’achat en utilisant des points de trésor. Un autre document contiendra des informations spécifiques aux aventures concernant ces objets en tant que récompenses, apportant des exceptions à ce paragraphe de règles. Tous les livres de sorts récupérés par les personnages peuvent être conservés par un personnage de la table (déterminé aléatoirement en cas de dispute).
+Toutes les références à des trésors ou récompenses ayant une valeur monétaire sont ignorées. L’équipement ordinaire peut être utilisé (mais pas vendu) par les personnages durant la session, mais est perdu à la fin de la session. Certains objets non-magiques trouvés durant une aventure peuvent être débloqués et rendus disponibles à l’achat. Un autre document contiendra des informations spécifiques aux aventures concernant ces objets en tant que récompenses, apportant des exceptions à ce paragraphe de règles. Tous les livres de sorts récupérés par les personnages peuvent être conservés par un personnage de la table (déterminé aléatoirement en cas de dispute).
 
 ### Objets magiques
 A moins qu’une exception ne soit fait, les objets magiques mentionnés spécifiquement dans une rencontre deviennent disponibles d’une manière ou d’une autre, en fonction de leur type :
@@ -53,21 +57,13 @@ Les objets magiques permanents ne sont pas conservés ; ils sont à la place dé
 ### Récompenses/effets/objets de récit
  Les personnages peuvent acquérir des objets ou effets spéciaux (ordinaire ou magiques) qui ne sont utilisables et effectifs que durant les sessions de l’aventure durant laquelle ils ont été obtenus. 
 
-
-
-
 ## Triche
 Le jeu dans le cadre des Terres Perdues est fait pour être amusant et ouvert à tous – pas compétitif. En tant que MD, prévenez les joueurs qui trichent rapidement et discrètement (si possible) en résolvant les problèmes, et instaurez des règles en fonction de la situation. Vous pouvez vérifier les documents papier (fiches de personnage, feuilles de contrôle, et certificats) à n’importe quel moment. Si quelque chose cloche – soit dans les documents ou durant la partie – discutez-en avec les joueurs et corrigez les irrégularités. Vous pouvez interdire quelque chose qui semble être en dehors des règles ou demander à un joueur de relancer les dés. Soyez cependant professionnel – n’embarrassez jamais un joueur et ne considérez pas systématiquement qu’il y ait volonté de tricher. Nous sommes tous là pour nous amuser et relever des défis !
-
-
 
 ## Foundry
 Organisation des dossiers dans Foundry.
 Envoi de fichier
 Lorsque vous avez besoin d’envoyer des fichiers, utilisez le dossier préparé à votre nom.
-
-
-
 
 ## Explication de la fiche de fin de partie
 Numéro de session 
