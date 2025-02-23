@@ -3,7 +3,7 @@ Les Terres Perdues c’est une aventure de communauté avant tout. Pour protége
 
 Pour jouer au Terres Perdues, veuillez suivre cette ordre.
 1 - Lire les règles et informations comme vous faites.
-2 - Pour vous inscrire, simplement aller à [2- inscriptions](https://discord.com/channels/662746189069942802/1276685886297477121) préciser si vous avez plus de 18 ans. PS: micro obligatoire mais pas la caméra. 
+2 - Pour vous inscrire, simplement aller à [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#2- inscriptions"](https://discord.com/channels/662746189069942802/1276685886297477121) préciser si vous avez plus de 18 ans. PS: micro obligatoire mais pas la caméra. 
 3 - Créer votre personnage ici [⁠3-personnage](https://discord.com/channels/662746189069942802/1276686197439332494) en suivant les règles de création plus bas.
 
 ## Aperçu de la campagne
