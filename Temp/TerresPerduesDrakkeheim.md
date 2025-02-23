@@ -1,9 +1,12 @@
 ## Aperçu de la campagne
 Dungeons of Drakkenheim est une aventure fantastique qui se déroule dans une ville gothique en ruines de la Renaissance. La campagne est conçue pour quatre joueurs, mais vous pouvez l'adapter à des groupes plus petits ou plus grands. Vous pouvez jouer Drakkenheim comme une série de quêtes d'exploration sans lien entre elles ou comme un récit imprévisible rempli de conflits entre factions. 
 
-=== EXPLORATION. Les personnages se lancent dans de dangereuses expéditions dans des ruines remplies de monstres, des rues hantées, des jardins décrépits, des tours de mage brisées, des cathédrales baroques et d'anciens châteaux pour piller des trésors et résoudre des mystères.
-=== INTERACTION. Cinq factions rivales se disputent les ruines de Drakkenheim. Un enchevêtrement de secrets, de subterfuges et de sabotages vous attend lorsque les objectifs opposés des factions et les buts personnels de vos personnages entrent en conflit !
-=== COMBAT. Au-delà des féroces guerriers envoyés par les factions, Drakkenheim est peuplé de toutes sortes d'horreurs extraterrestres. Les personnages affrontent des morts-vivants, des bêtes prédatrices, des monstruosités mutantes et des abominations terrifiantes produites par le mystérieux météore.
+=== EXPLORATION. 
+Les personnages se lancent dans de dangereuses expéditions dans des ruines remplies de monstres, des rues hantées, des jardins décrépits, des tours de mage brisées, des cathédrales baroques et d'anciens châteaux pour piller des trésors et résoudre des mystères.
+=== INTERACTION. 
+Cinq factions rivales se disputent les ruines de Drakkenheim. Un enchevêtrement de secrets, de subterfuges et de sabotages vous attend lorsque les objectifs opposés des factions et les buts personnels de vos personnages entrent en conflit !
+=== COMBAT. 
+Au-delà des féroces guerriers envoyés par les factions, Drakkenheim est peuplé de toutes sortes d'horreurs extraterrestres. Les personnages affrontent des morts-vivants, des bêtes prédatrices, des monstruosités mutantes et des abominations terrifiantes produites par le mystérieux météore.
 
 ## Delerium
 On trouve dans tout Drakkenheim des cristaux iridescents au vaste potentiel magique. Connues sous le nom de delerium, ces pierres lambda émanent d'énergies non naturelles qui induisent la folie et des transformations monstrueuses. Malgré ces dangers, le delerium convient parfaitement à la fabrication d'objets magiques et à l'élaboration de nouveaux sorts puissants. Les sorciers, les sorciers de guerre, les magiciens et tous les autres magiciens occultes raffolent de son pouvoir surnaturel, et le delérium se vend donc très cher dans les cercles arcaniques et les marchés clandestins. De nombreux prospecteurs risquent tout pour en récolter quelques fragments, mais les véritables origines de cet étrange minéral restent inconnues. Les factions rivales sont divisées sur la question de savoir si les cristaux doivent être détruits, exploités ou vénérés, et leurs désaccords latents menacent de déclencher une guerre. L'annexe D : Delerium, Magie et Sortilèges traite des cristaux en détail.
