@@ -1,3 +1,11 @@
+## Inscription à Terres Perdues Drakkenheim
+Les Terres Perdues c’est une aventure de communauté avant tout. Pour protéger les valeurs et la joie de jouer de la communauté, il peut arriver que certaines personnes ne se mêlent pas facilement et briment le plaisir des autres. On tente d’aider le plus possible le monde pour se mêler mais il peut arriver que certaines personnes ne fittent pas avec le reste. Nous allons donc devoir fermer les Terres Perdues à ces derniers pour garder un endroit plaisant pour la majorité. Le discord reste ouvert à ses gens pour qu’ils puissent faire d’autres parties, participer au discussion hors des Terres Perdues. Le but est de garder une communauté saine. 
+
+Pour jouer au Terres Perdues, veuillez suivre cette ordre.
+1 - Lire les règles et informations comme vous faites.
+2 - Pour vous inscrire, simplement aller à [2- inscriptions](https://discord.com/channels/662746189069942802/1276685886297477121) préciser si vous avez plus de 18 ans. PS: micro obligatoire mais pas la caméra. 
+3 - Créer votre personnage ici [⁠3-personnage](https://discord.com/channels/662746189069942802/1276686197439332494) en suivant les règles de création plus bas.
+
 ## Aperçu de la campagne
 Dungeons of Drakkenheim est une aventure fantastique qui se déroule dans une ville gothique en ruines de la Renaissance. La campagne est conçue pour quatre joueurs, mais vous pouvez l'adapter à des groupes plus petits ou plus grands. Vous pouvez jouer Drakkenheim comme une série de quêtes d'exploration sans lien entre elles ou comme un récit imprévisible rempli de conflits entre factions. 
 
