@@ -19,7 +19,7 @@ Declined: Joueurs qui étaient dans Accepted mais ne peuvent plus participer.
 Tentative: Joueurs qui sont intéressés s’il y a des désistements/remplacements.
 Une partie est limitée à 5 joueurs (plus le MJ).
 
-#### ÉCHANGE DE PARTIE
+#### Échange de partie
 Les joueurs peuvent s’échanger des places jusqu’au jour avant la partie. Pour ce faire, créez un fils dans le canal Discussion. Mais les échanges doivent respecter les règles (limites) d’inscriptions (voir plus bas). Si un joueur n’a pas réussi à échanger sa partie et ne peut pas participer, il perd sa place et le MJ (et/ou un estimé collaborateur) va s’occuper de trouver un remplaçant.
 
 Si vous avertissez que vous ne pouvez pas être présent, énoncez clairement la personne qui remplace dans le canal de l’épisode.  Sinon l’équipe en place s’occupera de vous remplacer.
@@ -36,8 +36,8 @@ Les inscriptions aux Portes Céleste sont les mêmes que pour une partie normale
 Un joueur qui ne respecte pas les règles sera averti, s’il récidive des sanctions seront appliquées. Les organisateurs se réservent le droit de le désinscrire de toutes les parties pour ne pas créer de situation bloquante aux autres joueurs.
 
 ## RÈGLES SPÉCIFIQUE AU SYSTÈME DE JEU DE RÔLE?
-+++ Donjons et Dragons 
-## Donjons et Dragons
++++ DONJONS ET DRAGONS
+## DONJONS ET DRAGONS
 Ce document vous fournit les règles pour créer et faire progresser des personnages au sein des Terres Perdues, il est compatible avec la Ligue des Aventuriers de D&D, un programme officiel de jeu organisé pour Donjons et Dragons. Les différentes sont minimes, exemple : l'évolution des personnages est moins rapide dans les Terres Perdues. 
 
 ### Ce que vous avez besoin pour jouer
@@ -67,7 +67,7 @@ Utilisez les règles de création de personnage telles qu'elles sont présentée
 - Déité : Les clercs doivent et les autres classes peuvent choisir la divinité des Terres Perdues [Dieux](/Histoire/Dieux.md) 
 - Faction : Vous pouvez choisir une organisation dans [Organisations](/Histoire/Organisations.md) ou dans l'Appendice C des Règles de Base(2014) ou à chaque fois que l'occasion se présente au cours de l'aventure. Vous ne pouvez appartenir qu'à une seule faction à la fois et vous pouvez changer de faction quand vous le souhaitez. La faction des Sorciers rouges n'est pas un choix possible.
 
-### ADAPTATIONS DES SORTS
+### adaptations des sortS
 La plupart des sorts instantanés dont la durée n'est pas indiquée, à l'exception des sorts tels que ressusciter les morts, restauration et réincarnation, expirent à la fin de l'aventure, selon la description du sort et à la discrétion du MD. Certains sorts nécessitent des intermèdes (voir « intermèdes » ci-dessous). Pour un sort qui nécessite un délai avant que le personnage puisse l'utiliser (comme « lancer tous les jours pendant un an »), dépensez 1 jour d'intermède pour chaque jour nécessaire à la description du sort. Les sorts nécessitant une sauvegarde de la part du lanceur doivent être lancés devant le MD.
 - Clone. Un vaisseau ne peut pas faire pousser un autre clone tant que le premier n'a pas été utilisé.
 - Trouver un familier. En dehors des familiers listés dans la description du sort, seuls les familiers de classe et de campagne spécifiques sont disponibles (voir aussi « Récompenses d'événements et autres certificats »).
@@ -202,11 +202,14 @@ Relevé les morts | 100
 Résurrection | 300
 Résurrection suprême | 500
 
-### MORT, MALADIE ET MALÉDICTION
+### Mort, maladie et malédiction
 Pendant les sessions de jeu, si vous mourez, si vous subissez un effet persistant tel qu'une maladie ou une malédiction, ou si vous êtes retiré de l'aventure, vous en subissez les conséquences pendant toute la durée de la session de jeu. À la fin de cette session, vous pouvez choisir le sort suivant :
 - Vous rendez la vie à votre personnage ou vous supprimez l'effet négatif. Si vous avez été retiré de l'aventure, vous gagnez les récompenses obtenues sauf les points d'intermèdes. 
 - Vous retirez votre personnage, succombant à votre destin.
-Si vous revenez dans l'aventure avant la fin de la session de jeu, vous pouvez gagner toutes les récompenses offertes au groupe, y compris pendant votre absence. 
+Si vous revenez dans l'aventure avant la fin de la session de jeu, vous pouvez gagner toutes les récompenses offertes au groupe, y compris pendant votre absence.
+!!!
+Il est possible pour un maître de jeu de changer une partie de cette règle pour le narratif de son aventure, vous référez au maître de jeu si c'est le cas. 
+!!! 
 
 +++ PATHFINDER 2
 ## PATHFINDER 2
