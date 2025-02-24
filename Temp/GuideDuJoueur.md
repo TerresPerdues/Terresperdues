@@ -207,4 +207,9 @@ Pendant les sessions de jeu, si vous mourez, si vous subissez un effet persistan
 - Vous retirez votre personnage, succombant à votre destin.
 Si vous revenez dans l'aventure avant la fin de la session de jeu, vous pouvez gagner toutes les récompenses offertes au groupe, y compris pendant votre absence. 
 
-  
++++ PATHFINDER 2
+À venir...
+
++++ DRAGONBANE
+À venir
++++
