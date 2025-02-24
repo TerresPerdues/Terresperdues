@@ -36,7 +36,8 @@ Les inscriptions aux Portes Céleste sont les mêmes que pour une partie normale
 Un joueur qui ne respecte pas les règles sera averti, s’il récidive des sanctions seront appliquées. Les organisateurs se réservent le droit de le désinscrire de toutes les parties pour ne pas créer de situation bloquante aux autres joueurs.
 
 ## RÈGLES SPÉCIFIQUE AU SYSTÈME DE JEU DE RÔLE?
-+++ ## Donjons et Dragons
++++ Donjons et Dragons 
+## Donjons et Dragons
 Ce document vous fournit les règles pour créer et faire progresser des personnages au sein des Terres Perdues, il est compatible avec la Ligue des Aventuriers de D&D, un programme officiel de jeu organisé pour Donjons et Dragons. Les différentes sont minimes, exemple : l'évolution des personnages est moins rapide dans les Terres Perdues. 
 
 ### Ce que vous avez besoin pour jouer
@@ -207,9 +208,11 @@ Pendant les sessions de jeu, si vous mourez, si vous subissez un effet persistan
 - Vous retirez votre personnage, succombant à votre destin.
 Si vous revenez dans l'aventure avant la fin de la session de jeu, vous pouvez gagner toutes les récompenses offertes au groupe, y compris pendant votre absence. 
 
-+++ ## PATHFINDER 2
++++ PATHFINDER 2
+## PATHFINDER 2
 ### À venir...
 
-+++ ## DRAGONBANE
++++ DRAGONBANE
+## DRAGONBANE
 ### À venir
 +++
