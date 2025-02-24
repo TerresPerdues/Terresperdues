@@ -7,7 +7,7 @@ Pour jouer au Terres Perdues, veuillez suivre cette ordre.
 3. Créer votre personnage ici [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#⁠3-personnage-drakkenheim"](https://discord.com/channels/662746189069942802/1276686197439332494) en suivant les règles de création plus bas.
 
 ## Aperçu de la campagne
-Dungeons of Drakkenheim est une aventure fantastique qui se déroule dans une ville gothique en ruines de la Renaissance. La campagne est conçue pour quatre joueurs, mais sera adapté selon pouvez l'adapter selon le groupe de 3 à 5 joueurs. Vous pouvez jouer Drakkenheim comme une série de quêtes d'exploration sans lien entre elles ou comme un récit imprévisible rempli de conflits entre factions. 
+Dungeons of Drakkenheim est une aventure fantastique qui se déroule dans une ville gothique en ruines de la Renaissance. La campagne est conçue pour quatre joueurs, mais sera adapté selon pouvez l'adapter selon le groupe de 3 à 5 joueurs. Vous pouvez jouer Drakkenheim comme une série de quêtes d'exploration sans lien entre elles ou comme un récit imprévisible rempli de conflits entre factions, ce qui en fait une aventure parfaite pour un westmarch à la Terres Perdues. 
 
 === EXPLORATION 
 Les personnages se lancent dans de dangereuses expéditions dans des ruines remplies de monstres, des rues hantées, des jardins décrépits, des tours de mage brisées, des cathédrales baroques et d'anciens châteaux pour piller des trésors et résoudre des mystères.
