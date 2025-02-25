@@ -47,9 +47,9 @@ Les règles de base sont disponible gratuitement à cette adresse : [!badge icon
 - Un compte de D&D Beyond
 Pour avoir accès à la création des personnages et permettre l’importation dans les parties en ligne. [!badge icon="link-external" variant="info" text="Create a account"](https://www.dndbeyond.com/create-account?returnUrl=https://www.dndbeyond.com/)
 - Un compte Discord
-Nous utilisons Discord pour communiquer. Vous n’avez pas besoin de caméra. Vous devez avoir les périphériques requis afin de communiquer avec nous (micro, écouteurs, casque d’écoute,, etc.). [!badge icon="link-external" variant="info" text="Discord"](www.discord.com)
+Nous utilisons Discord pour communiquer. Vous n’avez pas besoin de caméra. Vous devez avoir les périphériques requis afin de communiquer avec nous (micro, écouteurs, casque d’écoute,, etc.). [!badge icon="link-external" variant="info" text="Discord"](https://www.discord.com)
 - Un compte Twitch est recommandé
-Nous diffusons certaines parties sur Twitch, donc si vous voulez suivre et participer à l’histoire en tant que spectateur-influenceur, un compte Twitch vous sera bien utile.[!badge icon="link-external" variant="info" text="Twitch"](www.twitch.tv)
+Nous diffusons certaines parties sur Twitch, donc si vous voulez suivre et participer à l’histoire en tant que spectateur-influenceur, un compte Twitch vous sera bien utile.[!badge icon="link-external" variant="info" text="Twitch"](https://www.twitch.tv)
 - Un ordinateur vous permettant d’accéder à Foundry
 Nous utilisons la table de jeu virtuelle (Virtual Table Top/VTT) Foundry pour les parties. Voir les “minimum requirements” à l’adresse suivante: [!badge icon="link-external" variant="info" text="requirements"](https://foundryvtt.com/article/requirements/)
 Le navigateur Chrome est fortement recommandé. Si vous avez des problèmes de performance, consultez l’Annexe sur les problèmes de performance.
