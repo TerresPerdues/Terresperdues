@@ -59,13 +59,13 @@ Utilisez les règles de création de personnage telles qu'elles sont présentée
 
 1. Choisissez une race une classe [!badge icon="link-external" variant="info" text="classes"](https://www.dndbeyond.com/classes)
 2. Choisissez une espèce [!badge icon="link-external" variant="info" text="races"](https://www.dndbeyond.com/species), un background, l'équipement, la langue et la babiole. 
-          - Arrière-plan. Utilisez n'importe quel arrière-plan disponible ou créez un. Le background peut être créé à partir du Dungeon Master's Guide (2024), abrégé ci-dessous en « DMG 2024 ».
-          - Langue. Si la langue correspondant à l'héritage de votre de votre personnage n'est pas listée comme option d'origine, vous pouvez la choisir. (par exemple, un tiefling connaissant l'infernal).*
+    - Arrière-plan. Utilisez n'importe quel arrière-plan disponible ou créez un. Le background peut être créé à partir du Dungeon Master's Guide (2024), abrégé ci-dessous en « DMG 2024 ».
+  - Langue. Si la langue correspondant à l'héritage de votre de votre personnage n'est pas listée comme option d'origine, vous pouvez la choisir. (par exemple, un tiefling connaissant l'infernal).*
 3. Déterminer les scores d'aptitude. Vos scores d'aptitude sont générés en utilisant le tableau standard ou le coût en points.
 4. Choisir un alignement. Alignement non-mauvais uniquement.
 5. Complétez les détails.
-          - Déité : Les clercs doivent et les autres classes peuvent choisir la divinité des Terres Perdues [Dieux](/Histoire/Dieux.md) 
-          - Faction : Vous pouvez choisir une organisation dans [Organisations](/Histoire/Organisations.md) ou dans l'Appendice C des Règles de Base(2014) ou à chaque fois que l'occasion se présente au cours de l'aventure. Vous ne pouvez appartenir qu'à une seule faction à la fois et vous pouvez changer de faction quand vous le souhaitez. La faction des Sorciers rouges n'est pas un choix possible.
+    - Déité : Les clercs doivent et les autres classes peuvent choisir la divinité des Terres Perdues [Dieux](/Histoire/Dieux.md) 
+    - Faction : Vous pouvez choisir une organisation dans [Organisations](/Histoire/Organisations.md) ou dans l'Appendice C des Règles de Base(2014) ou à chaque fois que l'occasion se présente au cours de l'aventure. Vous ne pouvez appartenir qu'à une seule faction à la fois et vous pouvez changer de faction quand vous le souhaitez. La faction des Sorciers rouges n'est pas un choix possible.
 
 ### Adaptations des sorts
 La plupart des sorts instantanés dont la durée n'est pas indiquée, à l'exception des sorts tels que ressusciter les morts, restauration et réincarnation, expirent à la fin de l'aventure, selon la description du sort et à la discrétion du MD. Certains sorts nécessitent des intermèdes (voir « intermèdes » ci-dessous). Pour un sort qui nécessite un délai avant que le personnage puisse l'utiliser (comme « lancer tous les jours pendant un an »), dépensez 1 jour d'intermède pour chaque jour nécessaire à la description du sort. Les sorts nécessitant une sauvegarde de la part du lanceur doivent être lancés devant le MD.
