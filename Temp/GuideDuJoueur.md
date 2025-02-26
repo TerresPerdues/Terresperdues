@@ -60,7 +60,7 @@ Utilisez les règles de création de personnage telles qu'elles sont présentée
 1. Choisissez une race une classe [!badge icon="link-external" variant="info" text="classes"](https://www.dndbeyond.com/classes)
 2. Choisissez une espèce [!badge icon="link-external" variant="info" text="races"](https://www.dndbeyond.com/species), un background, l'équipement, la langue et la babiole. 
     - Arrière-plan. Utilisez n'importe quel arrière-plan disponible ou créez un. Le background peut être créé à partir du Dungeon Master's Guide (2024), abrégé ci-dessous en « DMG 2024 ».
-  - Langue. Si la langue correspondant à l'héritage de votre de votre personnage n'est pas listée comme option d'origine, vous pouvez la choisir. (par exemple, un tiefling connaissant l'infernal).*
+    - Langue. Si la langue correspondant à l'héritage de votre de votre personnage n'est pas listée comme option d'origine, vous pouvez la choisir. (par exemple, un tiefling connaissant l'infernal).*
 3. Déterminer les scores d'aptitude. Vos scores d'aptitude sont générés en utilisant le tableau standard ou le coût en points.
 4. Choisir un alignement. Alignement non-mauvais uniquement.
 5. Complétez les détails.
