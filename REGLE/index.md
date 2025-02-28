@@ -11,9 +11,9 @@ h1:before { content: "⚙️ " }
 
 # Les différentes règles
 
-T
+
 === Règles du serveur Discord?
-[!ref icon=":wave:" text="à venir"]()
+[!ref icon=":wave:" text="à venir"](vide)
 === Règle pour les joueurs des Terres perdues
 [!ref icon=":beginner:" text="Guide du joueur"](GuideDuJoueur.md)
 === Règle pour Terres Perdues Drakkenheim
