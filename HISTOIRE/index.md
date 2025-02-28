@@ -19,4 +19,4 @@ h1:before { content: "🧭 " }
 [!ref icon=":hammer_and_wrench:" text="Mythes er Légendes"](MythesetLegendes.md)
 - Les Organisations
 [!ref icon=":hammer_and_wrench:" text="Les organisations"](Organisations.md)
-===
+
