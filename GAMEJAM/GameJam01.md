@@ -7,7 +7,7 @@
 - **Utilisation** : Ce que vous créer pourra être utilisé ou pas, par la communauté et les Terres Perdues. Si jamais on tente de faire un zine, nous allons communiquer avec ceux qui seront choisit pour faire partie du zine. 
 - **Doit respecté les règles générales du serveur également. **
 
-Vous pouvez poster votre création ici : [Lien Dicord](https://discord.com/channels/662746189069942802/1344849745327296623)
+Vous pouvez poster votre création ici : [!badge icon="/images/discord-mark-blue.svg" variant="info" text="DISCORD GAME JAM"](https://discord.com/channels/662746189069942802/1344849745327296623)
 
 +++ Qu'est-ce qu'un archipel ?
  Ensemble d'îles en groupe, sur une surface maritime plus ou moins étendue.
