@@ -13,12 +13,14 @@ branding:
       background: "#eee5ce"
 favicon: images/logo-circle.png
 links:
-- text: Welcome!
+- text: Bienvenue!
   link: /
-- text: Start Here
-  link: /character-building/start-here/
-- text: FAQ
-  link: /faq/common-faq/
+- text: Les Règles
+  link: /REGLE/
+- text: Histoire des Terres Perdues
+  link: /Histoire/
+- text: GAME JAM des Terres Perdues
+  link: /GAMEJAM/
 -
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
