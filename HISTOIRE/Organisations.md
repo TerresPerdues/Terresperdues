@@ -14,7 +14,7 @@ Les organisations dans les Terres Perdues sont des dérivés de celles que l’o
 ![](/Images/UmbraTenebrae.png)-
 > Un agent de la Umbra Tenebrae est d'abord et avant tout autonome, car personne ne peut le tenter en utilisant le pouvoir comme béquille. Il doit être souverain de lui-même.
 Par conséquent, l'âme d'un agent doit être incorruptible. Beaucoup pensent l'être, mais le pouvoir se présente sous de nombreuses formes, et il trouvera sûrement votre faiblesse. De cela, soyez-en sûrs. Seul un vrai agent peut passer ce test et transformer une faiblesse en force. C'est pourquoi nous sommes la main qui arrête le tyran, nourrit les opprimés et ne demande rien en retour. 
--Vladovich-
+ *Vladovich*
 
 Les Umbra Tenebrae forment un réseau clandestin d’érudits, d'espions, de poètes et d’historiens qui cherchent les connaissances occultes, les mystères du monde ou simplement de belles histoires à raconter.
 L'organisation est toujours à la recherche de puissants objets magiques, en particulier pour les garder hors de portée des êtres maléfiques. Pour cela, ses agents utilisent différentes formes et identités pour accéder à des secrets soigneusement gardés comme des cartes ancestrales, des villes souterraines ou bien encore des tours de mages. 
@@ -45,7 +45,7 @@ Vladovich un ancien vampire qui cherche à trouver un moyen de redevenir vivant.
 ![](/Images/LegionDeFer.png)-
 > C'est ça le mal : c'est l'obscurité, c'est l'ombre, il se cache dans votre angle mort. Puis, lorsque vous êtes distrait, il s'infiltre. Le mal est maître dans l'art du déguisement, et quel est son meilleur déguisement, me direz-vous ? Vous-même. 
 Personne ne naît mauvais, il faut du temps pour que le mal puisse vous tromper et vous faire croire que cette voix est la vôtre. C'est pourquoi savoir qui vous êtes vraiment est ce que la légion exige de chaque nouvel espoir qui souhaite rejoindre ses rangs. Être brave, ce n'est pas combattre un dragon, c'est combattre son dragon intérieur. 
-- Kilmi Forgefer -
+*Kilmi Forgefer*
 
 Les membres de La légion sont honorables, vigilants et zélés. Protéger les autres tout en prouvant leurs prouesses au combat est leur façon de fonctionner. La légion de fer estime que tous les êtres vivants doivent venir à la lumière de la raison et de la bonté de leur propre gré. C'est pourquoi elle n'est pas intéressée par le fait de contrôler les esprits. Elle se concentre uniquement sur ​​les actes, montrant l'exemple au monde dans l'espoir d'inspirer les autres et de les éclairer.  Un code de l'honneur strict ne les autorise à frapper que lorsque de mauvaises actions sont commises. La légion de fer est également très vigilante et utilise toutes les ressources à sa disposition, à la fois divines et mondaines, pour déterminer quand et où se produiront de sombres actes.
 
@@ -75,8 +75,8 @@ Kilmi Forgefer est un nain guerrier d’une grande expérience. Il a déjà comb
 ## L’oculus (Zentarim)
 ![](/Images/Oculus.png)-
 > L'adhésion à l'oculus est comme la clé d'un millier de portes, chacune d'elles étant une passerelle vers la réalisation d'un désir personnel. La plupart des gens répugnent à ce genre de liberté. Ils aiment leurs contraintes, les lois, et l'emmaillotage. Cela leur donne l'illusion de la sécurité. 
-Le Réseau Noir fournit ce dont j'ai besoin pour explorer des royaumes et des dimensions qui déchirent les esprits habitués aux limites. Il n'y a que dans ces endroits que je peux trouver une magie assez puissante pour vaincre des êtres qui ne connaissent pas ce que sont le temps, la peur et la pitié. Vous pouvez ne pas apprécier les méthodes mais si un démon sort des Abysses pour aller chercher votre famille, vous seriez heureux de savoir que je suis allé dans le plus sombre des royaumes chercher la réponse à votre problème.  
-- Ignès-
+Le Réseau Noir fournit ce dont j'ai besoin pour explorer des royaumes et des dimensions qui déchirent les esprits habitués aux limites. Il n'y a que dans ces endroits que je peux trouver une magie assez puissante pour vaincre des êtres qui ne connaissent pas ce que sont le temps, la peur et la pitié. Vous pouvez ne pas apprécier les méthodes mais si un démon sort des Abysses pour aller chercher votre famille, vous seriez heureux de savoir que je suis allé dans le plus sombre des royaumes chercher la réponse à votre problème.
+*Ignès*
 
 Le troisième œil travaille dans l’ombre avec un réseau noir pour tenter de contrôler les mystères et influances les princes des Terres Perdues. On dit même qu’il contrôle en secret tous les gouvernements. Il tente de résoudre les plus grandes énigmes de ce monde et de prévoir l’avenir. L'organisation encourage l'ambition individuelle et récompense les innovateurs qui prennent les choses en mains. Les résultats sont tout ce qui compte. Ceux qui intègrent le Réseau Noir sans rien peuvent devenir des acteurs majeurs dans l'organisation, s'ils ont du cran et fournissent un travail acharné.
 Également, la ligne est souvent mince entre le respect de la loi et la contourner.  
@@ -105,7 +105,7 @@ Les agents du Troisième œil sont très curieux et adorent se casser la tête. 
 ![](/Images/GuildeMarchande.png)-
 > Tout le monde veut dormir la nuit et se sentir en sécurité dans sa maison, mais combien sont prêts à faire le nécessaire pour garder la marée du mal à distance ? À se tenir debout sous la pluie et dans le froid, en attendant la bataille alors que la faim vous tenaille le ventre ? Beaucoup souhaitent récolter les fruits d'une bonne récolte, mais peu prennent soin d'enlever les pierres et de labourer les champs avant la plantation.
 La guilde marchande combat des choses dont le marchand dans son lit n'a même jamais entendu parler. Nous éliminons les menaces avant que le maire de la ville n'en entende parler. Nous faisons en sorte que les choses mauvaises disparaissent. C'est ce à quoi nous sommes bons.
-- Aubin-
+*Aubin*
 
 La guilde marchande aime découvrir de nouveaux horizons, établir des contacts avec de nouvelles races et bâtir des lignes commerciales. Ils permettent l'expansion, la colonisation et la cartographie des lieux inconnus. Dernièrement, ils sont intéressés à tracer les lignes extra planaires entre les mondes. C’est une association des marchands et des princes des Terres Perdues pour assurer protection et prospérité. 
 
@@ -137,7 +137,7 @@ Les agents sont choisis principalement pour leur fidélité et sont des experts 
 ![](/Images/MaisonKrucklepuff.png)-
 > La maison Krucklepuff est la gardienne de ce vaste espace au-delà des murs de la ville. La plupart ont oublié qu'un ordre ancien et naturel existe depuis bien plus longtemps que le concept intellectuel que nous en avons. Entrer en contact avec cet ordre primitif c'est toucher la puissance qui guide toutes vies. 
 Ceux qui suivent ce chemin sont imprégnés de cette puissance. Nous ne sommes jamais seuls. Même au milieu d'une ville bruyante et bondée nous pouvons sentir la présence du monde naturel en nous, frais, fort et vivant. 
-- Delaan Belette sage, Scout de quatrième rang -
+*Delaan Belette sage, Scout de quatrième rang*
 
 Les dirigeants de La maison Krucklepuff sont un regroupement élu de manière démocratique d'explorateurs de diverses contrées des Terres Perdues. Certains d'entre eux sont des guerriers étoffés, d'autres des druides émérites, alors qu'on retrouve aussi des naturalistes chevronnés.  Des branches de l'organisation sont dispersées à travers toute les Terres Perdues et opèrent souvent de manière isolée les unes des autres. Cette existence enseigne aux membres de la maison Krucklepuff une farouche autonomie et la maîtrise de certaines compétences de combat et de survie.
 
