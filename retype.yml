@@ -16,11 +16,11 @@ links:
 - text: Bienvenue!
   link: /
 - text: Les Règles
-  link: /REGLE/
+  link: /Terresperdues/REGLE/
 - text: Histoire des Terres Perdues
-  link: /HISTOIRE/
+  link: /Terresperdues/histoire/
 - text: GAME JAM des Terres Perdues
-  link: /GAMEJAM/
+  link: /Terresperdues/GAMEJAM/
 -
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
