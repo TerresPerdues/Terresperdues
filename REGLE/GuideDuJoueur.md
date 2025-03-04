@@ -9,31 +9,11 @@ Ce document vous fournit les règles pour jouer, créer et faire progresser des 
 En plus de suivre le code de conduite du groupe, soyez respectueux, partager la vedette, être attentif, être prêt pour son tour, demander l'autorisation quand c'est nécessaire, et s'assurer que les autres s'amusent. Suivez fidèlement les conseils de création de personnage et créez un créer un personnage qui n'empiète pas sur le plaisir du maître du donjon (DM) et des autres joueurs. Respecter les personnages des joueurs.
 
 ## INCRIPTIONS AUX PARTIES
-Pour participer aux parties vous devez vous inscrire à celles-ci. Chaque mois, un canal dédié va être ouvert avec la liste des parties disponibles (d’autres peuvent s’ajouter au fil du mois).
-
-Une annonce de partie ressemble à ceci :
-
-#### Description des boutons
-Accepted: Joueurs qui ont confirmé leurs participations à la partie.
-Declined: Joueurs qui étaient dans Accepted mais ne peuvent plus participer.
-Tentative: Joueurs qui sont intéressés s’il y a des désistements/remplacements.
-Une partie est limitée à 5 joueurs (plus le MJ).
+Pour participer aux parties vous devez vous inscrire à celles-ci. Un canal dédié pour l'horaire est créer par aventure et les informations pour s'inscrire si trouve dans le canal. 
 
 #### Échange de partie
-Les joueurs peuvent s’échanger des places jusqu’au jour avant la partie. Pour ce faire, créez un fils dans le canal Discussion. Mais les échanges doivent respecter les règles (limites) d’inscriptions (voir plus bas). Si un joueur n’a pas réussi à échanger sa partie et ne peut pas participer, il perd sa place et le MJ (et/ou un estimé collaborateur) va s’occuper de trouver un remplaçant.
-
+Les joueurs peuvent s’échanger des places jusqu’au jour avant la partie.
 Si vous avertissez que vous ne pouvez pas être présent, énoncez clairement la personne qui remplace dans le canal de l’épisode.  Sinon l’équipe en place s’occupera de vous remplacer.
-
-### Règles d’inscriptions
-L’objectif de ces règlements est de permettre à tous de pouvoir s'inscrire au moins une partie par mois et garder un équilibre le plus possible.
-Quand l’horaire devient disponible, les inscriptions commencent le lundi à 20h (Québec). À ce moment-là vous pouvez seulement vous inscrire à 1 partie.
-Vous ne pouvez vous inscrire qu’à une seule séance PAR SEMAINE, mais vous pouvez vous mettre en tentative pour d'autres séances.
-Pour vous inscrire à une deuxième partie et plus : Vous devez attendre le prochain tour, qui est le lundi suivant à 20h (Québec). Pour compter à combien de participations vous avez droit, il suffit de compter le nombre de semaines écoulées dans le mois courant. (1ère semaine = 1 partie, 2e semaine = 2 parties, 3e semaine = 3 partie, etc).
-
-Les inscriptions aux Portes Céleste sont les mêmes que pour une partie normale.
-
-#### Pénalités de surinscription
-Un joueur qui ne respecte pas les règles sera averti, s’il récidive des sanctions seront appliquées. Les organisateurs se réservent le droit de le désinscrire de toutes les parties pour ne pas créer de situation bloquante aux autres joueurs.
 
 ## RÈGLES SPÉCIFIQUE AU SYSTÈME DE JEU DE RÔLE?
 +++ DONJONS ET DRAGONS
@@ -57,7 +37,7 @@ Le navigateur Chrome est fortement recommandé. Si vous avez des problèmes de p
 ### CRÉATION D'UN PERSONNAGE
 Utilisez les règles de création de personnage telles qu'elles sont présentées dans le Livre du joueurs(PH) 2024, avec les notes suivantes. Vous commencez à jouer au 1er niveau ou selon le niveau de l'aventure.
 
-1. Choisissez une race une classe [!badge icon="link-external" variant="info" text="classes"](https://www.dndbeyond.com/classes)
+1. Choisissez une classe [!badge icon="link-external" variant="info" text="classes"](https://www.dndbeyond.com/classes)
 2. Choisissez une espèce [!badge icon="link-external" variant="info" text="races"](https://www.dndbeyond.com/species), un background, l'équipement, la langue et la babiole. 
     - Arrière-plan. Utilisez n'importe quel arrière-plan disponible ou créez un. Le background peut être créé à partir du Dungeon Master's Guide (2024), abrégé ci-dessous en « DMG 2024 ».
     - Langue. Si la langue correspondant à l'héritage de votre de votre personnage n'est pas listée comme option d'origine, vous pouvez la choisir. (par exemple, un tiefling connaissant l'infernal).*
