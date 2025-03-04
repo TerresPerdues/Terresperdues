@@ -8,7 +8,8 @@ Nous allons jouer avec les règles de Donjons et Dragons 2024. C'est plus facile
 Pour jouer au Terres Perdues, veuillez suivre cette ordre.
 1. Lire les règles et informations comme vous faites et le [Guide du joueur](https://terresperdues.github.io/Terresperdues/regle/guidedujoueur/).
 2. Pour vous inscrire, simplement aller à [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#2-inscriptions-drakkenheim"](https://discord.com/channels/662746189069942802/1276685886297477121) préciser si vous avez plus de 18 ans. PS: micro obligatoire mais pas la caméra. 
-3. Créer votre personnage ici [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#⁠3-personnage-drakkenheim"](https://discord.com/channels/662746189069942802/1276686197439332494) en suivant les règles de création plus bas.
+3. Créer votre personnage ici [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#⁠3-personnage-drakkenheim"](https://discord.com/channels/662746189069942802/1276686197439332494) en suivant les règles de création [Guide du joueur](https://terresperdues.github.io/Terresperdues/regle/guidedujoueur/).
+    (Seule les classes et espèces 2024 sont autorisé pour débuter l'aventure)
 PS: Certaines parties seront sur Twitch/Youtube mais pas toutes.  
 
 ## Aperçu de la campagne Drakkenheim
