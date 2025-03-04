@@ -1,6 +1,9 @@
 ## Inscription à Terres Perdues Drakkenheim
 Les Terres Perdues c’est une aventure de communauté avant tout. Pour protéger les valeurs et la joie de jouer de la communauté, il peut arriver que certaines personnes ne se mêlent pas facilement et briment le plaisir des autres. On tente d’aider le plus possible le monde pour se mêler mais il peut arriver que certaines personnes ne fittent pas avec le reste. Nous allons donc devoir fermer les Terres Perdues à ces derniers pour garder un endroit plaisant pour la majorité. Le discord reste ouvert à ses gens pour qu’ils puissent faire d’autres parties, participer au discussion hors des Terres Perdues. Le but est de garder une communauté saine. 
 
+## Système de règle
+Nous allons jouer avec les règles de Donjons et Dragons 2024. C'est plus facile a gérer avec les objectifs que nous avons et on souhaite essayer les nouvelles régles pour voir leurs comportements.
+
 Pour jouer au Terres Perdues, veuillez suivre cette ordre.
 1. Lire les règles et informations comme vous faites.
 2. Pour vous inscrire, simplement aller à [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#2-inscriptions-drakkenheim"](https://discord.com/channels/662746189069942802/1276685886297477121) préciser si vous avez plus de 18 ans. PS: micro obligatoire mais pas la caméra. 
