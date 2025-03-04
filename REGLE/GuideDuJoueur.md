@@ -47,7 +47,7 @@ Les règles de base sont disponible gratuitement à cette adresse : [!badge icon
 - Un compte de D&D Beyond
 Pour avoir accès à la création des personnages et permettre l’importation dans les parties en ligne. [!badge icon="link-external" variant="info" text="Create a account"](https://www.dndbeyond.com/create-account?returnUrl=https://www.dndbeyond.com/)
 - Un compte Discord
-Nous utilisons Discord pour communiquer. Vous n’avez pas besoin de caméra. Vous devez avoir les périphériques requis afin de communiquer avec nous (micro, écouteurs, casque d’écoute,, etc.). [!badge icon="link-external" variant="info" text="Discord"](https://www.discord.com)
+Nous utilisons Discord pour communiquer. Vous n’avez pas besoin de caméra. Vous devez avoir les périphériques requis afin de communiquer avec nous (micro, écouteurs, casque d’écoute,, etc.). [!badge icon="/images/discord-mark-blue.svg" variant="info" text="Discord"](https://www.discord.com) 
 - Un compte Twitch est recommandé
 Nous diffusons certaines parties sur Twitch, donc si vous voulez suivre et participer à l’histoire en tant que spectateur-influenceur, un compte Twitch vous sera bien utile.[!badge icon="link-external" variant="info" text="Twitch"](https://www.twitch.tv)
 - Un ordinateur vous permettant d’accéder à Foundry
