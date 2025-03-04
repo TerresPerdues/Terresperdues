@@ -6,7 +6,8 @@ Pour jouer au Terres Perdues, veuillez suivre cette ordre.
 2. Pour vous inscrire, simplement aller à [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#2-inscriptions-drakkenheim"](https://discord.com/channels/662746189069942802/1276685886297477121) préciser si vous avez plus de 18 ans. PS: micro obligatoire mais pas la caméra. 
 3. Créer votre personnage ici [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#⁠3-personnage-drakkenheim"](https://discord.com/channels/662746189069942802/1276686197439332494) en suivant les règles de création plus bas.
 
-## Aperçu de la campagne
+## Aperçu de la campagne Drakkenheim
+*Conçu par Dungeon Dudes, Monty Martin et Kelly McLaughlin, basé sur le jeu original diffusé en direct sur YouTube et Twitch!*
 Dungeons of Drakkenheim est une aventure fantastique qui se déroule dans une ville gothique en ruines de la Renaissance. La campagne est conçue pour quatre joueurs, mais sera adapté selon pouvez l'adapter selon le groupe de 3 à 5 joueurs. Vous pouvez jouer Drakkenheim comme une série de quêtes d'exploration sans lien entre elles ou comme un récit imprévisible rempli de conflits entre factions, ce qui en fait une aventure parfaite pour un westmarch à la Terres Perdues. 
 
 === EXPLORATION 
