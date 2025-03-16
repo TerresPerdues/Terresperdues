@@ -77,3 +77,18 @@ Ajouter un Character de DND beyond
 Une fois votre personnage créé sur https://www.dndbeyond.com/, assurez-vous qu'il est visible par tous (Avrae doit pouvoir voir votre feuille), récupérez l'URL de partage et suivez les étapes ci-dessous. Vous devriez voir les statistiques de votre personnage apparaître dans Discord !
 
 !import https://ddb.ac/characters/...
+
+**Prêt pour Rouler**
+Vous êtes maintenant prêt à faire des jets ! Vous pouvez utiliser la commande !check pour effectuer des tests de compétence, !save pour les jets de sauvegarde, et !attack pour attaquer avec vos armes !
+
+Par exemple :
+!check arcana - Effectue un test d'Intelligence (Arcane)
+
+!save dexterity - lance un jet de sauvegarde de dextérité
+
+!attack longword - lance une attaque avec une épée longue
+
+**Prochaines étapes**
+Pour une documentation plus détaillée sur le fonctionnement de chaque commande, vous pouvez utiliser !help <commande> pour voir la liste des arguments supportés.
+
+
