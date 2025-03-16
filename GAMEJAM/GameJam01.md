@@ -9,6 +9,13 @@
 
 Vous pouvez poster votre création ici : [!badge icon="/images/discord-mark-blue.svg" variant="info" text="DISCORD GAME JAM"](https://discord.com/channels/662746189069942802/1344849745327296623)
 
+## Guide pour soummettre votre création
+Vous pouvez créer un **nouveau post** pour présenter vos idées, projets, table de hasard, monstre, etc.
+
+- Vous **créer le post avec le nom** de votre création. 
+- Vous pouvez **ajouter le texte que vous voulez dans le corps** de votre post. 
+- Vous pouvez **ajouter un ou des fichiers** en lien avec votre création dans **un second message** de votre post.
+
 +++ Qu'est-ce qu'un archipel ?
  Ensemble d'îles en groupe, sur une surface maritime plus ou moins étendue.
 
