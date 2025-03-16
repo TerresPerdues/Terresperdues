@@ -30,7 +30,7 @@ Dégâts : 4 (un éclair de feu provoque l'inflammation d'objets inflammables s
 
 **Joueur B** : Acrobaties : 14
 
-**Dungeon Master** : Randall, votre éclair de feu fait éclater la porte en flammes. Toblen et quelques clients de l'auberge crient. **"Qu'est-ce que tu fais ? Feu ! Feu !"**Toblen crie. Vous réalisez que les flammes se propageront rapidement si vous ne parvenez pas à les éteindre. Certains membres du personnel de l’auberge se mettent également à crier pour réclamer des seaux d’eau.
+**Dungeon Master** : Randall, votre éclair de feu fait éclater la porte en flammes. Toblen et quelques clients de l'auberge crient. **"Qu'est-ce que tu fais ? Feu ! Feu !"** Toblen crie. Vous réalisez que les flammes se propageront rapidement si vous ne parvenez pas à les éteindre. Certains membres du personnel de l’auberge se mettent également à crier pour réclamer des seaux d’eau.
 
 Joey, tu trouves une gouttière qui va du toit au rez-de-chaussée et tu descends en toute sécurité alors que la fumée commence à remplir ta pièce. Juste au moment où vos pieds touchent l'herbe, Sildar Hallwinter contourne le coin de l'auberge et vous regarde dans les yeux. Il leur manque aussi leur pantalon...
 
