@@ -5,7 +5,7 @@ Lorsque vous jouez à D&D en personne ou lors d'un appel vidéo Discord, le jeu 
 L’un des éléments clés du gameplay PbP est que les mots que vous tapez ont tout le poids ; vous ne pouvez pas vous fier aux expressions faciales ou aux inflexions de voix que vous pouvez utiliser lors des séances en personne. Les mots que vous écrivez doivent être clairs et descriptifs pour décrire votre personnage et ses actions tels que vous les envisagez. D’un autre côté, ce style de jeu peut être plus immersif et accessible, et donner à vous et à vos camarades joueurs le sentiment que vous écrivez collectivement une histoire ensemble.
 
 ## Un exemple de Play-by-Post en action
-
+==-
 Tout comme dans une session D&D traditionnelle, le DM contrôle le déroulement du jeu en présentant des opportunités narratives à ses joueurs. En PbP, le DM peut soumettre un message offrant quelques opportunités narratives auxquelles les joueurs peuvent répondre. Les joueurs sur les forums peuvent avoir plus de responsabilité pour faire avancer l'histoire en créant des ouvertures permettant aux autres joueurs de se joindre à tout ce que fait ou dit leur personnage. 
 
 **Dungeon Master** : Le soleil se lève sur le Stonehill Inn à Phandalin. En bas, Toblen Stonehill aide le personnel à préparer les tables pour le petit-déjeuner. Randall, le soleil se lève sur la fenêtre de ta chambre, te réveillant. Il fait chaud et cette étrange blessure sur votre bras ne montre aucun signe de guérison. Vous constatez également que votre pantalon a disparu. Joey, parce que tu as roulé si haut en discrétion, ton vol n'a semblé alerter personne la nuit dernière.
@@ -32,10 +32,10 @@ Dégâts : 4 (un éclair de feu provoque l'inflammation d'objets inflammables s
 **Dungeon Master :** Randall, votre éclair de feu fait éclater la porte en flammes. Toblen et quelques clients de l'auberge crient. **"Qu'est-ce que tu fais ? Feu ! Feu !"**Toblen crie. Vous réalisez que les flammes se propageront rapidement si vous ne parvenez pas à les éteindre. Certains membres du personnel de l’auberge se mettent également à crier pour réclamer des seaux d’eau.
 
 Joey, tu trouves une gouttière qui va du toit au rez-de-chaussée et tu descends en toute sécurité alors que la fumée commence à remplir ta pièce. Juste au moment où vos pieds touchent l'herbe, Sildar Hallwinter contourne le coin de l'auberge et vous regarde dans les yeux. Il leur manque aussi leur pantalon...
----------------------
+
 C'est un scénario idiot, mais vous pouvez voir comment le DM et les joueurs réagissent ou ne réagissent pas aux détails des messages des uns et des autres pour que l'histoire continue.
 Votre personnage doit être prêt à partir à l'aventure avec les autres et vous, en tant que joueur, devez donner aux autres la possibilité de briller dans le jeu.
-
+==
 Voici quelques conseils à garder à l’esprit lorsque vous jouez à un jeu PbP :
 
 - **Soyez prêt pour un engagement à long terme :** les jeux PbP évoluent à un rythme plus lent. Une campagne peut prendre des années et des centaines de pages de publications. Ce rythme plus lent s'explique en partie par le fait que le DM et les joueurs ne sont peut-être pas en ligne en même temps, sans compter que taper chacun de vos mouvements prend plus de temps que de les exprimer à voix haute.
