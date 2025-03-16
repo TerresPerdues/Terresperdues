@@ -69,3 +69,11 @@ Dégâts : 9
 ||Voici un exemple!||
 
 8. Séparer par paragraphes lors des pauses de conversation ou des pauses d'action logique est une bonne idée. Efforcez-vous de ne pas publier de « one-liners ». Autrement dit, ne postez pas simplement « Joe le Paladin frappe le gobelin ». C'est ennuyeux. Essayez d'intégrer un récit. « Joe le Paladin se baisse sous le marteau du gobelin, évitant facilement le coup grossier. Sa masse ornée claque contre la tête du gobelin, délivrant un puissant coup au nom de Thor. »
+
+## Ajouter vos personnages
++++ DND
+Ajouter un Character de DND beyond
+
+Une fois votre personnage créé sur https://www.dndbeyond.com/, assurez-vous qu'il est visible par tous (Avrae doit pouvoir voir votre feuille), récupérez l'URL de partage et suivez les étapes ci-dessous. Vous devriez voir les statistiques de votre personnage apparaître dans Discord !
+
+!import https://ddb.ac/characters/...
