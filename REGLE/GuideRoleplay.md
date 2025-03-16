@@ -17,7 +17,7 @@ Tout comme dans une session D&D traditionnelle, le DM contrôle le déroulement 
 **Dungeon Master :** (OOC : Tout à fait correct si Randall enfonçait cette porte, mais il y aurait des conséquences.) Vos cris réveillent d'autres clients, dont certains jettent un coup d'œil hors de leur chambre pour vous voir se diriger vers le couloir. Toblen remarque le chahut soudain et monte à l'étage. **"Est-ce que tout va bien?"** il demande à Randall.
 Joey, fais un test de Perception pour voir si tu te réveilles à cause des cris (DD 10). Sinon, les coups suffiront à vous réveiller.
 
-**Joueur B **: Perception 7
+**Joueur B :** Perception 7
 Joey est dans un profond sommeil et rêve de tout le butin que la fête a remporté la veille. Les lits de l'auberge sont également grands pour un halfelin, et il a subi de gros dégâts de la part des gobelins hier, donc il ne se relève pas facilement. C'est juste au moment où il rêve de ce poignard +1 que Randall a dit que le parti devrait vendre pour de l'or qu'il se réveille aux cris. Ensuite, il panique.
 
 Il saute du lit, arrache le pantalon de Randall sur une chaise voisine et se dirige vers la fenêtre. Il ne répond pas à Randall. (OOC : Il va éviter Randall en descendant au premier étage.)
