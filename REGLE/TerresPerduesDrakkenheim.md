@@ -103,7 +103,15 @@ Vous pouvez utiliser la plupart des compétences ou des qualifications pour n'im
 
 === Relaxation
 
-C'est peut-être l'activité la plus importante que vous puissiez faire pendant votre temps d'arrêt. Cependant, elle augmente le DC de votre prochaine activité de 5. Le sort de purge de la contamination a un coût matériel de 100gp. La vieille Zoya et la gardienne des flammes Hanna connaissent ce sort et le facturent 250 gp au total (coût du sort et coût des matériaux). Vous devez éliminer les niveaux de contamination, puis vous pouvez effectuer l'activité de relaxation. La relaxation coûte alors 25gp par point d'affliction/d'épuisement enlevé.
+C'est peut-être l'activité la plus importante que vous puissiez faire pendant votre temps d'arrêt. Cependant, elle augmente le DC de votre prochaine activité de 5.
+Elle vous permet de faire un repos long.
+
+Prix par semaine | lieux | récompence
+--- | --- | ---
+25 | Buse et écorse | repos long normale
+100 | Hotel le Lion Rouge | Repos long et donne une inspiration
+
+Le sort de purge de la contamination a un coût matériel de 100gp. La vieille Zoya et la gardienne des flammes Hanna connaissent ce sort et le facturent 250 gp au total (coût du sort et coût des matériaux). Vous devez éliminer les niveaux de contamination, puis vous pouvez effectuer l'activité de relaxation. La relaxation coûte alors 25gp par point d'affliction/d'épuisement enlevé.
 
 Si vous souffrez d'épuisement/contamination ou de tout autre effet débilitant, c'est le seul moyen de récupérer à temps pour vos autres activités d'intermède ou votre prochaine incursion dans la ville. Si vous souffrez de l'une de ces afflictions - ou d'une affection similaire - vous en subirez les conséquences jusqu'à ce que vous vous en débarrassiez. Cela suppose que vous réussissiez à prendre des Repos Longs tous les jours.
 
