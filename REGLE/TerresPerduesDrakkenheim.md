@@ -97,7 +97,12 @@ Je suis venu à Drakkenheim pour tuer l'un des chefs de faction : l'Archimage El
 
 ## Intermèdes
 
-Lorsque vous vous reposez à Emberwood Village, vous pouvez vous adonner à de nombreuses activités de repos pendant que vous vous remettez d'une contamination ou que vous soignez des blessures. Vous pouvez pratiquer l'une de ces activités une fois par semaine, jusqu'à un total de 5 activités. Le DC pour un succès commence à DC 5 pour votre première activité, augmentant de 5 à DC10 pour la suivante et ainsi de suite jusqu'à DC25. Des récompenses sont prévues si vous dépassez le DC par incréments de 5 et une punition si vous échouez.
+Lorsque vous vous reposez à Emberwood Village, vous pouvez vous adonner à de nombreuses activités de repos pendant que vous vous remettez d'une contamination ou que vous soignez des blessures. Vous pouvez pratiquer l'une de ces activités une fois par semaine, jusqu'à un total de 5 activités. 
+**D&D**
+Le DC pour un succès commence à DC 5 pour votre première activité, augmentant de 5 à DC10 pour la suivante et ainsi de suite jusqu'à DC25. Des récompenses sont prévues si vous dépassez le DC par incréments de 5 et une punition si vous échouez.
+
+**Pathfinder 2**
+Le DC pour un succès commence à DC 10 pour votre première activité, augmentant de 10 à DC15 pour la suivante et ainsi de suite jusqu'à DC30. Des récompenses selon les degrées de succès.
 
 Vous pouvez utiliser la plupart des compétences ou des qualifications pour n'importe quoi si vous pouvez expliquer comment. De plus, vous ne pouvez utiliser une compétence spécifique qu'une seule fois par semaine (par exemple, vous ne pouvez pas utiliser la Persuasion pour deux activités différentes). Vous pouvez utiliser Guidance/Inspiration/Inspiration bardique une fois par semaine, et vous pouvez donner l'une de ces compétences à un autre joueur une fois par semaine également.
 
@@ -135,13 +140,12 @@ DC | Résultat
 
 +++ Pathfinder 2
 
-DC | Résultat
+Niveau de succès | Résultat
 --- | ---
-Échec | Vous êtes hué et ne recevez pas d'or pour votre performance. Si cela se produit trois fois, vous ne pourrez plus jamais vous produire à la soirée Open Mike !
-+0 | Vous gagnez 1d6 gp de pourboires.
-+5 | Vous recevez 2d6 gp et une petite salve d'applaudissements.
-+10 | Vous gagnez 3d6 gp grâce au public impressionné qui vous applaudit également.
-+15 | L'incroyable performance vous rapporte 4d6 pièces d'or et vous avez droit à un rappel. Cependant, vous devez dépasser le résultat du test précédent pour obtenir d'autres rappels.
+Échec critique | Vous êtes hué et ne recevez pas d'or pour votre performance. Si cela se produit trois fois, vous ne pourrez plus jamais vous produire à la soirée Open Mike !
+Échec | Vous gagnez 1d6 gp de pourboires.
+Succès | Vous gagnez 3d6 gp grâce au public impressionné qui vous applaudit également.
+Succès critique | L'incroyable performance vous rapporte 4d6 pièces d'or et vous avez droit à un rappel. Cependant, vous devez dépasser le résultat du test précédent pour obtenir d'autres rappels.
 
 +++
 
