@@ -244,3 +244,4 @@ DC | Résultat
 +5 | Bon résultat
 +10 | Grand résultat
 +15 | Résultat fantastique (et un petit bonus supplémentaire)
+===
