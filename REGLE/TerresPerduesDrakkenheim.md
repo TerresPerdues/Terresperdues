@@ -128,7 +128,7 @@ Tests de compétences communs : Acrobatie, Arcanes, Athlétisme, Histoire/Societ
 
 **Résultats de la soirée Open Mike**
 
-+++ D&D
++++ Donjons et Dragons
 
 DC | Résultat
 --- | ---
@@ -156,6 +156,8 @@ Les contrôles de compétences les plus courants sont les suivants : Maniement d
 
 **Travailler pour une faction/un PNJ Résultats**
 
++++ Donjons et Dragons
+
 DC | Résultat
 --- | ---
 Échec | Malgré tous vos efforts, vous n'effectuez qu'un travail manuel, qui vous rapporte 1d4 gp.
@@ -163,6 +165,17 @@ DC | Résultat
 +5 | Vous rendez un service mineur à une Faction/PNJ, ce qui vous rapporte 2d6 gp
 +10 | Vous aidez une Faction/PNJ à résoudre un problème, ce qui vous rapporte 2d6+2 gp et une petite remise/un pourboire.
 +15 | Votre habileté impressionne la faction ou le PNJ qui vous donne 3d6+2 gp ainsi qu'une rumeur.
+
++++ Pathfinder 2
+
+Niveau de succès | Résultat
+--- | ---
+Échec critique | Malgré tous vos efforts, vous n'effectuez qu'un travail manuel, qui vous rapporte 1d4 gp.
+Échec | Vous rendez à une faction ou à un PNJ un service mineur qui vous rapporte 1d6 gp.
+Succès | Vous aidez une Faction/PNJ à résoudre un problème, ce qui vous rapporte 2d6+2 gp et une petite remise/un pourboire.
+Succès critique | Votre habileté impressionne la faction ou le PNJ qui vous donne 3d6+2 gp ainsi qu'une rumeur.
+
++++
 
 === Améliorer une relation
 
@@ -173,6 +186,8 @@ Les tests de compétence les plus courants sont les suivants : Tromperie, Perspi
 
 **Améliorer une relation Résultats**
 
++++ Donjons et Dragons
+
 DC | Résultat
 --- | ---
 Échec | Vous aggravez la relation...
@@ -181,12 +196,25 @@ DC | Résultat
 +10 | Vous les impressionnez vraiment et vous améliorez grandement votre relation. Vous apprenez également à mieux les connaître.
 +15 | Vous passez un si bon moment avec eux que vous améliorez considérablement votre relation. Si vous le souhaitez, vous pouvez également apprendre un secret/obtenir une faveur plus tard.
 
++++ Pathfinder 2
+
+Niveau de succès | Résultat
+--- | ---
+Échec critique | Vous aggravez la relation...
+Échec | Vous passez un peu de temps et améliorez légèrement la relation.
+Succès | Vous les impressionnez vraiment et vous améliorez grandement votre relation. Vous apprenez également à mieux les connaître.
+Succès critique | Vous passez un si bon moment avec eux que vous améliorez considérablement votre relation. Si vous le souhaitez, vous pouvez également apprendre un secret/obtenir une faveur plus tard.
+
++++
+
 === Éclaireur de la ville extérieure
 
 En utilisant n'importe quel test de compétence pertinent, vous pouvez vous déplacer à l'extérieur de Drakkenheim et chercher des indices sur des lieux connus ou inconnus. Vous pouvez également passer du temps à Emberwood et apprendre de ses habitants. Le Scoutisme en ville suit les mêmes règles mais avec un +5 supplémentaire au DC.
 
 Tests de compétences communs : Investigation, Nature, Perception, Furtivité ou Survie.
 **Éclaireur de la ville extérieure Résultat**
+
++++ Donjons et Dragons
 
 DC | Résultat
 --- | ---
@@ -196,12 +224,26 @@ DC | Résultat
 +10 | Vous acquérez des connaissances locales sur le lieu, ce qui vous donne un +5 lorsque vous le recherchez en permanence.
 +15 | Vous apprenez une rumeur sur ce lieu spécifique qui vous donne un +5 et un avantage lorsque vous le recherchez.
 
+
++++ Pathfinder 2
+
+Niveau de succès | Résultat
+--- | ---
+Échec critique | Vous trouvez des informations confuses qui ne vous aident pas du tout.
+Échec | Vous obtenez des informations qui vous donnent un +1 une seul fois lorsque vous chercherez le lieu cette semaine.
+Succès | Vous acquérez des connaissances locales sur le lieu, ce qui vous donne un +2 lorsque vous le recherchez en permanence.
+Succès critique | Vous apprenez une rumeur sur ce lieu spécifique qui vous donne un +2 et un avantage lorsque vous le recherchez.
+
++++
+
 === Jeux de hasard
 
 Vous vous sentez chanceux ? Les stands de combat de Buckledown Row sont réservés et occupés tous les soirs. Comme vous avez déjà fait vos preuves auprès des bookmakers et des organisateurs, vous pouvez désormais parier sur les combats.
 
 Vous pouvez parier jusqu'à 100gp par semaine, que vous pouvez répartir entre 1 et 3 paris. Chaque pari est un simple d20 sans modificateur (sauf indication contraire).
 **Résultats des paris**
+
++++ Donjons et Dragons
 
 DC | Résultat
 --- | ---
@@ -210,6 +252,17 @@ DC | Résultat
 13 - 16 | Vous gagnez un peu d'argent (montant parié x 1,25)
 17 - 19 | Vous gagnez gros (montant parié x 1,5)
 20 | Vous doublez l'argent que vous avez parié !
+
++++ Pathfinder 2
+
+Niveau de succès | Résultat
+--- | ---
+Échec critique | Vous perdez tout votre argent
+Échec | Vous perdez la moitié de votre argent
+Succès | Vous gagnez gros (montant parié x 1,5)
+Succès critique | Vous doublez l'argent que vous avez parié !
+
++++
 
 === Artisanat
 
@@ -226,6 +279,8 @@ L'artisanat est mesuré par la progression qui, pour la plupart des objets, est 
 Les progrès doivent être suivis par le joueur.
 **Résultats de l'artisanat**
 
++++ Donjons et Dragons
+
 DC | Résultat
 --- | ---
 Échec | Vous ne faites pas beaucoup de progrès mais la prochaine fois que vous fabriquez cet objet, le DC diminue de 2.
@@ -233,6 +288,12 @@ DC | Résultat
 +5 | Vous progressez de +2 dans votre artisanat.
 +10 | Vous progressez de +3 dans votre artisanat
 +15 | Vous progressez de +4 dans votre artisanat et vous pouvez refaire un jet pour voir si vous progressez davantage. Vous devez dépasser le résultat du test précédent pour progresser davantage.
+
++++ Pathfinder 2
+
+À venir.
+
++++
 
 === Apprendre une nouvelle compétence/un nouveau talent
 
@@ -258,6 +319,8 @@ Pour les hauts faits, il en coûtera 200gp par point de progrès. Cela fait un t
 
 **Apprentissage d'une nouvelle compétence/compétence Résultats**
 
++++ Donjons et Dragons
+
 DC | Résultat
 --- | ---
 Échec | Vous n'avez pas progressé cette semaine.
@@ -265,8 +328,14 @@ DC | Résultat
 +5 | Vous progressez de +2 dans votre nouvelle compétence/atout.
 +10 | Vous progressez de +3 dans votre nouvelle compétence/atout
 +15 | Vous progressez de +5 dans votre nouvelle compétence/atout.
-===
- Autres
+
++++ Pathfinder 2
+
+À venir.
+
++++
+
+=== Autres
 
 Quelque chose ne figure pas dans cette liste ? Inventez-le avec l'aide des maîtres de jeu des Terres Perdues! Utilisez le tableau ci-dessous comme exemple.
 
