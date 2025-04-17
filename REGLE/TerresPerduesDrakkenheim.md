@@ -327,7 +327,7 @@ DC | Résultat
 +10 | Vous progressez de +3 dans votre nouvelle compétence/atout
 +15 | Vous progressez de +5 dans votre nouvelle compétence/atout.
 
-=== Retraining (Pathefinder 2 seulement)
+=== Retraining (Pathfinder 2 seulement)
 Lien vers la règle : [Retraining](https://2e.aonprd.com/Actions.aspx?ID=2634)
 
 === Autres
