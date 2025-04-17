@@ -236,12 +236,19 @@ DC | Résultat
  Autres
 
 Quelque chose ne figure pas dans cette liste ? Inventez-le ! Utilisez le tableau ci-dessous comme exemple.
+
 **Autre**
-DC | Résultat
---- | ---
+
+DC    | Résultat
+---   | ---
 Échec | Mauvais résultat
-+0 | Bon résultat
-+5 | Bon résultat
-+10 | Grand résultat
-+15 | Résultat fantastique (et un petit bonus supplémentaire)
++0    | Bon résultat
++5    | Bon résultat
++10   | Grand résultat
++15   | Résultat fantastique (et un petit bonus supplémentaire)
+
+Name   | Value
+---    | ---
+Item 1 | Blue
+Item 2 | Green
 
