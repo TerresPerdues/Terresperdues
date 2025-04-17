@@ -114,6 +114,7 @@ Une fois par semaine, le Lys doré est prêt à accueillir n'importe quel artist
 Tests de compétences communs : Acrobatie, Arcanes, Athlétisme, Histoire ou Spectacle.
 
 **Résultats de la soirée Open Mike**
+
 DC | Résultat
 --- | ---
 Échec | Vous êtes hué et ne recevez pas d'or pour votre performance. Si cela se produit trois fois, vous ne pourrez plus jamais vous produire à la soirée Open Mike !
@@ -128,6 +129,7 @@ En effectuant des contrôles de compétences pertinents, vous pouvez potentielle
 Les contrôles de compétences les plus courants sont les suivants : Maniement des animaux, tromperie, perspicacité, intimidation, médecine, persuasion, religion, habileté manuelle et outils.
 
 **Travailler pour une faction/un PNJ Résultats**
+
 DC | Résultat
 --- | ---
 Échec | Malgré tous vos efforts, vous n'effectuez qu'un travail manuel, qui vous rapporte 1d4 gp.
@@ -144,6 +146,7 @@ Si vous dépensez un certain montant de gp (double du DC) pour acheter un cadeau
 Les tests de compétence les plus courants sont les suivants : Tromperie, Perspicacité, Intimidation, Perception, Performance, Persuasion.
 
 **Améliorer une relation Résultats**
+
 DC | Résultat
 --- | ---
 Échec | Vous aggravez la relation...
@@ -158,6 +161,7 @@ En utilisant n'importe quel test de compétence pertinent, vous pouvez vous dép
 
 Tests de compétences communs : Investigation, Nature, Perception, Furtivité ou Survie.
 **Éclaireur de la ville extérieure Résultat**
+
 DC | Résultat
 --- | ---
 Échec | Vous trouvez des informations confuses qui ne vous aident pas du tout.
@@ -172,6 +176,7 @@ Vous vous sentez chanceux ? Les stands de combat de Buckledown Row sont réserv�
 
 Vous pouvez parier jusqu'à 100gp par semaine, que vous pouvez répartir entre 1 et 3 paris. Chaque pari est un simple d20 sans modificateur (sauf indication contraire).
 **Résultats des paris**
+
 DC | Résultat
 --- | ---
 1 - 9 | Vous perdez tout votre argent
@@ -194,6 +199,7 @@ L'artisanat est mesuré par la progression qui, pour la plupart des objets, est 
 
 Les progrès doivent être suivis par le joueur.
 **Résultats de l'artisanat**
+
 DC | Résultat
 --- | ---
 Échec | Vous ne faites pas beaucoup de progrès mais la prochaine fois que vous fabriquez cet objet, le DC diminue de 2.
@@ -225,6 +231,7 @@ Pour les demi-professions et les hauts faits, il en coûtera 75 gp par point de 
 Pour les hauts faits, il en coûtera 200gp par point de progrès. Cela fait un total de 2400gp pour apprendre une nouvelle caractéristique.
 
 **Apprentissage d'une nouvelle compétence/compétence Résultats**
+
 DC | Résultat
 --- | ---
 Échec | Vous n'avez pas progressé cette semaine.
@@ -247,8 +254,4 @@ DC    | Résultat
 +10   | Grand résultat
 +15   | Résultat fantastique (et un petit bonus supplémentaire)
 
-Name   | Value
----    | ---
-Item 1 | Blue
-Item 2 | Green
 
