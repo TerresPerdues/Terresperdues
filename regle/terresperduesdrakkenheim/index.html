@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="turbo-root" content="/Terresperdues">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.7.0.798231352475">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.7.0.798232735207">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.7.0">
@@ -31,11 +31,11 @@
 
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="../../resources/css/retype.css?v=3.7.0.798231352475" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.7.0.798232735207" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.7.0.798231352475" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.7.0.798232735207" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.7.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.7.0.798231352475" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.7.0.798232735207" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -428,8 +428,8 @@ Elle vous permet de faire un repos long.</p>
 <p>Tests de compétences communs : Acrobatie, Arcanes, Athlétisme, Histoire/Societé ou Performance.</p>
 <p><strong>Résultats de la soirée Open Mike</strong></p>
 <doc-tabs>
-<doc-tab v-cloak id="d-d">
-<template #title>D&amp;D</template>
+<doc-tab v-cloak id="donjons-et-dragons">
+<template #title>Donjons et Dragons</template>
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
 <thead>
@@ -501,6 +501,9 @@ Elle vous permet de faire un repos long.</p>
 <p>En effectuant des contrôles de compétences pertinents, vous pouvez potentiellement gagner un peu de gp et améliorer vos relations avec un ou plusieurs PNJ ou factions.
 Les contrôles de compétences les plus courants sont les suivants : Maniement des animaux, tromperie, perspicacité, intimidation, médecine, persuasion, religion, habileté manuelle et outils.</p>
 <p><strong>Travailler pour une faction/un PNJ Résultats</strong></p>
+<doc-tabs>
+<doc-tab v-cloak id="donjons-et-dragons">
+<template #title>Donjons et Dragons</template>
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
 <thead>
@@ -533,6 +536,39 @@ Les contrôles de compétences les plus courants sont les suivants : Maniement d
 </tbody>
 </table>
 </div>
+</doc-tab>
+<doc-tab v-cloak id="pathfinder-2">
+<template #title>Pathfinder 2</template>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="comfortable">
+<thead>
+<tr>
+<th>Niveau de succès</th>
+<th>Résultat</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Échec critique</td>
+<td>Malgré tous vos efforts, vous n&#x27;effectuez qu&#x27;un travail manuel, qui vous rapporte 1d4 gp.</td>
+</tr>
+<tr>
+<td>Échec</td>
+<td>Vous rendez à une faction ou à un PNJ un service mineur qui vous rapporte 1d6 gp.</td>
+</tr>
+<tr>
+<td>Succès</td>
+<td>Vous aidez une Faction/PNJ à résoudre un problème, ce qui vous rapporte 2d6+2 gp et une petite remise/un pourboire.</td>
+</tr>
+<tr>
+<td>Succès critique</td>
+<td>Votre habileté impressionne la faction ou le PNJ qui vous donne 3d6+2 gp ainsi qu&#x27;une rumeur.</td>
+</tr>
+</tbody>
+</table>
+</div>
+</doc-tab>
+</doc-tabs>
    </doc-panel>
    <doc-panel id="améliorer-une-relation">
        <template #title>Améliorer une relation</template>
@@ -540,6 +576,9 @@ Les contrôles de compétences les plus courants sont les suivants : Maniement d
 Si vous dépensez un certain montant de gp (double du DC) pour acheter un cadeau, vous pouvez soit gagner un Avantage, soit un +3 supplémentaire à votre test pour cette semaine.</p>
 <p>Les tests de compétence les plus courants sont les suivants : Tromperie, Perspicacité, Intimidation, Perception, Performance, Persuasion.</p>
 <p><strong>Améliorer une relation Résultats</strong></p>
+<doc-tabs>
+<doc-tab v-cloak id="donjons-et-dragons">
+<template #title>Donjons et Dragons</template>
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
 <thead>
@@ -572,12 +611,48 @@ Si vous dépensez un certain montant de gp (double du DC) pour acheter un cadeau
 </tbody>
 </table>
 </div>
+</doc-tab>
+<doc-tab v-cloak id="pathfinder-2">
+<template #title>Pathfinder 2</template>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="comfortable">
+<thead>
+<tr>
+<th>Niveau de succès</th>
+<th>Résultat</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Échec critique</td>
+<td>Vous aggravez la relation...</td>
+</tr>
+<tr>
+<td>Échec</td>
+<td>Vous passez un peu de temps et améliorez légèrement la relation.</td>
+</tr>
+<tr>
+<td>Succès</td>
+<td>Vous les impressionnez vraiment et vous améliorez grandement votre relation. Vous apprenez également à mieux les connaître.</td>
+</tr>
+<tr>
+<td>Succès critique</td>
+<td>Vous passez un si bon moment avec eux que vous améliorez considérablement votre relation. Si vous le souhaitez, vous pouvez également apprendre un secret/obtenir une faveur plus tard.</td>
+</tr>
+</tbody>
+</table>
+</div>
+</doc-tab>
+</doc-tabs>
    </doc-panel>
    <doc-panel id="éclaireur-de-la-ville-extérieure">
        <template #title>Éclaireur de la ville extérieure</template>
 <p>En utilisant n&#x27;importe quel test de compétence pertinent, vous pouvez vous déplacer à l&#x27;extérieur de Drakkenheim et chercher des indices sur des lieux connus ou inconnus. Vous pouvez également passer du temps à Emberwood et apprendre de ses habitants. Le Scoutisme en ville suit les mêmes règles mais avec un +5 supplémentaire au DC.</p>
 <p>Tests de compétences communs : Investigation, Nature, Perception, Furtivité ou Survie.
 <strong>Éclaireur de la ville extérieure Résultat</strong></p>
+<doc-tabs>
+<doc-tab v-cloak id="donjons-et-dragons">
+<template #title>Donjons et Dragons</template>
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
 <thead>
@@ -610,12 +685,48 @@ Si vous dépensez un certain montant de gp (double du DC) pour acheter un cadeau
 </tbody>
 </table>
 </div>
+</doc-tab>
+<doc-tab v-cloak id="pathfinder-2">
+<template #title>Pathfinder 2</template>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="comfortable">
+<thead>
+<tr>
+<th>Niveau de succès</th>
+<th>Résultat</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Échec critique</td>
+<td>Vous trouvez des informations confuses qui ne vous aident pas du tout.</td>
+</tr>
+<tr>
+<td>Échec</td>
+<td>Vous obtenez des informations qui vous donnent un +1 une seul fois lorsque vous chercherez le lieu cette semaine.</td>
+</tr>
+<tr>
+<td>Succès</td>
+<td>Vous acquérez des connaissances locales sur le lieu, ce qui vous donne un +2 lorsque vous le recherchez en permanence.</td>
+</tr>
+<tr>
+<td>Succès critique</td>
+<td>Vous apprenez une rumeur sur ce lieu spécifique qui vous donne un +2 et un avantage lorsque vous le recherchez.</td>
+</tr>
+</tbody>
+</table>
+</div>
+</doc-tab>
+</doc-tabs>
    </doc-panel>
    <doc-panel id="jeux-de-hasard">
        <template #title>Jeux de hasard</template>
 <p>Vous vous sentez chanceux ? Les stands de combat de Buckledown Row sont réservés et occupés tous les soirs. Comme vous avez déjà fait vos preuves auprès des bookmakers et des organisateurs, vous pouvez désormais parier sur les combats.</p>
 <p>Vous pouvez parier jusqu&#x27;à 100gp par semaine, que vous pouvez répartir entre 1 et 3 paris. Chaque pari est un simple d20 sans modificateur (sauf indication contraire).
 <strong>Résultats des paris</strong></p>
+<doc-tabs>
+<doc-tab v-cloak id="donjons-et-dragons">
+<template #title>Donjons et Dragons</template>
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
 <thead>
@@ -648,6 +759,39 @@ Si vous dépensez un certain montant de gp (double du DC) pour acheter un cadeau
 </tbody>
 </table>
 </div>
+</doc-tab>
+<doc-tab v-cloak id="pathfinder-2">
+<template #title>Pathfinder 2</template>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="comfortable">
+<thead>
+<tr>
+<th>Niveau de succès</th>
+<th>Résultat</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Échec critique</td>
+<td>Vous perdez tout votre argent</td>
+</tr>
+<tr>
+<td>Échec</td>
+<td>Vous perdez la moitié de votre argent</td>
+</tr>
+<tr>
+<td>Succès</td>
+<td>Vous gagnez gros (montant parié x 1,5)</td>
+</tr>
+<tr>
+<td>Succès critique</td>
+<td>Vous doublez l&#x27;argent que vous avez parié !</td>
+</tr>
+</tbody>
+</table>
+</div>
+</doc-tab>
+</doc-tabs>
    </doc-panel>
    <doc-panel id="artisanat">
        <template #title>Artisanat</template>
@@ -658,6 +802,9 @@ Si vous dépensez un certain montant de gp (double du DC) pour acheter un cadeau
 <p>L&#x27;artisanat est mesuré par la progression qui, pour la plupart des objets, est évaluée sur 5 ou 10 (en fonction de la difficulté et du coût). La progression n&#x27;est pas réinitialisée, vous n&#x27;êtes donc pas obligé de faire de l&#x27;artisanat par semaines cumulées, vous pouvez faire des pauses !</p>
 <p>Les progrès doivent être suivis par le joueur.
 <strong>Résultats de l&#x27;artisanat</strong></p>
+<doc-tabs>
+<doc-tab v-cloak id="donjons-et-dragons">
+<template #title>Donjons et Dragons</template>
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
 <thead>
@@ -690,6 +837,12 @@ Si vous dépensez un certain montant de gp (double du DC) pour acheter un cadeau
 </tbody>
 </table>
 </div>
+</doc-tab>
+<doc-tab v-cloak id="pathfinder-2">
+<template #title>Pathfinder 2</template>
+<p>À venir.</p>
+</doc-tab>
+</doc-tabs>
    </doc-panel>
    <doc-panel id="apprendre-une-nouvelle-compétence-un-nouveau-talent">
        <template #title>Apprendre une nouvelle compétence/un nouveau talent</template>
@@ -705,6 +858,9 @@ Vous ne pouvez pas apprendre un haut fait qui vous donne un bonus à un score de
 <p>Pour les demi-professions et les hauts faits, il en coûtera 75 gp par point de progrès. Cela revient à un total de 525 gp pour les demi-professions et de 1125 gp pour les professions.</p>
 <p>Pour les hauts faits, il en coûtera 200gp par point de progrès. Cela fait un total de 2400gp pour apprendre une nouvelle caractéristique.</p>
 <p><strong>Apprentissage d&#x27;une nouvelle compétence/compétence Résultats</strong></p>
+<doc-tabs>
+<doc-tab v-cloak id="donjons-et-dragons">
+<template #title>Donjons et Dragons</template>
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
 <thead>
@@ -737,9 +893,15 @@ Vous ne pouvez pas apprendre un haut fait qui vous donne un bonus à un score de
 </tbody>
 </table>
 </div>
+</doc-tab>
+<doc-tab v-cloak id="pathfinder-2">
+<template #title>Pathfinder 2</template>
+<p>À venir.</p>
+</doc-tab>
+</doc-tabs>
    </doc-panel>
-</doc-panels>
-<p>Autres</p>
+   <doc-panel id="autres">
+       <template #title>Autres</template>
 <p>Quelque chose ne figure pas dans cette liste ? Inventez-le avec l&#x27;aide des maîtres de jeu des Terres Perdues! Utilisez le tableau ci-dessous comme exemple.</p>
 <p><strong>Autre</strong></p>
 <div class="table-wrapper scrollbar overflow-hidden">
@@ -774,6 +936,7 @@ Vous ne pouvez pas apprendre un haut fait qui vous donne un bonus à un score de
 </tbody>
 </table>
 </div>
+   </doc-panel>
 
                                 
                                 <!-- Required only on API pages -->
