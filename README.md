@@ -27,7 +27,7 @@ Par conception, nous excluons certaines informations de ce guide :
 D'après les enquêtes, le sentiment le plus répandu est que le serveur a trop de canaux. Ce problème est principalement dû à deux facteurs inévitables :
 
 1. D&D, en tant que jeu publié sous forme de livre, nécessite fondamentalement beaucoup de lecture.
-2. DW est un serveur textuel, ce qui signifie qu'il communique principalement des informations par le biais de canaux textuels.
+2. La communauté de JDR est un serveur textuel, ce qui signifie qu'il communique principalement des informations par le biais de canaux textuels.
 
 Le GitHub cherche à équilibrer deux principaux intérêts contradictoires :
 
