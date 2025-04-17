@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="turbo-root" content="/Terresperdues">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.7.0.798232735207">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.7.0.798233329367">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.7.0">
@@ -31,11 +31,11 @@
 
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="../../resources/css/retype.css?v=3.7.0.798232735207" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.7.0.798233329367" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.7.0.798232735207" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.7.0.798233329367" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.7.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.7.0.798232735207" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.7.0.798233329367" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -798,7 +798,7 @@ Si vous dépensez un certain montant de gp (double du DC) pour acheter un cadeau
 <p>Il peut être utile de créer des objets pour vous aider dans vos aventures. Vous pouvez fabriquer des objets non magiques d&#x27;une valeur maximale de 50 gp par semaine de temps mort, à condition de maîtriser les outils liés à l&#x27;objet (généralement des outils d&#x27;artisans) et les outils eux-mêmes. Vous dépenserez également une somme égale à la moitié de la valeur marchande de l&#x27;objet pour acquérir les matières premières. La fabrication d&#x27;objets non magiques ne nécessite pas de jet de dé, mais vous pouvez accélérer le processus en engageant un autre PNJ pour vous aider si vous fabriquez un objet de grande valeur (par exemple, la fabrication d&#x27;une armure de plates sera coûteuse et prendra beaucoup de temps).</p>
 <p>Pour les objets magiques, vous devrez faire un jet pour progresser, comme pour l&#x27;activité de recherche. Le nombre de points de progrès nécessaires pour fabriquer un objet magique est égal au coût en gp de l&#x27;objet divisé par 200, avec un minimum de 1 point de progrès. Cela signifie que vous pouvez fabriquer plusieurs instances d&#x27;un objet (jusqu&#x27;à un maximum de 5 par semaine) si vous obtenez un « surplus » de points de progrès. Vous pouvez également choisir de fabriquer des objets différents (à nouveau jusqu&#x27;à un maximum de 5 par semaine) si vous avez un « surplus » de points de progrès.</p>
 <p>Vous devrez être compétent avec les outils pour fabriquer l&#x27;objet ainsi qu&#x27;avec l&#x27;objet lui-même (par exemple, vous devez être compétent avec les outils de forge et avoir la compétence épée longue pour fabriquer une épée longue +1). Vous dépenserez également un nombre de gp égal à la moitié de la valeur marchande pour acquérir les matières premières.</p>
-<p>Voir ici <a href="https://github.com/TerresPerdues/Terresperdues/blob/main/Documents/Sane_Magical_Prices.pdf">les prix magiques raisonnables</a>) que j&#x27;utilise dans ma campagne.</p>
+<p>Voir ici <a href="https://github.com/TerresPerdues/Terresperdues/blob/main/Documents/Sane_Magical_Prices.pdf">les prix magiques raisonnables</a> que j&#x27;utilise dans ma campagne.</p>
 <p>L&#x27;artisanat est mesuré par la progression qui, pour la plupart des objets, est évaluée sur 5 ou 10 (en fonction de la difficulté et du coût). La progression n&#x27;est pas réinitialisée, vous n&#x27;êtes donc pas obligé de faire de l&#x27;artisanat par semaines cumulées, vous pouvez faire des pauses !</p>
 <p>Les progrès doivent être suivis par le joueur.
 <strong>Résultats de l&#x27;artisanat</strong></p>
@@ -844,8 +844,8 @@ Si vous dépensez un certain montant de gp (double du DC) pour acheter un cadeau
 </doc-tab>
 </doc-tabs>
    </doc-panel>
-   <doc-panel id="apprendre-une-nouvelle-compétence-un-nouveau-talent">
-       <template #title>Apprendre une nouvelle compétence/un nouveau talent</template>
+   <doc-panel id="apprendre-une-nouvelle-compétence-un-nouveau-talent-donjons-et-dragons-seulement">
+       <template #title>Apprendre une nouvelle compétence/un nouveau talent (Donjons et Dragons seulement)</template>
 <p>Il y a beaucoup d&#x27;experts à Emberwood et Drakkenheim qui peuvent enseigner à un personnage des compétences ou des outils qu&#x27;il n&#x27;a pas encore appris. Un personnage peut même apprendre une nouvelle caractéristique.
 Cela sera suivi par des points de progrès, comme pour la recherche et l&#x27;artisanat.
 Vous ne pouvez pas apprendre un haut fait qui vous donne un bonus à un score de capacité, également connu sous le nom de « demi-faits », ni le haut fait « compétent ». Vous pouvez bien sûr acquérir n&#x27;importe quelle caractéristique par les moyens traditionnels de montée en niveau ou d&#x27;achèvement des étapes de votre quête personnelle.</p>
@@ -858,9 +858,6 @@ Vous ne pouvez pas apprendre un haut fait qui vous donne un bonus à un score de
 <p>Pour les demi-professions et les hauts faits, il en coûtera 75 gp par point de progrès. Cela revient à un total de 525 gp pour les demi-professions et de 1125 gp pour les professions.</p>
 <p>Pour les hauts faits, il en coûtera 200gp par point de progrès. Cela fait un total de 2400gp pour apprendre une nouvelle caractéristique.</p>
 <p><strong>Apprentissage d&#x27;une nouvelle compétence/compétence Résultats</strong></p>
-<doc-tabs>
-<doc-tab v-cloak id="donjons-et-dragons">
-<template #title>Donjons et Dragons</template>
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
 <thead>
@@ -893,12 +890,10 @@ Vous ne pouvez pas apprendre un haut fait qui vous donne un bonus à un score de
 </tbody>
 </table>
 </div>
-</doc-tab>
-<doc-tab v-cloak id="pathfinder-2">
-<template #title>Pathfinder 2</template>
-<p>À venir.</p>
-</doc-tab>
-</doc-tabs>
+   </doc-panel>
+   <doc-panel id="retraining-pathefinder-2-seulement">
+       <template #title>Retraining (Pathefinder 2 seulement)</template>
+<p>Lien vers la règle : <a href="https://2e.aonprd.com/Actions.aspx?ID=2634">Retraining</a></p>
    </doc-panel>
    <doc-panel id="autres">
        <template #title>Autres</template>
