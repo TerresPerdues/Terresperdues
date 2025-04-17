@@ -272,7 +272,7 @@ Pour les objets magiques, vous devrez faire un jet pour progresser, comme pour l
 
 Vous devrez être compétent avec les outils pour fabriquer l'objet ainsi qu'avec l'objet lui-même (par exemple, vous devez être compétent avec les outils de forge et avoir la compétence épée longue pour fabriquer une épée longue +1). Vous dépenserez également un nombre de gp égal à la moitié de la valeur marchande pour acquérir les matières premières.
 
-Voir ici [les prix magiques raisonnables](https://github.com/TerresPerdues/Terresperdues/blob/main/Documents/Sane_Magical_Prices.pdf)) que j'utilise dans ma campagne.
+Voir ici [les prix magiques raisonnables](https://github.com/TerresPerdues/Terresperdues/blob/main/Documents/Sane_Magical_Prices.pdf) que j'utilise dans ma campagne.
 
 L'artisanat est mesuré par la progression qui, pour la plupart des objets, est évaluée sur 5 ou 10 (en fonction de la difficulté et du coût). La progression n'est pas réinitialisée, vous n'êtes donc pas obligé de faire de l'artisanat par semaines cumulées, vous pouvez faire des pauses !
 
@@ -295,7 +295,7 @@ DC | Résultat
 
 +++
 
-=== Apprendre une nouvelle compétence/un nouveau talent
+=== Apprendre une nouvelle compétence/un nouveau talent (Donjons et Dragons seulement)
 
 Il y a beaucoup d'experts à Emberwood et Drakkenheim qui peuvent enseigner à un personnage des compétences ou des outils qu'il n'a pas encore appris. Un personnage peut même apprendre une nouvelle caractéristique.
 Cela sera suivi par des points de progrès, comme pour la recherche et l'artisanat.
@@ -319,8 +319,6 @@ Pour les hauts faits, il en coûtera 200gp par point de progrès. Cela fait un t
 
 **Apprentissage d'une nouvelle compétence/compétence Résultats**
 
-+++ Donjons et Dragons
-
 DC | Résultat
 --- | ---
 Échec | Vous n'avez pas progressé cette semaine.
@@ -329,11 +327,8 @@ DC | Résultat
 +10 | Vous progressez de +3 dans votre nouvelle compétence/atout
 +15 | Vous progressez de +5 dans votre nouvelle compétence/atout.
 
-+++ Pathfinder 2
-
-À venir.
-
-+++
+=== Retraining (Pathefinder 2 seulement)
+Lien vers la règle : [Retraining](https://2e.aonprd.com/Actions.aspx?ID=2634)
 
 === Autres
 
