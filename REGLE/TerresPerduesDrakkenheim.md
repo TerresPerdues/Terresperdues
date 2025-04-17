@@ -108,8 +108,8 @@ Elle vous permet de faire un repos long.
 
 Prix par semaine | lieux | récompence
 --- | --- | ---
-25 | Buse et écorse | repos long normale
-100 | Hotel le Lion Rouge | Repos long et donne une inspiration
+25 po | Buse et écorse | repos long normale
+100 po | Hotel le Lion Rouge | Repos long et donne une inspiration/Hero point
 
 Le sort de purge de la contamination a un coût matériel de 100gp. La vieille Zoya et la gardienne des flammes Hanna connaissent ce sort et le facturent 250 gp au total (coût du sort et coût des matériaux). Vous devez éliminer les niveaux de contamination, puis vous pouvez effectuer l'activité de relaxation. La relaxation coûte alors 25gp par point d'affliction/d'épuisement enlevé.
 
@@ -119,7 +119,7 @@ Si vous souffrez d'épuisement/contamination ou de tout autre effet débilitant,
 
 Une fois par semaine, le Lys doré est prêt à accueillir n'importe quel artiste souhaitant monter sur scène. Ils sortent un chapeau pour que les clients puissent tirer à pile ou face s'ils aiment le spectacle.
 
-Tests de compétences communs : Acrobatie, Arcanes, Athlétisme, Histoire ou Spectacle.
+Tests de compétences communs : Acrobatie, Arcanes, Athlétisme, Histoire/Societé ou Performance.
 
 **Résultats de la soirée Open Mike**
 
