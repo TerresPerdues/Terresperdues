@@ -242,7 +242,7 @@ DC | Résultat
 ===
  Autres
 
-Quelque chose ne figure pas dans cette liste ? Inventez-le ! Utilisez le tableau ci-dessous comme exemple.
+Quelque chose ne figure pas dans cette liste ? Inventez-le avec l'aide des maîtres de jeu des Terres Perdues! Utilisez le tableau ci-dessous comme exemple.
 
 **Autre**
 
