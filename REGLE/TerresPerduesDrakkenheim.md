@@ -232,8 +232,8 @@ DC | Résultat
 +5 | Vous progressez de +2 dans votre nouvelle compétence/atout.
 +10 | Vous progressez de +3 dans votre nouvelle compétence/atout
 +15 | Vous progressez de +5 dans votre nouvelle compétence/atout.
-
-=== Autres
+===
+ Autres
 
 Quelque chose ne figure pas dans cette liste ? Inventez-le ! Utilisez le tableau ci-dessous comme exemple.
 **Autre**
@@ -244,4 +244,4 @@ DC | Résultat
 +5 | Bon résultat
 +10 | Grand résultat
 +15 | Résultat fantastique (et un petit bonus supplémentaire)
-===
+
