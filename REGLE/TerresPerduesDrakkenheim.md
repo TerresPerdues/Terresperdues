@@ -94,3 +94,153 @@ En tant qu'acolyte de la foi, ma quête personnelle est de visiter plusieurs lie
 === Un compte à régler. 
 Je suis venu à Drakkenheim pour tuer l'un des chefs de faction : l'Archimage Eldrick Runeweaver, le Chevalier-Capitaine Theodore Marshal, le Lord Commandant Elias Drexel, Lucretia Mathias ou la Reine des voleurs. Je cherche peut-être à me venger d'une erreur passée. Ou encore, je convoite leur poste et souhaite les remplacer. Quoi qu'il en soit, ma quête personnelle est de les tuer.
 ===
+
+## Intermèdes
+
+Lorsque vous vous reposez à Emberwood Village, vous pouvez vous adonner à de nombreuses activités de repos pendant que vous vous remettez d'une contamination ou que vous soignez des blessures. Vous pouvez pratiquer l'une de ces activités une fois par semaine, jusqu'à un total de 5 activités. Le DC pour un succès commence à DC5 pour votre première activité, augmentant de 5 à DC10 pour la suivante et ainsi de suite jusqu'à DC25. Des récompenses sont prévues si vous dépassez le DC par incréments de 5 et une punition si vous échouez.
+
+Vous pouvez utiliser la plupart des compétences ou des qualifications pour n'importe quoi si vous pouvez expliquer comment. De plus, vous ne pouvez utiliser une compétence spécifique qu'une seule fois par semaine (par exemple, vous ne pouvez pas utiliser la Persuasion pour deux activités différentes). Vous pouvez utiliser Guidance/Inspiration/Inspiration bardique une fois par semaine, et vous pouvez donner l'une de ces compétences à un autre joueur une fois par semaine également.
+
+=== Relaxation
+
+C'est peut-être l'activité la plus importante que vous puissiez faire pendant votre temps d'arrêt. Cependant, elle augmente le DC de votre prochaine activité de 5. Le sort de purge de la contamination a un coût matériel de 100gp. La vieille Zoya et la gardienne des flammes Hanna connaissent ce sort et le facturent 250 gp au total (coût du sort et coût des matériaux). Vous devez éliminer les niveaux de contamination, puis vous pouvez effectuer l'activité de relaxation. La relaxation coûte alors 25gp par point d'affliction/d'épuisement enlevé.
+
+Si vous souffrez d'épuisement/contamination ou de tout autre effet débilitant, c'est le seul moyen de récupérer à temps pour vos autres activités d'intermède ou votre prochaine incursion dans la ville. Si vous souffrez de l'une de ces afflictions - ou d'une affection similaire - vous en subirez les conséquences jusqu'à ce que vous vous en débarrassiez. Cela suppose que vous réussissiez à prendre des Repos Longs tous les jours.
+
+=== Soirée « Open Mike »
+
+Une fois par semaine, le Lys doré est prêt à accueillir n'importe quel artiste souhaitant monter sur scène. Ils sortent un chapeau pour que les clients puissent tirer à pile ou face s'ils aiment le spectacle.
+
+Tests de compétences communs : Acrobatie, Arcanes, Athlétisme, Histoire ou Spectacle.
+
+**Résultats de la soirée Open Mike**
+DC | Résultat
+--- | ---
+Échec | Vous êtes hué et ne recevez pas d'or pour votre performance. Si cela se produit trois fois, vous ne pourrez plus jamais vous produire à la soirée Open Mike !
++0 | Vous gagnez 1d6 gp de pourboires.
++5 | Vous recevez 2d6 gp et une petite salve d'applaudissements.
++10 | Vous gagnez 3d6 gp grâce au public impressionné qui vous applaudit également.
++15 | L'incroyable performance vous rapporte 4d6 pièces d'or et vous avez droit à un rappel. Cependant, vous devez dépasser le résultat du test précédent pour obtenir d'autres rappels.
+
+=== Travailler pour une faction/un PNJ
+
+En effectuant des contrôles de compétences pertinents, vous pouvez potentiellement gagner un peu de gp et améliorer vos relations avec un ou plusieurs PNJ ou factions.
+Les contrôles de compétences les plus courants sont les suivants : Maniement des animaux, tromperie, perspicacité, intimidation, médecine, persuasion, religion, habileté manuelle et outils.
+
+**Travailler pour une faction/un PNJ Résultats**
+DC | Résultat
+--- | ---
+Échec | Malgré tous vos efforts, vous n'effectuez qu'un travail manuel, qui vous rapporte 1d4 gp.
++0 | Vous rendez à une faction ou à un PNJ un service mineur qui vous rapporte 1d6 gp.
++5 | Vous rendez un service mineur à une Faction/PNJ, ce qui vous rapporte 2d6 gp
++10 | Vous aidez une Faction/PNJ à résoudre un problème, ce qui vous rapporte 2d6+2 gp et une petite remise/un pourboire.
++15 | Votre habileté impressionne la faction ou le PNJ qui vous donne 3d6+2 gp ainsi qu'une rumeur.
+
+=== Améliorer une relation
+
+Vous avez énervé quelqu'un ? Vous voulez en savoir plus sur un PNJ ou un membre du groupe ? Passez du temps avec eux grâce à cette activité basée sur le RP.
+Si vous dépensez un certain montant de gp (double du DC) pour acheter un cadeau, vous pouvez soit gagner un Avantage, soit un +3 supplémentaire à votre test pour cette semaine.
+
+Les tests de compétence les plus courants sont les suivants : Tromperie, Perspicacité, Intimidation, Perception, Performance, Persuasion.
+
+**Améliorer une relation Résultats**
+DC | Résultat
+--- | ---
+Échec | Vous aggravez la relation...
++0 | Vous passez un peu de temps et améliorez légèrement la relation.
++5 | Vous passez du bon temps et apprenez à mieux les connaître
++10 | Vous les impressionnez vraiment et vous améliorez grandement votre relation. Vous apprenez également à mieux les connaître.
++15 | Vous passez un si bon moment avec eux que vous améliorez considérablement votre relation. Si vous le souhaitez, vous pouvez également apprendre un secret/obtenir une faveur plus tard.
+
+=== Éclaireur de la ville extérieure
+
+En utilisant n'importe quel test de compétence pertinent, vous pouvez vous déplacer à l'extérieur de Drakkenheim et chercher des indices sur des lieux connus ou inconnus. Vous pouvez également passer du temps à Emberwood et apprendre de ses habitants. Le Scoutisme en ville suit les mêmes règles mais avec un +5 supplémentaire au DC.
+
+Tests de compétences communs : Investigation, Nature, Perception, Furtivité ou Survie.
+**Éclaireur de la ville extérieure Résultat**
+DC | Résultat
+--- | ---
+Échec | Vous trouvez des informations confuses qui ne vous aident pas du tout.
++0 | Vous obtenez des informations qui vous donnent un +2 lorsque vous chercherez le lieu cette semaine.
++5 | Vous apprenez une information intéressante sur le lieu et gagnez un +3 lorsque vous le recherchez cette semaine.
++10 | Vous acquérez des connaissances locales sur le lieu, ce qui vous donne un +5 lorsque vous le recherchez en permanence.
++15 | Vous apprenez une rumeur sur ce lieu spécifique qui vous donne un +5 et un avantage lorsque vous le recherchez.
+
+=== Jeux de hasard
+
+Vous vous sentez chanceux ? Les stands de combat de Buckledown Row sont réservés et occupés tous les soirs. Comme vous avez déjà fait vos preuves auprès des bookmakers et des organisateurs, vous pouvez désormais parier sur les combats.
+
+Vous pouvez parier jusqu'à 100gp par semaine, que vous pouvez répartir entre 1 et 3 paris. Chaque pari est un simple d20 sans modificateur (sauf indication contraire).
+**Résultats des paris**
+DC | Résultat
+--- | ---
+1 - 9 | Vous perdez tout votre argent
+10 - 12 | Vous récupérez votre argent
+13 - 16 | Vous gagnez un peu d'argent (montant parié x 1,25)
+17 - 19 | Vous gagnez gros (montant parié x 1,5)
+20 | Vous doublez l'argent que vous avez parié !
+
+=== Artisanat
+
+Il peut être utile de créer des objets pour vous aider dans vos aventures. Vous pouvez fabriquer des objets non magiques d'une valeur maximale de 50 gp par semaine de temps mort, à condition de maîtriser les outils liés à l'objet (généralement des outils d'artisans) et les outils eux-mêmes. Vous dépenserez également une somme égale à la moitié de la valeur marchande de l'objet pour acquérir les matières premières. La fabrication d'objets non magiques ne nécessite pas de jet de dé, mais vous pouvez accélérer le processus en engageant un autre PNJ pour vous aider si vous fabriquez un objet de grande valeur (par exemple, la fabrication d'une armure de plates sera coûteuse et prendra beaucoup de temps).
+
+Pour les objets magiques, vous devrez faire un jet pour progresser, comme pour l'activité de recherche. Le nombre de points de progrès nécessaires pour fabriquer un objet magique est égal au coût en gp de l'objet divisé par 200, avec un minimum de 1 point de progrès. Cela signifie que vous pouvez fabriquer plusieurs instances d'un objet (jusqu'à un maximum de 5 par semaine) si vous obtenez un « surplus » de points de progrès. Vous pouvez également choisir de fabriquer des objets différents (à nouveau jusqu'à un maximum de 5 par semaine) si vous avez un « surplus » de points de progrès.
+
+Vous devrez être compétent avec les outils pour fabriquer l'objet ainsi qu'avec l'objet lui-même (par exemple, vous devez être compétent avec les outils de forge et avoir la compétence épée longue pour fabriquer une épée longue +1). Vous dépenserez également un nombre de gp égal à la moitié de la valeur marchande pour acquérir les matières premières.
+
+Voir ici [les prix magiques raisonnables](https://github.com/TerresPerdues/Terresperdues/blob/main/Documents/Sane_Magical_Prices.pdf)) que j'utilise dans ma campagne.
+
+L'artisanat est mesuré par la progression qui, pour la plupart des objets, est évaluée sur 5 ou 10 (en fonction de la difficulté et du coût). La progression n'est pas réinitialisée, vous n'êtes donc pas obligé de faire de l'artisanat par semaines cumulées, vous pouvez faire des pauses !
+
+Les progrès doivent être suivis par le joueur.
+**Résultats de l'artisanat**
+DC | Résultat
+--- | ---
+Échec | Vous ne faites pas beaucoup de progrès mais la prochaine fois que vous fabriquez cet objet, le DC diminue de 2.
++0 | Vous faites +1 progrès dans votre artisanat.
++5 | Vous progressez de +2 dans votre artisanat.
++10 | Vous progressez de +3 dans votre artisanat
++15 | Vous progressez de +4 dans votre artisanat et vous pouvez refaire un jet pour voir si vous progressez davantage. Vous devez dépasser le résultat du test précédent pour progresser davantage.
+
+=== Apprendre une nouvelle compétence/un nouveau talent
+
+Il y a beaucoup d'experts à Emberwood et Drakkenheim qui peuvent enseigner à un personnage des compétences ou des outils qu'il n'a pas encore appris. Un personnage peut même apprendre une nouvelle caractéristique.
+Cela sera suivi par des points de progrès, comme pour la recherche et l'artisanat.
+Vous ne pouvez pas apprendre un haut fait qui vous donne un bonus à un score de capacité, également connu sous le nom de « demi-faits », ni le haut fait « compétent ». Vous pouvez bien sûr acquérir n'importe quelle caractéristique par les moyens traditionnels de montée en niveau ou d'achèvement des étapes de votre quête personnelle.
+
+**Règles et règlements**
+
+Pour devenir Demi-compétent dans une Compétence, vous devez gagner 7 Points de Progrès. Vous ne pouvez apprendre que 2 nouvelles demi-compétences de cette manière.
+
+Pour devenir compétent dans une compétence, vous devez gagner 15 points de progrès (si vous êtes déjà demi-compétent, cela revient à 8, comme si vous aviez 7/15). Vous êtes limité à 2 compétences de cette manière.
+
+Pour apprendre une nouvelle caractéristique, vous devez gagner 12 points de progrès. Vous ne pouvez pas apprendre plus de 2 exploits de cette façon.
+
+**Coûts**
+
+L'apprentissage d'une nouvelle compétence ou d'un nouveau talent coûtera également un montant en gp par point de progrès gagné. L'argent sera dépensé pour l'achat d'équipement spécifique, le paiement de votre (vos) professeur(s) et l'usure générale.
+
+Pour les demi-professions et les hauts faits, il en coûtera 75 gp par point de progrès. Cela revient à un total de 525 gp pour les demi-professions et de 1125 gp pour les professions.
+
+Pour les hauts faits, il en coûtera 200gp par point de progrès. Cela fait un total de 2400gp pour apprendre une nouvelle caractéristique.
+
+**Apprentissage d'une nouvelle compétence/compétence Résultats**
+DC | Résultat
+--- | ---
+Échec | Vous n'avez pas progressé cette semaine.
++0 | Vous faites +1 progrès dans votre nouvelle compétence/atout.
++5 | Vous progressez de +2 dans votre nouvelle compétence/atout.
++10 | Vous progressez de +3 dans votre nouvelle compétence/atout
++15 | Vous progressez de +5 dans votre nouvelle compétence/atout.
+
+=== Autres
+
+Quelque chose ne figure pas dans cette liste ? Inventez-le ! Utilisez le tableau ci-dessous comme exemple.
+**Autre**
+DC | Résultat
+--- | ---
+Échec | Mauvais résultat
++0 | Bon résultat
++5 | Bon résultat
++10 | Grand résultat
++15 | Résultat fantastique (et un petit bonus supplémentaire)
