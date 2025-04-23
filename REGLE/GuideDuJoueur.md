@@ -193,7 +193,11 @@ Il est possible pour un maître de jeu de changer une partie de cette règle pou
 
 +++ PATHFINDER 2
 ## PATHFINDER 2
-### À venir...
+Ce document vous fournit les règles pour créer et faire progresser des personnages au sein des Terres Perdues, il est compatible avec la société de Pathfinder, un programme officiel de jeu organisé pour Pathfinder. Les différentes sont minimes, exemple : l'évolution des personnages est moins rapide dans les Terres Perdues.
+
+Ce que vous avez besoin pour jouer
+Pour participer à une séance de jeu des Terres Perdues vous aurez besoin d’au moins :
+**à venir**
 
 +++ DRAGONBANE
 ## DRAGONBANE
