@@ -2,7 +2,7 @@
 Les Terres Perdues c’est une aventure de communauté avant tout. Pour protéger les valeurs et la joie de jouer de la communauté, il peut arriver que certaines personnes ne se mêlent pas facilement et briment le plaisir des autres. On tente d’aider le plus possible le monde pour se mêler mais il peut arriver que certaines personnes ne fittent pas avec le reste. Nous allons donc devoir fermer les Terres Perdues à ces derniers pour garder un endroit plaisant pour la majorité. Le discord reste ouvert à ses gens pour qu’ils puissent faire d’autres parties, participer au discussion hors des Terres Perdues. Le but est de garder une communauté saine. 
 
 ## Système de règle
-Nous allons jouer avec les règles de Donjons et Dragons 2024. C'est plus facile a gérer avec les objectifs que nous avons et on souhaite essayer les nouvelles régles pour voir leurs comportements.
+Nous jouons avec le système de règle de Donjons et Dragons 2024 ansi que Pathfinder 2e. Les parties sont séparé dans ses deux groupes mais l'avance en même temps. 
 
 ## Règles et inscriptions
 Pour jouer au Terres Perdues, veuillez suivre cette ordre.
@@ -10,7 +10,7 @@ Pour jouer au Terres Perdues, veuillez suivre cette ordre.
 2. Vous connecter au serveur [!badge icon="/images/discord-mark-blue.svg" variant="info" text="Discord de la communauté de JDR"](https://discord.gg/rWzznjmSYm), lire les règlements et choisir Terres Perdues : Drakkenhiem. Vous pouvez ajouter les autres cathégorie à votre guise. 
 2. Pour vous inscrire, simplement aller à [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#2-inscriptions-drakkenheim"](https://discord.com/channels/662746189069942802/1276685886297477121) préciser si vous avez plus de 18 ans. PS: micro obligatoire mais pas la caméra. 
 3. Créer votre personnage ici [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#⁠3-personnage-drakkenheim"](https://discord.com/channels/662746189069942802/1276686197439332494) en suivant les règles de création [Guide du joueur](https://terresperdues.github.io/Terresperdues/regle/guidedujoueur/).
-    (Seule les classes et espèces 2024 sont autorisé pour débuter l'aventure)
+    (Pour Donjons et Dragons 2024, seule les classes et espèces 2024 sont autorisé pour débuter l'aventure)
 PS: Certaines parties seront sur Twitch/Youtube mais pas toutes.  
 
 ## Aperçu de la campagne Drakkenheim
