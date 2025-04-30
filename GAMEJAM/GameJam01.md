@@ -1,5 +1,5 @@
 ## Règles du GAME JAM 01 - Les archipels
-- **Date limite** :  le 30 avril
+- **Date limite** :  le 31 mai
 - **Thème**: Les archipels
 - **Systèmes de JDR** : Tout les systèmes permis (Dragonbane encouragé)
 - **Nombre de soumission** : Illimité
