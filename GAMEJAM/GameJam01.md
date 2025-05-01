@@ -10,7 +10,7 @@
 Vous pouvez poster votre création ici : [!badge icon="/images/discord-mark-blue.svg" variant="info" text="DISCORD GAME JAM"](https://discord.com/channels/662746189069942802/1344849745327296623)
 
 ## Prix à gagner
-3 prix de participation seront offert, un 50$ et deux 25$ en carte cadeau virtuel à la boutique JDR de votre choix. 
+3 prix de participation seront offert, un 50$ et deux 25$ en carte cadeau virtuel à la boutique JDR de votre choix. (*la boutique doit offrir ce service*)
 
 ## Guide pour soummettre votre création
 Vous pouvez créer un **nouveau post** pour présenter vos idées, projets, table de hasard, monstre, etc.
