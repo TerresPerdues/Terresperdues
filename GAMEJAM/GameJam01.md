@@ -25,4 +25,3 @@ Vous pouvez créer un **nouveau post** pour présenter vos idées, projets, tabl
 +++ Qu'est-ce qu'un GAME JAM?
 [Vidéo explicatif du Game Jam par Coup Critique](https://www.youtube.com/watch?v=sQ-YnBlA_NI)
 +++
-Est-ce qu'il va y avoir des prix de participation? à venir...
