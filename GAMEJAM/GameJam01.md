@@ -3,8 +3,8 @@
 - **Thème**: Les archipels
 - **Systèmes de JDR** : Tout les systèmes permis (Dragonbane encouragé)
 - **Nombre de soumission** : Illimité
-- **Contenue** : Tout ( Carte, table de hasard, monstres, classes, espèces, quêtes, iles, légendes, histoire, etc.)
-- **Utilisation** : Ce que vous créer pourra être utilisé ou pas, par la communauté et les Terres Perdues. Si jamais on tente de faire un zine, nous allons communiquer avec ceux qui seront choisit pour faire partie du zine. 
+- **Contenu** : Tout ( Carte, table de hasard, monstres, classes, espèces, quêtes, îles, légendes, histoire, etc.)
+- **Utilisation** : Ce que vous créer pourra être utilisé ou pas, par la communauté et les Terres Perdues. Si jamais on tente de faire un zine, nous allons communiquer avec ceux qui seront choisis pour faire partie du zine. 
 - **Doit respecté les règles générales du serveur également.**
 
 Vous pouvez poster votre création ici : [!badge icon="/images/discord-mark-blue.svg" variant="info" text="DISCORD GAME JAM"](https://discord.com/channels/662746189069942802/1344849745327296623)
