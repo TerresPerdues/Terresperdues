@@ -111,6 +111,8 @@ Un petit village de pêcheurs qui s'est fait décimer par les Yuanti avec l’ai
 +++ Situation géopolitique     
 L’Empire emploie les Yuan-ti pour miner les ressources de l’île.
 
+===
+
 ==- L’île aux Saphirs
 
 C’est une île paradisiaque avec plusieurs microclimats. Elle est en elle-même un endroit de recherche et de villégiature. L’île sert également de retraite aux officiers de la guerre.
@@ -141,6 +143,8 @@ Guilde d’aventurier : Tout le monde à besoin d’aide et la guilde d’aventu
 Jeu politique : Que ce soit pour aider un baron ou en devenir un, Valheureux regorge d’intrigues, de trahisons et de possibilités enrichissantes.
 Visiter Valheureux : Valheureux est une ville magnifique avec ses sculptures et son architecture étrange avec ses couleurs bleutées.
 
+===
+
 ==- L’île de Fer
 
 Cette île est principalement constituée de fer et de mithril en son centre. C’est un endroit où il est difficile de vivre. Le sol et les montagnes sont faits principalement de fer et le tout attire énormément les tempêtes et la foudre, ce qui fait que les parois sont glissantes, extrêmement coupantes et souvent rouillées.
@@ -168,6 +172,8 @@ Le port qui permet les transactions est fait à même la montagne dans une grott
 Miner : Les mines sont gigantesques et demandent toujours plus de travailleurs, mais ce n’est pas facile d’avoir un permis.
 Explorer les bas-fonds : Il existe des créatures étranges au fond des mines, certains corridors amènent d’autre types d'ennemis.
 Visiter Norgorof : Malgré l’allure austère de l'île, la mine de Norgorof est d’une splendeur démesurée.
+
+===
 
 ==- L’île du crabe
 Port-Royal est un endroit que l’on doit voir au moins une fois dans sa vie, mais il est conseillé de ne pas y amener trop d’argent. Les objets qu'on y retrouve sont toujours extravagants.
@@ -213,6 +219,8 @@ Une escouade qui retrouve et réclame ce qu’ils trouvent. Ils sont généralem
 Le grand marché : On retrouve les articles souvent pillés par les pirates ou ceux qui fouillent le fond des mers. On peut presque trouver de tout si vous en avez les moyens.
 La banque du dragon d’or : Les planchers, les poutres et les plafonds sont faits d’or massif, comme la tête de dragon devant la porte principale. On raconte que les objets magiques qui sont laissés longtemps dans cette banque prennent de la puissance et de la valeur.
 
+===
+
 ==- L’Île du Père
 *Création de JDR Ninja*
 
@@ -251,6 +259,7 @@ Elfe d’élite de l’Empire Oublié qui a été envoyé pour remplacer le prem
 Pamloé
 C’est le seul village de l’île, éparpillé autour du lac. Au centre du lac se trouve un roc avec le Temple du Père. Il est interdit de s'y baigner et d’y pêcher, ce lac est sacré. À part des bulles venant des profondeurs qui remontent régulièrement à la surface, celle-ci est calme. Il ne semble pas y avoir de créatures dans l’eau. Le lac a une odeur particulière bien à lui.
 
+===
 
 ==- L’Île du Tonnerre
 *Création de JDR Ninja*
@@ -312,6 +321,8 @@ Visiter le Sanctuaire des Os.
 Faire la fête lors du retour des pêcheurs/harponneurs.
 Visiter les ruines de Basslar, frissons garantis.
 
+===
+
 ==- L’île oubliée
 
 C’est une île marécageuse, où plusieurs créatures peu recommandables vivent. On parle de sorcières, nécromanciens ou druides occultes.
@@ -336,6 +347,8 @@ C’est une grande statue d’un ancien dieu. Avec le temps, elle s'est enfoncé
 Les malédictions: Que ce soit pour s’en départir ou pour en demander une, le marché des malédictions est en expansion.
 Potions illégales: Il est toujours possible d’acheter des potions qui ne peuvent être achetées dans les magasins légaux.
 
+===
+
 ==- Îles Mouvantes
 C’est une région instable d'environ 200 miles de diamètre au sud-ouest de l'archipel. Certaines îles disparaissent pendant un certain temps, parfois elles ne reviennent jamais. D’autres apparaissent et repartent, sans aucune logique apparente. La région est entourée d’un épais  brouillard à densité variable. On sait où l’on entre, mais pas où l’on sort. Parfois on entend des hurlements étranges provenir des zones plus sombres.
 
@@ -355,6 +368,8 @@ Certains pratiquants les nomment les brumes de Dhums et ils croient qu’il exis
 *À force d’absorber des êtres sentients et de les voir mourir parmi les horreurs de cette zone, les brumes sont devenues semi-conscientes. Elles sont un agent de chaos et de corruption. Apportant avec elles des créatures venant d’autres mondes et d’autres plans, corrompant l’endroit où elles s’installent. (Mix entre les brumes de Ravenloft, The Mist de Stephen King et Dark Mist de LoL)*
 
 Si du cristallium est utilisé dans une zone où les brumes sont présentes, elles ne font qu'invoquer des fées sombres, mutantes, tordues ou des ténèbres provenant du Shadowfell plutôt que du Feywild.
+
+===
 
 ==- L’Île noyée
 Cette île est partiellement engloutie, elle a subi un affaissement il y a très longtemps. Il est possible de s’y déplacer à pied ou avec une petite embarcation. Il y a des poteaux de repérage pour ceux qui traversent l’île à pied (ou en charrette, quand c’est possible). Il y a habituellement un pied d’eau, parfois moins, parfois plus. Certaines régions sont au-dessus de l’eau, mais très peu.
@@ -387,8 +402,6 @@ Lieu: Ver-de-Pierre
 Florraas, la Baronne (bullywug, femelle)
 Lieu: Creux-du-Lac
 
-
-
 +++ Lieux
 Brise-Mer
 Malgré que l’île soit partiellement submergée, les gros navires ne peuvent naviguer dessus. Ils doivent accoster à cette ville, ne pouvant aller plus loin.
@@ -411,6 +424,7 @@ Ancien village de mineurs, ce sont maintenant les Sahuagins qui l'occupent. Le n
 Creux-du-lac
 Anciennement un village de pêcheurs à côté d’un lac, ce dernier ayant débordé, ce sont les bullywugs qui l’habitent.
 
+===
 
 ==- L’île sauvage
 Cette île est couverte de jungle, il y a une baie magnifique et de belles chutes. La végétation est changeante et la faune est différente pour ne pas dire étrange. L'île est réputée pour ses disparitions étranges de visiteurs. Elle a été rapidement interdite au public mais ce qu’on y retrouve est si impressionnant que certains s'aventurent en quête de gloire.
@@ -436,6 +450,7 @@ Capture d'animaux exotiques : Les créatures de cette île sont extrêmement rar
 Trésor et relique : On retrouve sur cette île des reliques et des lieux étranges et différents de partout ailleurs.
 Protéger les visiteurs de la baie : La baie est un endroit magnifique, certains couples s'offrent un voyage à cet endroit et demandent une protection. 
 
+===
 
 ==- Memoria 
 Personne ne va volontairement sur l'île de Memoria, les gens s’y retrouvent après avoir été aspirés par les brumes dans l'Archipel Fracassé. Selon plusieurs, cette île est entièrement recouverte des ruines d'une ancienne cité. D'autres qui ont visité Memoria racontent, au contraire, que la ville qu'elle cache est vibrante de vie et que les gens qui y habitent sont liés à l'île d'une façon surnaturelle.
@@ -461,6 +476,8 @@ Endroit de résidence de la figure ''Elle''. Personne en visite sur l'île, que 
 
 Visiter les ruines : Les ruines regorgent d'objets dignes d'être mis dans un musée. Un endroit de rêve pour les chasseurs de trésors et les archéologues. Les gens ayant atterris dans la ville active ont souvent essayés de percer ses secrets. Qui est ''Elle''? La ville est-elle dans le passé? C'est un endroit ou rien est connu et tout est à découvrir.
 
+===
+
 ==- Sala-Talie 
 Aussi connue sous le nom de L'Île des Archives, Sala-Talie est le lieu de résidence de l'Ordre de l'héritage. Un ordre se dédiant à faire transposer les connaissances et qui décide qui est digne ou non des connaissances qu'il détient. Chaque membre de l'ordre à sa spécialité et il leur est interdit de se servir de leurs connaissances pour un gain personnel. Chaque membre de l'ordre s'installe à un endroit de son choix sur l'île et l'habitation du membre reflète souvent son sujet d'expertise.
 Tous les dieux et déesses avec une emphase sur Le voyageur / Waltz / Loubert et La lumière blanche.
@@ -476,6 +493,7 @@ Se trouve sur l'île flottante au-dessus du point d'amarrage principal de Sala-T
 
 De la recherche : Y rechercher des connaissances anciennes et exclusives. Trouver un-e expert-e dans un sujet particulier.
 
+===
 
 ==- Les petites îles
 +++ Îles Vastitas et l'atoll Spellini
