@@ -1,11 +1,11 @@
 ---
-label: Saison 2 
+label: Saison 2 -Résistance
 order: 5
 icon: ":globe_with_meridians:"
 ---
 
 
-## L’Archipel Fracassé
+## TERRES PERDUES - Résistance
 
 L'Archipel Fracassé est sous l’occupation de l’Empire.
 
