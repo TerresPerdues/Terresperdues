@@ -1,5 +1,5 @@
 ---
-label: Les Royaumes
+label: Saison 2 
 order: 5
 icon: ":globe_with_meridians:"
 ---
