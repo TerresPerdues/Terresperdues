@@ -1,4 +1,4 @@
-## Aed, le Marteau pourpre
+## Aed, le bouclier pourpre
 - **Titre divin :** L’Enclume du Destin, La Dame au Bouclier Pourpre 
 - **Domaines :** Forge, Guerre, Ordre, Stratégie 
 - **Signe sacré :** Un bouclier pourpre frappé d’un éclair d’argent
