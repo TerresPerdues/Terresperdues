@@ -63,3 +63,155 @@ Il respecte Aed, car elle forge autant qu’elle détruit. Il partage un respect
 
 Il n’a ni visage, ni voix. On le reconnaît à une sensation étrange : comme si le vent s’arrêtait un instant pour écouter.
 
+## Loubert, le Miroir Fendu
+**Titres divins :** Le Changeforme, L'Architecte de l'Ombre, Le Marchand du Destin 
+**Domaines :** Supercherie, Arcane, Guerre 
+**Symboles :** Une pièce à deux faces / Un doigt sur des lèvres / Un masque fendu
+
+Nul ne sait quand Loubert est né. Certains prétendent qu'il n’est pas une divinité comme les autres, mais un mensonge si ancien et si puissamment cru qu’il devint vrai. D’autres disent qu’il fut un dieu de la vérité, brisé par ses propres révélations, et qu’il se recousit avec les fils du mensonge.
+
+Dans les récits les plus anciens, il est tantôt un enfant rieur, tantôt une vieille femme aveugle, parfois une silhouette masquée dans la foule. On ne voit jamais Loubert deux fois de la même manière. On ne sait pas s’il est un, ou mille.
+
+### L’esprit derrière le voile
+Bien qu’il règne sur la supercherie, Loubert n’est pas qu’un farceur. C’est un stratège occulte, un manipulateur de plans invisibles. C’est lui qui, face à la menace des Ténèbres, insuffla à chaque dieu de lumière un fragment du credo ennemi, divisant leurs opposants sans qu’ils ne s’en rendent compte. Il ne combat pas la nuit avec une lame, mais en semant la confusion dans les rangs des ombres.
+
+Il est aussi un tacticien de la guerre psychologique. Tandis qu’Aed forge les armes et Blaise les brandit, Loubert s’assure que l’ennemi doute de son propre camp. Il peut transformer un traité en piège, une confession en poison, un oracle en illusion.
+
+### Les visages de la foi
+Ses fidèles sont multiples : bardes, voleurs, espions, diplomates, négociants, illusionnistes et même certains généraux. Tous ceux qui vivent dans l’ambiguïté murmurent son nom. Il est le patron des contrats non signés, des mots à double sens, des ruelles étroites et des jeux de cartes truqués.
+
+Chaque lieu a sa manière de le représenter : une pièce retournée dans une fontaine, un chuchotement au crépuscule, un masque sur le mur d’un cabaret. À Riveau-Gris, on raconte qu’un théâtre ne peut s’appeler ainsi que s’il a un miroir brisé en coulisse — un œil pour Loubert.
+
+### Alliances et Frictions
+Loubert méprise la rigidité d’Aed et rit des foudres de Blaise. Il admire Dhums pour son silence, et échange parfois avec Waltz des secrets dans des bibliothèques que nul n’ose fouiller.
+
+Son alliance avec Le Voyageur/La Voyageuse est trouble : on murmure qu’ils ne sont peut-être que deux facettes d’un même esprit… ou rivaux jouant une partie d’échecs cosmique dont personne ne connaît les règles.
+
+## Okomé, le Cerf aux Quatre Yeux
+- **Titres divins :** Le Premier Souffle, L’Esprit Sylvestre, Le Veilleur aux Bois Muets 
+- **Domaines :** Nature, Vie, Tempêtes, Lumière 
+- **Symboles :** Un cerf blanc à deux panaches / Une empreinte de feuille incrustée de lumière
+
+Avant que les étoiles n’aient des noms, avant même que le temps ne coule, Okomé s’éveilla au premier battement de cœur de la création. Il n’est pas né, il est apparu, là où les racines plongeaient dans le néant et où les vents tourbillonnaient sans direction. Il ouvrit ses quatre yeux, deux pour voir le monde visible, deux pour percevoir ce qui le tisse en silence.
+
+Il est le plus ancien, non par autorité, mais par présence — une présence si vaste qu’elle se confond souvent avec le monde lui-même.
+
+### Un dieu qui cède et observe
+Okomé est un dieu qui ne s’accroche pas. Il observa l’arrivée des autres dieux comme on regarde des arbres pousser autour d’un ruisseau. Il céda la mort à Dhums, la lumière à La Lumière blanche, la guerre à Blaise et Aed. Non par faiblesse, mais parce qu’il comprend que la nature change toujours.
+
+Ses fidèles disent que lorsqu’une fleur fane, c’est Okomé qui se retire pour laisser place à la transformation. Quand une tempête gronde sans prévenir, c’est qu’il désapprouve un déséquilibre. Mais jamais il ne parle. Il montre.
+
+### Apparitions sylvestres
+Les voyageurs chanceux — ou perdus — disent avoir vu son ombre dans les forêts anciennes : un cerf blanc, majestueux, aux ramures couvertes de feuilles dorées, quatre yeux luisant comme la lune. Il ne s’enfuit pas, il observe l’âme. Ceux qu’il considère dignes sont parfois bénis d’une renaissance, d’un appel intérieur à protéger ce qui pousse et ce qui respire.
+
+Ses messages prennent souvent la forme de phénomènes naturels : un chœur d’oiseaux qui chantent en cercle, un arbre au tronc ouvert révélant un autel de mousse, une pluie qui tombe en spirale.
+
+### Les Gardiens d’Okomé
+Il n’existe aucun temple en son nom. Ses sanctuaires sont les clairières, les sommets venteux, les cavernes ouvertes par le vent. Les druides, rôdeurs et peuples anciens bâtissent parfois des menhirs en son honneur, mais Okomé ne demande rien. Il donne, il reprend, il veille.
+
+Des lignées anciennes racontent que ses premiers disciples furent des créatures hybrides, ni bêtes ni hommes, plus insecte ou fée qu’on nomme les Sylves. Ils murmurent au vent et gardent les savoirs oubliés de la terre. On les entend parfois… mais on ne les voit jamais deux fois.
+
+## Runel, la Lance de Justice
+- **Titres divins :** La Forgeronne des Lois, L’Œil Bandé, La Paix Armée 
+- **Domaines :** Ordre, Forge, Lumière, Paix 
+- **Symboles :** Une lance dressée / Un marteau sur une balance / Une étoile à six pointes
+
+Lorsque les premières sociétés prirent forme, que les clans cessèrent de se battre pour la nourriture et commencèrent à échanger des paroles, Runel apparut dans le fracas d’une enclume au sommet d’une montagne naine. Sa naissance n’est pas un acte de création, mais de décision collective : elle fut "appelée" par les peuples qui voulaient bâtir quelque chose de durable.
+
+Dans sa forme première, Runel est décrite comme une déesse d'acier incandescent, les yeux bandés pour juger sans préjugé, la main droite tendue en serment, la gauche tenant une lance forgée dans les premières lois gravées.
+
+### La Paix par la Structure
+Contrairement à Aed, sa cadette au sang plus vif, Runel n’impose pas l’ordre par la guerre. Elle l’édifie. Elle est l’architecte invisible des contrats, des serments, des traditions. Son influence se mesure moins en miracles qu’en équilibres durables, cités bien ordonnées, et alliances solides. Là où règne le chaos, elle forge des codes. Là où les voix s’élèvent, elle propose le débat.
+
+Ses commandements ne sont pas figés, car elle croit en un ordre vivant. Elle inspire les scribes, les juges, les diplomates, mais aussi les forgerons — car la vérité, comme le métal, doit être battue, tempérée et aiguisée.
+
+### Multiples visages, foi unique
+Sa représentation varie selon les peuples :
+
+Chez les nains, elle est une matriarche austère portant un marteau de serment.
+Chez les humains, une femme aux yeux bandés, tenant une balance forgée.
+Chez les elfes, une sentinelle aux cheveux d’or brandissant une lance d’argent.
+Partout, elle incarne la stabilité dans la diversité, et sa parole est aussi sacrée que le feu de la forge.
+
+### La Fête de Runel
+Tous les royaumes célèbrent le solstice d’hiver en son honneur. Cette fête, loin d’être froide, est dédiée à la générosité, au pardon et aux serments renouvelés. On y offre des cadeaux, pas seulement pour faire plaisir, mais pour réaffirmer des liens. Des enfants récitent des lois anciennes autour d’un feu, tandis que les sages racontent les anciens pactes.
+
+Ceux qui trahissent un serment pendant cette nuit… entendent, dit-on, la résonance froide du marteau de Runel dans leurs rêves.
+
+### Liens divins
+Runel considère Aed comme une guerrière nécessaire mais trop empressée. Elle voit en Dhums un miroir sombre mais honnête, et elle admire le calme d’Okomé, bien qu’ils œuvrent différemment. Elle méprise Loubert, non pour sa ruse, mais pour sa façon de détruire la confiance. Quant à La Lumière blanche, elles forment une alliance sacrée, toutes deux portant l’espérance de paix.
+
+## Le/La Voyageur(se), l’Innommé(e)
+- **Titres divins :** Le Marcheur Sans Visage, L’Artisan des Routes, L’Ennemi des Destins Écrits 
+- **Domaines :** Crépuscule, Supercheries, Connaissance 
+- **Symboles :** Une paire de bottes usées / Une cagoule / Un sentier en spirale
+
+Personne ne connaît vraiment son origine. Contrairement aux autres dieux, Le/La Voyageur(se) n’est pas né(e) d’un élément, d’un besoin ou d’un cri du monde… mais d’un désir. Un désir de mouvement. D’échappée. De savoir ce qu’il y a après l’horizon.
+
+Certaines légendes disent qu’il ou elle serait un ancien mortel qui, ayant refusé toutes les vérités et refusé tous les dieux, marcha si loin dans l’inconnu qu’il ou elle devint… l’inconnu. D'autres affirment qu’il/elle était là à chaque carrefour oublié, à chaque croisée où une vie a changé de direction, témoin invisible des choix impossibles.
+
+### Un dieu du détour et de l’éveil
+Il ou elle ne promet rien. N’offre ni miracles, ni récompense. Ce dieu marche, observe, chuchote aux âmes qui doutent. Ses paroles sont rarement directes. Ce sont des signes : le vent qui pousse une feuille vers la gauche, une pièce de monnaie trouvée face cachée, un inconnu qui vous regarde une seconde de trop.
+
+Ses disciples sont des pèlerins du hasard, des marchands désabusés, des bardes errants, des voleurs à la morale étrange. Ils n’ont pas de temple, mais chaque pont, chaque carrefour, chaque auberge est un autel potentiel. Ils laissent de petits cailloux alignés, des phrases à double sens gravées dans le bois ou des offrandes d’objets trouvés.
+
+### Doctrine : le flou sacré
+Le/La Voyageur(se) prêche le doute fécond : il ou elle déteste les certitudes rigides. Son culte enseigne qu’aucune vérité ne vaut sans remise en question. Que parfois, mentir permet de sauver, et que toute route peut devenir sacrée si elle est foulée avec conscience.
+
+Il ou elle s’oppose donc aux dogmes rigides de Runel, à la lumière absolue de La Lumière blanche, mais partage une affinité troublante avec Loubert, au point que certains pensent qu’ils seraient deux noms pour le même esprit… ou deux joueurs d’un même jeu cosmique.
+
+Il/elle échange parfois des énigmes avec Waltz, murmure dans les rêves de Dhums, et pose des pièges à Blaise juste pour voir s’il les brisera.
+
+## Waltz, l’Œil Éveillé
+- **Titres divins :** L’Artisan de l’Éveil, Le Bibliothécaire Transcendant, Le Danseur des Ténèbres 
+- **Domaines :** Arcane, Connaissance, Cimetières, Supercherie 
+- **Symboles :** Un œil blanc ouvert / Une plume noire / Un grimoire scellé
+
+On dit que Waltz était un simple mortel au départ — un mage solitaire obsédé par les lois invisibles qui régissent la réalité. Il passait ses jours dans des tours de marbre et ses nuits dans les catacombes, interrogeant les morts comme les étoiles. Plus il étudiait, plus le monde se fissurait autour de lui. Jusqu’au jour où, dans un acte ultime d’abandon et de compréhension, il se sacrifia lui-même dans un rituel interdit, brisant la frontière entre savoir et divinité.
+
+Il n’ascendit pas : il s’ouvrit. Et l’univers dut s’adapter.
+
+### Le Savoir comme enchantement
+Waltz est l’incarnation du savoir dangereux, du "je sais que je ne devrais pas savoir, mais je veux savoir quand même." Il inspire à la fois les chercheurs, les sorciers, les nécromanciens raffinés et les illusionnistes en quête d’un savoir qui leur échappe toujours un peu plus.
+
+Il ne méprise ni le mensonge, ni la lumière, ni la mort. Il observe. Il comprend. Et il transforme. Il est l’un des rares dieux à rire dans les tombes et à pleurer dans les bibliothèques.
+
+Ses fidèles ne font pas de prêches : ils posent des énigmes. Ils ne bâtissent pas de temples : ils creusent des archives. Leur foi est une étude, leur culte, une expérimentation.
+
+### L’Éveil et ses conséquences
+L’Éveil, ce fameux moment où Waltz se divinisa, fut un bouleversement pour les royaumes : une déferlante d’énergie magique s’échappa dans le monde. Des objets devinrent conscients. Des morts se souvinrent. Des enfants virent les pensées des autres. Depuis, la magie n’est plus un art secret — elle est un langage vivant qui imprègne les choses.
+
+Et ainsi naquirent les Brumes d’Or — un voile vivant, mouvant, qui sépare le monde des royaumes extérieurs. Elles protègent, elles guident, elles désorientent les intrus. Seuls ceux qui rêvent en rythme avec le monde peuvent les traverser. On dit même que Waltz a lié sa propre essence à la Brume : c’est son souffle que l’on sent quand elle s’élève.
+
+### Réseaux de savoir et liens divins
+Waltz échange volontiers avec Le/La Voyageur(se), car leurs chemins se croisent souvent là où naît la vérité. Il partage avec Dhums une fascination tranquille pour l’impermanence, mais considère Loubert avec méfiance — non parce qu’il ment, mais parce qu’il ment sans but.
+
+Il admire Runel pour son architecture mentale, mais estime que ses lois doivent parfois être transcendées. Avec Aed, il entretient un respect martial : "Elle bat le métal, moi l’esprit."
+
+## Sheilla - La Lumière blanche
+- **Titres divins :** L’Éclat Pur, Le Chemin Silencieux, Le Flambeau Réveillé 
+- **Domaines :** Lumière, Vie, Paix, Arcane 
+- **Symboles :** Un cercle de lumière / Une flamme blanche dans une main ouverte / Un œil rayonnant sans pupille
+
+La Lumière blanche ne parle pas. Elle ne commande pas. Elle révèle.
+
+Elle est peut-être plus ancienne que tous les dieux, une force devenue culte, vénérée d’abord par ceux qui avaient peur de la nuit, puis oubliée lorsque les autres divinités ont revendiqué la lumière, la magie et l’espoir. Mais quand les Ténèbres sont revenues, rampantes et affamées, La Lumière blanche s’est rallumée dans les cœurs, sans que personne ne sache comment ni pourquoi.
+
+On ne peut ni la représenter fidèlement, ni lui donner un visage — car elle n’est pas une volonté, mais une vérité. Et pourtant, ses signes sont partout : un rayon perçant les nuages, une vérité qui éclate sans mot, un sort oublié retrouvé par instinct.
+
+### Une religion de clarté absolue
+Ses fidèles, appelés les Flammes de l’Aube, sont de plus en plus nombreux. Ce sont des moines, des prêtres-guerriers, des arcanistes repentis et des personnes brisées par l’ombre, qui cherchent la rédemption à travers l'éclat.
+
+Ils rejettent les zones grises. Ils nomment le mal "le Néant", et chaque fois qu’ils prononcent ce mot, ils allument une flamme blanche. Ils ne prient pas : ils marchent, torche levée, dans le silence. Ils illuminent, exorcisent, reconstruisent. On dit qu’un seul mot chanté en chœur par leurs rangs peut dissiper un voile d’illusion tissé par Loubert ou un cauchemar invoqué par Waltz.
+
+### Temples, rituels et miracles
+Les cathédrales de la Lumière blanche sont immenses, de pierre claire et de verre irisé. L’intérieur est sans ornement : juste la lumière naturelle, amplifiée par des cristaux enchantés, qui baigne les fidèles dans un silence sacré. Les pèlerinages se font sans un mot, les vœux sont gravés dans la lumière à l’aide d’encres d’arcane.
+
+Certains récits parlent de prêtres touchés par la Clarté parfaite, une illumination où ils voient à travers les mensonges du monde et entrent dans le Rêve Blanc, un royaume de paix suspendue où le temps cesse… et où ils peuvent entendre le chant de l’univers.
+
+### Alliances rayonnantes et tensions
+La Lumière blanche partage avec Runel l’amour de la paix, mais rejette les compromis. Là où Runel tolère le désordre pour forger la paix, la Lumière blanche le consume. Elle considère Loubert comme une souillure, Blaise comme une tempête à apaiser, Waltz comme une énigme inacceptable.
+
+Paradoxalement, elle respecte Dhums, car même le crépuscule prépare la lumière.
+
+Et certains osent murmurer ceci : "Et si La Lumière blanche… était le contrepoids parfait aux Brumes de Waltz ?"
