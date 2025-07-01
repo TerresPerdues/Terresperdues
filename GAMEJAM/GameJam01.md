@@ -28,11 +28,13 @@ Vous pouvez créer un **nouveau post** pour présenter vos idées, projets, tabl
 
 ## Les participations
 
-**Fil de Cristal 🧶: Les Iles de la Grenouille**
+==- Fil de Cristal 🧶: Les Iles de la Grenouille
+
+
 https://fildecristal.itch.io/les-frogs-add-on
 
+==- Jebbado
 
-# Jebbado
 # Introduction
 
 L’idée derrière ce système est d’utiliser la mécanique de Kingdom Management de la campagne *Kingmaker* de PF2e, mais pour créer un **Vaisseau** au lieu d’un royaume.  
@@ -162,8 +164,9 @@ Chacune peut être ciblée.
 - Liste d’équipements (voiles, canons, scanners, munitions, etc.)  
 - Système d’inventaire pour le contenu de la cale 
 
+==-
 
-# Les Îles Impossibles
+==- Dans une Galaxie - Les Îles Impossibles
 
 > *On ne trouve pas les Îles Impossibles, ce sont elles qui nous trouvent… Et ce sont elles qui 
 décident quand on peut les qui er. Du moins, c’est ce que les quelques personnes qui 
@@ -288,3 +291,31 @@ Sugges ons d’effets ou de rencontres :
 personnages;  
 • de la nourriture qui rend euphorique;  
 • une bibliothèque remplie de livres illisibles 
+
+==-
+
+==- Des contes et des Des
+
+https://des-contes-et-des-des.itch.io/dragonbane-largonaut-profession
+
+==-
+
+==- Finrod - l'île du Coq
+Cette île d’apparence très ordinaire obtenu son nom grâce à un rocher du côté Ouest qui pourrait ressembler à une tête de poulet à condition d’être un marin saoul avec beaucoup d’imagination. Les parois escarpés qui entourent l’île servent de murailles pour protéger une dense forêt contre les puissantes vagues de la mer. Les pierres polies par l’eau et tranchantes par endroit se révèlent être pratiquement impossible à gravir sauf pour les plus téméraires. La dense forêt qui recouvre l’île est au cœur de certaines histoires de marins sans aucun fondement.
+
+Il y a quelques siècles, des pêcheurs avaient établis une petite colonie fièrement nommé « Poulaîsse-sur-Mer » sur la partie sud de l’île du Coq. Celle-ci était alors reconnue pour la grande quantité de crabes qui y résidaient. A l’époque, on parlait même d’une invasion de crabes ce qui rendait l’île du Coq peu attrayante pour les activités de complaisance. Une compagnie de fabrication de navire, « La Poul-Pe de Poulaîsse » permit de diversifier un peu l’économie local. Bien que plusieurs navire de type « Œuf d’or » et de type « Enveloppe » furent construits, ils semblent, selon les documents d’archives qui subsistent, que la compagnie aurait été fermé avant de pouvoir terminer un nouveau type de navire. A son apogée, « Poulaîsse-sur-Mer » aurait été un village d’environ 1500 à 2500 habitants. En naviguant à proximité on peut qu’imaginer de nombreuses boutiques et une petit île bourdonnante d’activité.
+
+La déforestation massive dans le but de créer des navires et la pêche excessive causé par la colonie eu raison de l’ensemble des ressources naturelles et l’île fut abandonnée. La végétation repris lentement sa place pour recouvrir l’île dans son entièreté bien que quelques fondations de pierre subsistent. Dans les dernières décennies nous avons pu assister à un retour des crabes, signe de la puissance de la nature. Bien entendu, certains pêcheurs, n’ayant rien appris de l’histoire, ont commencés à discuter de la possibilité d’aller établir une nouvelle colonie sur l’île du Coq.
+
+Pour ceux qui naviguent près de cette île, il est encore possible de voir un petit quai de pierre sur la façade sud, il s’agit sans doute d’un quai marchand ou de « La Poul-Pe de Poulaîsse ». Derniers signes visibles d’un passé pratiquement oublié, un petit sentier sinueux mènerait du quai vers le « Haut Perchoir », un petit bâtiment de guet, établis au sommet de la crête du rocher en forme de Coq. 
+
+Certaines rumeurs de marins, sans aucun fondement factuel, proposent l’idée absurde que le « Haut Perchoir » serait habité par une sorcier depuis la fondation de la colonie. Ces marins vont même jusqu’à prétendre que la colonie n’aurait pas été abandonné par le manque de crabe et d’arbres mais plutôt que les habitants auraient été chassés par un monstre qui roderait encore sur l’île. Les descriptions sont vagues et les marins ne s’entendent pas sur la description de la créature. Certains parlent du « CocoHydra » qui combine le cri du coq avec le chaos d’une hydre, du « Bec-tapus Rex », une volaille gigantesque qui se cacherait encore dans la forêt ou du « Coq-Topus » qui utiliserait ses 8 becs pour attaquer les vaisseaux qui navigueraient trop près des rivages.
+
+Une autre rumeur, qui proviendrait de pirates, laisse entendre que « La Poul-Pe de Poulaîsse » aurait terminer un nouveau type de navire et que celui-ci serait caché dans une grotte souterraine reliée à un petit lac au centre de l’île. Plus étrange encore, les pirates prétendent que le navire qu’ils prénomment le « Cocoridragon » pourrait même voler!
+
+
+Source: Grand Atlas Méneldorien, volume 3
+==-
+
+==- 
+
