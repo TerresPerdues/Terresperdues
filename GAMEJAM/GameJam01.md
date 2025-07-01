@@ -231,7 +231,7 @@ Sugges ons d’effets ou de rencontres :
 • un (des) golem(s) protecteur(s) des cristaux si les PJ en brisent 
 
 ## 🌬️ 7. Île aux Murmures
-Pe t îlot composé de longs rochés effilés et troués. Lorsque le vent souffle, ils 
+Petit îlot composé de longs rochés effilés et troués. Lorsque le vent souffle, ils 
 éme ent un bruit ressemblent à un ensemble de chuchotements inintelligibles 
 dans différentes langues. 
 Sugges ons d’effets ou de rencontres :  
@@ -241,7 +241,7 @@ Sugges ons d’effets ou de rencontres :
 menaçantes
 
 ## 💧 8. Île aux Sources
-Un pe t îlot volcanique avec une source d’eau douce chaude. Juste parfaite pour 
+Un petit îlot volcanique avec une source d’eau douce chaude. Juste parfaite pour 
 faire un pe t repos et y détendre ses muscles. Une pe te faune habite l’île. 
 Sugges ons d’effets ou de rencontres :  
 • l’eau a des propriétés cura ves;  
@@ -255,13 +255,13 @@ pourrait correspondre à une minute, ou une semaine. L’effet est plus sub l à
 l’arrivée, mais s’intensifie au centre.  
 Sugges ons d’effets ou de rencontres :  
 • une énorme horloge grand-père au milieu de l’île; des PNJ pris sur l’île et 
-qui essaient de s’en sor r;  
+qui essaient de s’en sortir;  
 • un désir irrésis ble des PJ de prendre un temps pour faire un bilan de leur 
 vie jusqu’à présent;  
 • un lapin pressé 
 
 ## 🪨 10. Île Suspendue
-Un rocher massif qui flo e à quelques pieds au-dessus de l’eau. La gravité y est 
+Un rocher massif qui flotte à quelques pieds au-dessus de l’eau. La gravité y est 
 réduite, alors que l’eau de mer semble être aspirée vers un point invisible en 
 dessous de l’île.  
 Sugges ons d’effets ou de rencontres :  
@@ -275,19 +275,16 @@ Force pour ne pas être blessés
 Une île couverte de rouille, donnant l’impression qu’elle est en èrement rouge 
 sang. Même la mer aux alentours est rouge. Une forte odeur de soufre et de fer 
 y règne.  
-Sugges ons d’effets ou de rencontres :  
+Suggestions d’effets ou de rencontres :  
 • un inconfort lié à la forte chaleur de l’île;  
 • des créatures associées au métal;  
 • un forgeron prêt à échanger sa produc on de grande qualité contre un 
 service 
 
 ## 💫 12. Île Empathe
-Une île dont l’atmosphère et l’environnement réagissent aux émo ons des 
-créatures qui s’y trouvent. Un senment de joie peut faire fleurir la végéta on 
-instantanément, une peur pourrait provoquer un brouillard dense ou une pluie 
-glaciale; la colère peut faire trembler le sol, etc. 
-Sugges ons d’effets ou de rencontres :  
-• des pe tes fées pixies ou plantes qui réagissent aux senments des 
+Une île dont l’atmosphère et l’environnement réagissent aux émotions des créatures qui s’y trouvent. Un sentiment de joie peut faire fleurir la végétation instantanément, une peur pourrait provoquer un brouillard dense ou une pluie glaciale; la colère peut faire trembler le sol, etc. 
+Suggestions d’effets ou de rencontres :  
+• des petites fées pixies ou plantes qui réagissent aux senments des 
 personnages;  
 • de la nourriture qui rend euphorique;  
 • une bibliothèque remplie de livres illisibles 
@@ -298,6 +295,10 @@ personnages;
 
 https://des-contes-et-des-des.itch.io/dragonbane-largonaut-profession
 
+==-
+
+==- Dominic G
+à venir
 ==-
 
 ==- Finrod - l'île du Coq
