@@ -8,6 +8,16 @@ Au commencement du Temps d'Avant, alors que le monde n'était que braise et chao
 
 On raconte qu’Aed fut la première à dresser une muraille. Non pas contre un ennemi, mais pour tracer une ligne : là où commence l’ordre, là où finit le chaos. Elle forgea ensuite son bouclier pourpre dans l’ombre du volcan d’Aehras, un bouclier capable d’absorber les cris de guerre et de les relâcher sous forme d’ondes destructrices.
 
+**Rites et révérences**
+
+Vénérer Aed ne relève ni de la crainte ni de l’extase : c’est une affaire de volonté. On ne l’implore pas pour des miracles, on la suit par choix — le choix de la discipline, du courage réfléchi, et du silence avant la bataille.
+
+Dans ses bastions de pierre, les murs ne sont ni peints ni dorés. Ce sont des lieux sobres, marqués d’une seule chose : la régularité. Chaque élément — un marteau accroché à un mur, une carte de bataille usée sur une table — est à sa place. Et cela, déjà, est un hommage à Aed.
+
+Les fidèles ne prient pas en foule. Ils se rassemblent en ligne droite, armés, face au lever du soleil. Le silence règne. Chacun pose sa main sur son bouclier ou son arme, puis ferme les yeux. À cet instant, ils récitent, dans leur cœur ou à voix basse, le vœu personnel qu’ils se doivent de tenir : un serment, une résolution, ou une leçon apprise dans le feu du devoir.
+
+Une fois l’an, au début du printemps, les disciples célèbrent le Jour des Plans Croisés. On n’y boit pas, on n’y danse pas. On relit des tactiques oubliées, on rejoue des batailles sur des cartes de sable, et les jeunes doivent proposer des solutions aux conflits passés. C’est l’unique jour où les maîtres donnent des conseils. Tout le reste de l’année, on attend que les leçons viennent de l’intérieur.
+
 **La guerre selon Aed**
 
 Aed n’aime pas la guerre inutile. Pour elle, la guerre est une équation, une réponse froide au désordre. Contrairement à Blaise, qui frappe par passion, Aed frappe pour rétablir l’équilibre — chaque mouvement de ses légions est une pièce sur l’échiquier cosmique.
@@ -27,6 +37,40 @@ Elle méprise la ruse de Loubert, respecte la vigueur brutale de Blaise, et trou
 - **Signe sacré :** Une hache de bronze au fil fendu ou un cor brisé
 
 Lorsque les cieux furent encore incandescents et la terre à peine refroidie, une colère ancestrale gronda dans les nuages. Ce cri, si puissant qu’il fendit le silence primordial, donna naissance à Blaise, un dieu né non de la chair divine mais du tumulte brut de la nature en furie. Il tomba du ciel comme un météore, dans une pluie de feu et de fureur, brandissant une hache taillée dans l’os d’un titan et soufflant dans un cor tressé de vents anciens.
+
+On ne vénère pas Blaise entre quatre murs. Sa foi ne se murmure pas — elle gronde. Elle est tempête, brasier, cris dans la gorge et sueur sur le front.
+
+Les disciples de Blaise ne prient pas. Ils défient. Chaque rite est un affrontement : contre la peur, contre soi-même, contre le monde.
+
+**Rites et Révérences**
+
+Lorsqu’un jeune guerrier rejoint la foi de Blaise, il doit affronter une épreuve connue sous le nom de l’Éveil du Sang. Dans un cercle de pierres battu par le vent, il affronte une bête, un rival, ou la tempête elle-même. L’objectif n’est pas de gagner, mais de ne pas fuir. Résister, même blessé, même à genoux, suffit pour être marqué par Blaise.
+
+Parfois, à l’issue du rite, une cicatrice apparaît d’elle-même, en forme de griffe ou d’éclair, comme si Blaise avait validé l’épreuve d’un frisson de rage céleste.
+
+Pas de cathédrales pour Blaise. Ses temples sont des landes balayées par le vent, des dolmens fendus par la foudre, des salles d’armes au plafond ouvert pour laisser passer le tonnerre. Les statues sont rares, mais quand elles existent, elles montrent un géant barbu brandissant une hache ou un cor, les yeux vides et la bouche ouverte comme en éternel cri de guerre.
+
+Les offrandes se font sous forme de bois brûlé, de sang versé (symbolique ou réel), ou de hurlements à pleins poumons, les bras écartés sous la pluie.
+
+Une fois l’an, les fidèles organisent un immense festin à ciel ouvert, qu’ils appellent “Le Fracas”. On y célèbre la mort valeureuse, les batailles gagnées, les cicatrices reçues. On y raconte les exploits, on en invente aussi. Chacun crie le nom de Blaise avant de mordre dans la viande, avant de boire, avant de danser.
+
+Et au sommet de la nuit, si le tonnerre éclate sans qu’aucune tempête n’ait été annoncée… on dit que le dieu festoie avec eux.
+
+La Danse du Fracas, nommée aussi “Thaar’Grum” dans l’ancien dialecte barbare — la Secousse du Ciel est souvent pratiqué le matin ou avant un combat.
+
+Elle commence lentement :
+des poings qui frappent la poitrine,
+des pieds qui battent la terre,
+puis des cris courts, secs, jetés comme des flèches.
+
+HAI—BLAAISE!
+“VOIS-NOUS!”GRRRAAHH!
+“NOUS SOMMES LA TEMPÊTE!”KRANN-TOR!
+“NOUS AVANÇONS — NOUS DÉVORONS!”
+
+Le rythme monte, les corps s’animent comme pris par une transe furieuse. Des gestes larges, frappes de hache simulées, coups de corps contre boucliers. On simule des morsures, des coups de cor, des appels au ciel. Ce n’est pas une prière. C’est un défi lancé à Blaise lui-même. “Regarde-nous. Es-tu encore assez dieu pour nous suivre ?”
+
+Plus la danse est brutale, plus elle est honorée. Les vieillards disent que Blaise lui-même se penche parfois depuis son Hall du Fracas et que son rire se mêle au tonnerre si la transe est assez sincère.
 
 **Un dieu de guerre et d’instinct**
 
@@ -56,17 +100,36 @@ On raconte que Dhums n’était pas un dieu au départ. Il était l’ombre que 
 
 Il ne réclama ni temple ni chant. Il s’installa entre les derniers rayons du soleil et la première étoile, là où la lumière se meurt, là où l’âme hésite à partir.
 
-**Gardien de la Fin… et du Recommencement**
+**Rites et révérences**
+Lorsqu’un être cher meurt, les fidèles organisent une veillée. L’entourage se rassemble à la tombée du jour. Un tambour sacré est frappé une seule fois — à l’instant précis où le soleil touche l’horizon.
 
-Contrairement à d’autres divinités de la mort, Dhums n’est pas un bourreau, ni même un juge. Il est le seuil, le tambour qui bat à mesure qu’une vie touche à sa fin. Ses fidèles disent que lorsqu’un être meurt, un dernier battement de tambour résonne dans l’invisible, et l’âme sait alors vers où marcher.
+Ce battement symbolise le passage, l’instant suspendu entre deux mondes. Puis, plus aucun son n’est émis jusqu’à la nuit complète. On allume une lanterne couverte d’un tissu pour que sa lumière soit douce, et l’on médite sur la beauté du cycle.
 
-Autrefois, c’était Okomé qui guidait les âmes, mais il se lassa de leur tristesse et remit ce fardeau à Dhums, qui, avec une compassion distante, l’accepta sans un mot.
+Les Jours Crépusculaires
+
+Trois jours dans l’année sont dédiés à Dhums, appelés les Jours Crépusculaires. Durant ces jours :
+
+• Les prêtres peignent leur visage de cendres et de lumière dorée.
+• Les enseignements se font à voix basse, parfois par simple geste.
+• Les vivants écrivent une lettre aux morts, qu’ils brûlent ensuite dans un feu d’herbes aromatiques pour que le vent les porte jusqu’à Dhums.
+
+Durant la dernière nuit, on s’endort en demandant un rêve. Certains rêvent de ceux qu’ils ont perdus. D’autres rêvent de ceux qu’ils n’ont pas encore rencontrés.
+
+Les sanctuaires de Dhums sont intégrés dans la pierre ou le sol. Il ne veut pas qu’on le surélève. On grave son symbole — un tambour ou une faucille courbée — sur une pierre plate, souvent au pied d’un arbre mort ou dans l’allée d’un cimetière oublié. Quelques herbes sèches et une offrande de lait noir (mélange de lait et d’encre végétale) y sont laissées au crépuscule.
+
+Honorer Dhums, c’est marcher doucement, frôler l’invisible, ne pas fuir la fin, et surtout… ne jamais croire qu’une chose est vraiment finie.
 
 **Les Marches Silencieuses**
 
 Il existe une légende parmi les disciples de Dhums : les Marches Silencieuses. Chaque nuit de solstice, dans les landes ou les cimetières anciens, des prêtres drapés de cendre parcourent un cercle sacré en battant un tambour très lentement. Ceux qui entendent ce son dans leur sommeil rêvent de leurs morts, et parfois... en reviennent changés, portant des visions de l’avenir.
 
 Car Dhums n’est pas que la fin : il annonce aussi le renouveau. Le crépuscule n’est pas la nuit — c’est l’attente de l’aube.
+
+**Gardien de la Fin… et du Recommencement**
+
+Contrairement à d’autres divinités de la mort, Dhums n’est pas un bourreau, ni même un juge. Il est le seuil, le tambour qui bat à mesure qu’une vie touche à sa fin. Ses fidèles disent que lorsqu’un être meurt, un dernier battement de tambour résonne dans l’invisible, et l’âme sait alors vers où marcher.
+
+Autrefois, c’était Okomé qui guidait les âmes, mais il se lassa de leur tristesse et remit ce fardeau à Dhums, qui, avec une compassion distante, l’accepta sans un mot.
 
 **Alliances brumeuses**
 
@@ -83,6 +146,27 @@ Il n’a ni visage, ni voix. On le reconnaît à une sensation étrange : comme 
 Nul ne sait quand Loubert est né. Certains prétendent qu'il n’est pas une divinité comme les autres, mais un mensonge si ancien et si puissamment cru qu’il devint vrai. D’autres disent qu’il fut un dieu de la vérité, brisé par ses propres révélations, et qu’il se recousit avec les fils du mensonge.
 
 Dans les récits les plus anciens, il est tantôt un enfant rieur, tantôt une vieille femme aveugle, parfois une silhouette masquée dans la foule. On ne voit jamais Loubert deux fois de la même manière. On ne sait pas s’il est un, ou mille.
+
+**Rites et Révérences**
+Le culte de Loubert n’est pas homogène. Il change, mue, prend des formes différentes selon les lieux et les époques — tout comme lui. Il n’aime pas les prières figées. Il préfère les gestes qui doutent, les serments qui tremblent, les vérités dites à l’envers.
+
+Chez lui, chaque cérémonie est une énigme.
+
+Dans une taverne, un cercle de fidèles se réunit. Chaque participant offre un secret, un mensonge et une vérité. Les autres doivent deviner lequel est quoi. Si la vérité est bien cachée, Loubert accorde sa bénédiction — souvent invisible, mais bien réelle : une intuition affutée, un coup de chance, un mot bien placé.
+
+C’est ainsi que le dieu apprend à ses fidèles à danser dans le flou, et à cultiver le doute comme une arme.
+
+Ses sanctuaires ne sont jamais indiqués. Ce sont souvent des endroits doubles : une salle de théâtre souterraine, une arrière-boutique de cartomancie, une bibliothèque où certaines étagères n’existent que pour ceux qui y croient. Un miroir fissuré y trône toujours, encadré de textes à moitié lisibles, et sous ce miroir repose un livre sans titre, ouvert sur une page blanche.
+
+Certains disent qu’en y écrivant la même phrase deux fois avec une plume noire, le livre répond.
+
+**Le Jeu du Masque Muet**
+
+Lors de certaines lunes, les fidèles revêtent des masques blancs sans bouche. Ils errent dans les rues ou les bois, en silence, et cherchent un “symbole retourné” — un objet ordinaire placé à l’envers dans l’espace public. Celui qui le trouve reçoit une énigme, un défi, ou une prophétie — offerte par un autre fidèle resté dans l’ombre.
+
+C’est Loubert qui, à travers eux, murmure :
+
+“Celui qui croit savoir m’a déjà perdu. Celui qui cherche encore… me suit déjà.”
 
 **L’esprit derrière le voile**
 
@@ -112,6 +196,25 @@ Avant que les étoiles n’aient des noms, avant même que le temps ne coule, Ok
 
 Il est le plus ancien, non par autorité, mais par présence — une présence si vaste qu’elle se confond souvent avec le monde lui-même.
 
+**Rites et révérences**
+
+Aucun gong ne marque le début des cérémonies d’Okomé. Il n’y a pas de cloche, pas d’encens. Juste le souffle du vent, le craquement d’une branche, le frémissement de la mousse sous le pied nu. Car honorer Okomé, c’est se fondre dans ce qu’il est : le monde tel qu’il se tient sans témoin.
+
+Le Premier Silence
+
+Le rite le plus ancien consiste à se rendre seul dans un bois au lever du soleil et à y rester immobile, dos contre un arbre, jusqu’à ce qu’un animal sauvage se montre sans crainte.
+
+Cela peut durer une heure… ou une journée entière.
+
+Cette apparition est le signe qu’Okomé vous a vu, que vous n’êtes plus un intrus, mais une partie du monde vivant. C’est alors seulement qu’on peut commencer à lui parler.
+
+Pour faire une prière ou demander un signe, les fidèles déposent une feuille encore verte, cueillie avec gratitude, dans une eau vive (ruisseau, rivière, pluie tombée dans un creux). Ils y soufflent doucement un souhait, sans jamais prononcer un nom.
+
+Car Okomé n’aime pas être invoqué. Il préfère être invité.
+
+Il n’existe aucun temple d’Okomé. Son sanctuaire est le monde lui-même. Mais dans certaines vallées oubliées, on trouve des clairières circulaires bordées de pierres levées. Là, au centre, poussent parfois des arbres millénaires, qu’on dit avoir vu le dieu de leurs propres feuilles. On les appelle les Arbres qui Écoutent.
+
+
 **Un dieu qui cède et observe**
 
 Okomé est un dieu qui ne s’accroche pas. Il observa l’arrivée des autres dieux comme on regarde des arbres pousser autour d’un ruisseau. Il céda la mort à Dhums, la lumière à La Lumière blanche, la guerre à Blaise et Aed. Non par faiblesse, mais parce qu’il comprend que la nature change toujours.
@@ -140,6 +243,23 @@ Lorsque les premières sociétés prirent forme, que les clans cessèrent de se 
 
 Dans sa forme première, Runel est décrite comme une déesse d'acier incandescent, les yeux bandés pour juger sans préjugé, la main droite tendue en serment, la gauche tenant une lance forgée dans les premières lois gravées.
 
+**Rites et révérences**
+
+Avant d’endosser une responsabilité, qu’il s’agisse d’un mariage, d’un commandement ou d’un jugement, les fidèles se rendent à la Pierre du Fardeau, un bloc de fer ancien. Là, ils posent la main sur la pierre tiède et prononcent leur engagement à voix claire.
+
+L’eau est ensuite versée sur la pierre, et si la vapeur s’élève lentement et droit, cela signifie que le serment est sincère.
+
+Dans les temples de Runel, on conserve trois grandes plaques métalliques gravées d’enseignements vivants, appelées les Tablettes. Chaque jour, l’une des plaques est tournée, révélant une maxime, une règle ou un dilemme moral à méditer en silence.
+
+Les fidèles lisent sans commenter. Ce sont les pensées internes qui importent. Il n’y a pas de sermons bruyants chez Runel — seulement des lectures, des transcriptions et parfois des débats respectueux dans la salle basse.
+
+Les temples de runel sont sobres, mais solides. Érigés avec les matériaux du lieu, les temples de Runel sont aussi tribunaux, bibliothèques et refuges. Un marteau symbolique repose au centre de chaque salle, et les plus anciens prêtres marchent avec une balance vide suspendue à leur ceinture, pour rappeler que chaque décision mérite d’être pesée.
+
+Nul ne crie dans ces murs. Même les accusations se font en posture droite, voix posée, et les vérités les plus dures sont prononcées en regardant droit devant.
+
+Entrer dans le culte de Runel, c’est accepter qu’on ne sera jamais parfait. Mais qu’on doit, chaque jour, chercher à être plus juste qu’hier.
+
+
 **La Paix par la Structure**
 
 Contrairement à Aed, sa cadette au sang plus vif, Runel n’impose pas l’ordre par la guerre. Elle l’édifie. Elle est l’architecte invisible des contrats, des serments, des traditions. Son influence se mesure moins en miracles qu’en équilibres durables, cités bien ordonnées, et alliances solides. Là où règne le chaos, elle forge des codes. Là où les voix s’élèvent, elle propose le débat.
@@ -160,6 +280,7 @@ Partout, elle incarne la stabilité dans la diversité, et sa parole est aussi s
 Tous les royaumes célèbrent le solstice d’hiver en son honneur. Cette fête, loin d’être froide, est dédiée à la générosité, au pardon et aux serments renouvelés. On y offre des cadeaux, pas seulement pour faire plaisir, mais pour réaffirmer des liens. Des enfants récitent des lois anciennes autour d’un feu, tandis que les sages racontent les anciens pactes.
 
 Ceux qui trahissent un serment pendant cette nuit… entendent, dit-on, la résonance froide du marteau de Runel dans leurs rêves.
+
 
 **Liens divins**
 
@@ -190,6 +311,16 @@ L’amour entre Sheilia et Okomé est considéré comme la première union sacr�
 
 Ils ne se parlaient pas souvent : leurs gestes suffisaient. Elle tressait des couronnes de lierre pour ses bois. Il faisait pleuvoir la nuit pour nourrir ses jardins. Leur amour faisait battre le cœur du monde.
 
+**La découverte de Sheilia**
+
+La naissance de Sheilia est plutôt abstraite. Elle-même ignore probablement comment elle est née. Cependant, Sheilia fut découverte par les mortels alors qu’ils affrontaient une menace jusqu’alors inconnue. Des êtres venant probablement d’un autre monde ou un autre plan. Les civilisations étaient à leurs débuts et les clans survivent difficilement durant cette époque. Puis, un jour, alors que tout semblait perdu, une géante leur apparut, leur apportant sa parole, mais surtout l’espoir. “Car je suis Sheilia, je suis le Jour et la Nuit, la Naissance et la Mort, je suis celle qui est là pour vous au début de votre existence et qui vous embrasse une dernière fois à votre trépas. Je suis là pour vous.” Et sur ces paroles, le clan fuyant les envahisseurs se prosterna et devint les premiers disciples de Sheilia.
+
+**Les anciens cultes**
+
+Puisque le culte de Sheilia est partie de base plus primitive et que celle-ci marchait parmi les siens, sa présence inspira grandement les premiers disciples. Ceux-ci était très fervent, voir zélote. Ils désiraient offrir le monde à leur déesse. Cependant, plusieurs n’étaient pas d’accord sur la manière de la vénérer. Après tout, Sheilia est une déesse complexe possédant deux facettes. Il est alors un défis d’équilibrer les deux facettes et facile de faire du zèle d’un côté comme de l'autre.
+
+Plusieurs des premiers rites étaient près du tribalisme, du cycle de la vie et de la mort, ce qui fit vite un lien avec la nature d’Okomé. C’est probablement de là que débute leur idylle, une ressemblance tout en ayant des différences notables. Là où Okomé était distant et prêchait une intervention discrète envers la nature et le grand cycle de la vie, Sheilia était présente à chaque moment, célébrant les naissances, mais aussi chaque mort comme une nouvelle étape. Elle était le rempart des humanoïdes face aux dangers de la vie, principalement les Hommes, pour qui la vie était courte, mais intense. Ils savaient que du début à la fin, leur déesse était présente pour elle.
+
 **Une puissance troublante**
 
 Mais voilà : plus elle aimait, plus elle grandissait. Et en elle croissaient deux forces : celle de la fécondité… et celle du passage. Car tout ce qui naît doit mourir, et Sheilia, dans sa divinité totale, comprenait les deux. Elle guidait les âmes et les nouveau-nés avec la même tendresse. Et plus son culte grandissait, plus ses disciples se divisaient.
@@ -205,17 +336,6 @@ C’est ce moment de pure puissance, de beauté totale et de fragilité naissant
 
 Et ainsi commença l’œuvre de l’oubli…
 
-**La découverte de Sheilia**
-
-La naissance de Sheilia est plutôt abstraite. Elle-même ignore probablement comment elle est née. Cependant, Sheilia fut découverte par les mortels alors qu’ils affrontaient une menace jusqu’alors inconnue. Des êtres venant probablement d’un autre monde ou un autre plan. Les civilisations étaient à leurs débuts et les clans survivent difficilement durant cette époque. Puis, un jour, alors que tout semblait perdu, une géante leur apparut, leur apportant sa parole, mais surtout l’espoir. “Car je suis Sheilia, je suis le Jour et la Nuit, la Naissance et la Mort, je suis celle qui est là pour vous au début de votre existence et qui vous embrasse une dernière fois à votre trépas. Je suis là pour vous.” Et sur ces paroles, le clan fuyant les envahisseurs se prosterna et devint les premiers disciples de Sheilia.
-
-**Les anciens cultes**
-
-Puisque le culte de Sheilia est partie de base plus primitive et que celle-ci marchait parmi les siens, sa présence inspira grandement les premiers disciples. Ceux-ci était très fervent, voir zélote. Ils désiraient offrir le monde à leur déesse. Cependant, plusieurs n’étaient pas d’accord sur la manière de la vénérer. Après tout, Sheilia est une déesse complexe possédant deux facettes. Il est alors un défis d’équilibrer les deux facettes et facile de faire du zèle d’un côté comme de l'autre.
-
-Plusieurs des premiers rites étaient près du tribalisme, du cycle de la vie et de la mort, ce qui fit vite un lien avec la nature d’Okomé. C’est probablement de là que débute leur idylle, une ressemblance tout en ayant des différences notables. Là où Okomé était distant et prêchait une intervention discrète envers la nature et le grand cycle de la vie, Sheilia était présente à chaque moment, célébrant les naissances, mais aussi chaque mort comme une nouvelle étape. Elle était le rempart des humanoïdes face aux dangers de la vie, principalement les Hommes, pour qui la vie était courte, mais intense. Ils savaient que du début à la fin, leur déesse était présente pour elle.
-
-
 ## Le/La Voyageur(se), l’Innommé(e)
 -![|100](/Images/Voyageurse.png)
 - **Titres divins :** Le Marcheur Sans Visage, L’Artisan des Routes, L’Ennemi des Destins Écrits 
@@ -225,6 +345,40 @@ Plusieurs des premiers rites étaient près du tribalisme, du cycle de la vie et
 Personne ne connaît vraiment son origine. Contrairement aux autres dieux, Le/La Voyageur(se) n’est pas né(e) d’un élément, d’un besoin ou d’un cri du monde… mais d’un désir. Un désir de mouvement. D’échappée. De savoir ce qu’il y a après l’horizon.
 
 Certaines légendes disent qu’il ou elle serait un ancien mortel qui, ayant refusé toutes les vérités et refusé tous les dieux, marcha si loin dans l’inconnu qu’il ou elle devint… l’inconnu. D'autres affirment qu’il/elle était là à chaque carrefour oublié, à chaque croisée où une vie a changé de direction, témoin invisible des choix impossibles.
+
+**Rites et Révérences**
+
+Ce dieu (ou cette déesse, ou cette absence) ne réclame ni temples, ni statues. On ne le prie pas dans des sanctuaires, on l’invoque en marchant, en se perdant, en doutant. Car pour lui rendre hommage, il faut accepter de ne pas savoir. Ce culte est un chemin, pas une destination.
+
+C’est le premier rite qu’accomplit tout futur disciple. Le fidèle quitte volontairement un lieu familier — une maison, une ville, une idée fixe — sans carte, sans plan, sans question. Il marche jusqu’à trouver un carrefour à trois branches et choisit la direction qui l’effraie le plus.
+
+S’il revient un jour, il aura changé. Et c’est cela, l’offrande.
+
+
+Une fois l’an, sous la pleine lune du dernier mois, les fidèles partagent un seul mensonge utile — quelque chose qu’ils ont caché pour protéger, guérir ou guider. Ce récit est raconté lors d’un feu discret ou chuchoté à un inconnu au hasard. Puis, en retour, ils doivent avouer une vérité qu’ils n’ont jamais dite.
+
+Ce rite enseigne que la vérité seule ne sauve pas, mais que l’intention derrière le voile est sacrée.
+
+Le Sac du Pèlerin
+
+Les disciples avancés portent un petit sac contenant :
+
+• Un objet trouvé (pour rappeler le hasard),
+• Un objet perdu (que l’on garde pour se souvenir),
+• Et un objet inutile (pour défier l’attachement).
+
+
+Lors de certains équinoxes, on vide ce sac devant un feu, et on décide lequel des trois mérite de rester. C’est ainsi que le Voyageur enseigne à ne rien posséder sans raison.
+
+Il n’y a pas de temple à son nom, mais ses fidèles créent des balises secrètes :
+
+• Une flèche peinte à l’envers sous un pont,
+• Un galet creusé d’un cercle en spirale,
+- et surtout une paire de botte laisser devant leurs portes. 
+
+“Le Voyageur ne bénit pas ceux qui vont dans la bonne direction,
+mais ceux qui continuent d’avancer lorsque les directions s’effacent.”
+
 
 **Un dieu du détour et de l’éveil**
 
@@ -249,6 +403,24 @@ Il/elle échange parfois des énigmes avec Waltz, murmure dans les rêves de Dhu
 On dit que Waltz était un simple mortel au départ — un mage solitaire obsédé par les lois invisibles qui régissent la réalité. Il passait ses jours dans des tours de marbre et ses nuits dans les catacombes, interrogeant les morts comme les étoiles. Plus il étudiait, plus le monde se fissurait autour de lui. Jusqu’au jour où, dans un acte ultime d’abandon et de compréhension, il se sacrifia lui-même dans un rituel interdit, brisant la frontière entre savoir et divinité.
 
 Il n’ascendit pas : il s’ouvrit. Et l’univers dut s’adapter.
+
+**Rites et révérences**
+
+Dans les temples-laboratoires de Waltz — lieux souvent dissimulés dans des bibliothèques cycliques ou des tours sans escaliers — les disciples doivent résoudre une énigme personnelle pour avancer dans leur formation.
+
+Ces énigmes ne sont jamais données par un maître. Elles apparaissent dans les rêves, ou à travers des phrases répétées dans les grimoires. Parfois même dans les erreurs d’un sort. Le rite se termine lorsque le fidèle réalise que l’énigme n’était pas à résoudre… mais à poser.
+
+Il existe des ermites nommés les Voilés, qui marchent entre les Royaumes, masqués, vêtu de gris, portant sur eux un unique livre qu’ils écrivent à l’envers. Il sont accompagné de caravane gitanes, les caravanes des brumes. C'est eut qui facilitent les voyages entre les brûmes des royaumes, permettant le commerce de ce développer plus facilement entre eux.
+
+Nul ne sait combien ils sont. Certains pensent qu’ils ne sont qu’un seul, répliqué par Waltz. D’autres disent qu’il s’agit de morceaux vivants de son esprit.
+
+Lors de la lune sans nom (celle qui n’apparaît sur aucun calendrier), les fidèles de Waltz se réunissent autour d’un grimoire vide. Chacun y inscrit une question qu’il ne souhaite pas résoudre. La page est ensuite scellée.
+
+À la fin de l’année, ils rouvrent le livre. Certaines pages sont devenues illisibles. D’autres contiennent des réponses qu’aucun ne se souvient avoir écrites. On dit que Waltz écrit parfois dans la marge, avec une plume faite de peur et de rire.
+
+Il n’y a pas deux sanctuaires de Waltz semblables. Certains sont des amphithéâtres abandonnés où l’on chuchote à l’envers. D’autres sont bâtis au milieu des brumes, accessibles seulement en dormant près d’un miroir.
+
+Tous comportent un œil ouvert gravé dans un grimoire, et un banc où nul n’a le droit de s’asseoir avant d’avoir douté sincèrement trois fois.
 
 **Le Savoir comme enchantement**
 
