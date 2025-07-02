@@ -1,5 +1,5 @@
 ## Aed, le bouclier pourpre
--![](/Images/Aed.png)
+-![|300](/Images/Aed.png)
 - **Titre divin :** L’Enclume du Destin, La Dame au Bouclier Pourpre 
 - **Domaines :** Forge, Guerre, Ordre, Stratégie 
 - **Signe sacré :** Un bouclier pourpre frappé d’un éclair d’argent
