@@ -59,14 +59,14 @@ Et au sommet de la nuit, si le tonnerre éclate sans qu’aucune tempête n’ai
 La Danse du Fracas, nommée aussi “Thaar’Grum” dans l’ancien dialecte barbare — la Secousse du Ciel est souvent pratiqué le matin ou avant un combat.
 
 Elle commence lentement :
-des poings qui frappent la poitrine,
-des pieds qui battent la terre,
-puis des cris courts, secs, jetés comme des flèches.
+- des poings qui frappent la poitrine,
+- des pieds qui battent la terre,
+- puis des cris courts, secs, jetés comme des flèches.
 
-HAI—BLAAISE!
-“VOIS-NOUS!”GRRRAAHH!
-“NOUS SOMMES LA TEMPÊTE!”KRANN-TOR!
-“NOUS AVANÇONS — NOUS DÉVORONS!”
+- HAI—BLAAISE!
+- “VOIS-NOUS!”GRRRAAHH!
+- “NOUS SOMMES LA TEMPÊTE!”KRANN-TOR!
+- “NOUS AVANÇONS — NOUS DÉVORONS!”
 
 Le rythme monte, les corps s’animent comme pris par une transe furieuse. Des gestes larges, frappes de hache simulées, coups de corps contre boucliers. On simule des morsures, des coups de cor, des appels au ciel. Ce n’est pas une prière. C’est un défi lancé à Blaise lui-même. “Regarde-nous. Es-tu encore assez dieu pour nous suivre ?”
 
