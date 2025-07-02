@@ -1,5 +1,5 @@
 ## Aed, le bouclier pourpre
--![|300](/Images/Aed.png)
+-![|100](/Images/Aed.png)
 - **Titre divin :** L’Enclume du Destin, La Dame au Bouclier Pourpre 
 - **Domaines :** Forge, Guerre, Ordre, Stratégie 
 - **Signe sacré :** Un bouclier pourpre frappé d’un éclair d’argent
@@ -19,7 +19,7 @@ Elle est la sœur cadette de Runel, mais leurs liens sont teintés d’ambivalen
 Elle méprise la ruse de Loubert, respecte la vigueur brutale de Blaise, et trouve en Waltz un rival fascinant — car la connaissance, selon elle, n’a de valeur que lorsqu’elle sert un dessein.
 
 ## Blaise, le Tonnerre Rouge
--![](/Images/Blaise.png)
+-![|100](/Images/Blaise.png)
 - **Titres divins :** Le Rugissant, Seigneur du Fracas, Le Maître du Festin Éternel 
 - **Domaines :** Tempêtes, Guerre, Mort, Nature 
 - **Signe sacré :** Une hache de bronze au fil fendu ou un cor brisé
@@ -42,7 +42,7 @@ Il méprise Loubert et ses détours rusés — "Un combat évité est une honte 
 Même Dhums, pourtant calme et crépusculaire, respecte Blaise : car derrière sa fureur se cache l’acceptation intime de la mort — non pas avec peur, mais avec le rire d’un guerrier tombé la hache levée.
 
 ## Dhums, le Tambour du Crépuscule
--![](/Images/Dhums.png)
+-![|100](/Images/Dhums.png)
 - **Titres divins :** Le Dernier Souffle, Le Veilleur de la Tombe, Le Sculpteur d’Ombres 
 - **Domaines :** Mort, Cimetières, Crépuscule, Prophéties 
 - **Symboles :** Une faucille incurvée / Un tambour noir aux runes changeantes
