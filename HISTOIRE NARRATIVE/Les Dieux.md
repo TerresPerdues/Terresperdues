@@ -67,7 +67,7 @@ Il respecte Aed, car elle forge autant qu’elle détruit. Il partage un respect
 Il n’a ni visage, ni voix. On le reconnaît à une sensation étrange : comme si le vent s’arrêtait un instant pour écouter.
 
 ## Loubert, le Miroir Fendu
--![](/Images/Loubert.png)
+-![|100](/Images/Loubert.png)
 **Titres divins :** Le Changeforme, L'Architecte de l'Ombre, Le Marchand du Destin 
 **Domaines :** Supercherie, Arcane, Guerre 
 **Symboles :** Une pièce à deux faces / Un doigt sur des lèvres / Un masque fendu
@@ -92,7 +92,7 @@ Loubert méprise la rigidité d’Aed et rit des foudres de Blaise. Il admire Dh
 Son alliance avec Le Voyageur/La Voyageuse est trouble : on murmure qu’ils ne sont peut-être que deux facettes d’un même esprit… ou rivaux jouant une partie d’échecs cosmique dont personne ne connaît les règles.
 
 ## Okomé, le Cerf aux Quatre Yeux
--![](/Images/Okomé.png)
+-![|100](/Images/Okomé.png)
 - **Titres divins :** Le Premier Souffle, L’Esprit Sylvestre, Le Veilleur aux Bois Muets 
 - **Domaines :** Nature, Vie, Tempêtes, Lumière 
 - **Symboles :** Un cerf blanc à deux panaches / Une empreinte de feuille incrustée de lumière
@@ -117,7 +117,7 @@ Il n’existe aucun temple en son nom. Ses sanctuaires sont les clairières, les
 Des lignées anciennes racontent que ses premiers disciples furent des créatures hybrides, ni bêtes ni hommes, plus insecte ou fée qu’on nomme les Sylves. Ils murmurent au vent et gardent les savoirs oubliés de la terre. On les entend parfois… mais on ne les voit jamais deux fois.
 
 ## Runel, la Lance de Justice
--![](/Images/Runel.png)
+-![|100](/Images/Runel.png)
 - **Titres divins :** La Forgeronne des Lois, L’Œil Bandé, La Paix Armée 
 - **Domaines :** Ordre, Forge, Lumière, Paix 
 - **Symboles :** Une lance dressée / Un marteau sur une balance / Une étoile à six pointes
@@ -148,7 +148,7 @@ Ceux qui trahissent un serment pendant cette nuit… entendent, dit-on, la réso
 Runel considère Aed comme une guerrière nécessaire mais trop empressée. Elle voit en Dhums un miroir sombre mais honnête, et elle admire le calme d’Okomé, bien qu’ils œuvrent différemment. Elle méprise Loubert, non pour sa ruse, mais pour sa façon de détruire la confiance. Quant à La Lumière blanche, elles forment une alliance sacrée, toutes deux portant l’espérance de paix.
 
 ## Sheilia, l’Éternelle Floraison
--![](/Images/LumiereBlanche.png)
+-![|100](/Images/LumiereBlanche.png)
 - **Époque :** période mythique précédant la Guerre des Dieux et après la guerre des brumes rouges.
 - **Titres Divins:** La Mère des Équilibres, Le Cœur Partagé, L’Oubliée Lumineuse
 - **Domaines :** Lumière, Nature, Vie, Mort
@@ -192,7 +192,7 @@ Plusieurs des premiers rites étaient près du tribalisme, du cycle de la vie et
 
 
 ## Le/La Voyageur(se), l’Innommé(e)
--![](/Images/Voyageurse.png)
+-![|100](/Images/Voyageurse.png)
 - **Titres divins :** Le Marcheur Sans Visage, L’Artisan des Routes, L’Ennemi des Destins Écrits 
 - **Domaines :** Crépuscule, Supercheries, Connaissance 
 - **Symboles :** Une paire de bottes usées / Une cagoule / Un sentier en spirale
@@ -214,7 +214,7 @@ Il ou elle s’oppose donc aux dogmes rigides de Runel, à la lumière absolue d
 Il/elle échange parfois des énigmes avec Waltz, murmure dans les rêves de Dhums, et pose des pièges à Blaise juste pour voir s’il les brisera.
 
 ## Waltz, l’Œil Éveillé
--![](/Images/Waltz.png)
+-![|100](/Images/Waltz.png)
 - **Titres divins :** L’Artisan de l’Éveil, Le Bibliothécaire Transcendant, Le Danseur des Ténèbres 
 - **Domaines :** Arcane, Connaissance, Cimetières, Supercherie 
 - **Symboles :** Un œil blanc ouvert / Une plume noire / Un grimoire scellé
@@ -241,7 +241,8 @@ Waltz échange volontiers avec Le/La Voyageur(se), car leurs chemins se croisent
 Il admire Runel pour son architecture mentale, mais estime que ses lois doivent parfois être transcendées. Avec Aed, il entretient un respect martial : "Elle bat le métal, moi l’esprit."
 
 ## La Lumière blanche
--![](/Images/LumiereBlanche.png)
+-![|100](/Images/LumiereBlanche.png)
+- **Époque :** Entre la guerre des dieux et l'éveil de Sheilia
 - **Titres divins :** L’Éclat Pur, Le Chemin Silencieux, Le Flambeau Réveillé 
 - **Domaines :** Lumière, Vie, Paix, Arcane 
 - **Symboles :** Un cercle de lumière / Une flamme blanche dans une main ouverte / Un œil rayonnant sans pupille
