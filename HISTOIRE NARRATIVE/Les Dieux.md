@@ -181,14 +181,59 @@ Ses fidèles ne font pas de prêches : ils posent des énigmes. Ils ne bâtissen
 ### L’Éveil et ses conséquences
 L’Éveil, ce fameux moment où Waltz se divinisa, fut un bouleversement pour les royaumes : une déferlante d’énergie magique s’échappa dans le monde. Des objets devinrent conscients. Des morts se souvinrent. Des enfants virent les pensées des autres. Depuis, la magie n’est plus un art secret — elle est un langage vivant qui imprègne les choses.
 
-Et ainsi naquirent les Brumes d’Or — un voile vivant, mouvant, qui sépare le monde des royaumes extérieurs. Elles protègent, elles guident, elles désorientent les intrus. Seuls ceux qui rêvent en rythme avec le monde peuvent les traverser. On dit même que Waltz a lié sa propre essence à la Brume : c’est son souffle que l’on sent quand elle s’élève.
+Et ainsi naquirent les Brumes de Waltz — un voile vivant, mouvant, qui sépare le monde des royaumes extérieurs. Elles protègent, elles guident, elles désorientent les intrus. Seuls ceux qui rêvent en rythme avec le monde peuvent les traverser. On dit même que Waltz a lié sa propre essence à la Brume : c’est son souffle que l’on sent quand elle s’élève.
 
 ### Réseaux de savoir et liens divins
 Waltz échange volontiers avec Le/La Voyageur(se), car leurs chemins se croisent souvent là où naît la vérité. Il partage avec Dhums une fascination tranquille pour l’impermanence, mais considère Loubert avec méfiance — non parce qu’il ment, mais parce qu’il ment sans but.
 
 Il admire Runel pour son architecture mentale, mais estime que ses lois doivent parfois être transcendées. Avec Aed, il entretient un respect martial : "Elle bat le métal, moi l’esprit."
 
-## Sheilla - La Lumière blanche
+## Sheilia, l’Éternelle Floraison
+
+- **Époque :** période mythique précédant la Guerre des Dieux et après la guerre des brumes rouges.
+- **Titres Divins:** La Mère des Équilibres, Le Cœur Partagé, L’Oubliée Lumineuse
+- **Domaines :** Lumière, Nature, Vie, Mort
+- **Symboles :** Une fleur entrelacée d’un crâne / Un rayon de lune caressant une tombe
+
+### Lorsque Sheilia marchait parmi les vivants
+À l’apogée de sa puissance, Sheilia était un miracle incarné. Les récoltes poussaient là où elle posait les pieds, les femmes enceintes chantaient en son nom, et les mourants partaient sans peur lorsqu’elle se penchait sur eux. Elle n’était pas adorée, elle était aimée. Elle participait aux mariages, aux moissons, aux crémations. Chaque étape d’une vie avait sa bénédiction.
+
+Elle vivait dans le Jardin au Bord du Monde, une vallée où les saisons dansaient selon son humeur, où la brume d’Okomé venait caresser les feuilles au lever du jour.
+
+### Rites et Révérences
+Les rares adorateurs de Sheilia honorent son équilibre fragile par des bains de lumière naturelle, au lever ou au coucher du soleil, accompagnés de prières murmurées à voix égale entre gratitude et adieu. Certains affirment sentir sa présence à la fin de ces rituels, comme une caresse douce et indécise.
+
+Ses anciens cultes célébraient la vie par le don, et la mort par la restitution au sol. On peignait le corps des défunts de motifs floraux et lunaires, puis on les offrait à la terre, en silence.
+
+### La danse d’Okomé et Sheilia
+L’amour entre Sheilia et Okomé est considéré comme la première union sacrée du panthéon. Elle, rayonnante, impulsive, chaleureuse. Lui, silencieux, attentif, enraciné dans l’éternité. Ils formaient un équilibre presque parfait. On dit que les tempêtes d’Okomé faisaient plier les branches juste assez pour que Sheilia y fasse naître les fleurs.
+
+Ils ne se parlaient pas souvent : leurs gestes suffisaient. Elle tressait des couronnes de lierre pour ses bois. Il faisait pleuvoir la nuit pour nourrir ses jardins. Leur amour faisait battre le cœur du monde.
+
+### Une puissance troublante
+Mais voilà : plus elle aimait, plus elle grandissait. Et en elle croissaient deux forces : celle de la fécondité… et celle du passage. Car tout ce qui naît doit mourir, et Sheilia, dans sa divinité totale, comprenait les deux. Elle guidait les âmes et les nouveau-nés avec la même tendresse. Et plus son culte grandissait, plus ses disciples se divisaient.
+
+Certains n’adoraient que la vie. D’autres, que la mort. Et chaque extrême se nourrissait d’elle, renforçant sa dualité… et sa désorientation.
+
+### La prophétie des Pétales Fanés
+Dans les textes anciens, on parle d’un oracle oublié :
+“Le jour où Sheilia hésitera entre l’aube et le crépuscule, les dieux craindront sa lumière. Et ce jour-là, on lui volera la mémoire pour qu’elle cesse de grandir.”
+
+C’est ce moment de pure puissance, de beauté totale et de fragilité naissante, que Waltz et Loubert redoutaient. Car une divinité capable de donner et reprendre le souffle même de l’existence, sans suivre leurs règles, menaçait l’équilibre qu’ils avaient établi.
+
+Et ainsi commença l’œuvre de l’oubli…
+
+### La découverte de Sheilia
+La naissance de Sheilia est plutôt abstraite. Elle-même ignore probablement comment elle est née. Cependant, Sheilia fut découverte par les mortels alors qu’ils affrontaient une menace jusqu’alors inconnue. Des êtres venant probablement d’un autre monde ou un autre plan. Les civilisations étaient à leurs débuts et les clans survivent difficilement durant cette époque. Puis, un jour, alors que tout semblait perdu, une géante leur apparut, leur apportant sa parole, mais surtout l’espoir. “Car je suis Sheilia, je suis le Jour et la Nuit, la Naissance et la Mort, je suis celle qui est là pour vous au début de votre existence et qui vous embrasse une dernière fois à votre trépas. Je suis là pour vous.” Et sur ces paroles, le clan fuyant les envahisseurs se prosterna et devint les premiers disciples de Sheilia.
+
+### Les anciens cultes
+Puisque le culte de Sheilia est partie de base plus primitive et que celle-ci marchait parmi les siens, sa présence inspira grandement les premiers disciples. Ceux-ci était très fervent, voir zélote. Ils désiraient offrir le monde à leur déesse. Cependant, plusieurs n’étaient pas d’accord sur la manière de la vénérer. Après tout, Sheilia est une déesse complexe possédant deux facettes. Il est alors un défis d’équilibrer les deux facettes et facile de faire du zèle d’un côté comme de l'autre.
+
+Plusieurs des premiers rites étaient près du tribalisme, du cycle de la vie et de la mort, ce qui fit vite un lien avec la nature d’Okomé. C’est probablement de là que débute leur idylle, une ressemblance tout en ayant des différences notables. Là où Okomé était distant et prêchait une intervention discrète envers la nature et le grand cycle de la vie, Sheilia était présente à chaque moment, célébrant les naissances, mais aussi chaque mort comme une nouvelle étape. Elle était le rempart des humanoïdes face aux dangers de la vie, principalement les Hommes, pour qui la vie était courte, mais intense. Ils savaient que du début à la fin, leur déesse était présente pour elle.
+
+
+
+## La Lumière blanche
 - **Titres divins :** L’Éclat Pur, Le Chemin Silencieux, Le Flambeau Réveillé 
 - **Domaines :** Lumière, Vie, Paix, Arcane 
 - **Symboles :** Un cercle de lumière / Une flamme blanche dans une main ouverte / Un œil rayonnant sans pupille
