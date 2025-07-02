@@ -147,55 +147,8 @@ Ceux qui trahissent un serment pendant cette nuit… entendent, dit-on, la réso
 ### Liens divins
 Runel considère Aed comme une guerrière nécessaire mais trop empressée. Elle voit en Dhums un miroir sombre mais honnête, et elle admire le calme d’Okomé, bien qu’ils œuvrent différemment. Elle méprise Loubert, non pour sa ruse, mais pour sa façon de détruire la confiance. Quant à La Lumière blanche, elles forment une alliance sacrée, toutes deux portant l’espérance de paix.
 
-## Le/La Voyageur(se), l’Innommé(e)
-- **Titres divins :** Le Marcheur Sans Visage, L’Artisan des Routes, L’Ennemi des Destins Écrits 
-- **Domaines :** Crépuscule, Supercheries, Connaissance 
-- **Symboles :** Une paire de bottes usées / Une cagoule / Un sentier en spirale
-
-Personne ne connaît vraiment son origine. Contrairement aux autres dieux, Le/La Voyageur(se) n’est pas né(e) d’un élément, d’un besoin ou d’un cri du monde… mais d’un désir. Un désir de mouvement. D’échappée. De savoir ce qu’il y a après l’horizon.
-
-Certaines légendes disent qu’il ou elle serait un ancien mortel qui, ayant refusé toutes les vérités et refusé tous les dieux, marcha si loin dans l’inconnu qu’il ou elle devint… l’inconnu. D'autres affirment qu’il/elle était là à chaque carrefour oublié, à chaque croisée où une vie a changé de direction, témoin invisible des choix impossibles.
-
-### Un dieu du détour et de l’éveil
-Il ou elle ne promet rien. N’offre ni miracles, ni récompense. Ce dieu marche, observe, chuchote aux âmes qui doutent. Ses paroles sont rarement directes. Ce sont des signes : le vent qui pousse une feuille vers la gauche, une pièce de monnaie trouvée face cachée, un inconnu qui vous regarde une seconde de trop.
-
-Ses disciples sont des pèlerins du hasard, des marchands désabusés, des bardes errants, des voleurs à la morale étrange. Ils n’ont pas de temple, mais chaque pont, chaque carrefour, chaque auberge est un autel potentiel. Ils laissent de petits cailloux alignés, des phrases à double sens gravées dans le bois ou des offrandes d’objets trouvés.
-
-### Doctrine : le flou sacré
-Le/La Voyageur(se) prêche le doute fécond : il ou elle déteste les certitudes rigides. Son culte enseigne qu’aucune vérité ne vaut sans remise en question. Que parfois, mentir permet de sauver, et que toute route peut devenir sacrée si elle est foulée avec conscience.
-
-Il ou elle s’oppose donc aux dogmes rigides de Runel, à la lumière absolue de La Lumière blanche, mais partage une affinité troublante avec Loubert, au point que certains pensent qu’ils seraient deux noms pour le même esprit… ou deux joueurs d’un même jeu cosmique.
-
-Il/elle échange parfois des énigmes avec Waltz, murmure dans les rêves de Dhums, et pose des pièges à Blaise juste pour voir s’il les brisera.
-
-## Waltz, l’Œil Éveillé
-- **Titres divins :** L’Artisan de l’Éveil, Le Bibliothécaire Transcendant, Le Danseur des Ténèbres 
-- **Domaines :** Arcane, Connaissance, Cimetières, Supercherie 
-- **Symboles :** Un œil blanc ouvert / Une plume noire / Un grimoire scellé
-
-On dit que Waltz était un simple mortel au départ — un mage solitaire obsédé par les lois invisibles qui régissent la réalité. Il passait ses jours dans des tours de marbre et ses nuits dans les catacombes, interrogeant les morts comme les étoiles. Plus il étudiait, plus le monde se fissurait autour de lui. Jusqu’au jour où, dans un acte ultime d’abandon et de compréhension, il se sacrifia lui-même dans un rituel interdit, brisant la frontière entre savoir et divinité.
-
-Il n’ascendit pas : il s’ouvrit. Et l’univers dut s’adapter.
-
-### Le Savoir comme enchantement
-Waltz est l’incarnation du savoir dangereux, du "je sais que je ne devrais pas savoir, mais je veux savoir quand même." Il inspire à la fois les chercheurs, les sorciers, les nécromanciens raffinés et les illusionnistes en quête d’un savoir qui leur échappe toujours un peu plus.
-
-Il ne méprise ni le mensonge, ni la lumière, ni la mort. Il observe. Il comprend. Et il transforme. Il est l’un des rares dieux à rire dans les tombes et à pleurer dans les bibliothèques.
-
-Ses fidèles ne font pas de prêches : ils posent des énigmes. Ils ne bâtissent pas de temples : ils creusent des archives. Leur foi est une étude, leur culte, une expérimentation.
-
-### L’Éveil et ses conséquences
-L’Éveil, ce fameux moment où Waltz se divinisa, fut un bouleversement pour les royaumes : une déferlante d’énergie magique s’échappa dans le monde. Des objets devinrent conscients. Des morts se souvinrent. Des enfants virent les pensées des autres. Depuis, la magie n’est plus un art secret — elle est un langage vivant qui imprègne les choses.
-
-Et ainsi naquirent les Brumes de Waltz — un voile vivant, mouvant, qui sépare le monde des royaumes extérieurs. Elles protègent, elles guident, elles désorientent les intrus. Seuls ceux qui rêvent en rythme avec le monde peuvent les traverser. On dit même que Waltz a lié sa propre essence à la Brume : c’est son souffle que l’on sent quand elle s’élève.
-
-### Réseaux de savoir et liens divins
-Waltz échange volontiers avec Le/La Voyageur(se), car leurs chemins se croisent souvent là où naît la vérité. Il partage avec Dhums une fascination tranquille pour l’impermanence, mais considère Loubert avec méfiance — non parce qu’il ment, mais parce qu’il ment sans but.
-
-Il admire Runel pour son architecture mentale, mais estime que ses lois doivent parfois être transcendées. Avec Aed, il entretient un respect martial : "Elle bat le métal, moi l’esprit."
-
 ## Sheilia, l’Éternelle Floraison
-
+-![](/Images/LumiereBlanche.png)
 - **Époque :** période mythique précédant la Guerre des Dieux et après la guerre des brumes rouges.
 - **Titres Divins:** La Mère des Équilibres, Le Cœur Partagé, L’Oubliée Lumineuse
 - **Domaines :** Lumière, Nature, Vie, Mort
@@ -238,8 +191,57 @@ Puisque le culte de Sheilia est partie de base plus primitive et que celle-ci ma
 Plusieurs des premiers rites étaient près du tribalisme, du cycle de la vie et de la mort, ce qui fit vite un lien avec la nature d’Okomé. C’est probablement de là que débute leur idylle, une ressemblance tout en ayant des différences notables. Là où Okomé était distant et prêchait une intervention discrète envers la nature et le grand cycle de la vie, Sheilia était présente à chaque moment, célébrant les naissances, mais aussi chaque mort comme une nouvelle étape. Elle était le rempart des humanoïdes face aux dangers de la vie, principalement les Hommes, pour qui la vie était courte, mais intense. Ils savaient que du début à la fin, leur déesse était présente pour elle.
 
 
+## Le/La Voyageur(se), l’Innommé(e)
+-![](/Images/Voyageurse.png)
+- **Titres divins :** Le Marcheur Sans Visage, L’Artisan des Routes, L’Ennemi des Destins Écrits 
+- **Domaines :** Crépuscule, Supercheries, Connaissance 
+- **Symboles :** Une paire de bottes usées / Une cagoule / Un sentier en spirale
+
+Personne ne connaît vraiment son origine. Contrairement aux autres dieux, Le/La Voyageur(se) n’est pas né(e) d’un élément, d’un besoin ou d’un cri du monde… mais d’un désir. Un désir de mouvement. D’échappée. De savoir ce qu’il y a après l’horizon.
+
+Certaines légendes disent qu’il ou elle serait un ancien mortel qui, ayant refusé toutes les vérités et refusé tous les dieux, marcha si loin dans l’inconnu qu’il ou elle devint… l’inconnu. D'autres affirment qu’il/elle était là à chaque carrefour oublié, à chaque croisée où une vie a changé de direction, témoin invisible des choix impossibles.
+
+### Un dieu du détour et de l’éveil
+Il ou elle ne promet rien. N’offre ni miracles, ni récompense. Ce dieu marche, observe, chuchote aux âmes qui doutent. Ses paroles sont rarement directes. Ce sont des signes : le vent qui pousse une feuille vers la gauche, une pièce de monnaie trouvée face cachée, un inconnu qui vous regarde une seconde de trop.
+
+Ses disciples sont des pèlerins du hasard, des marchands désabusés, des bardes errants, des voleurs à la morale étrange. Ils n’ont pas de temple, mais chaque pont, chaque carrefour, chaque auberge est un autel potentiel. Ils laissent de petits cailloux alignés, des phrases à double sens gravées dans le bois ou des offrandes d’objets trouvés.
+
+### Doctrine : le flou sacré
+Le/La Voyageur(se) prêche le doute fécond : il ou elle déteste les certitudes rigides. Son culte enseigne qu’aucune vérité ne vaut sans remise en question. Que parfois, mentir permet de sauver, et que toute route peut devenir sacrée si elle est foulée avec conscience.
+
+Il ou elle s’oppose donc aux dogmes rigides de Runel, à la lumière absolue de La Lumière blanche, mais partage une affinité troublante avec Loubert, au point que certains pensent qu’ils seraient deux noms pour le même esprit… ou deux joueurs d’un même jeu cosmique.
+
+Il/elle échange parfois des énigmes avec Waltz, murmure dans les rêves de Dhums, et pose des pièges à Blaise juste pour voir s’il les brisera.
+
+## Waltz, l’Œil Éveillé
+-![](/Images/Waltz.png)
+- **Titres divins :** L’Artisan de l’Éveil, Le Bibliothécaire Transcendant, Le Danseur des Ténèbres 
+- **Domaines :** Arcane, Connaissance, Cimetières, Supercherie 
+- **Symboles :** Un œil blanc ouvert / Une plume noire / Un grimoire scellé
+
+On dit que Waltz était un simple mortel au départ — un mage solitaire obsédé par les lois invisibles qui régissent la réalité. Il passait ses jours dans des tours de marbre et ses nuits dans les catacombes, interrogeant les morts comme les étoiles. Plus il étudiait, plus le monde se fissurait autour de lui. Jusqu’au jour où, dans un acte ultime d’abandon et de compréhension, il se sacrifia lui-même dans un rituel interdit, brisant la frontière entre savoir et divinité.
+
+Il n’ascendit pas : il s’ouvrit. Et l’univers dut s’adapter.
+
+### Le Savoir comme enchantement
+Waltz est l’incarnation du savoir dangereux, du "je sais que je ne devrais pas savoir, mais je veux savoir quand même." Il inspire à la fois les chercheurs, les sorciers, les nécromanciens raffinés et les illusionnistes en quête d’un savoir qui leur échappe toujours un peu plus.
+
+Il ne méprise ni le mensonge, ni la lumière, ni la mort. Il observe. Il comprend. Et il transforme. Il est l’un des rares dieux à rire dans les tombes et à pleurer dans les bibliothèques.
+
+Ses fidèles ne font pas de prêches : ils posent des énigmes. Ils ne bâtissent pas de temples : ils creusent des archives. Leur foi est une étude, leur culte, une expérimentation.
+
+### L’Éveil et ses conséquences
+L’Éveil, ce fameux moment où Waltz se divinisa, fut un bouleversement pour les royaumes : une déferlante d’énergie magique s’échappa dans le monde. Des objets devinrent conscients. Des morts se souvinrent. Des enfants virent les pensées des autres. Depuis, la magie n’est plus un art secret — elle est un langage vivant qui imprègne les choses.
+
+Et ainsi naquirent les Brumes de Waltz — un voile vivant, mouvant, qui sépare le monde des royaumes extérieurs. Elles protègent, elles guident, elles désorientent les intrus. Seuls ceux qui rêvent en rythme avec le monde peuvent les traverser. On dit même que Waltz a lié sa propre essence à la Brume : c’est son souffle que l’on sent quand elle s’élève.
+
+### Réseaux de savoir et liens divins
+Waltz échange volontiers avec Le/La Voyageur(se), car leurs chemins se croisent souvent là où naît la vérité. Il partage avec Dhums une fascination tranquille pour l’impermanence, mais considère Loubert avec méfiance — non parce qu’il ment, mais parce qu’il ment sans but.
+
+Il admire Runel pour son architecture mentale, mais estime que ses lois doivent parfois être transcendées. Avec Aed, il entretient un respect martial : "Elle bat le métal, moi l’esprit."
 
 ## La Lumière blanche
+-![](/Images/LumiereBlanche.png)
 - **Titres divins :** L’Éclat Pur, Le Chemin Silencieux, Le Flambeau Réveillé 
 - **Domaines :** Lumière, Vie, Paix, Arcane 
 - **Symboles :** Un cercle de lumière / Une flamme blanche dans une main ouverte / Un œil rayonnant sans pupille
