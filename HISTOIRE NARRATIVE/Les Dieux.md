@@ -1,5 +1,5 @@
 ## Aed, le bouclier pourpre
-![](/Images/Aed.png)-
+-![](/Images/Aed.png)
 - **Titre divin :** L’Enclume du Destin, La Dame au Bouclier Pourpre 
 - **Domaines :** Forge, Guerre, Ordre, Stratégie 
 - **Signe sacré :** Un bouclier pourpre frappé d’un éclair d’argent
@@ -19,7 +19,7 @@ Elle est la sœur cadette de Runel, mais leurs liens sont teintés d’ambivalen
 Elle méprise la ruse de Loubert, respecte la vigueur brutale de Blaise, et trouve en Waltz un rival fascinant — car la connaissance, selon elle, n’a de valeur que lorsqu’elle sert un dessein.
 
 ## Blaise, le Tonnerre Rouge
-![](/Images/Blaise.png)-
+-![](/Images/Blaise.png)
 - **Titres divins :** Le Rugissant, Seigneur du Fracas, Le Maître du Festin Éternel 
 - **Domaines :** Tempêtes, Guerre, Mort, Nature 
 - **Signe sacré :** Une hache de bronze au fil fendu ou un cor brisé
@@ -42,6 +42,7 @@ Il méprise Loubert et ses détours rusés — "Un combat évité est une honte 
 Même Dhums, pourtant calme et crépusculaire, respecte Blaise : car derrière sa fureur se cache l’acceptation intime de la mort — non pas avec peur, mais avec le rire d’un guerrier tombé la hache levée.
 
 ## Dhums, le Tambour du Crépuscule
+-![](/Images/Dhums.png)
 - **Titres divins :** Le Dernier Souffle, Le Veilleur de la Tombe, Le Sculpteur d’Ombres 
 - **Domaines :** Mort, Cimetières, Crépuscule, Prophéties 
 - **Symboles :** Une faucille incurvée / Un tambour noir aux runes changeantes
@@ -66,6 +67,7 @@ Il respecte Aed, car elle forge autant qu’elle détruit. Il partage un respect
 Il n’a ni visage, ni voix. On le reconnaît à une sensation étrange : comme si le vent s’arrêtait un instant pour écouter.
 
 ## Loubert, le Miroir Fendu
+-![](/Images/Loubert.png)
 **Titres divins :** Le Changeforme, L'Architecte de l'Ombre, Le Marchand du Destin 
 **Domaines :** Supercherie, Arcane, Guerre 
 **Symboles :** Une pièce à deux faces / Un doigt sur des lèvres / Un masque fendu
@@ -90,6 +92,7 @@ Loubert méprise la rigidité d’Aed et rit des foudres de Blaise. Il admire Dh
 Son alliance avec Le Voyageur/La Voyageuse est trouble : on murmure qu’ils ne sont peut-être que deux facettes d’un même esprit… ou rivaux jouant une partie d’échecs cosmique dont personne ne connaît les règles.
 
 ## Okomé, le Cerf aux Quatre Yeux
+-![](/Images/Okomé.png)
 - **Titres divins :** Le Premier Souffle, L’Esprit Sylvestre, Le Veilleur aux Bois Muets 
 - **Domaines :** Nature, Vie, Tempêtes, Lumière 
 - **Symboles :** Un cerf blanc à deux panaches / Une empreinte de feuille incrustée de lumière
@@ -114,6 +117,7 @@ Il n’existe aucun temple en son nom. Ses sanctuaires sont les clairières, les
 Des lignées anciennes racontent que ses premiers disciples furent des créatures hybrides, ni bêtes ni hommes, plus insecte ou fée qu’on nomme les Sylves. Ils murmurent au vent et gardent les savoirs oubliés de la terre. On les entend parfois… mais on ne les voit jamais deux fois.
 
 ## Runel, la Lance de Justice
+-![](/Images/Runel.png)
 - **Titres divins :** La Forgeronne des Lois, L’Œil Bandé, La Paix Armée 
 - **Domaines :** Ordre, Forge, Lumière, Paix 
 - **Symboles :** Une lance dressée / Un marteau sur une balance / Une étoile à six pointes
