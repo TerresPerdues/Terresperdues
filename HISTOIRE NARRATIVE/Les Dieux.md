@@ -1,5 +1,5 @@
 ## Aed, le bouclier pourpre
-![](/Images/Aed.png)
+![](/Images/Aed.png)-
 - **Titre divin :** L’Enclume du Destin, La Dame au Bouclier Pourpre 
 - **Domaines :** Forge, Guerre, Ordre, Stratégie 
 - **Signe sacré :** Un bouclier pourpre frappé d’un éclair d’argent
@@ -19,7 +19,7 @@ Elle est la sœur cadette de Runel, mais leurs liens sont teintés d’ambivalen
 Elle méprise la ruse de Loubert, respecte la vigueur brutale de Blaise, et trouve en Waltz un rival fascinant — car la connaissance, selon elle, n’a de valeur que lorsqu’elle sert un dessein.
 
 ## Blaise, le Tonnerre Rouge
-![](/Images/Blaise.png)
+![](/Images/Blaise.png)-
 - **Titres divins :** Le Rugissant, Seigneur du Fracas, Le Maître du Festin Éternel 
 - **Domaines :** Tempêtes, Guerre, Mort, Nature 
 - **Signe sacré :** Une hache de bronze au fil fendu ou un cor brisé
