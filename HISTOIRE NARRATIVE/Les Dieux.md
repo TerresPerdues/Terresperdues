@@ -136,9 +136,9 @@ Il n’a ni visage, ni voix. On le reconnaît à une sensation étrange : comme 
 
 ## Loubert, le Miroir Fendu
 -![|100](/Images/Loubert.png)
--**Titres divins :** Le Changeforme, L'Architecte de l'Ombre, Le Marchand du Destin 
--**Domaines :** Supercherie, Arcane, Guerre, chance
--**Symboles :** Une pièce à deux faces / Un doigt sur des lèvres / Un masque fendu
+- **Titres divins :** Le Changeforme, L'Architecte de l'Ombre, Le Marchand du Destin 
+- **Domaines :** Supercherie, Arcane, Guerre, chance
+- **Symboles :** Une pièce à deux faces / Un doigt sur des lèvres / Un masque fendu
 
 Nul ne sait quand Loubert est né. Certains prétendent qu'il n’est pas une divinité comme les autres, mais un mensonge si ancien et si puissamment cru qu’il devint vrai. D’autres disent qu’il fut un dieu de la vérité, brisé par ses propres révélations, et qu’il se recousit avec les fils du mensonge.
 
