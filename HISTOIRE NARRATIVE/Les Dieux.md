@@ -58,10 +58,7 @@ Et au sommet de la nuit, si le tonnerre éclate sans qu’aucune tempête n’ai
 
 La Danse du Fracas, nommée aussi “Thaar’Grum” dans l’ancien dialecte au début des âges — la Secousse du Ciel est souvent pratiqué le matin ou avant un combat.
 
-Elle commence lentement :
-- des poings qui frappent la poitrine,
-- des pieds qui battent la terre,
-- puis des cris courts, secs, jetés comme des flèches.
+Elle commence lentement : des poings qui frappent la poitrine, des pieds qui battent la terre, puis des cris courts, secs, jetés comme des flèches.
 
 - HAI—BLAAISE!
 - “VOIS-NOUS!”GRRRAAHH!
