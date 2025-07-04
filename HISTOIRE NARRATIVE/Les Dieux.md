@@ -6,7 +6,7 @@
 
 Au commencement du Temps d'Avant, alors que le monde n'était que braise et chaos, Aed s’extirpa de la flamme première, née du choc entre l'étincelle d’Okomé et le silence de Dhums. Elle brandit un marteau forgé dans un cœur d’étoile et battit le monde comme un forgeron façonne l'acier : à coups justes, brutaux, mais toujours pensés.
 
-On raconte qu’Aed fut la première à dresser une muraille. Non pas contre un ennemi, mais pour tracer une ligne : là où commence l’ordre, là où finit le chaos. Elle forgea ensuite son bouclier pourpre dans l’ombre du volcan d’Aehras, un bouclier capable d’absorber les cris de guerre et de les relâcher sous forme d’ondes destructrices.
+On raconte qu’Aed fut la première à dresser une muraille. Non pas contre un ennemi, mais pour tracer une ligne : là où commence l’ordre, là où finit le chaos. Elle forgea ensuite son bouclier pourpre dans le centre du volcan d’Ather, un bouclier capable d’absorber la lumière et de la relâcher sous forme d’ondes destructrices.
 
 **Rites et révérences**
 
@@ -16,7 +16,7 @@ Dans ses bastions de pierre, les murs ne sont ni peints ni dorés. Ce sont des l
 
 Les fidèles ne prient pas en foule. Ils se rassemblent en ligne droite, armés, face au lever du soleil. Le silence règne. Chacun pose sa main sur son bouclier ou son arme, puis ferme les yeux. À cet instant, ils récitent, dans leur cœur ou à voix basse, le vœu personnel qu’ils se doivent de tenir : un serment, une résolution, ou une leçon apprise dans le feu du devoir.
 
-Une fois l’an, au début du printemps, les disciples célèbrent le Jour des Plans Croisés. On n’y boit pas, on n’y danse pas. On relit des tactiques oubliées, on rejoue des batailles sur des cartes de sable, et les jeunes doivent proposer des solutions aux conflits passés. C’est l’unique jour où les maîtres donnent des conseils. Tout le reste de l’année, on attend que les leçons viennent de l’intérieur.
+Une fois l’an, au début du printemps, les disciples célèbrent le Jour des souvenirs. On n’y boit pas, on n’y danse pas. On relit des tactiques oubliées, on rejoue des batailles sur des cartes de sable, et les jeunes doivent proposer des solutions aux conflits passés. Les maîtres échangent des conseils ou des nouvelles stratégies.
 
 **La guerre selon Aed**
 
@@ -56,7 +56,7 @@ Une fois l’an, les fidèles organisent un immense festin à ciel ouvert, qu’
 
 Et au sommet de la nuit, si le tonnerre éclate sans qu’aucune tempête n’ait été annoncée… on dit que le dieu festoie avec eux.
 
-La Danse du Fracas, nommée aussi “Thaar’Grum” dans l’ancien dialecte barbare — la Secousse du Ciel est souvent pratiqué le matin ou avant un combat.
+La Danse du Fracas, nommée aussi “Thaar’Grum” dans l’ancien dialecte au début des âges — la Secousse du Ciel est souvent pratiqué le matin ou avant un combat.
 
 Elle commence lentement :
 - des poings qui frappent la poitrine,
@@ -66,7 +66,7 @@ Elle commence lentement :
 - HAI—BLAAISE!
 - “VOIS-NOUS!”GRRRAAHH!
 - “NOUS SOMMES LA TEMPÊTE!”KRANN-TOR!
-- “NOUS AVANÇONS — NOUS DÉVORONS!”
+- “NOUS AVANÇONS — NOUS DÉFIONS!”
 
 Le rythme monte, les corps s’animent comme pris par une transe furieuse. Des gestes larges, frappes de hache simulées, coups de corps contre boucliers. On simule des morsures, des coups de cor, des appels au ciel. Ce n’est pas une prière. C’est un défi lancé à Blaise lui-même. “Regarde-nous. Es-tu encore assez dieu pour nous suivre ?”
 
@@ -76,17 +76,17 @@ Plus la danse est brutale, plus elle est honorée. Les vieillards disent que Bla
 
 Blaise n'est pas un stratège : il est l'incarnation de l'impulsion. Là où Aed médite le combat, Blaise le ressent, le hurle, le danse. Il fait trembler les cieux de sa rage et ses disciples ne cherchent pas à survivre : ils cherchent à être vus par lui, à mériter une place dans son Hall du Fracas.
 
-Ce Hall, caché dans une plaine d’orages éternels, est une légende parmi les guerriers. C’est là que les âmes les plus féroces dansent, boivent et chantent sans fin sous des éclairs qui sculptent le ciel. Certains héros morts y reçoivent une dernière mission : revenir sur Terre pour guider les vivants, appelés les Réveillés de Blaise.
+Ce Hall, caché dans une plaine d’orages éternels, est une légende parmi les guerriers. C’est là que les âmes les plus féroces dansent, boivent et chantent sans fin sous des éclairs qui sculptent le ciel. Certains héros morts y reçoivent une dernière mission : revenir sur Terre pour guider les vivants, appelés les héauts de Blaise.
 
 **Les voix du Tonnerre**
 
-On dit que chaque cor de guerre soufflé par un mortel est une prière, chaque cri sur le champ de bataille, un appel à Blaise. Lorsqu’il répond, c’est par le tonnerre, le vent ou le feu. Il peut provoquer une tempête pour détourner une armée ou faire pousser une ronce géante pour enterrer un traître.
+On dit que chaque cor de guerre soufflé par un mortel est une prière, chaque cri sur le champ de bataille, un appel à Blaise. Lorsqu’il répond, c’est par le tonnerre, le vent ou le feu. Il peut provoquer une tempête pour détourner une armée.
 
-Il est aussi dieu de nature, car la forêt ne juge pas. Elle prend, elle pousse, elle brûle — comme lui. Les druides de la Voie Sauvage le vénèrent en secret, partageant avec les barbares la même admiration pour sa force élémentaire.
+Il est aussi dieu de nature, car la forêt ne juge pas. Elle prend, elle pousse, elle brûle — comme lui. Les druides du nouvelle âge le vénèrent en secret, partageant avec les barbares la même admiration pour sa force élémentaire.
 
 **Alliances et fureurs**
 
-Il méprise Loubert et ses détours rusés — "Un combat évité est une honte gravée dans l’âme", dit un de ses dogmes. Avec Aed, les rapports sont tendus : il lui reproche sa froideur, elle lui reproche sa sauvagerie. Pourtant, lorsqu’ils combattent côte à côte, aucune force au monde ne peut leur résister.
+Il méprise Loubert et ses détours rusés — "Un combat évité est une honte gravée dans l’âme", dit un de ses dogmes. Avec Aed, les rapports sont tendus : il lui reproche sa lenteur avant d'agir, elle lui reproche sa sauvagerie. Pourtant, lorsqu’ils combattent côte à côte, aucune force au monde ne peut leur résister.
 
 Même Dhums, pourtant calme et crépusculaire, respecte Blaise : car derrière sa fureur se cache l’acceptation intime de la mort — non pas avec peur, mais avec le rire d’un guerrier tombé la hache levée.
 
@@ -103,7 +103,7 @@ Il ne réclama ni temple ni chant. Il s’installa entre les derniers rayons du 
 **Rites et révérences**
 Lorsqu’un être cher meurt, les fidèles organisent une veillée. L’entourage se rassemble à la tombée du jour. Un tambour sacré est frappé une seule fois — à l’instant précis où le soleil touche l’horizon.
 
-Ce battement symbolise le passage, l’instant suspendu entre deux mondes. Puis, plus aucun son n’est émis jusqu’à la nuit complète. On allume une lanterne couverte d’un tissu pour que sa lumière soit douce, et l’on médite sur la beauté du cycle.
+Ce battement symbolise le passage, l’instant suspendu entre deux mondes. Puis, plus aucun son de tambour n’est émis jusqu’à la nuit complète. On allume une lanterne couverte d’un tissu pour que sa lumière soit douce, et l’on médite sur la beauté du cycle.
 
 Les Jours Crépusculaires
 
@@ -133,14 +133,14 @@ Autrefois, c’était Okomé qui guidait les âmes, mais il se lassa de leur tri
 
 **Alliances brumeuses**
 
-Il respecte Aed, car elle forge autant qu’elle détruit. Il partage un respect tacite avec Waltz, qui frôle les mêmes frontières de l’invisible. Il est en revanche en conflit ancien avec La Lumière blanche, qui refuse de voir beauté dans l’ombre. Loubert, lui, joue souvent avec les limites de Dhums, flirtant avec les morts sans jamais leur appartenir.
+Il respecte Aed, car elle forge autant qu’elle détruit. Il partage un respect tacite avec Waltz, qui frôle les mêmes frontières de l’invisible. Il est en revanche en conflit ancien avec Sheilia, sur le repos éternel. Loubert, lui, joue souvent avec les limites de Dhums, flirtant avec les morts sans jamais leur appartenir.
 
 Il n’a ni visage, ni voix. On le reconnaît à une sensation étrange : comme si le vent s’arrêtait un instant pour écouter.
 
 ## Loubert, le Miroir Fendu
 -![|100](/Images/Loubert.png)
 -**Titres divins :** Le Changeforme, L'Architecte de l'Ombre, Le Marchand du Destin 
--**Domaines :** Supercherie, Arcane, Guerre 
+-**Domaines :** Supercherie, Arcane, Guerre, chance
 -**Symboles :** Une pièce à deux faces / Un doigt sur des lèvres / Un masque fendu
 
 Nul ne sait quand Loubert est né. Certains prétendent qu'il n’est pas une divinité comme les autres, mais un mensonge si ancien et si puissamment cru qu’il devint vrai. D’autres disent qu’il fut un dieu de la vérité, brisé par ses propres révélations, et qu’il se recousit avec les fils du mensonge.
@@ -156,9 +156,9 @@ Dans une taverne, un cercle de fidèles se réunit. Chaque participant offre un 
 
 C’est ainsi que le dieu apprend à ses fidèles à danser dans le flou, et à cultiver le doute comme une arme.
 
-Ses sanctuaires ne sont jamais indiqués. Ce sont souvent des endroits doubles : une salle de théâtre souterraine, une arrière-boutique de cartomancie, une bibliothèque où certaines étagères n’existent que pour ceux qui y croient. Un miroir fissuré y trône toujours, encadré de textes à moitié lisibles, et sous ce miroir repose un livre sans titre, ouvert sur une page blanche.
+Ses sanctuaires ne sont jamais indiqués. Ce sont souvent des endroits doubles : une salle de théâtre souterraine, une arrière-boutique de cartomancie, une bibliothèque où certaines étagères n’existent que pour ceux qui y croient. Un miroir fissuré y trône toujours et sous ce miroir repose un livre sans titre, ouvert sur une page blanche.
 
-Certains disent qu’en y écrivant la même phrase deux fois avec une plume noire, le livre répond.
+Certains disent qu’en y écrivant la même phrase deux fois avec une plume noire, le miroir peut répondre.
 
 **Le Jeu du Masque Muet**
 
@@ -198,7 +198,7 @@ Il est le plus ancien, non par autorité, mais par présence — une présence s
 
 **Rites et révérences**
 
-Aucun gong ne marque le début des cérémonies d’Okomé. Il n’y a pas de cloche, pas d’encens. Juste le souffle du vent, le craquement d’une branche, le frémissement de la mousse sous le pied nu. Car honorer Okomé, c’est se fondre dans ce qu’il est : le monde tel qu’il se tient sans témoin.
+Les instruments de la famille des bois résonnent souvent dans ces douces cérémonies, comme un écho lointain des chants de la nature. Ils marquent le commencement des rituels d’Okomé — un simple souffle, léger comme le vent glissant à travers les roseaux. Car honorer Okomé, c’est se fondre dans l’essence même de ce qu’il incarne : le monde, tel qu’il existe.
 
 Le Premier Silence
 
