@@ -4,7 +4,7 @@
 - **Domaines :** Forge, Guerre, Ordre, Stratégie 
 - **Signe sacré :** Un bouclier pourpre frappé d’un éclair d’argent
 
-Au commencement du Temps d'Avant, alors que le monde n'était que braise et chaos, Aed s’extirpa de la flamme première, née du choc entre l'étincelle d’Okomé et le silence de Dhums. Elle brandit un marteau forgé dans un cœur d’étoile et battit le monde comme un forgeron façonne l'acier : à coups justes, brutaux, mais toujours pensés.
+Au commencement du Temps d'Avant, alors que le monde n'était que braise et chaos, Aed s’extirpa de la flamme première, née du choc entre l'étincelle d'une étoile et le froid d'une montagne de fer. Elle brandit un marteau forgé dans un cœur d’étoile et battit le monde comme un forgeron façonne l'acier : à coups justes, brutaux, mais toujours pensés.
 
 On raconte qu’Aed fut la première à dresser une muraille. Non pas contre un ennemi, mais pour tracer une ligne : là où commence l’ordre, là où finit le chaos. Elle forgea ensuite son bouclier pourpre dans le centre du volcan d’Ather, un bouclier capable d’absorber la lumière et de la relâcher sous forme d’ondes destructrices.
 
@@ -200,7 +200,7 @@ Il est le plus ancien, non par autorité, mais par présence — une présence s
 
 Les instruments de la famille des bois résonnent souvent dans ces douces cérémonies, comme un écho lointain des chants de la nature. Ils marquent le commencement des rituels d’Okomé — un simple souffle, léger comme le vent glissant à travers les roseaux. Car honorer Okomé, c’est se fondre dans l’essence même de ce qu’il incarne : le monde, tel qu’il existe.
 
-Le Premier Silence
+La rencontre
 
 Le rite le plus ancien consiste à se rendre seul dans un bois au lever du soleil et à y rester immobile, dos contre un arbre, jusqu’à ce qu’un animal sauvage se montre sans crainte.
 
@@ -217,9 +217,9 @@ Il n’existe aucun temple d’Okomé. Son sanctuaire est le monde lui-même. Ma
 
 **Un dieu qui cède et observe**
 
-Okomé est un dieu qui ne s’accroche pas. Il observa l’arrivée des autres dieux comme on regarde des arbres pousser autour d’un ruisseau. Il céda la mort à Dhums, la lumière à La Lumière blanche, la guerre à Blaise et Aed. Non par faiblesse, mais parce qu’il comprend que la nature change toujours.
+Okomé est un dieu qui ne s’accroche pas. Il observa l’arrivée des autres dieux comme on regarde des arbres pousser autour d’un ruisseau. Il céda la mort à Dhums, la lumière à Sheilia, la guerre à Blaise et Aed. Non par faiblesse, mais parce qu’il comprend que la nature change toujours.
 
-Ses fidèles disent que lorsqu’une fleur fane, c’est Okomé qui se retire pour laisser place à la transformation. Quand une tempête gronde sans prévenir, c’est qu’il désapprouve un déséquilibre. Mais jamais il ne parle. Il montre.
+Mais jamais Okomé ne parle. Il montre. Il est l'ancien malgré que de moins en moins de fidèle le louange ouvertement, tous savent qu'il est celui qui a fait que tout existe. 
 
 **Apparitions sylvestres**
 
@@ -229,7 +229,7 @@ Ses messages prennent souvent la forme de phénomènes naturels : un chœur d’
 
 **Les Gardiens d’Okomé**
 
-Il n’existe aucun temple en son nom. Ses sanctuaires sont les clairières, les sommets venteux, les cavernes ouvertes par le vent. Les druides, rôdeurs et peuples anciens bâtissent parfois des menhirs en son honneur, mais Okomé ne demande rien. Il donne, il reprend, il veille.
+Il n’existe aucun temple en son nom. Ses sanctuaires sont les clairières, les sommets venteux, les cavernes ouvertes par le vent. Les druides, rôdeurs et peuples anciens bâtissent parfois des menhirs en son honneur, mais Okomé ne demande rien. Il donne, il veille. D'anciennes bêtes des premières âges se souviennent de lui et parlent encore en son nom. 
 
 Des lignées anciennes racontent que ses premiers disciples furent des créatures hybrides, ni bêtes ni hommes, plus insecte ou fée qu’on nomme les Sylves. Ils murmurent au vent et gardent les savoirs oubliés de la terre. On les entend parfois… mais on ne les voit jamais deux fois.
 
@@ -239,7 +239,7 @@ Des lignées anciennes racontent que ses premiers disciples furent des créature
 - **Domaines :** Ordre, Forge, Lumière, Paix 
 - **Symboles :** Une lance dressée / Un marteau sur une balance / Une étoile à six pointes
 
-Lorsque les premières sociétés prirent forme, que les clans cessèrent de se battre pour la nourriture et commencèrent à échanger des paroles, Runel apparut dans le fracas d’une enclume au sommet d’une montagne naine. Sa naissance n’est pas un acte de création, mais de décision collective : elle fut "appelée" par les peuples qui voulaient bâtir quelque chose de durable.
+Lorsque les premières sociétés prirent forme, que les clans cessèrent de se battre pour la nourriture et commencèrent à échanger des paroles, Runel apparut dans le fracas d'une étincelle d'étoile et d’une enclume au sommet d’une montagne de fer. Sa naissance n’est pas un acte de création, mais de décision collective : elle fut "appelée" par les peuples qui voulaient bâtir quelque chose de durable quelque temps avant sa soeur Aed.
 
 Dans sa forme première, Runel est décrite comme une déesse d'acier incandescent, les yeux bandés pour juger sans préjugé, la main droite tendue en serment, la gauche tenant une lance forgée dans les premières lois gravées.
 
@@ -384,13 +384,13 @@ mais ceux qui continuent d’avancer lorsque les directions s’effacent.”
 
 Il ou elle ne promet rien. N’offre ni miracles, ni récompense. Ce dieu marche, observe, chuchote aux âmes qui doutent. Ses paroles sont rarement directes. Ce sont des signes : le vent qui pousse une feuille vers la gauche, une pièce de monnaie trouvée face cachée, un inconnu qui vous regarde une seconde de trop.
 
-Ses disciples sont des pèlerins du hasard, des marchands désabusés, des bardes errants, des voleurs à la morale étrange. Ils n’ont pas de temple, mais chaque pont, chaque carrefour, chaque auberge est un autel potentiel. Ils laissent de petits cailloux alignés, des phrases à double sens gravées dans le bois ou des offrandes d’objets trouvés.
+Ses disciples sont des pèlerins du hasard, des marchands désabusés, des bardes errants, des voleurs à la morale étrange. Ils n’ont pas de temple, mais chaque pont, chaque carrefour, chaque auberge est un autel potentiel. Ils laissent de petits cailloux alignés, des bottes usées ou des offrandes d’objets trouvés.
 
 **Doctrine : le flou sacré**
 
 Le/La Voyageur(se) prêche le doute fécond : il ou elle déteste les certitudes rigides. Son culte enseigne qu’aucune vérité ne vaut sans remise en question. Que parfois, mentir permet de sauver, et que toute route peut devenir sacrée si elle est foulée avec conscience.
 
-Il ou elle s’oppose donc aux dogmes rigides de Runel, à la lumière absolue de La Lumière blanche, mais partage une affinité troublante avec Loubert, au point que certains pensent qu’ils seraient deux noms pour le même esprit… ou deux joueurs d’un même jeu cosmique.
+Il ou elle s’oppose donc aux dogmes rigides de Runel, à la lumière absolue de Sheilia, mais partage une affinité troublante avec Loubert, au point que certains pensent qu’ils seraient deux noms pour le même esprit… ou deux joueurs d’un même jeu cosmique.
 
 Il/elle échange parfois des énigmes avec Waltz, murmure dans les rêves de Dhums, et pose des pièges à Blaise juste pour voir s’il les brisera.
 
@@ -414,9 +414,7 @@ Il existe des ermites nommés les Voilés, qui marchent entre les Royaumes, masq
 
 Nul ne sait combien ils sont. Certains pensent qu’ils ne sont qu’un seul, répliqué par Waltz. D’autres disent qu’il s’agit de morceaux vivants de son esprit.
 
-Lors de la lune sans nom (celle qui n’apparaît sur aucun calendrier), les fidèles de Waltz se réunissent autour d’un grimoire vide. Chacun y inscrit une question qu’il ne souhaite pas résoudre. La page est ensuite scellée.
-
-À la fin de l’année, ils rouvrent le livre. Certaines pages sont devenues illisibles. D’autres contiennent des réponses qu’aucun ne se souvient avoir écrites. On dit que Waltz écrit parfois dans la marge, avec une plume faite de peur et de rire.
+Lors de la lune sans nom (celle qui n’apparaît sur aucun calendrier), les fidèles de Waltz se réunissent autour d’un grimoire vide. Chacun y inscrit une question qu’il ne souhaite pas résoudre tout de suite mais qui va les guider pedant les saisons. On dit que Waltz écrit parfois dans la marge.
 
 Il n’y a pas deux sanctuaires de Waltz semblables. Certains sont des amphithéâtres abandonnés où l’on chuchote à l’envers. D’autres sont bâtis au milieu des brumes, accessibles seulement en dormant près d’un miroir.
 
@@ -432,9 +430,9 @@ Ses fidèles ne font pas de prêches : ils posent des énigmes. Ils ne bâtissen
 
 **L’Éveil et ses conséquences**
 
-L’Éveil, ce fameux moment où Waltz se divinisa, fut un bouleversement pour les royaumes : une déferlante d’énergie magique s’échappa dans le monde. Des objets devinrent conscients. Des morts se souvinrent. Des enfants virent les pensées des autres. Depuis, la magie n’est plus un art secret — elle est un langage vivant qui imprègne les choses.
+L’Éveil, ce fameux moment où Waltz se divinisa, fut un bouleversement pour les royaumes : une déferlante d’énergie magique s’échappa dans le monde. Des objets devinrent conscients. Des morts se souvinrent. Des créature ont acquis le don de la parole. Depuis, la magie n’est plus un art secret — elle est un langage vivant qui imprègne les choses.
 
-Et ainsi naquirent les Brumes de Waltz — un voile vivant, mouvant, qui sépare le monde des royaumes extérieurs. Elles protègent, elles guident, elles désorientent les intrus. Seuls ceux qui rêvent en rythme avec le monde peuvent les traverser. On dit même que Waltz a lié sa propre essence à la Brume : c’est son souffle que l’on sent quand elle s’élève.
+Et ainsi naquirent les Brumes de Waltz — un voile vivant, mouvant, qui sépare le monde des royaumes extérieurs. Elles protègent, elles guident, elles désorientent les intrus. Seuls ceux qui rêvent en rythme avec le monde peuvent les traverser. On dit même que Waltz a lié sa propre essence à la Brume : c’est son souffle que l’on sent quand elle s’élève. Contrairement au brume naturel et calme d'Okomé, les brumes de Waltz sont magiques et dangeureuses si on ne sait pas comment les contrôler. 
 
 **Réseaux de savoir et liens divins**
 
@@ -451,7 +449,7 @@ Il admire Runel pour son architecture mentale, mais estime que ses lois doivent 
 
 La Lumière blanche ne parle pas. Elle ne commande pas. Elle révèle.
 
-Elle est peut-être plus ancienne que tous les dieux, une force devenue culte, vénérée d’abord par ceux qui avaient peur de la nuit, puis oubliée lorsque les autres divinités ont revendiqué la lumière, la magie et l’espoir. Mais quand les Ténèbres sont revenues, rampantes et affamées, La Lumière blanche s’est rallumée dans les cœurs, sans que personne ne sache comment ni pourquoi.
+Elle est une force devenue culte, vénérée d’abord par ceux qui avaient peur de la nuit, puis oubliée lorsque les autres divinités ont revendiqué la lumière, la magie et l’espoir. Mais quand les Ténèbres sont revenues, rampantes et affamées, La Lumière blanche s’est rallumée dans les cœurs, sans que personne ne sache comment ni pourquoi.
 
 On ne peut ni la représenter fidèlement, ni lui donner un visage — car elle n’est pas une volonté, mais une vérité. Et pourtant, ses signes sont partout : un rayon perçant les nuages, une vérité qui éclate sans mot, un sort oublié retrouvé par instinct.
 
@@ -474,3 +472,20 @@ La Lumière blanche partage avec Runel l’amour de la paix, mais rejette les co
 Paradoxalement, elle respecte Dhums, car même le crépuscule prépare la lumière.
 
 Et certains osent murmurer ceci : "Et si La Lumière blanche… était le contrepoids parfait aux Brumes de Waltz ?"
+
+**La fausse déesse**
+
+Lors de la grande Guerre des Dieux, un étrange pouvoir se manifesta : chaque fois qu’un dieu des ténèbres perdait un fidèle, Sheilia, voyait sa puissance croître. Ce phénomène inquiétant troubla profondément Waltz et Loubert. Craignant que Sheilia ne devienne incontrôlable, ils ourdirent un plan perfide.
+
+Par un sortilège d’une rare complexité, ils plongèrent Sheilia dans une illusion de maladie, affaiblissant son esprit et altérant ses souvenirs. Ils effacèrent de sa mémoire l’amour incandescent qu’elle portait à Okomé. Désemparée, Sheilia sombra dans une torpeur mélancolique.
+
+Voyant sa bien-aimée dépérir sans comprendre pourquoi, Okomé, le cœur brisé, implora les deux dieux de la magie de sauver Sheilia. Feignant la compassion, Waltz et Loubert acceptèrent… mais à un prix cruel. Ils scellèrent leur propre magie dans l’âme de Sheilia, la rendant prisonnière de leur illusion.
+
+Le seul espoir de briser ce sceau résidait dans une déclaration d’amour sincère d’Okomé, capable de raviver les souvenirs perdus. Mais Loubert, rusé, fit croire à Okomé que pour sauver Sheilia, il devait offrir sa voix en sacrifice. Okomé accepta, sans hésiter, condamnant ainsi leur amour à un silence éternel.
+
+Et durant des siècles, Sheilia demeura enfermée dans un sarcophage d’oubli, figée dans un sommeil sans rêve, tandis qu’Okomé, muet mais fidèle, chantait en silence un amour que seule l’âme pouvait encore entendre.
+
+Pendant ce temps, pour empêcher que la déesse ne s’éteigne à jamais, Waltz érigea un culte en son nom, dissimulant sa véritable identité derrière une illusion : une fausse divinité de lumière. Ainsi naquit le culte de la Lumière Blanche, non pas comme une foi authentique, mais comme un mensonge sacré destiné à maintenir Sheilia en vie, nourrie par les prières d’innocents qui ignoraient tout de la vérité.
+
+C’est à cet instant que la légende prit racine, et que la lumière devint le masque de l’oubli.
+
