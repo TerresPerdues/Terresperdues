@@ -106,9 +106,9 @@ Les Jours Crépusculaires
 
 Trois jours dans l’année sont dédiés à Dhums, appelés les Jours Crépusculaires. Durant ces jours :
 
-• Les prêtres peignent leur visage de cendres et de lumière dorée.
-• Les enseignements se font à voix basse, parfois par simple geste.
-• Les vivants écrivent une lettre aux morts, qu’ils brûlent ensuite dans un feu d’herbes aromatiques pour que le vent les porte jusqu’à Dhums.
+- Les prêtres peignent leur visage de cendres et de lumière dorée.
+- Les enseignements se font à voix basse, parfois par simple geste.
+- Les vivants écrivent une lettre aux morts, qu’ils brûlent ensuite dans un feu d’herbes aromatiques pour que le vent les porte jusqu’à Dhums.
 
 Durant la dernière nuit, on s’endort en demandant un rêve. Certains rêvent de ceux qu’ils ont perdus. D’autres rêvent de ceux qu’ils n’ont pas encore rencontrés.
 
@@ -360,17 +360,17 @@ Le Sac du Pèlerin
 
 Les disciples avancés portent un petit sac contenant :
 
-• Un objet trouvé (pour rappeler le hasard),
-• Un objet perdu (que l’on garde pour se souvenir),
-• Et un objet inutile (pour défier l’attachement).
+- Un objet trouvé (pour rappeler le hasard),
+- Un objet perdu (que l’on garde pour se souvenir),
+- Et un objet inutile (pour défier l’attachement).
 
 
 Lors de certains équinoxes, on vide ce sac devant un feu, et on décide lequel des trois mérite de rester. C’est ainsi que le Voyageur enseigne à ne rien posséder sans raison.
 
 Il n’y a pas de temple à son nom, mais ses fidèles créent des balises secrètes :
 
-• Une flèche peinte à l’envers sous un pont,
-• Un galet creusé d’un cercle en spirale,
+- Une flèche peinte à l’envers sous un pont,
+- Un galet creusé d’un cercle en spirale,
 - et surtout une paire de botte laisser devant leurs portes. 
 
 “Le Voyageur ne bénit pas ceux qui vont dans la bonne direction,
