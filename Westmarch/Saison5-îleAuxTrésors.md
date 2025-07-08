@@ -19,7 +19,7 @@ PS: Certaines parties seront sur Twitch/Youtube mais pas toutes.
 
 ## Synopsis
 
-%%
+!!!
 
 On en parlait à voix basse, dans les recoins sombres des tavernes oubliées…
 Des murmures portés par les vapeurs d’alcool et les souvenirs brisés :
@@ -47,4 +47,5 @@ Tout ça pour une poignée de pièces d’or.
 Avec les règles de PirateBorg, embarquez dans la nouvelle aventure : Terres Perdues – L’Île aux Trésors
 Le vent souffle, les voiles claquent… et la malédiction vous attend.
 
-%%
+!!!
+
