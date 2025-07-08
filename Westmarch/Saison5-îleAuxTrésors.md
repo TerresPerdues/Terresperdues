@@ -18,7 +18,9 @@ PS: Certaines parties seront sur Twitch/Youtube mais pas toutes.
 
 
 ## Synopsis
+
 %%
+
 On en parlait à voix basse, dans les recoins sombres des tavernes oubliées…
 Des murmures portés par les vapeurs d’alcool et les souvenirs brisés :
 Une île maudite, dont le nom s’est effacé des cartes et des mémoires.
