@@ -9,12 +9,13 @@ Nous jouons avec le système de règle de Pirateborg.
 Pour jouer au Terres Perdues, veuillez suivre cette ordre.
 1. Lire les règles et informations comme vous faites et le [Guide du joueur](https://terresperdues.github.io/Terresperdues/regle/guidedujoueur/).
 2. Vous connecter au serveur [!badge icon="/images/discord-mark-blue.svg" variant="info" text="Discord de la communauté de JDR"](https://discord.gg/rWzznjmSYm), lire les règlements et choisir Terres Perdues : Île aux Trésors. Vous pouvez ajouter les autres cathégorie à votre guise, mais pour la partie en cours vous devez choisir les salons dans la catégorie TERRES PERDUES : L'ÎLE AUX TRÉSORS.
-2. Pour vous inscrire, vous devez avoir plus de 18 ans et créer votre personnage ici [!badge icon="/images/discord-mark-blue.svg" variant="info" text="2-création-de-votre-pirate"](https://discord.com/channels/662746189069942802/1391591688350203945) suivant les règles de création de Pirateborg. PS: micro obligatoire mais pas la caméra. 
+3. Pour vous inscrire, aller [!badge icon="/images/discord-mark-blue.svg" variant="info" text="#2-inscriptions"](https://discord.com/channels/662746189069942802/1392879115853369465) et préciser si vous avez plus de 18 ans. 
+4. Pour vous inscrire, vous devez avoir plus de 18 ans et créer votre personnage ici [!badge icon="/images/discord-mark-blue.svg" variant="info" text="2-création-de-votre-pirate"](https://discord.com/channels/662746189069942802/1391591688350203945) suivant les règles de création de Pirateborg. PS: micro obligatoire mais pas la caméra. 
 PS: Certaines parties seront sur Twitch/Youtube mais pas toutes.
-3. Vous pouvez maintenant aller dans **Horaire à venir** vous choisir une partie.
-4. Si vous avez des questions où autres vous pouvez aller ici [!badge icon="/images/discord-mark-blue.svg" variant="info" text="3-questions-et-discussion-pour-ile-aux-trésors"](https://discord.com/channels/662746189069942802/1391591870009835630)
-5. Après une partie, vous pouvez faire un rapport de votre expédition [!badge icon="/images/discord-mark-blue.svg" variant="info" text="4-les-expeditions-de-vos-pirates"](https://discord.com/channels/662746189069942802/1391592014650540223) et cela vous donner un jet de relance pour la prochaine partie. 
-6. Vous pouvez à tout moment faire du Roleplay ici #ile-aux-trésors-roleplay.
+5. Vous pouvez maintenant aller dans **Horaire à venir** vous choisir une partie.
+6. Si vous avez des questions où autres vous pouvez aller ici [!badge icon="/images/discord-mark-blue.svg" variant="info" text="3-questions-et-discussion-pour-ile-aux-trésors"](https://discord.com/channels/662746189069942802/1391591870009835630)
+7. Après une partie, vous pouvez faire un rapport de votre expédition [!badge icon="/images/discord-mark-blue.svg" variant="info" text="4-les-expeditions-de-vos-pirates"](https://discord.com/channels/662746189069942802/1391592014650540223) et cela vous donner un jet de relance pour la prochaine partie. 
+8. Vous pouvez à tout moment faire du Roleplay ici #ile-aux-trésors-roleplay.
 
 
 ## Synopsis
