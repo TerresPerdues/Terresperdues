@@ -14,11 +14,11 @@ Au commencement des âges, avant même que les humains ne sachent nommer les ét
 
 Des âges plus tard, Waltz dans l'éveil leur donna le don de la parole. Dans les forêts, les clairières et les cavernes, les bêtes parlaient. Elles débattaient, conseillaient, chantaient même, en des langues oubliées, aux accents de feuilles et de pluie.
 
-Mais les humanoides jalousèrent ce don. Ils craignaient un monde où les humanoides ne seraient plus seuls à raconter l’histoire. Selon certaines légendes, ce fut un pacte trahi par les humanoides, avides de se croire uniques, qui brisa l’harmonie.
+Mais les humains jalousèrent ce don. Ils craignaient un monde où les humains ne seraient plus seuls à raconter l’histoire. Selon certaines légendes, les êtres humains, avides de se croire uniques, qui brisèrent l’harmonie.
 
-Certains disent que l’homme viola les accords, forçant les bêtes à combattre, à servir, à se taire. D’autres évoquent une force plus obscure, un oubli né du monde lui-même, une volonté de la Terre d’effacer ce lien sacré.
+Certains disent que l’homme viola les accords, forçant les bêtes à combattre, à servir, à se taire. D’autres évoquent une force plus obscure, un oubli né du monde lui-même, une volonté du chaos d’effacer ce lien sacré.
 
-Alors commença le Grand Silence : une lente disparition de la voix chez les bêtes. Chaque génération parlait un peu moins que la précédente, jusqu’à ne plus savoir qu’un grognement, un cri, un chant lointain de souvenirs perdus. Les bêtes oublient peu à peu. Leur regard s’embrume, leurs paroles se dissolvent en grognements. Certaines, devenues folles ou peut-être “trop conscientes”, errent et attaquent tout être vivant, comme si le langage perdu les avait déchirées de l’intérieur.
+Alors commença le Grand Silence : une lente disparition de la voix chez les bêtes. Chaque génération parlait un peu moins que la précédente, jusqu’à ne plus savoir qu’un grognement, un cri, un chant lointain de souvenirs perdus. Les bêtes oublient peu à peu. Leur regard s’embrume, leurs paroles se dissolvent en grognements. Certaines, devenues folles ou peut-être “trop conscientes”, errent et attaquent tout être vivant, comme si le langage perdu les avait déchirées de l’intérieur. 
 
 Aujourd’hui, quelques rares animaux murmurent encore, ou laissent échapper un mot quand la lune est pleine. Des ermites affirment entendre un renard les appeler par leur nom, ou un cerf réciter un poème au bord d’un lac. On raconte qu’un vieux corbeau aux plumes d’argent parle encore les mots d’origine, qu’un troupeau d’élans nomades porte des runes sur leurs bois, Ces créatures protègent les derniers fragments du pacte, transmettant leur savoir aux rares élus capables d’écouter. 
 
