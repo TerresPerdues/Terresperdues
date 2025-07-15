@@ -1,9 +1,3 @@
----
-label: Saison 2 -Résistance
-order: 5
-icon: ":globe_with_meridians:"
----
-
 
 ## TERRES PERDUES - Résistance
 
