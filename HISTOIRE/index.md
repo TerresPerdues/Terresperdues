@@ -9,7 +9,7 @@ h1:before { content: "🧭 " }
 </style> 
 
 
-# L'Histoire, contes et Légendes des Terres Perdues
+# L'Histoire, contes et Légendes des Terres Perdues Saison 1-4
 
 - Les Dieux
 [!ref icon=":classical_building:" text="Les Dieux"](Dieux.md)
