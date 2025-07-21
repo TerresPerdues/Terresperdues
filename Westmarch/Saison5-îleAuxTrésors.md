@@ -4,6 +4,8 @@ order: 5
 icon: ":globe_with_meridians:"
 ---
 
+![](/Images/terresperdues5.png)
+
 ## Participer aux Terres Perdues : Ile aux Trésors 
 Les Terres Perdues c’est une aventure de communauté avant tout. Pour protéger les valeurs et la joie de jouer de la communauté, il peut arriver que certaines personnes ne se mêlent pas facilement et briment le plaisir des autres. On tente d’aider le plus possible le monde pour se mêler mais il peut arriver que certaines personnes ne fittent pas avec le reste. Nous allons donc devoir fermer les Terres Perdues à ces derniers pour garder un endroit plaisant pour la majorité. Le discord reste ouvert à ses gens pour qu’ils puissent faire d’autres parties, participer au discussion hors des Terres Perdues. Le but est de garder une communauté saine. 
 PS: si vous ne voyer pas certain channel aller les activer à cette endroit. 
