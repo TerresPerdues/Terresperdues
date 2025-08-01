@@ -16,6 +16,71 @@ Les joueurs peuvent s’échanger des places jusqu’au jour avant la partie.
 Si vous avertissez que vous ne pouvez pas être présent, énoncez clairement la personne qui remplace dans le canal de l’épisode.  Sinon l’équipe en place s’occupera de vous remplacer.
 
 ## RÈGLES SPÉCIFIQUE AU SYSTÈME DE JEU DE RÔLE?
+
++++ DAGGERHEART
+## DAGGERHEART
+Ce document vous fournit les règles pour créer et faire progresser des personnages au sein des Terres Perdues.
+
+### Ce que vous avez besoin pour jouer
+Pour participer à une séance de jeu des Terres Perdues vous aurez besoin d’au moins :
+- Les Règles de Base de Daggerheart
+Les règles de base sont disponible gratuitement à cette adresse : [!badge icon="link-external" variant="info" text="Documents de référence"](https://www.daggerheart.com/srd/)
+- Un compte Discord
+Nous utilisons Discord pour communiquer. Vous n’avez pas besoin de caméra. Vous devez avoir les périphériques requis afin de communiquer avec nous (micro, écouteurs, casque d’écoute,, etc.). [!badge icon="/images/discord-mark-blue.svg" variant="info" text="Discord"](https://www.discord.com) 
+- Un compte Twitch est recommandé
+Nous diffusons certaines parties sur Twitch, donc si vous voulez suivre et participer à l’histoire en tant que spectateur-influenceur, un compte Twitch vous sera bien utile.[!badge icon="link-external" variant="info" text="Twitch"](https://www.twitch.tv)
+- Un ordinateur vous permettant d’accéder à Foundry
+Nous utilisons la table de jeu virtuelle (Virtual Table Top/VTT) Foundry pour les parties. Voir les “minimum requirements” à l’adresse suivante: [!badge icon="link-external" variant="info" text="requirements"](https://foundryvtt.com/article/requirements/)
+Le navigateur Chrome est fortement recommandé. Si vous avez des problèmes de performance, consultez l’Annexe sur les problèmes de performance.
+
+### CRÉATION D'UN PERSONNAGE
+Utilisez les règles de création de personnage telles qu'elles sont présentées dans le Livre ou ce site: [!badge icon="link-external" variant="info" text=Création de personnage"](https://aventure-srd-jdr.fr/SRD-daggerheart/regles/creation-personnage.html) , avec les notes suivantes. Vous commencez à jouer au 1er niveau ou selon le niveau de l'aventure.
+
+1. Choisir une classe [!badge icon="link-external" variant="info" text="classes"](https://aventure-srd-jdr.fr/SRD-daggerheart/regles/creation-personnage.html#etape1)
+2. Choisir Votre Héritage [!badge icon="link-external" variant="info" text="Héritage"](https://aventure-srd-jdr.fr/SRD-daggerheart/regles/creation-personnage.html#etape2)
+3. Assigner les Traits de Personnage [!badge icon="link-external" variant="info" text="Traits"](https://aventure-srd-jdr.fr/SRD-daggerheart/regles/creation-personnage.html#etape3)
+4. Informations Additionnelles [!badge icon="link-external" variant="info" text=" Informations Additionnelles"](https://aventure-srd-jdr.fr/SRD-daggerheart/regles/creation-personnage.html#etape4)
+5. Équipement de Départ [!badge icon="link-external" variant="info" text="Équipement"](https://aventure-srd-jdr.fr/SRD-daggerheart/regles/creation-personnage.html#etape5)
+6. Créer Votre Historique [!badge icon="link-external" variant="info" text="Historique"](https://aventure-srd-jdr.fr/SRD-daggerheart/regles/creation-personnage.html#etape6)
+7. Créer Vos Expériences [!badge icon="link-external" variant="info" text="Expériences"](https://aventure-srd-jdr.fr/SRD-daggerheart/regles/creation-personnage.html#etape7)
+8. Choisir les Cartes de Domaine [!badge icon="link-external" variant="info" text="Domaines"](https://aventure-srd-jdr.fr/SRD-daggerheart/regles/creation-personnage.html#etape8)
+9. Créer Vos Connexions [!badge icon="link-external" variant="info" text="Connexions"](https://aventure-srd-jdr.fr/SRD-daggerheart/regles/creation-personnage.html#etape9)
+
+### Évolution du personnage
+#### Monter de niveau
+Lorsqu’il gagne un niveau, votre personnage évolue et progresse. Quand il gagne un niveau, utilisez la valeur fixe de points de vie indiquée dans la section de votre classe.
+#### Points de Récompenses
+En complétant des objectifs ou en participant à une partie, les joueurs.es gagnent des récompenses. Publiez un message dans le fils dédié à votre personnage.
+Il existe plusieurs sortes de récompenses pour les joueurs. Elles peuvent être dépensées ou conservées pour plus tard; il n’est pas obligatoire de les utiliser lorsque vous les recevez.
+
+- Pièces d’Or (po)
+Les personnages gagnent x Pièces d’Or par aventure.
+
+- Périodes d’Intermède (PI)
+Les personnages cumulent x Périodes d’Intermède par aventure. Une liste des activités que votre personnage peut entreprendre durant les périodes d’intermèdes est disponible dans la section Périodes d’Intermède.
+Points de Récompenses d’une partie (Joueur/MJ)
+
+Type  |  Récompense par partie
+---  | ---
+Pièces d’Or | x
+Périodes d’Intermède | x
+
+#### Milestone (bonus)
+Dans une partie, des joueurs peuvent débloquer des Milestones qui sont applicables à tout le monde. 
+Dans le fils de votre personnage, notez les milestones que vous avez appliqué, pour éviter d’appliquer le même 2 fois.
+Les milestones ne sont pas divisés lors de la mort de votre personnage.
+
+### Rapport de mission
+Les rapports de mission ne sont pas obligatoires, mais encouragés. Si vous produisez un rapport, vous pouvez l’envoyer dans le canal des rapports de mission. Un joueur peut seulement faire un rapport par mission auquel il a participé.
+
+Lors de la rédaction d’un rapport de mission, s’il a un minimum de qualité (200 mots et/ou on utilise le gros bon sens) vous recevez une relance de dé gratuite.
+
+Quand un personnage meurt lors d’une partie, il peut quand même faire un rapport de mission.
+
+
+### À venir
++++
+
 +++ DONJONS ET DRAGONS
 ## DONJONS ET DRAGONS
 Ce document vous fournit les règles pour créer et faire progresser des personnages au sein des Terres Perdues, il est compatible avec la Ligue des Aventuriers de D&D, un programme officiel de jeu organisé pour Donjons et Dragons. Les différentes sont minimes, exemple : l'évolution des personnages est moins rapide dans les Terres Perdues. 
@@ -191,6 +256,11 @@ Si vous revenez dans l'aventure avant la fin de la session de jeu, vous pouvez g
 Il est possible pour un maître de jeu de changer une partie de cette règle pour le narratif de son aventure, vous référez au maître de jeu si c'est le cas. 
 !!! 
 
++++ DRAGONBANE
+## DRAGONBANE
+### À venir
++++
+
 +++ PATHFINDER 2
 ## PATHFINDER 2
 Ce document vous fournit les règles pour créer et faire progresser des personnages au sein des Terres Perdues, il est compatible avec la société de Pathfinder, un programme officiel de jeu organisé pour Pathfinder. Les différentes sont minimes, exemple : l'évolution des personnages est moins rapide dans les Terres Perdues.
@@ -199,7 +269,4 @@ Ce que vous avez besoin pour jouer
 Pour participer à une séance de jeu des Terres Perdues vous aurez besoin d’au moins :
 **à venir**
 
-+++ DRAGONBANE
-## DRAGONBANE
-### À venir
-+++
+
