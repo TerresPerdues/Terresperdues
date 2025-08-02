@@ -79,7 +79,6 @@ Quand un personnage meurt lors d’une partie, il peut quand même faire un rapp
 
 
 ### À venir
-+++
 
 +++ DONJONS ET DRAGONS
 ## DONJONS ET DRAGONS
@@ -259,7 +258,6 @@ Il est possible pour un maître de jeu de changer une partie de cette règle pou
 +++ DRAGONBANE
 ## DRAGONBANE
 ### À venir
-+++
 
 +++ PATHFINDER 2
 ## PATHFINDER 2
@@ -269,4 +267,5 @@ Ce que vous avez besoin pour jouer
 Pour participer à une séance de jeu des Terres Perdues vous aurez besoin d’au moins :
 **à venir**
 
++++
 
