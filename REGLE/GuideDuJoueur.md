@@ -5,8 +5,8 @@ Les Terres Perdues est un regroupement de maîtres de jeu qui offre des parties 
 ## QU'EST-CE QUE CE GUIDE?
 Ce document vous fournit les règles pour jouer, créer et faire progresser des personnages au sein des Terres Perdues,
 
-## ÉTIQUETTE DU JOUEUR ET DU DM
-En plus de suivre le code de conduite du groupe, soyez respectueux, partager la vedette, être attentif, être prêt pour son tour, demander l'autorisation quand c'est nécessaire, et s'assurer que les autres s'amusent. Suivez fidèlement les conseils de création de personnage et créez un créer un personnage qui n'empiète pas sur le plaisir du maître du donjon (DM) et des autres joueurs. Respecter les personnages des joueurs.
+## ÉTIQUETTE DU JOUEUR
+En plus de suivre le code de conduite du groupe, soyez respectueux, partager la vedette, être attentif, être prêt pour son tour, demander l'autorisation quand c'est nécessaire, et s'assurer que les autres s'amusent. Suivez fidèlement les conseils de création de personnage et créez un créer un personnage qui n'empiète pas sur le plaisir du maître du jeu et des autres joueurs. Respecter les personnages des joueurs.
 
 ## INCRIPTIONS AUX PARTIES
 Pour participer aux parties vous devez vous inscrire à celles-ci. Un canal dédié pour l'horaire est créer par aventure et les informations pour s'inscrire si trouve dans le canal. 
@@ -257,6 +257,54 @@ Il est possible pour un maître de jeu de changer une partie de cette règle pou
 
 +++ DRAGONBANE
 ## DRAGONBANE
+
+## Étapes de création de personnage
+### Choix du peuple (Kin)
+
+Tu peux choisir ou lancer un dé (d20) pour le déterminer aléatoirement
+
+| jet | Kin        | Traits distinctifs                                       |
+|--- |------------|----------------------------------------------------------|
+| 1-4 | Humain     | Talent supplémentaire au choix                          |
+| 5-6 | Halfling   | Petite taille, bonus en Discrétion                      |
+| 7-8 | Nain       | Résistance aux poisons, Constitution élevée             |
+| 9 | Elfe       | Vision nocturne, bonus en Agilité et Intelligence       |
+| 10 | Mallard 🦆 | Rage contrôlée, style unique                             |
+| 11 | Wolfkin 🐺 | Sens aiguisés, bonus en Perception et Survie            |
+| 12 | Orc          | Force brute, bonus en combat                             |
+| 13 | Ogre         | Slam                    |
+| 14 | Gobelin      | Resilient                    |
+| 15 | HobGobelin   | Fearless                     |
+| 16 | Frog Person  | Sauts puissants, adaptation aquatique                    |
+| 17 | Karkion      | Capacité de vol limitée, grande mobilité                 |
+| 18 | Cat Person   | Agilité féline, déplacement rapide                       |
+| 19 | Lizard kin     | Camouflage                       |
+| 20 | Satyr        | Raise Spirits                       |
+
+
+### Profession
+
+Exemples : Artisan, Chasseur, Chevalier, Marin, Marchand, Savant, Voleur
+Déterminée par un d10 si tu veux du hasard
+
+### Âge
+Jeune, Adulte ou Âgé
+L’âge influence les attributs et les compétences : plus vieux = moins d’attributs, mais plus de compétences
+
+### Attributs
+Six caractéristiques : Force (STR), Constitution (CON), Agilité (AGL), Intelligence (INT), Volonté (WIL), Charisme (CHA)
+Méthode : lancer 4d6 et garder les 3 meilleurs dés pour chaque attribut (min 3, max 18)
+
+### Statistiques dérivées
+Points de vie = Constitution
+Points de volonté = Volonté
+Bonus de dégâts selon Force ou Agilité
+Mouvement de base selon le peuple + modificateur d’Agilité
+
+### Faiblesse et Memento (optionnels mais fun)
+Faiblesse : défaut de caractère (ex. : avide, colérique)
+Memento : objet sentimental ou mystérieux (ex. : clé ancienne, bijou familial)
+
 ### À venir
 
 +++ PATHFINDER 2
