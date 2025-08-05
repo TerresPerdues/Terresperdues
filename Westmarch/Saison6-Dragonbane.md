@@ -44,7 +44,7 @@ Préparez-vous à plonger dans une campagne composée de **onze aventures**, mod
 :crossed_swords: Armez-vous de courage, de sorts… et d’un bon sens du flair, car à Valbrume, même les brumes ont des yeux.
 
 ---
-# :evergreen_tree: Path of Glory — Introduction de Campagne
+# :evergreen_tree: Chemin de la gloire — Introduction de Campagne
 
 > *Dans les profondeurs de la Forêt Morte, les racines du monde tremblent. Le passé revient, et le destin vous attend.*
 
