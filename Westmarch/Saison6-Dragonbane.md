@@ -20,7 +20,7 @@ Pour jouer au Terres Perdues, veuillez suivre cette ordre.
 *PS: Certaines parties seront sur Twitch/Youtube mais pas toutes.*
 *Vous connecter au serveur [!badge icon="/images/discord-mark-blue.svg" variant="info" text="Discord de la communauté de JDR"](https://discord.gg/rWzznjmSYm)*
 
-1.📕[!badge icon="/images/discord-mark-blue.svg" variant="info" text="a-lire-en-premier-dragonbane"](https://discord.com/channels/662746189069942802/1402010508000890920) Lire les règles et informations comme vous faites et le [Guide du joueur](https://terresperdues.github.io/Terresperdues/regle/guidedujoueur/).
+1. [!badge icon="/images/discord-mark-blue.svg" variant="info" text="📕a-lire-en-premier-dragonbane"](https://discord.com/channels/662746189069942802/1402010508000890920) Lire les règles et informations comme vous faites et le [Guide du joueur](https://terresperdues.github.io/Terresperdues/regle/guidedujoueur/).
 2.📋[!badge icon="/images/discord-mark-blue.svg" variant="info" text="inscriptions-dragonbane"](https://discord.com/channels/662746189069942802/1402015559867961375) pour vous inscrire et préciser si vous avez plus de 18 ans.
 3.📝[!badge icon="/images/discord-mark-blue.svg" variant="info" text="création-de-votre-personnage-dragonbane"](https://discord.com/channels/662746189069942802/1402283723684315187) pour créer votre personnage en suivant les règles de création de Dragonbane.
 4.💬[!badge icon="/images/discord-mark-blue.svg" variant="info" text="questions-et-discussion-dragonbane"](https://discord.com/channels/662746189069942802/1402283723684315187) Si vous avez des questions où autres. 
