@@ -258,33 +258,32 @@ Il est possible pour un maître de jeu de changer une partie de cette règle pou
 +++ DRAGONBANE
 ## DRAGONBANE
 
-## Étapes de création de personnage
+## Étapes de création de personnage pour le discord
 ### Choix du peuple (Kin)
 
 Tu peux choisir ou lancer un dé (d20) pour le déterminer aléatoirement
 
 | jet | Kin        | Traits distinctifs                                       |
 |--- |------------|----------------------------------------------------------|
-| 1-4 | Humain     | Talent supplémentaire au choix                          |
-| 5-6 | Halfling   | Petite taille, bonus en Discrétion                      |
-| 7-8 | Nain       | Résistance aux poisons, Constitution élevée             |
-| 9 | Elfe       | Vision nocturne, bonus en Agilité et Intelligence       |
-| 10 | Mallard 🦆 | Rage contrôlée, style unique                             |
-| 11 | Wolfkin 🐺 | Sens aiguisés, bonus en Perception et Survie            |
-| 12 | Orc          | Force brute, bonus en combat                             |
+| 1-4 | Humain     | Adaptive - Can choose what skill to roll on if it makes sense in the situation                        |
+| 5-6 | Halfling   | Hard to Catch - When DODGING, get a BOON on the EVADE roll                     |
+| 7-8 | Nain       | Unforg­iving - activate when attacking someone who harmed you in the past (recent or long-past) and gain a BOON on the roll             |
+| 9 | Elfe       | Inner Peace - Meditate to regain extra d6 HP and d6 WP and remove an additional Condition. You are unresp­onsive during the rest       |
+| 10 | Colvert | Ill Tempered - Activate this as a free action to gain a BOON on an Ability roll. You must accept a condition related to the action. If you have all six conditions currently, you can't use this.                             |
+| 11 | Lupin | Hunting Instincts - Use an action to designate a creature you can smell or see as your prey. You can stalk that prey by scent all day. Spend an additional 1WP (free action) during combat with your prey to gain a BOON on your ATTACK roll that round.            |
+| 12 | Orc          |                             |
 | 13 | Ogre         | Slam                    |
 | 14 | Gobelin      | Resilient                    |
 | 15 | HobGobelin   | Fearless                     |
-| 16 | Frog Person  | Sauts puissants, adaptation aquatique                    |
-| 17 | Karkion      | Capacité de vol limitée, grande mobilité                 |
-| 18 | Cat Person   | Agilité féline, déplacement rapide                       |
-| 19 | Lizard kin     | Camouflage                       |
-| 20 | Satyr        | Raise Spirits                       |
-
+| 16 | People grenouille  |                    |
+| 17 | Karkion      |                 |
+| 18 | Felin   |                        |
+| 19 | Peuple Lézard     |                    |
+| 20 | Satyr        |                      |
 
 ### Profession
 
-Exemples : Artisan, Chasseur, Chevalier, Marin, Marchand, Savant, Voleur
+Exemples : artisan, barde, chasseur, chevalier, combattant, érudit, mage, marchand, marin et voleur
 Déterminée par un d10 si tu veux du hasard
 
 ### Âge
@@ -293,8 +292,11 @@ L’âge influence les attributs et les compétences : plus vieux = moins d’at
 
 ### Attributs
 Six caractéristiques : Force (STR), Constitution (CON), Agilité (AGL), Intelligence (INT), Volonté (WIL), Charisme (CHA)
-Méthode : lancer 4d6 et garder les 3 meilleurs dés pour chaque attribut (min 3, max 18)
+Méthode à déterminer selon le nombre de joueurs
+1. lancer 4d6 et garder les 3 meilleurs dés pour chaque attribut (min 3, max 18)
+2. Placer 15, 14, 13, 12, 10, et 8 dans les attributs.
 
+## Dans foundry
 ### Statistiques dérivées
 Points de vie = Constitution
 Points de volonté = Volonté
