@@ -21,11 +21,11 @@ Pour jouer au Terres Perdues, veuillez suivre cette ordre.
 *Vous connecter au serveur [!badge icon="/images/discord-mark-blue.svg" variant="info" text="Discord de la communauté de JDR"](https://discord.gg/rWzznjmSYm)*
 
 1. [!badge icon="/images/discord-mark-blue.svg" variant="info" text="📕a-lire-en-premier-dragonbane"](https://discord.com/channels/662746189069942802/1402010508000890920) Lire les règles et informations comme vous faites et le [Guide du joueur](https://terresperdues.github.io/Terresperdues/regle/guidedujoueur/).
-2. 📋[!badge icon="/images/discord-mark-blue.svg" variant="info" text="inscriptions-dragonbane"](https://discord.com/channels/662746189069942802/1402015559867961375) pour vous inscrire et préciser si vous avez plus de 18 ans.
-3. 📝[!badge icon="/images/discord-mark-blue.svg" variant="info" text="création-de-votre-personnage-dragonbane"](https://discord.com/channels/662746189069942802/1402283723684315187) pour créer votre personnage en suivant les règles de création de Dragonbane.
-4. 💬[!badge icon="/images/discord-mark-blue.svg" variant="info" text="questions-et-discussion-dragonbane"](https://discord.com/channels/662746189069942802/1402283723684315187) Si vous avez des questions où autres. 
-5. 🗺️[!badge icon="/images/discord-mark-blue.svg" variant="info" text="expéditions-dragonbane"](https://discord.com/channels/662746189069942802/1402283850045853987) Après une partie, vous pouvez faire un rapport de votre expédition  et cela vous donner un jet de relance pour la prochaine partie.
-6. 🐉[!badge icon="/images/discord-mark-blue.svg" variant="info" text="dragonbane-roleplay"](https://discord.com/channels/662746189069942802/1402284139964665876) Vous pouvez à tout moment faire du Roleplay à cette endroit 
+2. [!badge icon="/images/discord-mark-blue.svg" variant="info" text="📋inscriptions-dragonbane"](https://discord.com/channels/662746189069942802/1402015559867961375) pour vous inscrire et préciser si vous avez plus de 18 ans.
+3. [!badge icon="/images/discord-mark-blue.svg" variant="info" text="📝création-de-votre-personnage-dragonbane"](https://discord.com/channels/662746189069942802/1402283723684315187) pour créer votre personnage en suivant les règles de création de Dragonbane.
+4. [!badge icon="/images/discord-mark-blue.svg" variant="info" text="💬questions-et-discussion-dragonbane"](https://discord.com/channels/662746189069942802/1402283723684315187) Si vous avez des questions où autres. 
+5. [!badge icon="/images/discord-mark-blue.svg" variant="info" text="🗺️expéditions-dragonbane"](https://discord.com/channels/662746189069942802/1402283850045853987) Après une partie, vous pouvez faire un rapport de votre expédition  et cela vous donner un jet de relance pour la prochaine partie.
+6. [!badge icon="/images/discord-mark-blue.svg" variant="info" text="🐉dragonbane-roleplay"](https://discord.com/channels/662746189069942802/1402284139964665876) Vous pouvez à tout moment faire du Roleplay à cette endroit 
 7. **à venir** Vous pouvez maintenant aller dans vous choisir une partie. 
 
 
