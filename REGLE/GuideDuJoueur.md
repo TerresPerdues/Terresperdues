@@ -15,16 +15,8 @@ Pour participer aux parties vous devez vous inscrire à celles-ci. Un canal déd
 Les joueurs peuvent s’échanger des places jusqu’au jour avant la partie.
 Si vous avertissez que vous ne pouvez pas être présent, énoncez clairement la personne qui remplace dans le canal de l’épisode.  Sinon l’équipe en place s’occupera de vous remplacer.
 
-## RÈGLES SPÉCIFIQUE AU SYSTÈME DE JEU DE RÔLE?
-
-+++ DAGGERHEART
-## DAGGERHEART
-Ce document vous fournit les règles pour créer et faire progresser des personnages au sein des Terres Perdues.
-
 ### Ce que vous avez besoin pour jouer
 Pour participer à une séance de jeu des Terres Perdues vous aurez besoin d’au moins :
-- Les Règles de Base de Daggerheart
-Les règles de base sont disponible gratuitement à cette adresse : [!badge icon="link-external" variant="info" text="Documents de référence"](https://www.daggerheart.com/srd/)
 - Un compte Discord
 Nous utilisons Discord pour communiquer. Vous n’avez pas besoin de caméra. Vous devez avoir les périphériques requis afin de communiquer avec nous (micro, écouteurs, casque d’écoute,, etc.). [!badge icon="/images/discord-mark-blue.svg" variant="info" text="Discord"](https://www.discord.com) 
 - Un compte Twitch est recommandé
@@ -32,6 +24,16 @@ Nous diffusons certaines parties sur Twitch, donc si vous voulez suivre et parti
 - Un ordinateur vous permettant d’accéder à Foundry
 Nous utilisons la table de jeu virtuelle (Virtual Table Top/VTT) Foundry pour les parties. Voir les “minimum requirements” à l’adresse suivante: [!badge icon="link-external" variant="info" text="requirements"](https://foundryvtt.com/article/requirements/)
 Le navigateur Chrome est fortement recommandé. Si vous avez des problèmes de performance, consultez l’Annexe sur les problèmes de performance.
+
+## RÈGLES SPÉCIFIQUE AU SYSTÈME DE JEU DE RÔLE?
+
++++ DAGGERHEART
+## DAGGERHEART
+Ce document vous fournit les règles pour créer et faire progresser des personnages au sein des Terres Perdues.
+
+### Les Règles de Base de Daggerheart
+Les règles de base sont disponible gratuitement à cette adresse : [!badge icon="link-external" variant="info" text="Documents de référence"](https://www.daggerheart.com/srd/)
+
 
 ### CRÉATION D'UN PERSONNAGE
 Utilisez les règles de création de personnage telles qu'elles sont présentées dans le Livre ou ce site: [!badge icon="link-external" variant="info" text=Création de personnage"](https://aventure-srd-jdr.fr/SRD-daggerheart/regles/creation-personnage.html) , avec les notes suivantes. Vous commencez à jouer au 1er niveau ou selon le niveau de l'aventure.
@@ -84,19 +86,8 @@ Quand un personnage meurt lors d’une partie, il peut quand même faire un rapp
 ## DONJONS ET DRAGONS
 Ce document vous fournit les règles pour créer et faire progresser des personnages au sein des Terres Perdues, il est compatible avec la Ligue des Aventuriers de D&D, un programme officiel de jeu organisé pour Donjons et Dragons. Les différentes sont minimes, exemple : l'évolution des personnages est moins rapide dans les Terres Perdues. 
 
-### Ce que vous avez besoin pour jouer
-Pour participer à une séance de jeu des Terres Perdues vous aurez besoin d’au moins :
-- Les Règles de Base de D&D
+### Les Règles de Base de D&D
 Les règles de base sont disponible gratuitement à cette adresse : [!badge icon="link-external" variant="info" text="Free rules"](https://www.dndbeyond.com/sources/dnd/free-rules)
-- Un compte de D&D Beyond
-Pour avoir accès à la création des personnages et permettre l’importation dans les parties en ligne. [!badge icon="link-external" variant="info" text="Create a account"](https://www.dndbeyond.com/create-account?returnUrl=https://www.dndbeyond.com/)
-- Un compte Discord
-Nous utilisons Discord pour communiquer. Vous n’avez pas besoin de caméra. Vous devez avoir les périphériques requis afin de communiquer avec nous (micro, écouteurs, casque d’écoute,, etc.). [!badge icon="/images/discord-mark-blue.svg" variant="info" text="Discord"](https://www.discord.com) 
-- Un compte Twitch est recommandé
-Nous diffusons certaines parties sur Twitch, donc si vous voulez suivre et participer à l’histoire en tant que spectateur-influenceur, un compte Twitch vous sera bien utile.[!badge icon="link-external" variant="info" text="Twitch"](https://www.twitch.tv)
-- Un ordinateur vous permettant d’accéder à Foundry
-Nous utilisons la table de jeu virtuelle (Virtual Table Top/VTT) Foundry pour les parties. Voir les “minimum requirements” à l’adresse suivante: [!badge icon="link-external" variant="info" text="requirements"](https://foundryvtt.com/article/requirements/)
-Le navigateur Chrome est fortement recommandé. Si vous avez des problèmes de performance, consultez l’Annexe sur les problèmes de performance.
 
 ### CRÉATION D'UN PERSONNAGE
 Utilisez les règles de création de personnage telles qu'elles sont présentées dans le Livre du joueurs(PH) 2024, avec les notes suivantes. Vous commencez à jouer au 1er niveau ou selon le niveau de l'aventure.
@@ -258,6 +249,9 @@ Il est possible pour un maître de jeu de changer une partie de cette règle pou
 +++ DRAGONBANE
 ## DRAGONBANE
 
+### Les Règles de Base de Dragonbane
+Les règles de base ne sont pas disponible gratuitement. On peut les retrouver sur le serveur Foundryvtt.
+
 ## Étapes de création de personnage pour le discord
 ### Choix du peuple (Kin)
 
@@ -307,7 +301,83 @@ Mouvement de base selon le peuple + modificateur d’Agilité
 Faiblesse : défaut de caractère (ex. : avide, colérique)
 Memento : objet sentimental ou mystérieux (ex. : clé ancienne, bijou familial)
 
-### À venir
+### Évolution du personnage
+
+#### Points de Récompenses
+En complétant des objectifs ou en participant à une partie, les joueurs.es gagnent des récompenses. Publiez un message dans le fils dédié à votre personnage.
+Il existe plusieurs sortes de récompenses pour les joueurs. Elles peuvent être dépensées ou conservées pour plus tard; il n’est pas obligatoire de les utiliser lorsque vous les recevez.
+
+- Pièces d’Or (po)
+Les personnages gagnent 10 Pièces d’Or par aventure.
+
+Type  |  Récompense par partie
+---  | ---
+Pièces d’Or | 10
+
+#### Milestone (bonus)
+Dans une partie, des joueurs peuvent débloquer des Milestones qui sont applicables à tout le monde. 
+Dans le fils de votre personnage, notez les milestones que vous avez appliqué, pour éviter d’appliquer le même 2 fois.
+Les milestones ne sont pas divisés lors de la mort de votre personnage.
+
+### Rapport de mission
+Les rapports de mission ne sont pas obligatoires, mais encouragés. Si vous produisez un rapport, vous pouvez l’envoyer dans le canal des rapports de mission. Un joueur peut seulement faire un rapport par mission auquel il a participé.
+
+Lors de la rédaction d’un rapport de mission, s’il a un minimum de qualité (200 mots et/ou on utilise le gros bon sens) vous recevez 10 Pièces d’Or. Vous devez l’inscrire dans le fils (thread) de votre personnage.
+
+Quand un personnage meurt lors d’une partie, il peut quand même faire un rapport de mission.
+
+### Équipement
+Votre personnage peut acheter et vendre de l’équipement en utilisant les règles disponibles. Entre deux sessions, votre personnage peut acheter de l’équipement. Certaines aventures peuvent imposer des limitations sur l’achat pendant la partie.
+Les récompenses et l’équipement ne peuvent pas être cédés à un autre personnage, excepté dans les cas suivants :
+- Vous pouvez prêter de l’équipement ou des objets magiques à un autre personnage présent à la table de jeu. Les objets sont retournés à leur propriétaire à la fin de la session, à moins d’avoir été consommé (par exemple, une potion).
+- Les objets magiques permanents peuvent être échangés (voir Périodes d’Intermède).
+- Les personnages peuvent choisir de partager entre eux les coûts associés à des services rendus par des PNJ durant une aventure.
+
+### Achat
+Achat d’équipement de base et de composante non magique
+Afin d'acheter de l’équipement de base à votre personnage. Écrivez l’objet sur votre fiche de personnage et déduisez le prix de l’objet de votre total de pièces.
+
+### Périodes d’Intermède
+Votre personnage peut effectuer des activités de période d’intermède après une session. D’autres activités sont permises si elles sont introduites dans un autre document officiel de la campagne.
+Afin d'effectuer des activités de périodes d’intermède, vous devez publier un message dans le salon Discord dédié à votre personnage en incluant le nom de l'activité, le nombre de pièces d'or et les déduire de votre total de pièces d'or.
+Par exemple, vous devez publier un message tel « John Doe (nom du personnage), se former en natation, pour passer de 14 à 15 au cout de 150 pieces d'or».
+
+La vie d’un aventurier comporte de nombreuses épreuves et si vous survivez, vous êtes sûr d’évoluer, et peut-être même d’apprendre une ou deux bricoles en cours de route.
+
+### Marqueurs de progression: 
+si vous faites un jet de compétence et que vous tombez sur un dragon ou sur un démon (page 31), cochez la case située à côté de cette dernière. À la fin de la session de jeu, le MJ vous posera les questions suivantes. Chaque fois que vous répondrez oui et que vous serez en mesure de vous justifier, vous cocherez une autre case dans une compétence de votre choix et que vous n’aurez pas déjà cochée. Le MJ a le dernier mot, mais il devra se montrer compréhensif.
+- Avez-vous participé à la session de jeu?
+- Avez-vous exploré un nouveau lieu?
+- Avez-vous vaincu un ou plusieurs adversaires dangereux ?
+- Avez-vous surmonté un obstacle sans utiliser la force ?
+- Avez-vous cédé à votre faiblesse (règle facultative)?
+
+### Jets de progression: 
+après avoir placé vos marqueurs, lancez 1D20 pour chacun d’entre eux et si le résultat dépasse votre niveau de compétence actuel, votre valeur augmente de 1, jusqu’à un maximum de 18. Une fois que vous avez effectué vos jets de progression, effacez les marqueurs et recommencez lors de la prochaine session de jeu.
+
+### Enseignant : 
+si vous suivez une séance d’entraînement intensif avec un professeur dont le niveau de compétence est supérieur ou égal à 15 et qu’il dépasse le vôtre, vous pouvez faire un jet de progression supplémentaire afin d’améliorer la compétence en question. Vous devez attendre la fin de la session. Cependant, un professeur ne peut augmenter le niveau d’une compétence que de 1 point. Après cela, vous devrez vous perfectionner par l’expérience avant de pouvoir à nouveau faire appel à un formateur. Les enseignants, en particulier ceux qui possèdent un niveau de compétence élevé, coûtent généralement très cher le niveau à atteindre x 10 po.
+
+### Magie:
+vous pouvez améliorer une école de magie que vous connaissez déjà comme n’importe quelle autre compétence. Cependant, l’apprentissage de nouveaux sorts et de nouvelles écoles de magie nécessite un entraînement spécial. Pour plus d’informations, référez-vous au chapitre 5. 
+
+### Capacités héroïques: 
+vous pouvez obtenir d’autres capacités héroïques en cours de jeu de deux façons:
+- Lorsque l’une de vos compétences atteint 18, vous gagnez immédiatement une capacité héroïque de votre choix.
+- Après un acte valeureux grandiose, le MJ ou l’aventure peut vous récompenser avec une capacité héroïque. Cet événement doit rester rare et ne jamais se dérouler plus d’une fois par aventure de durée normale.
+Pour obtenir une nouvelle capacité héroïque, vous devez satisfaire à ses prérequis.
+
+### SURMONTER SES FAIBLESSES
+Si, au cours de la session, vous vous êtes comporté d’une manière qui va clairement à l’encontre de votre faiblesse, vous obtenez deux marqueurs de progression (au lieu d’un si vous y avez cédé). À présent, vous avez surmonté votre faiblesse et vous devez la supprimer, puis passer une session complète sans montrer de faiblesse. Après cela, vous pouvez en choisir une nouvelle, de préférence en relation avec un événement survenu dans le jeu.
+
+### Mort, maladie et malédiction
+Pendant les sessions de jeu, si vous mourez, si vous subissez un effet persistant tel qu'une maladie ou une malédiction, ou si vous êtes retiré de l'aventure, vous en subissez les conséquences pendant toute la durée de la session de jeu. À la fin de cette session, vous pouvez choisir le sort suivant :
+- Vous rendez la vie à votre personnage ou vous supprimez l'effet négatif. Si vous avez été retiré de l'aventure, vous gagnez les récompenses obtenues sauf les points d'intermèdes. 
+- Vous retirez votre personnage, succombant à votre destin.
+Si vous revenez dans l'aventure avant la fin de la session de jeu, vous pouvez gagner toutes les récompenses offertes au groupe, y compris pendant votre absence.
+!!!
+Il est possible pour un maître de jeu de changer une partie de cette règle pour le narratif de son aventure, vous référez au maître de jeu si c'est le cas. 
+!!! 
 
 +++ PATHFINDER 2
 ## PATHFINDER 2
