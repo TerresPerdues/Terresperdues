@@ -265,15 +265,15 @@ Tu peux choisir ou lancer un dé (d20) pour le déterminer aléatoirement
 | 9 | Elfe       | Inner Peace - Meditate to regain extra d6 HP and d6 WP and remove an additional Condition. You are unresp­onsive during the rest       |
 | 10 | Colvert | Ill Tempered - Activate this as a free action to gain a BOON on an Ability roll. You must accept a condition related to the action. If you have all six conditions currently, you can't use this.                             |
 | 11 | Lupin | Hunting Instincts - Use an action to designate a creature you can smell or see as your prey. You can stalk that prey by scent all day. Spend an additional 1WP (free action) during combat with your prey to gain a BOON on your ATTACK roll that round.            |
-| 12 | Orc          |                             |
-| 13 | Ogre         | Slam                    |
-| 14 | Gobelin      | Resilient                    |
-| 15 | HobGobelin   | Fearless                     |
-| 16 | People grenouille  |                    |
-| 17 | Karkion      |                 |
-| 18 | Felin   |                        |
-| 19 | Peuple Lézard     |                    |
-| 20 | Satyr        |                      |
+| 12 | Orc          | Tough - An orc with zero HP can activate this ability to automatically rally (page 50 in the Rulebook), without rolling against WIL or being PERSUADED by someone else. Usually, this ability is only used by player characters and important NPCs.                            |
+| 13 | Ogre         | Slam - This counts as an unarmed melee attack with a boon that inflicts 2D6 bludgeoning damage (plus any damage bonus) and cannot be parried. The ogre can also dash before the attack (but does not have to). Humanoid targets of Normal size or smaller who are hit by the attack are automatically knocked down. |
+| 14 | Gobelin      | Resilient -  By activating this ability, goblins get a boon on a CON roll for resisting poison or disease (pages 52–53 in the Rulebook) or can make camp without rolling BUSHCRAFT (page 103 in the Rulebook). In addition, goblins can always eat raw food without falling ill (no WP required).        |
+| 15 | HobGobelin   | Fearless - Activate this ability to automatically succeed with a WIL rollfor resisting fear (page 52 in the Rulebook). The ability must be activated before any roll is made                   | 
+| 16 | People grenouille  | Leaping - Frog people can activate this ability to jump as far as their movement rating horizontally, or up to half their movement rating vertically. No ACROBATICS roll is required. The jump can end with a melee attack, which is made with a boon.                 |
+| 17 | Karkion      | Wing - The bat-like wings of a karkion allow it to move freely through the air at the same speed as on foot, at the cost of 1 WP per round.               |
+| 18 | Felin   | Nin Lives - Activating this ability grants a boon on a death roll (page 50 in the Rulebook), at the cost of 2 WP. The ability can also be used to reduce the number of D6s rolled for fall damage by one per WP up to a maximum of three (after the ACROBATICS roll to mitigate the damage, see page 53 in the Rulebook).     |
+| 19 | Peuple Lézard     | Camouflage - Lizard people who wish to stay hidden are hard to spot. Activating this ability grants a boon on a SNEAKING roll.                   |
+| 20 | Satyr        | Raise Spirits -  Activating this ability counts as an action and removes a chosen condition from a person within earshot and 10 meters. The ability cannot be used on the satyr itself.  |
 
 ### Profession
 
