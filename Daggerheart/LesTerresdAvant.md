@@ -8,15 +8,16 @@ Les Terres d’avant
 Un monde ancien où les joutes chevaleresques, les alliances fragiles et les secrets interdits façonnent le destin des héros. Les joutes chevaleresques, en plus d’être des rituels sacrés et des outils politiques, sont également des compétitions sportives qui galvanisent les foules et célèbrent l'habileté des participants.
 
 # **COMPLEXITY RATING**
-2
+⚪⚪
 
 # **THE PITCH**
+*Read this section to your players to introduce them to the campaign.*
 Dans les Terres d’avant, les héros naviguent entre royaumes brisés, factions rivales et mystères ancestraux. Les joutes chevaleresques ne sont pas seulement des compétitions, mais des rituels sacrés et des outils politiques. Chaque décision peut changer le cours de l’histoire. Les Terres d’avant sont un monde où chaque choix, chaque victoire, et chaque échec résonnent à travers les âges, façonnant le destin des royaumes et des individus.
 
 Les héros commencent souvent leur carrière dans des ligues mineures, où ils perfectionnent leurs compétences et se forgent une réputation. Avec persévérance et talent, ils peuvent devenir des étoiles montantes et, pour les plus exceptionnels, atteindre le statut de véritables vedettes sportives, admirées et célébrées à travers les Terres d’avant.
 
 # **TONE & FEEL**
-Sportif, festif, mystique et épique avec des touches de tension politique.
+Sportif, festif et épique avec des touches de tension politique.
 
 # **THEMES**
 Festival, joutes, événement sportif, loyauté et trahison, pouvoir et sacrifice, politique régionale, Conflits entre guildes, nobles et cultes.
@@ -25,22 +26,22 @@ Festival, joutes, événement sportif, loyauté et trahison, pouvoir et sacrific
 Game of Thrones, The Witcher, Arthurian Legends, Chevalier
 
 # **OVERVIEW**
+*If your group decides to play this campaign, give your players the following information before character creation.*
 Les Terres d’avant sont les vestiges d’un monde ancien où royaumes brisés, alliances fragiles et traditions perdues se heurtent à l’émergence de nouvelles puissances. Dans ce monde, les joutes chevaleresques font autant office de sport que d’arbitrage politique, de rituel sacré et de monté au pouvoir. Les héros devront naviguer entre équipes rivales, les jeux de pouvoir et les décisions qui pourraient changer le cours de l’histoire.
 
 ---
 
 # HERITAGE AND CLASSES
-## Highborne dans les Terres d’avant
+*All communities are available, but some have unique aspects within a Witherwild campaign. As needed, provide the following information to your players and choose one or more of the questions to ask them during your session zero.*
+## 🟨 Highborne 
 
-### **Adaptation dans le Cadre de Campagne**
-Les Highborne sont souvent les **héritiers des grandes maisons nobles**, des **descendants des anciens champions**, ou les **proches de lignées sacrées** qui ont façonné les joutes dans les siècles passés.
+Dans les Terres d'Avant, les Highborne sont souvent les **héritiers des grandes maisons nobles**, des **descendants des anciens champions**, ou les **proches de lignées sacrées** qui ont façonné les joutes dans les siècles passés. 
 
-### **Particularités du cadre**
+
 - Choix d’une **faction ou duché comme maison d’origine**
 - **Bonus lors de l'entrée dans les joutes**
 - **Pression accrue de performance et d’apparence** (stress)
 
-### **Prompts narratifs**
 - *Quelle ancienne joute de ton lignage est encore chantée lors des festivals ?*
 - *As-tu trahi les valeurs de ta maison pour suivre une voie plus modeste ou radicale ?*
 - *Ton armure familiale est-elle bénie ou maudite par les dieux oubliés ?*
@@ -50,7 +51,7 @@ Les Highborne sont souvent les **héritiers des grandes maisons nobles**, des **
 - Faveurs rapides + intrigues politiques
 - Ovation publique si associé à un héros légendaire
 
-## Loreborne et Orderborne dans les Terres d’avant
+## 🟨 Loreborne et Orderborne 
 
 ### **Adaptation dans le Cadre de Campagne**
 Les Loreborne sont les **héritiers des archives vivantes**, enfants de traditions oubliées ou gardiens de vérités interdites. Les Orderborne sont les gardiens des traditions chevaleresques et les protecteurs des codes sacrés. Ils incarnent la **discipline, la justice et l’honneur**.
@@ -74,7 +75,7 @@ Les Loreborne sont les **héritiers des archives vivantes**, enfants de traditio
 - Connaissance des ancien héros et de leur secret. 
 - Accès à des rites sacrés
 
-### Ridgeborne, Underborne et Wildborne dans les Terres d’avant
+### 🟨 Ridgeborne, Underborne et Wildborne
 
 ### **Adaptation dans le Cadre de Campagne**
 Les Ridgeborne sont nés au cœur des chaînes montagneuses, dans les vallées escarpées. Ils incarnent une **résilience silencieuse** et un **lien viscéral avec la nature**. Les Underborne sont des **survivants farouches**, issus des profondeurs — cavernes oubliées ou galeries abandonnées. Les Wildborne vivent en harmonie avec les bêtes, les vents et les rythmes naturels. Leur force vient de l’instinct et d’une **spiritualité animale**.
@@ -97,7 +98,7 @@ Les Ridgeborne sont nés au cœur des chaînes montagneuses, dans les vallées e
 - Bonus pour détecter les failles ou pièges
 - Capacité à influencer le terrain
 
-## Seaborne et Wanderborne dans les terres d'avant
+## 🟨 Seaborne et Wanderborne
 
 ### **Adaptation dans le Cadre de Campagne**
 Les Seaborne sont des **marchands habiles**, **diplomates naturels** et **porteurs de récits anciens**, nés entre le sel et les marchés flottants. Les Wanderborne sont des **pèlerins**, **chercheurs de vérité**, et **navigateurs du monde fragmenté**, nés sur les routes.
@@ -119,7 +120,7 @@ Les Seaborne sont des **marchands habiles**, **diplomates naturels** et **porteu
 - Accès à un réseau d’échange au marché noire
 
 
-## Slyborne dans les Terres d’avant
+## 🟨 Slyborne
 
 ### **Adaptation dans le Cadre de Campagne**
 Les Slyborne sont des **manipulateurs**, **maîtres du mensonge**, et **artisans invisibles du destin**, nés dans les ruelles, souterrains ou marais.
@@ -140,7 +141,7 @@ Les Slyborne sont des **manipulateurs**, **maîtres du mensonge**, et **artisans
 - Accès à des “murmures de réseau”
 
 
-# Classes adaptées aux Terres d’avant
+# CLASSES 
 
 ## Chevaliers et Protecteurs
 
@@ -180,33 +181,50 @@ Les voleurs influencent secrètement les joutes, modifiant les règles ou pertur
 ---
 
 # PLAYER PRINCIPLES  
-Just as Daggerheart has player principles each campaign 
-frame has thematic guidelines for players to keep in mind 
-during the campaign Following these principles helps players 
-stay in the ideal mindset to enjoy the campaign frame When 
-creating these ensure they are evocative specific and 
-actionable by the players 
 
----
+Ces principes guident les joueurs pour incarner des personnages pleinement engagés dans l’univers des joutes, des alliances et des ambitions politiques.
 
-#  Principes du MJ — *Les Terres d’avant*
+🟨**Cherche la victoire, mais accepte le prix**  
+   Ton objectif est clair : gagner le championnat. Mais chaque victoire peut coûter une dette, une trahison ou une vérité révélée.
 
-1. **Fais résonner chaque victoire**  
+🟨**Agis pour ton duché, pas seulement pour toi**  
+   Tes exploits servent une cause plus grande. Que ce soit par loyauté, stratégie ou opportunisme, ton duché attend des résultats.
+
+🟨**Forge des alliances… ou brise-les**  
+   Les joutes ne se gagnent pas seul. Crée des pactes, manipule les relations, et choisis quand il est temps de trahir.
+
+🟨**Influence les règles du jeu**  
+   Les lois ne sont pas gravées dans la pierre. Par ton prestige, ton audace ou tes contacts, tu peux modifier les règles — ou les contourner.
+
+🟨**Fais de chaque joute un moment de légende**  
+   Que tu gagnes ou perdes, laisse une trace. Ton style, ton histoire, ton impact doivent résonner dans les chants et les rumeurs.
+
+🟨**Utilise la foule comme levier**  
+   Le public est une arme. Séduis-le, choque-le, inspire-le — car sa voix peut faire basculer ton destin.
+
+🟨**Joue avec les tensions politiques**  
+   Chaque action peut renforcer ou affaiblir une faction. Sois conscient des enjeux, et utilise-les pour façonner ton ascension.
+
+
+
+#  GM PRINCIPLES
+
+🟨**Fais résonner chaque victoire**  
    Chaque joute, chaque duel, chaque triomphe doit avoir un impact. Les performances des PJ doivent influencer les factions, les spectateurs, et parfois même les lois.
 
-2. **Montre que le prestige est une arme**  
+🟨**Montre que le prestige est une arme**  
    Le statut social, la réputation et les alliances sont aussi puissants que l’acier. Mets en scène les conséquences de la gloire… ou de l’humiliation.
 
-3. **Laisse les ducs jouer aux échecs**  
+🟨**Laisse les ducs jouer aux échecs**  
    Les factions et duchés ont leurs propres agendas. Utilise-les pour créer des dilemmes, des opportunités et des trahisons. Les PJ ne sont jamais hors du jeu politique.
 
-4. **Change les règles… mais toujours avec style**  
+🟨**Change les règles… mais toujours avec style**  
    Introduis des variations dans les joutes, des lois locales, des rituels étranges. Les règles ne sont pas figées — elles sont façonnées par ceux qui ont le pouvoir.
 
-5. **Fais vibrer la foule**  
+🟨**Fais vibrer la foule**  
    Les spectateurs sont un personnage à part entière. Leur réaction peut changer le cours d’un match, influencer les sponsors ou déclencher des événements imprévus.
 
-6. **Laisse les secrets remonter à la surface**  
+🟨**Laisse les secrets remonter à la surface**  
    Même si l’exploration est secondaire, les mystères du Voile, les pactes anciens et les légendes oubliées doivent parfois surgir… surtout quand cela sert les intrigues.
 
 ---
