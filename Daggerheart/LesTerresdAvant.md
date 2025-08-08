@@ -314,7 +314,7 @@ between your new mechanics and Daggerheart’s core design
 approach
 
 En composition
-# 🧭 Régions et lieux significatifs
+# Régions et lieux significatifs
 
 | Nom | Description |
 | --- | ----------- |
@@ -327,7 +327,7 @@ En composition
 
 ---
 
-# 🛡️ Factions principales
+#  Factions principales
 
 | Duché | Objectifs |
 | --- | --------- |
@@ -339,38 +339,18 @@ En composition
 | **Duché d’Aurélion** | Lieu de la joute sacré |
 | **Duché des Échardes** | Petit duché forestier. |
 
-# ⚙️ Mécaniques personnalisées
+#  Mécaniques personnalisées
 
-- 🎴 **Contrats Mystiques** : 
-- 🧾 **Réputation Régionale** : Chaque région réagit aux exploits ou aux erreurs des héros.
-- 🏇 **Défis d’Honneur** : Joutes, duels, combats stylisés régis par des codes sacrés.
-- 💠 **Cartes de Spectacle** : Événements imprévus lors des joutes modifient les règles.
-- 🧷 **Faveurs et Dettes** : Toute promesse peut devenir un lien durable.
-- 🏅 **Choix de Faction et Récompenses** : Les joueurs peuvent choisir une faction à représenter lors des joutes. Chaque faction offre des faveurs uniques, des revenus réguliers, et des avantages stratégiques en fonction de leurs performances dans les tournois.
-- 🏟️ **Sponsors et Animation de la Foule** : Les joueurs peuvent rechercher des sponsors parmi les factions, les villes ou les guildes pour financer leurs joutes. En animant la foule par des discours, des démonstrations ou des actes héroïques, ils peuvent gagner des faveurs supplémentaires et augmenter leurs revenus en or.
-- 📊 **Classements et Saisons** : Les performances des joueurs et des factions sont suivies à travers des classements saisonniers. Les meilleurs peuvent accéder à des tournois prestigieux, débloquer des récompenses uniques, et influencer le destin des Terres d’avant.
+-  **Contrats Mystiques** : 
+-  **Réputation Régionale** : Chaque région réagit aux exploits ou aux erreurs des héros.
+-  **Défis d’Honneur** : Joutes, duels, combats stylisés régis par des codes sacrés.
+-  **Cartes de Spectacle** : Événements imprévus lors des joutes modifient les règles.
+-  **Faveurs et Dettes** : Toute promesse peut devenir un lien durable.
+-  **Choix de Faction et Récompenses** : Les joueurs peuvent choisir une faction à représenter lors des joutes. Chaque faction offre des faveurs uniques, des revenus réguliers, et des avantages stratégiques en fonction de leurs performances dans les tournois.
+-  **Sponsors et Animation de la Foule** : Les joueurs peuvent rechercher des sponsors parmi les factions, les villes ou les guildes pour financer leurs joutes. En animant la foule par des discours, des démonstrations ou des actes héroïques, ils peuvent gagner des faveurs supplémentaires et augmenter leurs revenus en or.
+-  **Classements et Saisons** : Les performances des joueurs et des factions sont suivies à travers des classements saisonniers. Les meilleurs peuvent accéder à des tournois prestigieux, débloquer des récompenses uniques, et influencer le destin des Terres d’avant.
 
-## 🏇 Mécaniques d’Équipe et de Joute
-
-### **Le Héraut**
-Chaque équipe peut désigner un héraut chargé de présenter le chevalier et son équipe avant la joute. Si la foule apprécie la présentation (discours, démonstration, ou mise en scène), le chevalier gagne des bonus de moral et de popularité.
-
-### **Personnages de Support**
-
-#### **L’Écuyer**
-- **Main experte** : Répare une pièce d’équipement endommagée entre deux joutes. *Effet : restaure un point d’armure ou annule un malus d’équipement.*
-- **Préparation optimale** : Prépare le cheval avec précision selon le type d’épreuve. *Effet : donne un bonus de vitesse ou d’endurance selon le terrain.*
-- **Toucher discret** : Corrige une imperfection sans perturber la cérémonie. *Effet : réduit le risque de malus liés à l’armure pendant la joute.*
-
-#### **Le Stratège**
-- **Lecture de posture** : Analyse l’adversaire pendant son échauffement. *Effet : bonus tactique au chevalier lors de sa première attaque.*
-- **Anticipation brillante** : Prédit une manœuvre ennemie et propose un contre-plan. *Effet : le chevalier gagne une réaction gratuite pendant la joute.*
-- **Coordination d’équipe** : Synchronise les effets des soutiens. *Effet : tous les bonus d’équipe sont augmentés pendant un tour.*
-
-#### **Le Soigneur**
-- **Main apaisante** : Apaise douleur et stress du chevalier. *Effet : retire un malus physique ou mental.*
-- **Infusion réparatrice** : Crée un tonique régénérant avec des herbes. *Effet : rend 1d6 points de vie ou soigne un effet secondaire.*
-- **Mots réconfortants** : Renforce l'esprit du chevalier par prière ou mantra. *Effet : bonus de volonté ou de résistance mentale.*
+##  Mécaniques d’Équipe et de Joute
 
 ### **Le Chevalier**
 Le chevalier peut personnaliser son équipement pour maximiser ses performances :
@@ -378,6 +358,24 @@ Le chevalier peut personnaliser son équipement pour maximiser ses performances 
 - **Cheval** : Choisir un cheval adapté (force, vitesse, endurance) et le préparer avec des entraînements spécifiques.
 - **Armure** : Investir dans des améliorations (résistance, légèreté, esthétique) pour mieux résister aux impacts.
 - **Présence** : Travailler sur son charisme et sa posture pour impressionner la foule et les adversaires.
+
+### **Le Héraut**
+Chaque équipe peut désigner un héraut chargé de présenter le chevalier et son équipe avant la joute. Si la foule apprécie la présentation (discours, démonstration, ou mise en scène), le chevalier gagne des bonus de moral et de popularité.
+
+### **L’Écuyer**
+- **Main experte** : Répare une pièce d’équipement endommagée entre deux joutes. *Effet : restaure un point d’armure ou annule un malus d’équipement.*
+- **Préparation optimale** : Prépare le cheval avec précision selon le type d’épreuve. *Effet : donne un bonus de vitesse ou d’endurance selon le terrain.*
+- **Toucher discret** : Corrige une imperfection sans perturber la cérémonie. *Effet : réduit le risque de malus liés à l’armure pendant la joute.*
+
+### **Le Stratège**
+- **Lecture de posture** : Analyse l’adversaire pendant son échauffement. *Effet : bonus tactique au chevalier lors de sa première attaque.*
+- **Anticipation brillante** : Prédit une manœuvre ennemie et propose un contre-plan. *Effet : le chevalier gagne une réaction gratuite pendant la joute.*
+- **Coordination d’équipe** : Synchronise les effets des soutiens. *Effet : tous les bonus d’équipe sont augmentés pendant un tour.*
+
+### **Le Soigneur**
+- **Main apaisante** : Apaise douleur et stress du chevalier. *Effet : retire un malus physique ou mental.*
+- **Infusion réparatrice** : Crée un tonique régénérant avec des herbes. *Effet : rend 1d6 points de vie ou soigne un effet secondaire.*
+- **Mots réconfortants** : Renforce l'esprit du chevalier par prière ou mantra. *Effet : bonus de volonté ou de résistance mentale.*
 
 ---
 
