@@ -20,7 +20,7 @@ Les héros commencent souvent leur carrière dans des ligues mineures, où ils p
 Sportif, festif et épique avec des touches de tension politique.
 
 # **THEMES**
-Festival, joutes, événement sportif, loyauté et trahison, pouvoir et sacrifice, politique régionale, Conflits entre guildes, nobles et cultes.
+De grandes fêtes, des joutes et des compétitions de toutes sortes, loyauté et trahison, pouvoir et sacrifice, politique régionale, Conflits entre guildes, nobles et cultes.
 
 # **TOUCHSTONES**
 Game of Thrones, The Witcher, Arthurian Legends, Chevalier
