@@ -1,0 +1,996 @@
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="turbo-root" content="/Terresperdues">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.11.0.807984143644">
+
+    <!-- See retype.com -->
+    <meta name="generator" content="Retype 3.11.0">
+
+    <!-- Primary Meta Tags -->
+    <title>TITLE | Terres Perdues Guides</title>
+    <meta name="title" content="TITLE | Terres Perdues Guides">
+    <meta name="description" content="Les Terres d’avant">
+
+    <!-- Canonical -->
+    <link rel="canonical" href="https://terresperdues.github.io/Terresperdues/daggerheart/lesterresdavant/">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://terresperdues.github.io/Terresperdues/daggerheart/lesterresdavant/">
+    <meta property="og:title" content="TITLE | Terres Perdues Guides">
+    <meta property="og:description" content="Les Terres d’avant">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://terresperdues.github.io/Terresperdues/daggerheart/lesterresdavant/">
+    <meta property="twitter:title" content="TITLE | Terres Perdues Guides">
+    <meta property="twitter:description" content="Les Terres d’avant">
+
+    <script data-cfasync="false">(function(){var cl=document.documentElement.classList,ls=localStorage.getItem("retype_scheme"),hd=cl.contains("dark"),hl=cl.contains("light"),wm=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches;if(ls==="dark"||(!ls&&wm&&!hd&&!hl)){cl.remove("light");cl.add("dark")}else if(ls==="light"||(!ls&&!wm&&!hd&&!hl)){cl.remove("dark");cl.add("light")}})();</script>
+
+    <link href="../../resources/css/retype.css?v=3.11.0.807984143644" rel="stylesheet">
+
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.11.0.807984143644" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/retype.js?v=3.11.0" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.11.0.807984143644" data-turbo-eval="false" defer></script>
+</head>
+<body>
+    <div id="retype-app" class="relative text-base antialiased text-base-text bg-base-bg font-body">
+        <div class="absolute bottom-0 left-0" style="top: 5rem; right: 50%"></div>
+    
+        <header id="retype-header" class="sticky top-0 z-30 flex w-full h-16 bg-header-bg border-b border-header-border md:h-20">
+            <div class="container relative flex items-center justify-between pr-6 grow md:justify-start">
+                <!-- Mobile menu button skeleton -->
+                <button v-cloak class="skeleton retype-mobile-menu-button flex items-center justify-center shrink-0 overflow-hidden dark:text-white focus:outline-none rounded-full w-10 h-10 ml-3.5 md:hidden"><svg xmlns="http://www.w3.org/2000/svg" class="mb-px shrink-0" width="24" height="24" viewBox="0 0 24 24" role="presentation" style="margin-bottom: 0px;"><g fill="currentColor"><path d="M2 4h20v2H2zM2 11h20v2H2zM2 18h20v2H2z"></path></g></svg></button>
+                <div v-cloak id="retype-sidebar-left-toggle-button"></div>
+        
+                <!-- Logo -->
+                <div class="flex items-center justify-between h-full py-2 md:w-75">
+                    <div class="flex items-center px-2 md:px-6">
+                        <a id="retype-branding-logo" href="../../" class="flex items-center leading-snug text-xl">
+                            <span class="w-10 mr-2 grow-0 shrink-0 overflow-hidden">
+                                <img class="max-h-10 dark:hidden md:inline-block" src="../../images/logo-circle.png">
+                                <img class="max-h-10 hidden dark:inline-block" src="../../images/logo-circle.png">
+                            </span>
+                            <span class="dark:text-white font-bold line-clamp-1 md:line-clamp-2">Terres Perdues Guide</span>
+                        </a><span id="retype-branding-label" class="inline-flex mt-1 px-2 py-1 ml-4 text-xs font-medium leading-none items-center rounded-md bg-branding-label-bg text-branding-label-text ring-1 ring-branding-label-border ring-inset md:inline-block">v1.1</span>
+                    </div>
+        
+                    <span class="hidden h-8 border-r md:inline-block border-base-border"></span>
+                </div>
+        
+                <div class="flex justify-between md:grow">
+                    <!-- Top Nav -->
+                    <nav id="retype-header-nav" class="hidden md:flex">
+                        <ul class="flex flex-col mb-4 md:pl-16 md:mb-0 md:flex-row md:items-center">
+                            <li class="mr-6">
+                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="../../">Bienvenue!</a>
+                            </li>
+                            <li class="mr-6">
+                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="https://terresperdues.github.io/Terresperdues/regle/">Les Règles</a>
+                            </li>
+                            <li class="mr-6">
+                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="https://terresperdues.github.io/Terresperdues/histoire/">Histoire des Terres Perdues Saison 1 à 4</a>
+                            </li>
+                            <li class="mr-6">
+                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="https://terresperdues.github.io/Terresperdues/gamejam/">GAME JAM des Terres Perdues</a>
+                            </li>
+        
+                        </ul>
+                    </nav>
+        
+                    <!-- Header Right Skeleton -->
+                    <div v-cloak class="flex justify-end grow skeleton">
+        
+                        <!-- Search input mock -->
+                        <div class="relative hidden w-40 lg:block lg:max-w-sm lg:ml-auto">
+                            <div class="absolute flex items-center justify-center h-full pl-3 dark:text-dark-300">
+                                <svg xmlns="http://www.w3.org/2000/svg" class="icon-base" width="16" height="16" viewBox="0 0 24 24" aria-labelledby="icon" role="presentation" style="margin-bottom: 1px;"><g fill="currentColor" ><path d="M21.71 20.29l-3.68-3.68A8.963 8.963 0 0020 11c0-4.96-4.04-9-9-9s-9 4.04-9 9 4.04 9 9 9c2.12 0 4.07-.74 5.61-1.97l3.68 3.68c.2.19.45.29.71.29s.51-.1.71-.29c.39-.39.39-1.03 0-1.42zM4 11c0-3.86 3.14-7 7-7s7 3.14 7 7c0 1.92-.78 3.66-2.04 4.93-.01.01-.02.01-.02.01-.01.01-.01.01-.01.02A6.98 6.98 0 0111 18c-3.86 0-7-3.14-7-7z" ></path></g></svg>
+                            </div>
+                            <input class="w-full h-10 placeholder-search-placeholder transition-colors duration-200 ease-in bg-search-bg border border-transparent rounded md:text-sm hover:border-search-border-hover focus:outline-none focus:border-search-border-focus" style="padding: 0.625rem 0.75rem 0.625rem 2rem" type="text" placeholder="Search">
+                        </div>
+        
+                        <!-- Mobile search button -->
+                        <div class="flex items-center justify-center w-10 h-10 lg:hidden">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="shrink-0 icon-base" width="20" height="20" viewBox="0 0 24 24" aria-labelledby="icon" role="presentation" style="margin-bottom: 0px;"><g fill="currentColor" ><path d="M21.71 20.29l-3.68-3.68A8.963 8.963 0 0020 11c0-4.96-4.04-9-9-9s-9 4.04-9 9 4.04 9 9 9c2.12 0 4.07-.74 5.61-1.97l3.68 3.68c.2.19.45.29.71.29s.51-.1.71-.29c.39-.39.39-1.03 0-1.42zM4 11c0-3.86 3.14-7 7-7s7 3.14 7 7c0 1.92-.78 3.66-2.04 4.93-.01.01-.02.01-.02.01-.01.01-.01.01-.01.02A6.98 6.98 0 0111 18c-3.86 0-7-3.14-7-7z" ></path></g></svg>
+                        </div>
+        
+                        <!-- Dark mode switch placeholder -->
+                        <div class="w-10 h-10 lg:ml-2"></div>
+        
+                        <!-- History button -->
+                        <div class="flex items-center justify-center w-10 h-10" style="margin-right: -0.625rem;">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="shrink-0 icon-base" width="22" height="22" viewBox="0 0 24 24" aria-labelledby="icon" role="presentation" style="margin-bottom: 0px;"><g fill="currentColor" ><g ><path d="M12.01 6.01c-.55 0-1 .45-1 1V12a1 1 0 00.4.8l3 2.22a.985.985 0 001.39-.2.996.996 0 00-.21-1.4l-2.6-1.92V7.01c.02-.55-.43-1-.98-1z"></path><path d="M12.01 1.91c-5.33 0-9.69 4.16-10.05 9.4l-.29-.26a.997.997 0 10-1.34 1.48l1.97 1.79c.19.17.43.26.67.26s.48-.09.67-.26l1.97-1.79a.997.997 0 10-1.34-1.48l-.31.28c.34-4.14 3.82-7.41 8.05-7.41 4.46 0 8.08 3.63 8.08 8.09s-3.63 8.08-8.08 8.08c-2.18 0-4.22-.85-5.75-2.4a.996.996 0 10-1.42 1.4 10.02 10.02 0 007.17 2.99c5.56 0 10.08-4.52 10.08-10.08.01-5.56-4.52-10.09-10.08-10.09z"></path></g></g></svg>
+                        </div>
+                    </div>
+        
+                    <div v-cloak class="flex justify-end grow">
+                        <div id="retype-mobile-search-button"></div>
+                        <doc-search-desktop></doc-search-desktop>
+        
+                        <doc-theme-switch class="lg:ml-2"></doc-theme-switch>
+                        <doc-history></doc-history>
+                    </div>
+                </div>
+            </div>
+        </header>
+    
+    
+        <div id="retype-container" class="container relative flex bg-white">
+            <!-- Sidebar Skeleton -->
+            <div v-cloak class="fixed flex flex-col shrink-0 duration-300 ease-in-out bg-sidebar-left-bg border-sidebar-left-border sidebar top-20 w-75 border-r h-screen md:sticky transition-transform skeleton">
+            
+                <div class="flex items-center h-16 px-6">
+                    <input class="w-full h-8 px-3 py-2 transition-colors duration-200 ease-linear bg-filter-bg border border-filter-border rounded shadow-none text-sm focus:outline-none focus:border-filter-border-focus" type="text" placeholder="Filter">
+                </div>
+            
+                <div class="pl-6 mt-1 mb-4">
+                    <div class="w-32 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                    <div class="w-48 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                    <div class="w-40 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                    <div class="w-32 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                    <div class="w-48 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                    <div class="w-40 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                </div>
+            
+                <div class="shrink-0 mt-auto bg-transparent dark:border-base-border">
+                    <a class="flex items-center justify-center flex-nowrap h-16 text-gray-350 dark:text-dark-400 hover:text-gray-600 dark:hover:text-dark-300 transition-colors duration-150 ease-in docs-powered-by" target="_blank" href="https://retype.com/" rel="noopener">
+                        <span class="text-xs whitespace-nowrap">Powered by</span>
+                        <svg xmlns="http://www.w3.org/2000/svg" class="ml-2" fill="currentColor" width="96" height="20" overflow="visible"><path d="M0 0v20h13.59V0H0zm11.15 17.54H2.44V2.46h8.71v15.08zM15.8 20h2.44V4.67L15.8 2.22zM20.45 6.89V20h2.44V9.34z"/><g><path d="M40.16 8.44c0 1.49-.59 2.45-1.75 2.88l2.34 3.32h-2.53l-2.04-2.96h-1.43v2.96h-2.06V5.36h3.5c1.43 0 2.46.24 3.07.73s.9 1.27.9 2.35zm-2.48 1.1c.26-.23.38-.59.38-1.09 0-.5-.13-.84-.4-1.03s-.73-.28-1.39-.28h-1.54v2.75h1.5c.72 0 1.2-.12 1.45-.35zM51.56 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92h4.74v1.83h-6.79V5.36h6.64zM60.09 7.15v7.48h-2.06V7.15h-2.61V5.36h7.28v1.79h-2.61zM70.81 14.64h-2.06v-3.66l-3.19-5.61h2.23l1.99 3.45 1.99-3.45H74l-3.19 5.61v3.66zM83.99 6.19c.65.55.97 1.4.97 2.55s-.33 1.98-1 2.51-1.68.8-3.04.8h-1.23v2.59h-2.06V5.36h3.26c1.42 0 2.45.28 3.1.83zm-1.51 3.65c.25-.28.37-.69.37-1.22s-.16-.92-.48-1.14c-.32-.23-.82-.34-1.5-.34H79.7v3.12h1.38c.68 0 1.15-.14 1.4-.42zM95.85 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92H96v1.83h-6.79V5.36h6.64z"/></g></svg>
+                    </a>
+                </div>
+            </div>
+            
+            <!-- Sidebar component -->
+            <doc-sidebar v-cloak>
+                <template #sidebar-footer>
+                    <div class="shrink-0 mt-auto border-t md:bg-transparent md:border-none dark:border-base-border">
+            
+                        <div class="py-3 px-6 md:hidden border-b dark:border-base-border">
+                            <nav>
+                                <ul class="flex flex-wrap justify-center items-center">
+                                    <li class="mr-6">
+                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="../../">Bienvenue!</a>
+                                    </li>
+                                    <li class="mr-6">
+                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="https://terresperdues.github.io/Terresperdues/regle/">Les Règles</a>
+                                    </li>
+                                    <li class="mr-6">
+                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="https://terresperdues.github.io/Terresperdues/histoire/">Histoire des Terres Perdues Saison 1 à 4</a>
+                                    </li>
+                                    <li class="mr-6">
+                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="https://terresperdues.github.io/Terresperdues/gamejam/">GAME JAM des Terres Perdues</a>
+                                    </li>
+            
+                                </ul>
+                            </nav>
+                        </div>
+            
+                        <a class="flex items-center justify-center flex-nowrap h-16 text-gray-350 dark:text-dark-400 hover:text-gray-600 dark:hover:text-dark-300 transition-colors duration-150 ease-in docs-powered-by" target="_blank" href="https://retype.com/" rel="noopener">
+                            <span class="text-xs whitespace-nowrap">Powered by</span>
+                            <svg xmlns="http://www.w3.org/2000/svg" class="ml-2" fill="currentColor" width="96" height="20" overflow="visible"><path d="M0 0v20h13.59V0H0zm11.15 17.54H2.44V2.46h8.71v15.08zM15.8 20h2.44V4.67L15.8 2.22zM20.45 6.89V20h2.44V9.34z"/><g><path d="M40.16 8.44c0 1.49-.59 2.45-1.75 2.88l2.34 3.32h-2.53l-2.04-2.96h-1.43v2.96h-2.06V5.36h3.5c1.43 0 2.46.24 3.07.73s.9 1.27.9 2.35zm-2.48 1.1c.26-.23.38-.59.38-1.09 0-.5-.13-.84-.4-1.03s-.73-.28-1.39-.28h-1.54v2.75h1.5c.72 0 1.2-.12 1.45-.35zM51.56 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92h4.74v1.83h-6.79V5.36h6.64zM60.09 7.15v7.48h-2.06V7.15h-2.61V5.36h7.28v1.79h-2.61zM70.81 14.64h-2.06v-3.66l-3.19-5.61h2.23l1.99 3.45 1.99-3.45H74l-3.19 5.61v3.66zM83.99 6.19c.65.55.97 1.4.97 2.55s-.33 1.98-1 2.51-1.68.8-3.04.8h-1.23v2.59h-2.06V5.36h3.26c1.42 0 2.45.28 3.1.83zm-1.51 3.65c.25-.28.37-.69.37-1.22s-.16-.92-.48-1.14c-.32-.23-.82-.34-1.5-.34H79.7v3.12h1.38c.68 0 1.15-.14 1.4-.42zM95.85 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92H96v1.83h-6.79V5.36h6.64z"/></g></svg>
+                        </a>
+                    </div>
+                </template>
+            </doc-sidebar>
+    
+            <div class="grow min-w-0 bg-body-bg">
+                <!-- Render "toolbar" template here on api pages --><!-- Render page content -->
+                <div class="flex">
+                    <div id="retype-main" class="min-w-0 p-4 grow md:px-16">
+                        <main class="relative pb-12 lg:pt-2">
+                            <div class="retype-markdown" id="retype-content">
+                                <!-- Rendered if sidebar right is enabled -->
+                                <div id="retype-sidebar-right-toggle"></div>
+                                <!-- Page content  -->
+<doc-anchor-target id="title" class="break-words">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#title">#</doc-anchor-trigger>
+        <span><strong>TITLE</strong></span>
+    </h1>
+</doc-anchor-target>
+<p>Les Terres d’avant</p>
+<p>*Créer par Ludovic Gasse avec l&#x27;aide de Philippe Taillon, ...</p>
+<doc-anchor-target id="concept">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#concept">#</doc-anchor-trigger>
+        <span><strong>CONCEPT</strong></span>
+    </h1>
+</doc-anchor-target>
+<p>Un monde ancien où les joutes chevaleresques, les alliances fragiles et les secrets interdits façonnent le destin des héros. Les joutes chevaleresques, en plus d’être des rituels sacrés et des outils politiques, sont également des compétitions sportives qui galvanisent les foules et célèbrent l&#x27;habileté des participants.</p>
+<doc-anchor-target id="complexity-rating">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#complexity-rating">#</doc-anchor-trigger>
+        <span><strong>COMPLEXITY RATING</strong></span>
+    </h1>
+</doc-anchor-target>
+<p>2</p>
+<doc-anchor-target id="the-pitch">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#the-pitch">#</doc-anchor-trigger>
+        <span><strong>THE PITCH</strong></span>
+    </h1>
+</doc-anchor-target>
+<p>Dans les Terres d’avant, les héros naviguent entre royaumes brisés, factions rivales et mystères ancestraux. Les joutes chevaleresques ne sont pas seulement des compétitions, mais des rituels sacrés et des outils politiques. Chaque décision peut changer le cours de l’histoire. Les Terres d’avant sont un monde où chaque choix, chaque victoire, et chaque échec résonnent à travers les âges, façonnant le destin des royaumes et des individus.</p>
+<p>Les héros commencent souvent leur carrière dans des ligues mineures, où ils perfectionnent leurs compétences et se forgent une réputation. Avec persévérance et talent, ils peuvent devenir des étoiles montantes et, pour les plus exceptionnels, atteindre le statut de véritables vedettes sportives, admirées et célébrées à travers les Terres d’avant.</p>
+<doc-anchor-target id="tone--feel">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#tone--feel">#</doc-anchor-trigger>
+        <span><strong>TONE &amp; FEEL</strong></span>
+    </h1>
+</doc-anchor-target>
+<p>Sportif, festif, mystique et épique avec des touches de tension politique.</p>
+<doc-anchor-target id="themes">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#themes">#</doc-anchor-trigger>
+        <span><strong>THEMES</strong></span>
+    </h1>
+</doc-anchor-target>
+<p>Festival, joutes, événement sportif, loyauté et trahison, pouvoir et sacrifice, politique régionale, Conflits entre guildes, nobles et cultes.</p>
+<doc-anchor-target id="touchstones">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#touchstones">#</doc-anchor-trigger>
+        <span><strong>TOUCHSTONES</strong></span>
+    </h1>
+</doc-anchor-target>
+<p>Game of Thrones, The Witcher, Arthurian Legends, Chevalier</p>
+<doc-anchor-target id="overview">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#overview">#</doc-anchor-trigger>
+        <span><strong>OVERVIEW</strong></span>
+    </h1>
+</doc-anchor-target>
+<p>Les Terres d’avant sont les vestiges d’un monde ancien où royaumes brisés, alliances fragiles et traditions perdues se heurtent à l’émergence de nouvelles puissances. Dans ce monde, les joutes chevaleresques font autant office de sport que d’arbitrage politique, de rituel sacré et de monté au pouvoir. Les héros devront naviguer entre équipes rivales, les jeux de pouvoir et les décisions qui pourraient changer le cours de l’histoire.</p>
+<doc-anchor-target id="heritage-and-classes">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#heritage-and-classes">#</doc-anchor-trigger>
+        <span>HERITAGE AND CLASSES</span>
+    </h1>
+</doc-anchor-target>
+<doc-anchor-target id="highborne-dans-les-terres-davant">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#highborne-dans-les-terres-davant">#</doc-anchor-trigger>
+        <span>Highborne dans les Terres d’avant</span>
+    </h2>
+</doc-anchor-target>
+<doc-anchor-target id="adaptation-dans-le-cadre-de-campagne">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#adaptation-dans-le-cadre-de-campagne">#</doc-anchor-trigger>
+        <span><strong>Adaptation dans le Cadre de Campagne</strong></span>
+    </h3>
+</doc-anchor-target>
+<p>Les Highborne sont souvent les <strong>héritiers des grandes maisons nobles</strong>, des <strong>descendants des anciens champions</strong>, ou les <strong>proches de lignées sacrées</strong> qui ont façonné les joutes dans les siècles passés.</p>
+<doc-anchor-target id="particularités-du-cadre">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#particularités-du-cadre">#</doc-anchor-trigger>
+        <span><strong>Particularités du cadre</strong></span>
+    </h3>
+</doc-anchor-target>
+<ul>
+<li>Choix d’une <strong>faction ou duché comme maison d’origine</strong></li>
+<li><strong>Bonus lors de l&#x27;entrée dans les joutes</strong></li>
+<li><strong>Pression accrue de performance et d’apparence</strong> (stress)</li>
+</ul>
+<doc-anchor-target id="prompts-narratifs">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#prompts-narratifs">#</doc-anchor-trigger>
+        <span><strong>Prompts narratifs</strong></span>
+    </h3>
+</doc-anchor-target>
+<ul>
+<li><em>Quelle ancienne joute de ton lignage est encore chantée lors des festivals ?</em></li>
+<li><em>As-tu trahi les valeurs de ta maison pour suivre une voie plus modeste ou radicale ?</em></li>
+<li><em>Ton armure familiale est-elle bénie ou maudite par les dieux oubliés ?</em></li>
+</ul>
+<doc-anchor-target id="mécaniques-possible">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#mécaniques-possible">#</doc-anchor-trigger>
+        <span><strong>Mécaniques possible</strong></span>
+    </h3>
+</doc-anchor-target>
+<ul>
+<li>Armure ancestrale (bonus esthétique, pression sociale)</li>
+<li>Faveurs rapides + intrigues politiques</li>
+<li>Ovation publique si associé à un héros légendaire</li>
+</ul>
+<doc-anchor-target id="loreborne-et-orderborne-dans-les-terres-davant">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#loreborne-et-orderborne-dans-les-terres-davant">#</doc-anchor-trigger>
+        <span>Loreborne et Orderborne dans les Terres d’avant</span>
+    </h2>
+</doc-anchor-target>
+<doc-anchor-target id="adaptation-dans-le-cadre-de-campagne-1">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#adaptation-dans-le-cadre-de-campagne-1">#</doc-anchor-trigger>
+        <span><strong>Adaptation dans le Cadre de Campagne</strong></span>
+    </h3>
+</doc-anchor-target>
+<p>Les Loreborne sont les <strong>héritiers des archives vivantes</strong>, enfants de traditions oubliées ou gardiens de vérités interdites. Les Orderborne sont les gardiens des traditions chevaleresques et les protecteurs des codes sacrés. Ils incarnent la <strong>discipline, la justice et l’honneur</strong>.</p>
+<doc-anchor-target id="particularités-du-cadre-1">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#particularités-du-cadre-1">#</doc-anchor-trigger>
+        <span><strong>Particularités du cadre</strong></span>
+    </h3>
+</doc-anchor-target>
+<ul>
+<li>Connaissance des lois</li>
+<li>Connaissance des histoires passées</li>
+<li>Connaissance des anciens héros</li>
+</ul>
+<doc-anchor-target id="prompts-narratifs-1">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#prompts-narratifs-1">#</doc-anchor-trigger>
+        <span><strong>Prompts narratifs</strong></span>
+    </h3>
+</doc-anchor-target>
+<ul>
+<li><em>Quel fragment de savoir interdît possèdes-tu, et pourquoi le garder secret ?</em></li>
+<li><em>Ta mémoire est-elle la tienne, ou celle d’un esprit ancien qui te guide ?</em></li>
+<li><em>Quel est ton ancien héros préféré et qu&#x27;est-ce qui t&#x27;as marqué ?</em></li>
+<li><em>Quel serment as-tu prêté, et comment influences-tu les joutes ?</em></li>
+<li><em>As-tu déjà été confronté à un dilemme entre justice et loyauté ?</em></li>
+<li><em>Quel artefact sacré protèges-tu au nom de ton ordre ?</em></li>
+</ul>
+<doc-anchor-target id="mécaniques">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#mécaniques">#</doc-anchor-trigger>
+        <span><strong>Mécaniques</strong></span>
+    </h3>
+</doc-anchor-target>
+<ul>
+<li>Accès à des “contrats oubliés”</li>
+<li>Connaissance des règles et peut trouver des failles</li>
+<li>Connaissance des ancien héros et de leur secret.</li>
+<li>Accès à des rites sacrés</li>
+</ul>
+<doc-anchor-target id="ridgeborne-underborne-et-wildborne-dans-les-terres-davant">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#ridgeborne-underborne-et-wildborne-dans-les-terres-davant">#</doc-anchor-trigger>
+        <span>Ridgeborne, Underborne et Wildborne dans les Terres d’avant</span>
+    </h3>
+</doc-anchor-target>
+<doc-anchor-target id="adaptation-dans-le-cadre-de-campagne-2">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#adaptation-dans-le-cadre-de-campagne-2">#</doc-anchor-trigger>
+        <span><strong>Adaptation dans le Cadre de Campagne</strong></span>
+    </h3>
+</doc-anchor-target>
+<p>Les Ridgeborne sont nés au cœur des chaînes montagneuses, dans les vallées escarpées. Ils incarnent une <strong>résilience silencieuse</strong> et un <strong>lien viscéral avec la nature</strong>. Les Underborne sont des <strong>survivants farouches</strong>, issus des profondeurs — cavernes oubliées ou galeries abandonnées. Les Wildborne vivent en harmonie avec les bêtes, les vents et les rythmes naturels. Leur force vient de l’instinct et d’une <strong>spiritualité animale</strong>.</p>
+<doc-anchor-target id="particularités-du-cadre-2">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#particularités-du-cadre-2">#</doc-anchor-trigger>
+        <span><strong>Particularités du cadre</strong></span>
+    </h3>
+</doc-anchor-target>
+<ul>
+<li>Choix d&#x27;une monture suppérieur</li>
+<li>Connaissance des terrains</li>
+</ul>
+<doc-anchor-target id="prompts-narratifs-2">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#prompts-narratifs-2">#</doc-anchor-trigger>
+        <span><strong>Prompts narratifs</strong></span>
+    </h3>
+</doc-anchor-target>
+<ul>
+<li><em>Quel proverbe de ta communauté guides-tu dans chaque combat ?</em></li>
+<li><em>As-tu quitté les hauteurs pour prouver que les Ridgeborne sont plus que des bâtisseurs ?</em></li>
+<li><em>Quel est ton terrain de joute favoris ?</em></li>
+<li><em>Quel animal t’a choisi comme guide, et que t’a-t-il appris sur le monde des hommes ?</em></li>
+<li><em>As-tu déjà perdu le contrôle pendant une joute, et qu’est-ce que cela a révélé de toi ?</em></li>
+<li><em>Quel rite sauvage as-tu accompli pour être reconnu par les tiens ?</em></li>
+</ul>
+<doc-anchor-target id="mécaniques-1">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#mécaniques-1">#</doc-anchor-trigger>
+        <span><strong>Mécaniques</strong></span>
+    </h3>
+</doc-anchor-target>
+<ul>
+<li>Bonus en terrain irrégulier</li>
+<li>Techniques artisanales ou rituelles locales</li>
+<li>Bonus pour détecter les failles ou pièges</li>
+<li>Capacité à influencer le terrain</li>
+</ul>
+<doc-anchor-target id="seaborne-et-wanderborne-dans-les-terres-davant">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#seaborne-et-wanderborne-dans-les-terres-davant">#</doc-anchor-trigger>
+        <span>Seaborne et Wanderborne dans les terres d&#x27;avant</span>
+    </h2>
+</doc-anchor-target>
+<doc-anchor-target id="adaptation-dans-le-cadre-de-campagne-3">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#adaptation-dans-le-cadre-de-campagne-3">#</doc-anchor-trigger>
+        <span><strong>Adaptation dans le Cadre de Campagne</strong></span>
+    </h3>
+</doc-anchor-target>
+<p>Les Seaborne sont des <strong>marchands habiles</strong>, <strong>diplomates naturels</strong> et <strong>porteurs de récits anciens</strong>, nés entre le sel et les marchés flottants. Les Wanderborne sont des <strong>pèlerins</strong>, <strong>chercheurs de vérité</strong>, et <strong>navigateurs du monde fragmenté</strong>, nés sur les routes.</p>
+<doc-anchor-target id="particularités-du-cadre-3">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#particularités-du-cadre-3">#</doc-anchor-trigger>
+        <span><strong>Particularités du cadre</strong></span>
+    </h3>
+</doc-anchor-target>
+<ul>
+<li>Maîtrise du <strong>langage des pactes</strong></li>
+<li>Propagation des <strong>légendes régionales</strong></li>
+<li>Accès à des <strong>réseaux de troc rares</strong></li>
+<li>Utilisés comme <strong>ambassadeurs</strong> ou <strong>intermédiaires</strong></li>
+</ul>
+<doc-anchor-target id="prompts-narratifs-3">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#prompts-narratifs-3">#</doc-anchor-trigger>
+        <span><strong>Prompts narratifs</strong></span>
+    </h3>
+</doc-anchor-target>
+<ul>
+<li><em>Quelle légende de ton peuple as-tu modifiée pour sauver la réputation d’un chevalier tombé ?</em></li>
+<li><em>Quel pacte t’a lié à une faction que tu ne respectes pas vraiment ?</em></li>
+<li><em>Quel artefact rare as-tu trouvé dans une cale oubliée, et pourquoi ne l’as-tu pas vendu ?</em></li>
+</ul>
+<doc-anchor-target id="mécaniques-2">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#mécaniques-2">#</doc-anchor-trigger>
+        <span><strong>Mécaniques</strong></span>
+    </h3>
+</doc-anchor-target>
+<ul>
+<li>Bonus pour négocier des faveurs ou de l’équipement</li>
+<li>Capacité à réécrire une rumeur</li>
+<li>Accès à un réseau d’échange au marché noire</li>
+</ul>
+<doc-anchor-target id="slyborne-dans-les-terres-davant">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#slyborne-dans-les-terres-davant">#</doc-anchor-trigger>
+        <span>Slyborne dans les Terres d’avant</span>
+    </h2>
+</doc-anchor-target>
+<doc-anchor-target id="adaptation-dans-le-cadre-de-campagne-4">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#adaptation-dans-le-cadre-de-campagne-4">#</doc-anchor-trigger>
+        <span><strong>Adaptation dans le Cadre de Campagne</strong></span>
+    </h3>
+</doc-anchor-target>
+<p>Les Slyborne sont des <strong>manipulateurs</strong>, <strong>maîtres du mensonge</strong>, et <strong>artisans invisibles du destin</strong>, nés dans les ruelles, souterrains ou marais.</p>
+<doc-anchor-target id="particularités-du-cadre-4">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#particularités-du-cadre-4">#</doc-anchor-trigger>
+        <span><strong>Particularités du cadre</strong></span>
+    </h3>
+</doc-anchor-target>
+<ul>
+<li>Rôles : <strong>espions</strong>, <strong>saboteurs</strong>, <strong>négociateurs</strong></li>
+<li>Membres de <strong>guildes secrètes</strong></li>
+<li>Influence indirecte sur les joutes</li>
+</ul>
+<doc-anchor-target id="prompts-narratifs-4">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#prompts-narratifs-4">#</doc-anchor-trigger>
+        <span><strong>Prompts narratifs</strong></span>
+    </h3>
+</doc-anchor-target>
+<ul>
+<li><em>Quel secret dérobé lors d’une joute t’a valu l’exil ou la richesse ?</em></li>
+<li><em>As-tu trahi ta guilde pour suivre une cause chevaleresque ?</em></li>
+<li><em>Quel masque portes-tu… et depuis quand ?</em></li>
+</ul>
+<doc-anchor-target id="mécaniques-3">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#mécaniques-3">#</doc-anchor-trigger>
+        <span><strong>Mécaniques</strong></span>
+    </h3>
+</doc-anchor-target>
+<ul>
+<li>Bonus pour déjouer une stratégie ennemie</li>
+<li>Capacité à altérer l’ordre de la joute</li>
+<li>Accès à des “murmures de réseau”</li>
+</ul>
+<doc-anchor-target id="-classes-adaptées-aux-terres-davant">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#-classes-adaptées-aux-terres-davant">#</doc-anchor-trigger>
+        <span><span class="docs-emoji">&#x1F3AD;</span> Classes adaptées aux Terres d’avant</span>
+    </h1>
+</doc-anchor-target>
+<doc-anchor-target id="-chevaliers-et-protecteurs">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#-chevaliers-et-protecteurs">#</doc-anchor-trigger>
+        <span><span class="docs-emoji">&#x1F6E1;&#xFE0F;</span> Chevaliers et Protecteurs</span>
+    </h2>
+</doc-anchor-target>
+<doc-anchor-target id="warrior">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#warrior">#</doc-anchor-trigger>
+        <span><strong>Warrior</strong></span>
+    </h3>
+</doc-anchor-target>
+<p>Les guerriers incarnent les chevaliers des joutes, spécialistes des combats stylisés et des manœuvres en arène.</p>
+<doc-anchor-target id="guardian">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#guardian">#</doc-anchor-trigger>
+        <span><strong>Guardian</strong></span>
+    </h3>
+</doc-anchor-target>
+<p>Les protecteurs veillent sur leurs équipes et garantissent la sécurité des jouteurs, incarnant la discipline et la défense.</p>
+<doc-anchor-target id="-influenceurs-et-stratèges">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#-influenceurs-et-stratèges">#</doc-anchor-trigger>
+        <span><span class="docs-emoji">&#x1F3A4;</span> Influenceurs et Stratèges</span>
+    </h2>
+</doc-anchor-target>
+<doc-anchor-target id="bard">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#bard">#</doc-anchor-trigger>
+        <span><strong>Bard</strong></span>
+    </h3>
+</doc-anchor-target>
+<p>Les bardes sont les hérauts des ligues, influençant la foule et les sponsors par leur charisme et leurs récits.</p>
+<doc-anchor-target id="rogue">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#rogue">#</doc-anchor-trigger>
+        <span><strong>Rogue</strong></span>
+    </h3>
+</doc-anchor-target>
+<p>Les rogues manipulent les règles et perturbent les adversaires, jouant un rôle clé dans les intrigues des joutes.</p>
+<doc-anchor-target id="wizard-et-sorcerer">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#wizard-et-sorcerer">#</doc-anchor-trigger>
+        <span><strong>Wizard et sorcerer</strong></span>
+    </h3>
+</doc-anchor-target>
+<p>Les magiciens influencent l’ambiance et le terrain, utilisant leur magie pour modifier les règles ou créer des effets spectaculaires.</p>
+<doc-anchor-target id="-guérisseurs-et-mystiques">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#-guérisseurs-et-mystiques">#</doc-anchor-trigger>
+        <span><span class="docs-emoji">&#x2728;</span> Guérisseurs et Mystiques</span>
+    </h2>
+</doc-anchor-target>
+<doc-anchor-target id="seraph">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#seraph">#</doc-anchor-trigger>
+        <span><strong>Seraph</strong></span>
+    </h3>
+</doc-anchor-target>
+<p>Les séraphins bénissent les jouteurs et apportent des soins divins, renforçant l’équipe par leur foi.</p>
+<doc-anchor-target id="druid">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#druid">#</doc-anchor-trigger>
+        <span><strong>Druid</strong></span>
+    </h3>
+</doc-anchor-target>
+<p>Les druides utilisent leur connexion à la nature pour soigner et protéger, apportant une touche mystique aux joutes.</p>
+<hr>
+<doc-anchor-target id="-manipulateurs-et-saboteurs">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#-manipulateurs-et-saboteurs">#</doc-anchor-trigger>
+        <span><span class="docs-emoji">&#x1F575;&#xFE0F;</span>‍<span class="docs-emoji">&#x2642;&#xFE0F;</span> Manipulateurs et Saboteurs</span>
+    </h2>
+</doc-anchor-target>
+<doc-anchor-target id="thief">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#thief">#</doc-anchor-trigger>
+        <span><strong>Thief</strong></span>
+    </h3>
+</doc-anchor-target>
+<p>Les voleurs influencent secrètement les joutes, modifiant les règles ou perturbant les adversaires.</p>
+<doc-anchor-target id="ranger">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#ranger">#</doc-anchor-trigger>
+        <span><strong>Ranger</strong></span>
+    </h3>
+</doc-anchor-target>
+<p>???</p>
+<doc-anchor-target id="player-principles">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#player-principles">#</doc-anchor-trigger>
+        <span>PLAYER PRINCIPLES</span>
+    </h1>
+</doc-anchor-target>
+<p>Just as Daggerheart has player principles each campaign
+frame has thematic guidelines for players to keep in mind
+during the campaign Following these principles helps players
+stay in the ideal mindset to enjoy the campaign frame When
+creating these ensure they are evocative specific and
+actionable by the players</p>
+<doc-anchor-target id="principes-du-mj--les-terres-davant">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#principes-du-mj--les-terres-davant">#</doc-anchor-trigger>
+        <span>Principes du MJ — <em>Les Terres d’avant</em></span>
+    </h1>
+</doc-anchor-target>
+<ol>
+<li><p><strong>Fais résonner chaque victoire</strong><br />
+Chaque joute, chaque duel, chaque triomphe doit avoir un impact. Les performances des PJ doivent influencer les factions, les spectateurs, et parfois même les lois.</p>
+</li>
+<li><p><strong>Montre que le prestige est une arme</strong><br />
+Le statut social, la réputation et les alliances sont aussi puissants que l’acier. Mets en scène les conséquences de la gloire… ou de l’humiliation.</p>
+</li>
+<li><p><strong>Laisse les ducs jouer aux échecs</strong><br />
+Les factions et duchés ont leurs propres agendas. Utilise-les pour créer des dilemmes, des opportunités et des trahisons. Les PJ ne sont jamais hors du jeu politique.</p>
+</li>
+<li><p><strong>Change les règles… mais toujours avec style</strong><br />
+Introduis des variations dans les joutes, des lois locales, des rituels étranges. Les règles ne sont pas figées — elles sont façonnées par ceux qui ont le pouvoir.</p>
+</li>
+<li><p><strong>Fais vibrer la foule</strong><br />
+Les spectateurs sont un personnage à part entière. Leur réaction peut changer le cours d’un match, influencer les sponsors ou déclencher des événements imprévus.</p>
+</li>
+<li><p><strong>Laisse les secrets remonter à la surface</strong><br />
+Même si l’exploration est secondaire, les mystères du Voile, les pactes anciens et les légendes oubliées doivent parfois surgir… surtout quand cela sert les intrigues.</p>
+</li>
+</ol>
+<doc-anchor-target id="distinctions">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#distinctions">#</doc-anchor-trigger>
+        <span>DISTINCTIONS</span>
+    </h1>
+</doc-anchor-target>
+<p>Distinctions are what specifically set the world of the
+campaign frame apart from other settings They are the
+tentpoles holding up the canvas of the campaign the supports
+a GM will build their story on top of They establish the pillars
+of the campaign including core truths about the setting
+major locations prominent groups or factions and narrative
+elements that contribute to the setting’s atmosphere or
+themes (such as culture important historical events recent
+catastrophes conflicts and cosmology) and more Notably
+they do not include custom rules for the campaign frame—
+those come later in their own section
+Distinctions also mark where the GMfacing information truly
+begins While GMs can share some information from this
+section with their players this is where you start layering in
+the secrets they’ll use to build compelling story arcs across
+their campaign
+BUILDING DISTINCTIONS
+Distinctions may be one of the first things you develop when
+creating the campaign frame since they serve as the pillars or
+core truths of that setting Consider the following ideas when
+writing out your campaign frame’s distinctions:
+How the World Works: Convey the way magic functions
+in this setting (such as taking the form of technology in
+Motherboard) a prominent threat like a disease (such as the
+Serpent’s Sickness in The Witherwild) or other major setting
+elements that will inform play (such as the Lure in Beast
+Feast)
+Locations/Settlements: Detail major population centers
+(such as the Carrowcroft Walkaway and other walking cities in
+Motherboard or the outposts in Colossus of the Drylands) or
+prominent locations and landmarks (such as Brilliance in Beast
+Feast)<br />
+Core Philosophies and Ideologies: Highlight any cultural
+philosophical or ideological ideas that differentiate the
+setting such as the way magic users are met with suspicion in
+The Age of Umbra
+Major Figures: Establish the gods or other powerful beings
+key to the setting (such as the gods in The Witherwild or the
+Children of Godfell in Colossus of the Drylands)
+Ideally the distinctions provide the baseline for tables to
+build on the provided materials with their own ideas The
+writeup doesn’t need to be encyclopedic especially if you’re
+sticking to the capsule format of the campaign frames from
+the core rulebook which are designed to be inspirational
+and intentionally left incomplete to invite GM and player
+contributions
+INCITING INCIDENT<br />
+The inciting incident is a sample opening to a campaign using
+the frame It’s designed to introduce the party to the core
+themes and some of the frame’s distinctions while illustrating
+one possible approach for a GM to begin the campaign<br />
+BUILDING AN INCITING
+INCIDENT
+Inciting incidents are the intersection of three elements:
+adventure design character hooks and setting introduction
+They usually take the form of a situation and an objective for
+the PCs to complete with an individual or faction asking the
+PCs to intervene
+You could build the situation and objective first then decide
+what character hooks help motivate a variety of PCs to get
+involved Alternatively you could start with the hooks you
+think will be most motivating for PCs in this campaign frame
+then decide what situation or objective can best support or
+create those character hooks<br />
+Ideally an inciting incident provides a bitesize example of the
+kinds of stories the campaign frame is set up to tell addresses
+some or all of the listed themes incorporates some of the
+distinctions and presents a chance to show off the frame’s
+custom mechanics</p>
+<doc-anchor-target id="custom-mechanics">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#custom-mechanics">#</doc-anchor-trigger>
+        <span>CUSTOM MECHANICS</span>
+    </h1>
+</doc-anchor-target>
+<p>Each campaign frame includes new game mechanics and tools
+that represent elements unique to the campaign frame that
+enhance the experience of playing in its setting Sometimes
+these mechanics are born from the genre tropes the campaign
+frame employs and other times they’re tools to support the
+frame’s unique lore
+Your custom mechanics might aim to impact the campaign in
+any of the following ways (or another way entirely!):
+• They add more detail to an aspect of the world (like the
+corruption mechanics in The Witherwild and the rules for
+dangerous rests in The Age of Umbra)<br />
+• They introduce new items and adversary systems (like the
+guns and colossi in Colossus of the Drylands)
+• They offer additional subsystems that help the GM keep
+track of moving parts while ensuring the story moves
+forward (like the faction projects system in Five Banners
+Burning)<br />
+This section clearly marks where you’re homebrewing
+Daggerheart’s rules to fulfill your creative goals in the
+campaign frame Having a specific section also makes it easy
+for potential players to find and understand how the rules
+change for this specific game Keep the design principles from
+the beginning of this homebrew kit in mind when creating
+custom mechanics—if you find yourself adding mechanics
+that diverge from those principles consider adding new player
+or GM principles to your campaign frame to bridge the gap
+between your new mechanics and Daggerheart’s core design
+approach</p>
+<p>En composition</p>
+<doc-anchor-target id="-régions-et-lieux-significatifs">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#-régions-et-lieux-significatifs">#</doc-anchor-trigger>
+        <span><span class="docs-emoji">&#x1F9ED;</span> Régions et lieux significatifs</span>
+    </h1>
+</doc-anchor-target>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="comfortable">
+<thead>
+<tr>
+<th>Nom</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Aurélion</strong></td>
+<td>Plaine sacrée où se tiennent les grandes joutes.</td>
+</tr>
+<tr>
+<td><strong>Le Duché de Calbrune</strong></td>
+<td>Bastion juridique contrôlé par les adeptes de Runel.</td>
+</tr>
+<tr>
+<td><strong>Valome</strong></td>
+<td>Capitale principale des Terres d’avant, centre politique et culturel.</td>
+</tr>
+<tr>
+<td><strong>Port de Lume</strong></td>
+<td>Ville côtière prospère grâce à la pêche et au commerce maritime.</td>
+</tr>
+<tr>
+<td><strong>Forêt de l&#x27;échardes</strong></td>
+<td>Région boisée riche en ressources naturelles et en légendes locales.</td>
+</tr>
+<tr>
+<td><strong>Mine de Fercreux</strong></td>
+<td>Centre d’extraction minière vital pour l’économie régionale.</td>
+</tr>
+</tbody>
+</table>
+</div>
+<hr>
+<doc-anchor-target id="-factions-principales">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#-factions-principales">#</doc-anchor-trigger>
+        <span><span class="docs-emoji">&#x1F6E1;&#xFE0F;</span> Factions principales</span>
+    </h1>
+</doc-anchor-target>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="comfortable">
+<thead>
+<tr>
+<th>Duché</th>
+<th>Objectifs</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Duché de Valome</strong></td>
+<td>Maintenir son rôle de centre politique et culturel des Terres d’avant.</td>
+</tr>
+<tr>
+<td><strong>Duché de Calbrune</strong></td>
+<td>Renforcer son contrôle juridique et étendre l’influence de Runel.</td>
+</tr>
+<tr>
+<td><strong>Duché de Fercreux</strong></td>
+<td>Exploiter les ressources minières pour asseoir sa puissance économique.</td>
+</tr>
+<tr>
+<td><strong>Duché de Lume</strong></td>
+<td>Dominer le commerce maritime et les routes commerciales.</td>
+</tr>
+<tr>
+<td><strong>Duché de ???</strong></td>
+<td>.</td>
+</tr>
+<tr>
+<td><strong>Duché d’Aurélion</strong></td>
+<td>Lieu de la joute sacré</td>
+</tr>
+<tr>
+<td><strong>Duché des Échardes</strong></td>
+<td>Petit duché forestier.</td>
+</tr>
+</tbody>
+</table>
+</div>
+<doc-anchor-target id="-mécaniques-personnalisées">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#-mécaniques-personnalisées">#</doc-anchor-trigger>
+        <span><span class="docs-emoji">&#x2699;&#xFE0F;</span> Mécaniques personnalisées</span>
+    </h1>
+</doc-anchor-target>
+<ul>
+<li><span class="docs-emoji">&#x1F3B4;</span> <strong>Contrats Mystiques</strong> :</li>
+<li><span class="docs-emoji">&#x1F9FE;</span> <strong>Réputation Régionale</strong> : Chaque région réagit aux exploits ou aux erreurs des héros.</li>
+<li><span class="docs-emoji">&#x1F3C7;</span> <strong>Défis d’Honneur</strong> : Joutes, duels, combats stylisés régis par des codes sacrés.</li>
+<li><span class="docs-emoji">&#x1F4A0;</span> <strong>Cartes de Spectacle</strong> : Événements imprévus lors des joutes modifient les règles.</li>
+<li><span class="docs-emoji">&#x1F9F7;</span> <strong>Faveurs et Dettes</strong> : Toute promesse peut devenir un lien durable.</li>
+<li><span class="docs-emoji">&#x1F3C5;</span> <strong>Choix de Faction et Récompenses</strong> : Les joueurs peuvent choisir une faction à représenter lors des joutes. Chaque faction offre des faveurs uniques, des revenus réguliers, et des avantages stratégiques en fonction de leurs performances dans les tournois.</li>
+<li><span class="docs-emoji">&#x1F3DF;&#xFE0F;</span> <strong>Sponsors et Animation de la Foule</strong> : Les joueurs peuvent rechercher des sponsors parmi les factions, les villes ou les guildes pour financer leurs joutes. En animant la foule par des discours, des démonstrations ou des actes héroïques, ils peuvent gagner des faveurs supplémentaires et augmenter leurs revenus en or.</li>
+<li><span class="docs-emoji">&#x1F4CA;</span> <strong>Classements et Saisons</strong> : Les performances des joueurs et des factions sont suivies à travers des classements saisonniers. Les meilleurs peuvent accéder à des tournois prestigieux, débloquer des récompenses uniques, et influencer le destin des Terres d’avant.</li>
+</ul>
+<doc-anchor-target id="-mécaniques-déquipe-et-de-joute">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#-mécaniques-déquipe-et-de-joute">#</doc-anchor-trigger>
+        <span><span class="docs-emoji">&#x1F3C7;</span> Mécaniques d’Équipe et de Joute</span>
+    </h2>
+</doc-anchor-target>
+<doc-anchor-target id="le-héraut">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#le-héraut">#</doc-anchor-trigger>
+        <span><strong>Le Héraut</strong></span>
+    </h3>
+</doc-anchor-target>
+<p>Chaque équipe peut désigner un héraut chargé de présenter le chevalier et son équipe avant la joute. Si la foule apprécie la présentation (discours, démonstration, ou mise en scène), le chevalier gagne des bonus de moral et de popularité.</p>
+<doc-anchor-target id="personnages-de-support">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#personnages-de-support">#</doc-anchor-trigger>
+        <span><strong>Personnages de Support</strong></span>
+    </h3>
+</doc-anchor-target>
+<doc-anchor-target id="lécuyer">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#lécuyer">#</doc-anchor-trigger>
+        <span><strong>L’Écuyer</strong></span>
+    </h4>
+</doc-anchor-target>
+<ul>
+<li><strong>Main experte</strong> : Répare une pièce d’équipement endommagée entre deux joutes. <em>Effet : restaure un point d’armure ou annule un malus d’équipement.</em></li>
+<li><strong>Préparation optimale</strong> : Prépare le cheval avec précision selon le type d’épreuve. <em>Effet : donne un bonus de vitesse ou d’endurance selon le terrain.</em></li>
+<li><strong>Toucher discret</strong> : Corrige une imperfection sans perturber la cérémonie. <em>Effet : réduit le risque de malus liés à l’armure pendant la joute.</em></li>
+</ul>
+<doc-anchor-target id="le-stratège">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#le-stratège">#</doc-anchor-trigger>
+        <span><strong>Le Stratège</strong></span>
+    </h4>
+</doc-anchor-target>
+<ul>
+<li><strong>Lecture de posture</strong> : Analyse l’adversaire pendant son échauffement. <em>Effet : bonus tactique au chevalier lors de sa première attaque.</em></li>
+<li><strong>Anticipation brillante</strong> : Prédit une manœuvre ennemie et propose un contre-plan. <em>Effet : le chevalier gagne une réaction gratuite pendant la joute.</em></li>
+<li><strong>Coordination d’équipe</strong> : Synchronise les effets des soutiens. <em>Effet : tous les bonus d’équipe sont augmentés pendant un tour.</em></li>
+</ul>
+<doc-anchor-target id="le-soigneur">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#le-soigneur">#</doc-anchor-trigger>
+        <span><strong>Le Soigneur</strong></span>
+    </h4>
+</doc-anchor-target>
+<ul>
+<li><strong>Main apaisante</strong> : Apaise douleur et stress du chevalier. <em>Effet : retire un malus physique ou mental.</em></li>
+<li><strong>Infusion réparatrice</strong> : Crée un tonique régénérant avec des herbes. <em>Effet : rend 1d6 points de vie ou soigne un effet secondaire.</em></li>
+<li><strong>Mots réconfortants</strong> : Renforce l&#x27;esprit du chevalier par prière ou mantra. <em>Effet : bonus de volonté ou de résistance mentale.</em></li>
+</ul>
+<doc-anchor-target id="le-chevalier">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#le-chevalier">#</doc-anchor-trigger>
+        <span><strong>Le Chevalier</strong></span>
+    </h3>
+</doc-anchor-target>
+<p>Le chevalier peut personnaliser son équipement pour maximiser ses performances :</p>
+<ul>
+<li><strong>Cheval</strong> : Choisir un cheval adapté (force, vitesse, endurance) et le préparer avec des entraînements spécifiques.</li>
+<li><strong>Armure</strong> : Investir dans des améliorations (résistance, légèreté, esthétique) pour mieux résister aux impacts.</li>
+<li><strong>Présence</strong> : Travailler sur son charisme et sa posture pour impressionner la foule et les adversaires.</li>
+</ul>
+<doc-anchor-target id="session-0">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#session-0">#</doc-anchor-trigger>
+        <span>Session 0</span>
+    </h1>
+</doc-anchor-target>
+<p>These are new questions specific to the campaign frame that
+should be asked during a session zero These questions should
+both help situate your PCs in the setting and prompt groups
+to articulate how they want to address or handle important
+thematic or content elements of the campaign (such as gore
+the impact of war or intraparty conflict)
+For inspiration look to both the session zero questions
+for the campaign frames in the core rulebook and also
+the background and connection questions in each class’s
+character guide
+CAMPAIGN MAP
+Providing a map can be helpful for orienting players within
+your campaign frame’s setting Maps for Daggerheart
+campaign frames are designed with some locations filled in
+and plenty of space left for groups to make the map their own
+Consider adding a list of names to the map that thematically
+f
+it the world—GMs can prompt players to choose from these
+names and place them on the map building out the setting
+together so everyone feels ownership of the story</p>
+
+                                
+                                <!-- Required only on API pages -->
+                                <doc-toolbar-member-filter-no-results></doc-toolbar-member-filter-no-results>
+                            </div>
+                            <footer id="retype-content-footer" class="clear-both">
+                            
+                                <nav id="retype-nextprev" class="print:hidden flex mt-14">
+                                    <div class="w-1/2">
+                                        <a class="px-5 py-4 h-full flex items-center break-normal font-medium text-body-link border border-base-border hover:border-base-border-hover rounded-l-lg transition-colors duration-150 relative hover:z-5" href="../../regle/guideroleplay/">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="mr-3" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M19 11H7.41l5.29-5.29a.996.996 0 10-1.41-1.41l-7 7a1 1 0 000 1.42l7 7a1.024 1.024 0 001.42-.01.996.996 0 000-1.41L7.41 13H19c.55 0 1-.45 1-1s-.45-1-1-1z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
+                                            <span>
+                                                <span class="block text-xs font-normal text-base-text-muted">Previous</span>
+                                                <span class="block mt-1">Guide​Roleplay</span>
+                                            </span>
+                                        </a>
+                                    </div>
+                            
+                                    <div class="w-1/2">
+                                        <a class="px-5 py-4 -mx-px h-full flex items-center justify-end break-normal font-medium text-body-link border border-base-border hover:border-base-border-hover rounded-r-lg transition-colors duration-150 relative hover:z-5" href="../../histoire-narrative/les-dieux/">
+                                            <span>
+                                                <span class="block text-xs font-normal text-right text-base-text-muted">Next</span>
+                                                <span class="block mt-1">Les Dieux</span>
+                                            </span>
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="ml-3" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M19.92 12.38a1 1 0 00-.22-1.09l-7-7a.996.996 0 10-1.41 1.41l5.3 5.3H5c-.55 0-1 .45-1 1s.45 1 1 1h11.59l-5.29 5.29a.996.996 0 000 1.41c.19.2.44.3.7.3s.51-.1.71-.29l7-7c.09-.09.16-.21.21-.33z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
+                                        </a>
+                                    </div>
+                                </nav>
+                            </footer>
+                        </main>
+                
+                        <div id="retype-page-footer" class="print:border-none border-t border-base-border pt-6 mb-8">
+                            <footer class="flex flex-wrap items-center justify-between print:justify-center">
+                                <div id="retype-footer-links" class="print:hidden">
+                                    <ul class="flex flex-wrap items-center text-sm">
+                                    </ul>
+                                </div>
+                                <div id="retype-copyright" class="print:justify-center py-2 text-footer-text font-footer-link-weight text-sm leading-relaxed"><p>© Copyright 2025. All rights reserved.</p></div>
+                            </footer>
+                        </div>
+                    </div>
+                
+                    <!-- Rendered if sidebar right is enabled -->
+                    <!-- Sidebar right skeleton-->
+                    <div v-cloak class="fixed top-0 bottom-0 right-0 translate-x-full bg-sidebar-right-bg border-sidebar-right-border lg:sticky lg:border-l lg:shrink-0 lg:pt-6 lg:transform-none sm:w-1/2 lg:w-64 lg:z-0 md:w-104 sidebar-right skeleton">
+                        <div class="pl-5">
+                            <div class="w-32 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                            <div class="w-48 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                            <div class="w-40 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                        </div>
+                    </div>
+                
+                    <!-- User should be able to hide sidebar right -->
+                    <doc-sidebar-right v-cloak></doc-sidebar-right>
+                </div>
+
+            </div>
+        </div>
+    
+        <doc-search-mobile></doc-search-mobile>
+        <doc-back-to-top></doc-back-to-top>
+    </div>
+
+
+    <div id="retype-overlay-target"></div>
+
+    <script data-cfasync="false">window.__DOCS__ = { "title": "TITLE", level: 2, icon: "file", hasPrism: false, hasMermaid: false, hasMath: false, tocDepth: 23 }</script>
+</body>
+</html>
