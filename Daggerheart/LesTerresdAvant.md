@@ -138,9 +138,9 @@ Les Slyborne sont des **manipulateurs**, **maîtres du mensonge**, et **artisans
 - Accès à des “murmures de réseau”
 
 
-# 🎭 Classes adaptées aux Terres d’avant
+# Classes adaptées aux Terres d’avant
 
-## 🛡️ Chevaliers et Protecteurs
+## Chevaliers et Protecteurs
 
 ### **Warrior**
 Les guerriers incarnent les chevaliers des joutes, spécialistes des combats stylisés et des manœuvres en arène.
@@ -148,7 +148,7 @@ Les guerriers incarnent les chevaliers des joutes, spécialistes des combats sty
 ### **Guardian**
 Les protecteurs veillent sur leurs équipes et garantissent la sécurité des jouteurs, incarnant la discipline et la défense.
 
-## 🎤 Influenceurs et Stratèges
+## Influenceurs et Stratèges
 
 ### **Bard**
 Les bardes sont les hérauts des ligues, influençant la foule et les sponsors par leur charisme et leurs récits.
@@ -159,7 +159,7 @@ Les rogues manipulent les règles et perturbent les adversaires, jouant un rôle
 ### **Wizard et sorcerer**
 Les magiciens influencent l’ambiance et le terrain, utilisant leur magie pour modifier les règles ou créer des effets spectaculaires.
 
-## ✨ Guérisseurs et Mystiques
+## Guérisseurs et Mystiques
 
 ### **Seraph**
 Les séraphins bénissent les jouteurs et apportent des soins divins, renforçant l’équipe par leur foi.
@@ -169,7 +169,7 @@ Les druides utilisent leur connexion à la nature pour soigner et protéger, app
 
 ---
 
-## 🕵️‍♂️ Manipulateurs et Saboteurs
+## Manipulateurs et Saboteurs
 
 ### **Thief**
 Les voleurs influencent secrètement les joutes, modifiant les règles ou perturbant les adversaires.
