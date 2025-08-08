@@ -12,6 +12,7 @@ Un monde ancien où les joutes chevaleresques, les alliances fragiles et les sec
 
 # **THE PITCH**
 *Read this section to your players to introduce them to the campaign.*
+
 Dans les Terres d’avant, les héros naviguent entre royaumes brisés, factions rivales et mystères ancestraux. Les joutes chevaleresques ne sont pas seulement des compétitions, mais des rituels sacrés et des outils politiques. Chaque décision peut changer le cours de l’histoire. Les Terres d’avant sont un monde où chaque choix, chaque victoire, et chaque échec résonnent à travers les âges, façonnant le destin des royaumes et des individus.
 
 Les héros commencent souvent leur carrière dans des ligues mineures, où ils perfectionnent leurs compétences et se forgent une réputation. Avec persévérance et talent, ils peuvent devenir des étoiles montantes et, pour les plus exceptionnels, atteindre le statut de véritables vedettes sportives, admirées et célébrées à travers les Terres d’avant.
@@ -27,12 +28,14 @@ Game of Thrones, The Witcher, Arthurian Legends, Chevalier
 
 # **OVERVIEW**
 *If your group decides to play this campaign, give your players the following information before character creation.*
+
 Les Terres d’avant sont les vestiges d’un monde ancien où royaumes brisés, alliances fragiles et traditions perdues se heurtent à l’émergence de nouvelles puissances. Dans ce monde, les joutes chevaleresques font autant office de sport que d’arbitrage politique, de rituel sacré et de monté au pouvoir. Les héros devront naviguer entre équipes rivales, les jeux de pouvoir et les décisions qui pourraient changer le cours de l’histoire.
 
 ---
 
 # COMMUNITIES
 *All communities are available, but some have unique aspects within a Terres d'Avant campaign. As needed, provide the following information to your players and choose one or more of the questions to ask them during your session zero.*
+
 ## 🟨 Highborne 
 
 Dans les Terres d'Avant, les Highborne sont souvent les **héritiers des grandes maisons nobles**, des **descendants des anciens champions**, ou les **proches de lignées sacrées** qui ont façonné les joutes dans les siècles passés. La majorité des Highborne habitent à Valome, la capitale principale des Terres d’avant, qui est le centre politique et culturel mais peuvent également provenir de haute maison noble situé dans les duchés.
