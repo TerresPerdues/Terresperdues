@@ -35,7 +35,7 @@ Les Terres d’avant sont les vestiges d’un monde ancien où royaumes brisés,
 *All communities are available, but some have unique aspects within a Witherwild campaign. As needed, provide the following information to your players and choose one or more of the questions to ask them during your session zero.*
 ## 🟨 Highborne 
 
-Dans les Terres d'Avant, les Highborne sont souvent les **héritiers des grandes maisons nobles**, des **descendants des anciens champions**, ou les **proches de lignées sacrées** qui ont façonné les joutes dans les siècles passés. 
+Dans les Terres d'Avant, les Highborne sont souvent les **héritiers des grandes maisons nobles**, des **descendants des anciens champions**, ou les **proches de lignées sacrées** qui ont façonné les joutes dans les siècles passés. La majorité des Highborne habitent à Valome, la capitale principale des Terres d’avant, qui est le centre politique et culturel mais peuvent également provenir de haute maison noble situé dans les duchés.
 
 
 - Choix d’une **faction ou duché comme maison d’origine**
