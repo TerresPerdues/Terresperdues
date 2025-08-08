@@ -37,43 +37,20 @@ Les Terres d’avant sont les vestiges d’un monde ancien où royaumes brisés,
 
 Dans les Terres d'Avant, les Highborne sont souvent les **héritiers des grandes maisons nobles**, des **descendants des anciens champions**, ou les **proches de lignées sacrées** qui ont façonné les joutes dans les siècles passés. La majorité des Highborne habitent à Valome, la capitale principale des Terres d’avant, qui est le centre politique et culturel mais peuvent également provenir de haute maison noble situé dans les duchés.
 
-
-- Choix d’une **faction ou duché comme maison d’origine**
-- **Bonus lors de l'entrée dans les joutes**
-- **Pression accrue de performance et d’apparence** (stress)
-
 - *Quelle ancienne joute de ton lignage est encore chantée lors des festivals ?*
 - *As-tu trahi les valeurs de ta maison pour suivre une voie plus modeste ou radicale ?*
 - *Ton armure familiale est-elle bénie ou maudite par les dieux oubliés ?*
 
-### **Mécaniques possible**
-- Armure ancestrale (bonus esthétique, pression sociale)
-- Faveurs rapides + intrigues politiques
-- Ovation publique si associé à un héros légendaire
-
 ## 🟨 Loreborne et Orderborne 
 
-### **Adaptation dans le Cadre de Campagne**
-Les Loreborne sont les **héritiers des archives vivantes**, enfants de traditions oubliées ou gardiens de vérités interdites. Les Orderborne sont les gardiens des traditions chevaleresques et les protecteurs des codes sacrés. Ils incarnent la **discipline, la justice et l’honneur**.
+Les Loreborne sont les **héritiers des archives vivantes**, enfants de traditions oubliées ou gardiens de vérités interdites. Les Orderborne sont les gardiens des traditions chevaleresques et les protecteurs des codes sacrés. Ils incarnent la **discipline, la justice et l’honneur**. Grande connaissance des lois, des histoires passées et des anciens héros, ils peuvent impacter chaque décisions. 
 
-### **Particularités du cadre**
-- Connaissance des lois
-- Connaissance des histoires passées
-- Connaissance des anciens héros
-
-### **Prompts narratifs**
 - *Quel fragment de savoir interdît possèdes-tu, et pourquoi le garder secret ?*
 - *Ta mémoire est-elle la tienne, ou celle d’un esprit ancien qui te guide ?*
 - *Quel est ton ancien héros préféré et qu'est-ce qui t'as marqué ?*
 - *Quel serment as-tu prêté, et comment influences-tu les joutes ?*
 - *As-tu déjà été confronté à un dilemme entre justice et loyauté ?*
 - *Quel artefact sacré protèges-tu au nom de ton ordre ?*
-
-### **Mécaniques**
-- Accès à des “contrats oubliés”
-- Connaissance des règles et peut trouver des failles
-- Connaissance des ancien héros et de leur secret. 
-- Accès à des rites sacrés
 
 ### 🟨 Ridgeborne, Underborne et Wildborne
 
