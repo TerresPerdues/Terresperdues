@@ -27,6 +27,8 @@ Game of Thrones, The Witcher, Arthurian Legends, Chevalier
 # **OVERVIEW**
 Les Terres d’avant sont les vestiges d’un monde ancien où royaumes brisés, alliances fragiles et traditions perdues se heurtent à l’émergence de nouvelles puissances. Dans ce monde, les joutes chevaleresques font autant office de sport que d’arbitrage politique, de rituel sacré et de monté au pouvoir. Les héros devront naviguer entre équipes rivales, les jeux de pouvoir et les décisions qui pourraient changer le cours de l’histoire.
 
+---
+
 # HERITAGE AND CLASSES
 ## Highborne dans les Terres d’avant
 
@@ -167,8 +169,6 @@ Les séraphins bénissent les jouteurs et apportent des soins divins, renforçan
 ### **Druid**
 Les druides utilisent leur connexion à la nature pour soigner et protéger, apportant une touche mystique aux joutes.
 
----
-
 ## Manipulateurs et Saboteurs
 
 ### **Thief**
@@ -177,6 +177,7 @@ Les voleurs influencent secrètement les joutes, modifiant les règles ou pertur
 ### **Ranger**
 ???
 
+---
 
 # PLAYER PRINCIPLES  
 Just as Daggerheart has player principles each campaign 
@@ -186,6 +187,7 @@ stay in the ideal mindset to enjoy the campaign frame When
 creating these ensure they are evocative specific and 
 actionable by the players 
 
+---
 
 #  Principes du MJ — *Les Terres d’avant*
 
@@ -207,6 +209,7 @@ actionable by the players
 6. **Laisse les secrets remonter à la surface**  
    Même si l’exploration est secondaire, les mystères du Voile, les pactes anciens et les légendes oubliées doivent parfois surgir… surtout quand cela sert les intrigues.
 
+---
 
 
 # DISTINCTIONS  
@@ -375,6 +378,8 @@ Le chevalier peut personnaliser son équipement pour maximiser ses performances 
 - **Cheval** : Choisir un cheval adapté (force, vitesse, endurance) et le préparer avec des entraînements spécifiques.
 - **Armure** : Investir dans des améliorations (résistance, légèreté, esthétique) pour mieux résister aux impacts.
 - **Présence** : Travailler sur son charisme et sa posture pour impressionner la foule et les adversaires.
+
+---
 
 # Session 0 
 These are new questions specific to the campaign frame that 
