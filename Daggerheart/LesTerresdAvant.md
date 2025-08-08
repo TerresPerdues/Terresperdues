@@ -31,129 +31,69 @@ Les Terres d’avant sont les vestiges d’un monde ancien où royaumes brisés,
 
 ---
 
-# HERITAGE AND CLASSES
-*All communities are available, but some have unique aspects within a Witherwild campaign. As needed, provide the following information to your players and choose one or more of the questions to ask them during your session zero.*
+# COMMUNITIES
+*All communities are available, but some have unique aspects within a Terres d'Avant campaign. As needed, provide the following information to your players and choose one or more of the questions to ask them during your session zero.*
 ## 🟨 Highborne 
 
 Dans les Terres d'Avant, les Highborne sont souvent les **héritiers des grandes maisons nobles**, des **descendants des anciens champions**, ou les **proches de lignées sacrées** qui ont façonné les joutes dans les siècles passés. La majorité des Highborne habitent à Valome, la capitale principale des Terres d’avant, qui est le centre politique et culturel mais peuvent également provenir de haute maison noble situé dans les duchés.
 
 - *Quelle ancienne joute de ton lignage est encore chantée lors des festivals ?*
 - *As-tu trahi les valeurs de ta maison pour suivre une voie plus modeste ou radicale ?*
-- *Ton armure familiale est-elle bénie ou maudite par les dieux oubliés ?*
 
 ## 🟨 Loreborne et Orderborne 
 
-Les Loreborne sont les **héritiers des archives vivantes**, enfants de traditions oubliées ou gardiens de vérités interdites. Les Orderborne sont les gardiens des traditions chevaleresques et les protecteurs des codes sacrés. Ils incarnent la **discipline, la justice et l’honneur**. Grande connaissance des lois, des histoires passées et des anciens héros, ils peuvent impacter chaque décisions. 
+Les Loreborne sont les **héritiers des archives vivantes**, enfants de traditions oubliées ou gardiens de vérités interdites. Les Orderborne sont les gardiens des traditions chevaleresques et les protecteurs des codes sacrés. Ils incarnent la **discipline, la justice et l’honneur**. Grande connaissance des lois et des histoires passées, ils peuvent impacter chaque décisions. 
 
 - *Quel fragment de savoir interdît possèdes-tu, et pourquoi le garder secret ?*
-- *Ta mémoire est-elle la tienne, ou celle d’un esprit ancien qui te guide ?*
-- *Quel est ton ancien héros préféré et qu'est-ce qui t'as marqué ?*
-- *Quel serment as-tu prêté, et comment influences-tu les joutes ?*
 - *As-tu déjà été confronté à un dilemme entre justice et loyauté ?*
-- *Quel artefact sacré protèges-tu au nom de ton ordre ?*
+
+Il existe également un historique des anciens champions et de leurs équipes, des techniques qu'ils utilisaient et les pactes qu'ils ont fait. 
+ 
+- *Quel est ton anciens héros préférés et qu'est-ce qui t'as marqué ?*
+- *Est-ce que tu connais un secret historique que tu garde secret pour l'utiliser plustard ?*
 
 ### 🟨 Ridgeborne, Underborne et Wildborne
 
-### **Adaptation dans le Cadre de Campagne**
-Les Ridgeborne sont nés au cœur des chaînes montagneuses, dans les vallées escarpées. Ils incarnent une **résilience silencieuse** et un **lien viscéral avec la nature**. Les Underborne sont des **survivants farouches**, issus des profondeurs — cavernes oubliées ou galeries abandonnées. Les Wildborne vivent en harmonie avec les bêtes, les vents et les rythmes naturels. Leur force vient de l’instinct et d’une **spiritualité animale**.
+Les Ridgeborne sont nés au cœur des chaînes montagneuses, dans les vallées escarpées. Ils incarnent une résilience silencieuse et un lien viscéral avec la nature. Leur culture est marquée par des proverbes anciens et des rites de passage qui célèbrent leur connexion avec les éléments. Les Underborne sont des survivants farouches, issus des profondeurs — cavernes oubliées ou des mines. Ils maîtrisent l'art de la navigation souterraine et possèdent des connaissances uniques sur les minéraux et les échos des profondeurs. Les Wildborne vivent en harmonie avec les bêtes, les vents et les rythmes naturels. Leur force vient de l’instinct et d’une spiritualité animale, souvent exprimée à travers des danses rituelles et des chants qui invoquent les esprits des bêtes. Tous ont un lien profond avec la nature et tentent de la protéger de l’exploitation des grandes maisons. Ils ont plus de difficultés avec la politique et s'oppose souvent aux propositions qui vont altérer leur terres. 
 
-### **Particularités du cadre**
-- Choix d'une monture suppérieur
-- Connaissance des terrains
-
-### **Prompts narratifs**
-- *Quel proverbe de ta communauté guides-tu dans chaque combat ?*
-- *As-tu quitté les hauteurs pour prouver que les Ridgeborne sont plus que des bâtisseurs ?*
 - *Quel est ton terrain de joute favoris ?*
-- *Quel animal t’a choisi comme guide, et que t’a-t-il appris sur le monde des hommes ?*
 - *As-tu déjà perdu le contrôle pendant une joute, et qu’est-ce que cela a révélé de toi ?*
-- *Quel rite sauvage as-tu accompli pour être reconnu par les tiens ?*
-
-### **Mécaniques**
-- Bonus en terrain irrégulier
-- Techniques artisanales ou rituelles locales
-- Bonus pour détecter les failles ou pièges
-- Capacité à influencer le terrain
 
 ## 🟨 Seaborne et Wanderborne
 
-### **Adaptation dans le Cadre de Campagne**
-Les Seaborne sont des **marchands habiles**, **diplomates naturels** et **porteurs de récits anciens**, nés entre le sel et les marchés flottants. Les Wanderborne sont des **pèlerins**, **chercheurs de vérité**, et **navigateurs du monde fragmenté**, nés sur les routes.
+Les Seaborne sont des marchands habiles, diplomates naturels et porteurs de récits anciens, nés entre le sel et les marchés flottants. Leur culture est marquée par des récits marins, des pactes commerciaux et des traditions de troc qui ont façonné leur identité. Ils sont souvent les médiateurs entre les factions rivales, utilisant leur expertise en négociation pour apaiser les tensions et conclure des accords avantageux. Les Wanderborne sont des pèlerins, chercheurs de vérité, et navigateurs des royaumes fragmentés, nés sur les routes. Leur quête de savoir et leur capacité à tisser des liens entre les communautés en font des explorateurs respectés et des conteurs inspirants. Ils sont connus pour leur capacité à découvrir des artefacts rares et à réécrire les légendes pour préserver l'histoire des Terres d'avant.
 
-### **Particularités du cadre**
-- Maîtrise du **langage des pactes**
-- Propagation des **légendes régionales**
-- Accès à des **réseaux de troc rares**
-- Utilisés comme **ambassadeurs** ou **intermédiaires**
-
-### **Prompts narratifs**
 - *Quelle légende de ton peuple as-tu modifiée pour sauver la réputation d’un chevalier tombé ?*
 - *Quel pacte t’a lié à une faction que tu ne respectes pas vraiment ?*
 - *Quel artefact rare as-tu trouvé dans une cale oubliée, et pourquoi ne l’as-tu pas vendu ?*
 
-### **Mécaniques**
-- Bonus pour négocier des faveurs ou de l’équipement
-- Capacité à réécrire une rumeur
-- Accès à un réseau d’échange au marché noire
-
 
 ## 🟨 Slyborne
 
-### **Adaptation dans le Cadre de Campagne**
-Les Slyborne sont des **manipulateurs**, **maîtres du mensonge**, et **artisans invisibles du destin**, nés dans les ruelles, souterrains ou marais.
+Les Slyborne sont des manipulateurs, maîtres du mensonge, et artisans invisibles du destin, nés dans les ruelles, souterrains ou marais. Ils excellent dans l'art de l'espionnage, du sabotage et de la manipulation politique. Membres de guildes secrètes ou opérant en solitaire, ils influencent les joutes et les alliances dans l'ombre. Leur expertise en déguisement, en collecte d'informations et en création de rumeurs leur permet de déjouer les plans de leurs adversaires et de façonner le destin des Terres d'avant à leur avantage.
 
-### **Particularités du cadre**
-- Rôles : **espions**, **saboteurs**, **négociateurs**
-- Membres de **guildes secrètes**
-- Influence indirecte sur les joutes
-
-### **Prompts narratifs**
 - *Quel secret dérobé lors d’une joute t’a valu l’exil ou la richesse ?*
 - *As-tu trahi ta guilde pour suivre une cause chevaleresque ?*
-- *Quel masque portes-tu… et depuis quand ?*
 
-### **Mécaniques**
-- Bonus pour déjouer une stratégie ennemie
-- Capacité à altérer l’ordre de la joute
-- Accès à des “murmures de réseau”
+# ANCESTRIES
+All ancestries are available, but some have unique aspects within an Terres d'Avant campaign. As needed, provide the following information to your players.*
+## 🟨 Humanoide ancestries
+Pour devenir chevalier, il est impératif de pouvoir monter un cheval de taille moyenne. Ils peuvent utiliser des moyens magiques pour y parvenir. 
 
 
 # CLASSES 
+*All classes are available, but some have unique aspects within a Terres d'Avant campaign.*
 
-## Chevaliers et Protecteurs
+## 🟨 Warriors, Guardians and Ranger
 
-### **Warrior**
-Les guerriers incarnent les chevaliers des joutes, spécialistes des combats stylisés et des manœuvres en arène.
+Les chevaliers des joutes sont les figures centrales des tournois, incarnant l'essence même des combats stylisés et des manœuvres en arène. Ils doivent faire preuve d'une habileté exceptionnelle et d'une résistance à toute épreuve pour rester en selle et dominer leurs adversaires. Leurs prouesses sur le terrain, combinées à leur capacité à captiver la foule par leur présence charismatique, augmentent leurs chances de gravir les échelons et d'atteindre les plus hauts niveaux, avec pour objectif ultime de devenir des champions célébrés.
 
-### **Guardian**
-Les protecteurs veillent sur leurs équipes et garantissent la sécurité des jouteurs, incarnant la discipline et la défense.
+## 🟨 Bards, Rogues, Sorcerer and Wizards 
 
-## Influenceurs et Stratèges
+Influenceurs et Stratèges; Ils sont les hérauts des ligues, influençant la foule et les sponsors par leur charisme et leurs récits. Ils sont des manipulateurs de foules, capables de galvaniser le public par leurs performances pré-match, transformant chaque joute en un spectacle mémorable. Leur capacité à captiver l'audience peut non seulement renforcer le moral de leur équipe, mais aussi influencer les sponsors et les factions politiques qui soutiennent les compétitions. Ils manipulent les règles et perturbent les adversaires, jouant un rôle clé dans les intrigues des joutes. Ils excellent dans l'art de contourner les lois, de saboter les stratégies ennemies, et de créer des opportunités pour leur équipe. Leur influence s'étend souvent au-delà de l'arène, touchant les alliances politiques et les décisions stratégiques des factions. Les utilisateurs de sorcelerie influencent l’ambiance et le terrain, utilisant leur magie pour modifier les règles ou créer des effets spectaculaires. Leur maîtrise des éléments et des illusions peut transformer une joute ordinaire en un événement légendaire, tout en jouant un rôle subtil dans les jeux de pouvoir qui se déroulent en coulisses.
 
-### **Bard**
-Les bardes sont les hérauts des ligues, influençant la foule et les sponsors par leur charisme et leurs récits.
-
-### **Rogue**
-Les rogues manipulent les règles et perturbent les adversaires, jouant un rôle clé dans les intrigues des joutes.
-
-### **Wizard et sorcerer**
-Les magiciens influencent l’ambiance et le terrain, utilisant leur magie pour modifier les règles ou créer des effets spectaculaires.
-
-## Guérisseurs et Mystiques
-
-### **Seraph**
-Les séraphins bénissent les jouteurs et apportent des soins divins, renforçant l’équipe par leur foi.
-
-### **Druid**
-Les druides utilisent leur connexion à la nature pour soigner et protéger, apportant une touche mystique aux joutes.
-
-## Manipulateurs et Saboteurs
-
-### **Thief**
-Les voleurs influencent secrètement les joutes, modifiant les règles ou perturbant les adversaires.
-
-### **Ranger**
-???
+## 🟨 Seraph et Druid
+Ils prodiguent des bénédictions aux jouteurs et dispensent des soins, fortifiant l’équipe par leur foi ou en mobilisant leur lien profond avec la nature pour guérir et protéger. Leur soutien s’étend tant aux chevaliers qu’aux autres membres du groupe, assumant fréquemment le rôle de chef d’équipe et veillant à la préparation minutieuse des joutes et des aventures. 
 
 ---
 
