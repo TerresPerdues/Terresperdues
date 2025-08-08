@@ -2,7 +2,7 @@
 # **TITLE**
 Les Terres d’avant
 
-*Créer par Ludovic Gasse avec l'aide de Philippe Taillon, ... 
+*Créer par Ludovic Gasse avec l'aide de Philippe Taillon, ...* 
 
 # **CONCEPT**
 Un monde ancien où les joutes chevaleresques, les alliances fragiles et les secrets interdits façonnent le destin des héros. Les joutes chevaleresques, en plus d’être des rituels sacrés et des outils politiques, sont également des compétitions sportives qui galvanisent les foules et célèbrent l'habileté des participants.
