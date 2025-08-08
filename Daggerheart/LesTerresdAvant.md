@@ -80,7 +80,7 @@ Les Slyborne sont des manipulateurs, maîtres du mensonge, et artisans invisible
 
 # ANCESTRIES
 All ancestries are available, but some have unique aspects within an Terres d'Avant campaign. As needed, provide the following information to your players.*
-## 🟨 Humanoide ancestries
+## 🟨 all ancestries
 Pour devenir chevalier, il est impératif de pouvoir monter un cheval de taille moyenne. Ils peuvent utiliser des moyens magiques pour y parvenir. 
 
 
