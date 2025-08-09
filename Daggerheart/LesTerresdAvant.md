@@ -29,7 +29,18 @@ Game of Thrones, The Witcher, Arthurian Legends, Chevalier
 # **OVERVIEW**
 *If your group decides to play this campaign, give your players the following information before character creation.*
 
-Les Terres d’avant sont les vestiges d’un monde ancien où royaumes brisés, alliances fragiles et traditions perdues se heurtent à l’émergence de nouvelles puissances. Dans ce monde, les joutes chevaleresques font autant office de sport que d’arbitrage politique, de rituel sacré et de monté au pouvoir. Les héros devront naviguer entre équipes rivales, les jeux de pouvoir et les décisions qui pourraient changer le cours de l’histoire.
+es Terres d’avant sont les vestiges d’un monde ancien, où les royaumes brisés, les alliances fragiles et les traditions oubliées s’entrechoquent avec l’ascension de nouvelles puissances. Dans ce monde en perpétuelle recomposition, les joutes chevaleresques ne sont pas de simples compétitions sportives : elles incarnent des rituels sacrés, des instruments d’arbitrage politique et des tremplins vers le pouvoir. Chaque affrontement dans l’arène est une scène où se jouent les ambitions, les loyautés et les trahisons. Les héros doivent naviguer entre équipes rivales, intrigues de cour et décisions qui pourraient bouleverser l’équilibre des duchés.
+
+Au cœur de ce théâtre épique se dresse Valome, la capitale majestueuse des Terres d’avant. Cité de marbre et de bannières, elle est le centre politique et culturel du royaume, là où convergent les ambitions des ducs, les voix des guildes et les murmures des cultes. C’est à Valome que siège le Champion — figure légendaire, élu par l’Ordre des Chevaliers pour incarner l’excellence, la justice et l’autorité. Le Champion ne se contente pas de régner sur les joutes : il agit comme juge suprême, arbitre des conflits entre duchés, et peut influer sur les lois et les décisions qui façonnent le destin du royaume.
+
+Le Grand Tournoi, organisé chaque saison dans les arènes sacrées de Valome, est l’événement le plus prestigieux des Terres d’avant. Mais y participer n’est pas un droit acquis : c’est un privilège qu’il faut mériter. Chaque équipe ou chevalier aspirant doit offrir un tribut à l’Ordre des Chevaliers, gardien des traditions et régulateur des joutes. Ce tribut peut prendre plusieurs formes, toutes symbolisant la valeur et l’engagement du prétendant :
+
+• Terrasser une créature légendaire, prouvant sa bravoure et sa force.
+• Sauver une communauté en péril, démontrant son sens du devoir et de la justice.
+• Faire un don faramineux à l’Ordre, illustrant sa richesse, ses alliances ou son influence.
+
+
+Ces tributs ne sont pas de simples formalités : ils sont des récits vivants, des exploits chantés dans les tavernes et gravés dans les archives de l’Ordre. Ils servent à rappeler que dans les Terres d’avant, la gloire ne s’achète pas — elle se conquiert, au prix du sang, du sacrifice et de la légende.
 
 ---
 
@@ -55,7 +66,7 @@ Il existe également un historique des anciens champions et de leurs équipes, d
 - *Quel est ton anciens héros préférés et qu'est-ce qui t'as marqué ?*
 - *Est-ce que tu connais un secret historique que tu garde secret pour l'utiliser plustard ?*
 
-### 🟨 Ridgeborne, Underborne et Wildborne
+## 🟨 Ridgeborne, Underborne et Wildborne
 
 Les Ridgeborne sont nés au cœur des chaînes montagneuses, dans les vallées escarpées. Ils incarnent une résilience silencieuse et un lien viscéral avec la nature. Leur culture est marquée par des proverbes anciens et des rites de passage qui célèbrent leur connexion avec les éléments. Les Underborne sont des survivants farouches, issus des profondeurs — cavernes oubliées ou des mines. Ils maîtrisent l'art de la navigation souterraine et possèdent des connaissances uniques sur les minéraux et les échos des profondeurs. Les Wildborne vivent en harmonie avec les bêtes, les vents et les rythmes naturels. Leur force vient de l’instinct et d’une spiritualité animale, souvent exprimée à travers des danses rituelles et des chants qui invoquent les esprits des bêtes. Tous ont un lien profond avec la nature et tentent de la protéger de l’exploitation des grandes maisons. Ils ont plus de difficultés avec la politique et s'oppose souvent aux propositions qui vont altérer leur terres. 
 
@@ -80,7 +91,7 @@ Les Slyborne sont des manipulateurs, maîtres du mensonge, et artisans invisible
 
 # ANCESTRIES
 All ancestries are available, but some have unique aspects within an Terres d'Avant campaign. As needed, provide the following information to your players.*
-## 🟨 all ancestries
+## 🟨 All ancestries
 Pour devenir chevalier, il est impératif de pouvoir monter un cheval de taille moyenne. Ils peuvent utiliser des moyens magiques pour y parvenir. 
 
 
