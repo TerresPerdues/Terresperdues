@@ -24,16 +24,16 @@ Dans un monde où la lumière se fait rare, jusqu’où iriez-vous pour protége
 Final Fantasy, Berserk, Diablo, The Witcher
 
 # **OVERVIEW**
-Le Monde
+### Le Monde
 Orvalhys est un univers de haute-fantasy qui a connu un Âge d’Or où royaumes, cités et peuples vivaient sous la lumière et la bénédiction des dieux. La paix, la prospérité et la magie abondaient, tissant un équilibre presque parfait. Mais cet âge de splendeur a pris fin lorsqu’un acte impie — une tentative de voler l’essence d’un dieu — a déclenché la colère céleste. Les divinités se sont détournées des mortels, et les ténèbres ont envahi le monde : morts-vivants, démons et créatures monstrueuses hantent désormais les terres.
 
-Les Pierres-Larmes
+### Les Pierres-Larmes
 Les rares zones encore protégées de la corruption le sont grâce aux Pierres-Larmes : des cristaux sacrés nés de l’âme de héros légendaires à leur mort. Leur lumière repousse les ténèbres, mais leur portée est limitée et leur rareté en fait l’objet de toutes les convoitises. Posséder une Pierre-Larme, c’est avoir le pouvoir de protéger — ou de dominer — des centaines de vies.
 
-Les Dangers
+### Les Dangers
 Au-delà des enclaves lumineuses, s’étendent les Terres Perdues, où les ombres dominent. Les voyageurs y affrontent monstres, pièges, ruines maudites et conditions extrêmes. Mais le danger vient aussi des vivants : royaumes déchus, ordres religieux fanatiques, guildes marchandes armées et bandes de pillards s’affrontent pour contrôler ces reliques. Les alliances y sont fragiles, les trahisons fréquentes, et chaque rencontre peut être fatale.
 
-Votre Rôle
+### Votre Rôle
 Vous êtes de ceux qui osent franchir les frontières de la lumière pour braver les Terres Perdues. Vos missions vous mèneront à chercher des Pierres-Larmes, défendre celles existantes ou, parfois, les arracher des mains de vos rivaux. Vous devrez combattre, négocier, survivre… et faire des choix qui auront un impact durable. Car dans Orvalhys, chaque victoire a un prix, et chaque flamme rallumée attire les ombres.
 
 ---
