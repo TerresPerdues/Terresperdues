@@ -35,12 +35,13 @@ Au cœur de ce théâtre épique se dresse **Valome**, la capitale majestueuse d
 
 Le **Grand Tournoi d'Aurélion**, organisé chaque saison dans les arènes sacrées du duché qui porte ce nom, est l’événement le plus prestigieux des Terres d’avant. Mais y participer n’est pas un droit acquis : c’est un privilège qu’il faut mériter. Chaque équipe ou chevalier aspirant doit offrir un tribut à l’Ordre des Chevaliers, gardien des traditions et régulateur des joutes. Ce tribut peut prendre plusieurs formes, toutes symbolisant la valeur et l’engagement du prétendant :
 
-• Terrasser une créature légendaire, prouvant sa bravoure et sa force.
-• Sauver une communauté en péril, démontrant son sens du devoir et de la justice.
-• Faire un don faramineux à l’Ordre, illustrant sa richesse, ses alliances ou son influence.
-
+- Terrasser une créature légendaire, prouvant sa bravoure et sa force.
+- Sauver une communauté en péril, démontrant son sens du devoir et de la justice.
+- Faire un don faramineux à l’Ordre, illustrant sa richesse, ses alliances ou son influence.
 
 Ces tributs ne sont pas de simples formalités : ils sont des récits vivants, des exploits chantés dans les tavernes et gravés dans les archives de l’Ordre. Ils servent à rappeler que dans les Terres d’avant, la gloire ne s’achète pas — elle se conquiert, au prix du sang, du sacrifice et de la légende.
+
+**L’ordre des chevaliers**, basé à xxx, régit les règles et les traditions des joutes. Il veille à la préservation des valeurs chevaleresques et à l’équité des compétitions. Les membres de l’ordre, souvent issus des grandes maisons nobles, jouent un rôle clé dans l’organisation des tournois et l’arbitrage des conflits. Leur influence s’étend bien au-delà des arènes, touchant les décisions politiques et les alliances stratégiques qui façonnent le destin des Terres d’avant.
 
 ---
 
@@ -107,7 +108,7 @@ Les chevaliers des joutes sont les figures centrales des tournois, incarnant l'e
 Influenceurs et Stratèges; Ils sont les hérauts des ligues, influençant la foule et les sponsors par leur charisme et leurs récits. Ils sont des manipulateurs de foules, capables de galvaniser le public par leurs performances pré-match, transformant chaque joute en un spectacle mémorable. Leur capacité à captiver l'audience peut non seulement renforcer le moral de leur équipe, mais aussi influencer les sponsors et les factions politiques qui soutiennent les compétitions. Ils manipulent les règles et perturbent les adversaires, jouant un rôle clé dans les intrigues des joutes. Ils excellent dans l'art de contourner les lois, de saboter les stratégies ennemies, et de créer des opportunités pour leur équipe. Leur influence s'étend souvent au-delà de l'arène, touchant les alliances politiques et les décisions stratégiques des factions. Les utilisateurs de sorcelerie influencent l’ambiance et le terrain, utilisant leur magie pour modifier les règles ou créer des effets spectaculaires. Leur maîtrise des éléments et des illusions peut transformer une joute ordinaire en un événement légendaire, tout en jouant un rôle subtil dans les jeux de pouvoir qui se déroulent en coulisses.
 
 ## 🟨 Seraph et Druid
-Ils prodiguent des bénédictions aux jouteurs et dispensent des soins, fortifiant l’équipe par leur foi ou en mobilisant leur lien profond avec la nature pour guérir et protéger. Leur soutien s’étend tant aux chevaliers qu’aux autres membres du groupe, assumant fréquemment le rôle de chef d’équipe et veillant à la préparation minutieuse des joutes et des aventures. 
+Ils prodiguent des bénédictions aux jouteurs et dispensent des soins, fortifiant l’équipe par leur foi ou en mobilisant leur lien profond avec la nature pour guérir et protéger. Leur soutien s’étend tant aux chevaliers qu’aux autres membres du groupe, assumant fréquemment le rôle de chef d’équipe et veillant à la préparation minutieuse des joutes et des aventures. Il n'est pas exclus de voir des Serpahs être chevalier également mais c'est plus rare pour les druid. 
 
 ---
 
@@ -162,75 +163,66 @@ Ces principes guident les joueurs pour incarner des personnages pleinement engag
 
 
 # DISTINCTIONS  
-Distinctions are what specifically set the world of the 
-campaign frame apart from other settings They are the 
-tentpoles holding up the canvas of the campaign the supports 
-a GM will build their story on top of They establish the pillars 
-of the campaign including core truths about the setting 
-major locations prominent groups or factions and narrative 
-elements that contribute to the setting’s atmosphere or 
-themes (such as culture important historical events recent 
-catastrophes conflicts and cosmology) and more Notably 
-they do not include custom rules for the campaign frame—
- those come later in their own section 
-Distinctions also mark where the GMfacing information truly 
-begins While GMs can share some information from this 
-section with their players this is where you start layering in 
-the secrets they’ll use to build compelling story arcs across 
-their campaign
- BUILDING DISTINCTIONS 
-Distinctions may be one of the first things you develop when 
-creating the campaign frame since they serve as the pillars or 
-core truths of that setting Consider the following ideas when 
-writing out your campaign frame’s distinctions: 
-How the World Works: Convey the way magic functions 
-in this setting (such as taking the form of technology in 
-Motherboard) a prominent threat like a disease (such as the 
-Serpent’s Sickness in The Witherwild) or other major setting 
-elements that will inform play (such as the Lure in Beast 
-Feast) 
-Locations/Settlements: Detail major population centers 
-(such as the Carrowcroft Walkaway and other walking cities in 
-Motherboard or the outposts in Colossus of the Drylands) or 
-prominent locations and landmarks (such as Brilliance in Beast 
-Feast)  
-Core Philosophies and Ideologies: Highlight any cultural 
-philosophical or ideological ideas that differentiate the 
-setting such as the way magic users are met with suspicion in 
-The Age of Umbra 
-Major Figures: Establish the gods or other powerful beings 
-key to the setting (such as the gods in The Witherwild or the 
-Children of Godfell in Colossus of the Drylands) 
-Ideally the distinctions provide the baseline for tables to 
-build on the provided materials with their own ideas The 
-writeup doesn’t need to be encyclopedic especially if you’re 
-sticking to the capsule format of the campaign frames from 
-the core rulebook which are designed to be inspirational 
-and intentionally left incomplete to invite GM and player 
-contributions
- INCITING INCIDENT  
-The inciting incident is a sample opening to a campaign using 
-the frame It’s designed to introduce the party to the core 
-themes and some of the frame’s distinctions while illustrating 
-one possible approach for a GM to begin the campaign  
-BUILDING AN INCITING 
-INCIDENT 
-Inciting incidents are the intersection of three elements: 
-adventure design character hooks and setting introduction 
-They usually take the form of a situation and an objective for 
-the PCs to complete with an individual or faction asking the 
-PCs to intervene 
-You could build the situation and objective first then decide 
-what character hooks help motivate a variety of PCs to get 
-involved Alternatively you could start with the hooks you 
-think will be most motivating for PCs in this campaign frame 
-then decide what situation or objective can best support or 
-create those character hooks  
-Ideally an inciting incident provides a bitesize example of the 
-kinds of stories the campaign frame is set up to tell addresses 
-some or all of the listed themes incorporates some of the 
-distinctions and presents a chance to show off the frame’s 
-custom mechanics 
+
+## Origine du Championat et des Écuries
+
+Dans les temps anciens, le dernier roi des Terres d’Avant périt lors d’une joute légendaire. N’ayant point d’héritier, le champion victorieux fut acclamé par le peuple et élevé au rang de souverain. Ce changement, salué par les foules, permit aux duchés d’orchestrer une transition politique habile : ils firent de cette exception une tradition, abolissant ainsi la monarchie au profit d’un ordre chevaleresque.
+
+Au fil des décennies, l’influence des duchés s’est accrue. Ils parrainent désormais des chevaliers, hérauts et stratèges dans l’espoir que leur protégé devienne Champion, leur offrant ainsi un levier sur les décisions du royaume. Bien que certains Champions aient émergé sans bannière, nul n’échappe longtemps aux jeux d’influence : chaque âme a son prix, et il n’est pas rare qu’un Champion indépendant combatte sous une bannière l’année suivante.
+
+La joute est bien plus qu’un sport : elle est devenue un ordre sacré, garant de l’équilibre entre les duchés. Grâce à cette institution, une paix durable s’est installée, et les duels chevaleresques ont remplacé les guerres interminables.
+
+## Les Écuries
+
+Chaque joute est un événement festif et spectaculaire. Les chevaliers ouvrent les festivités par un spectacle grandiose, destiné à captiver les foules. Plus l’ouverture est flamboyante, plus le public est conquis.
+
+L’attitude des chevaliers joue également un rôle crucial. Certaines écuries engagent plusieurs combattants, évitant ainsi de miser sur un seul poulain. Ces groupes œuvrent de concert, espérant qu’un de leurs champions s’élève au sommet et leur permette d’accéder aux cercles du pouvoir en devenant ses conseillers pour l’année à venir.
+
+Conserver le titre de Champion est un exploit rare : les responsabilités politiques et cérémonielles laissent peu de temps à l’entraînement. Toutefois, l’histoire se souvient d’écuries ayant su alterner leurs champions, conservant ainsi leur emprise sur le pouvoir pendant une décennie entière.
+
+## Les duchés
+
+| Duché | Objectifs |
+| --- | --------- |
+| **Duché de Valome** | Maintenir son rôle de centre politique et culturel des Terres d’avant. |
+| **Duché de Calbrun** | Renforcer son contrôle juridique et étendre l’influence de la déesse Runel. |
+| **Duché de Fercreux** | Exploiter les ressources minières pour asseoir sa puissance économique. |
+| **Duché de Lume** | Dominer le commerce maritime et les routes commerciales. |
+| **Duché de Courvouaille** | Donner plus de place au peuple et réduire la puissance des maisons riches qui contrôle les autres duchés |
+| **Duché d’Aurélion** | Lieu de la joute sacré, Tenter de devenir le centre politique de culturel des Terres d'avant |
+| **Duché des Échardes** | Exploiter les ressources forestière pour asseoir sa puissance économique |
+
+Ce sont les duchés les plus connue mais il en existe d'autres qui ne sont pas énuméré ici. Prenons le temps de regarder plus en détail chacun de ses duchés
+
+Le Duché des Échardes:
+
+Situé au cœur de vastes forêts anciennes, le Duché des Échardes est reconnu pour ses traditions sylvestres profondément enracinées. Chaque saison, les grandes maisons de ce duché parrainent des Gardiens du Bois, ce sont des chevaliers choisies qui pourront bénéficier de financement pour les joutes. 
+
+Les joutes organisées dans ce duché se déroulent souvent dans des clairières enchantées, où les spectateurs s’installent sur des gradins en chêne extrêmement bien travailler. On raconte que les chevaliers doivent démontrer non seulement leur force, mais aussi leur respect envers la nature, sous peine de voir les esprits sylvestres perturber leur performance.Cependant, malgré les traditions de respect, des tensions persistent avec les esprits sylvestres. Certains d’entre eux, anciens et farouches, considèrent les joutes comme une profanation de leurs sanctuaires. Des incidents ont été rapportés où des chevaliers trop arrogants ont vu leurs armes rouiller, leurs montures s’égarer ou leurs voix se perdre dans les bois. Ces manifestations sont interprétées comme des avertissements, voire des malédictions.
+
+Le Duché des Échardes exporte des semences enchantées vers les autres duchés, dans le but de reverdir les terres appauvries et d’étendre son influence écologique.Duché de Fercreux 
+
+Situé dans une région montagneuse aux entrailles riches en minerais précieux, Fercreux est le cœur battant de l’industrie métallurgique des Terres d’avant. Ses forges résonnent jour et nuit, alimentées par les flammes des Hauts-Fourneaux et le labeur incessant des mineurs. Le duché est réputé pour ses armes d’exception, ses armures gravées de runes anciennes, et ses chevaliers bardés d’acier noir.
+
+Les forgerons de Fercreux sont considérés comme des artistes autant que des artisans. Leurs créations sont convoitées par toutes les écuries, et certaines joutes imposent des quotas pour éviter que Fercreux n’équipe tous les champions. Les armes forgées ici sont souvent enchantées par des mages métallurgistes, capables d’insuffler des propriétés élémentaires dans le métal.
+
+Malgré la richesse du duché, les mineurs vivent dans des conditions précaires. Exploités par les grandes maisons industrielles, ils travaillent dans des galeries instables, respirent des poussières toxiques, et sont souvent payés en bons d’échange valables uniquement dans les comptoirs du duché.
+
+Certains mineurs se regroupent en confréries secrètes, comme la Veine Rouge, qui sabote les convois de minerai ou tente de négocier de meilleures conditions. Ces groupes sont parfois soutenus par des druides ou des bardes rebelles, qui voient en eux les véritables héros du duché.
+
+Tensions sociales
+
+Les chevaliers issus du peuple sont rares, mais ceux qui émergent des mines sont souvent porteurs de récits puissants, galvanisant les foules.
+
+Les joutes organisées à Fercreux sont marquées par des démonstrations de force brute, mais aussi par des protestations silencieuses : des symboles gravés dans les armures, des chants de mineurs repris par les spectateurs.
+
+Questions pour les joueurs
+
+As-tu été forgé dans les flammes de Fercreux ou dans l’ombre de ses galeries ?
+
+Quel pacte as-tu passé avec un forgeron pour obtenir ton arme ?
+
+As-tu déjà trahi ton duché pour défendre les mineurs ?
 
 # CUSTOM MECHANICS  
 Each campaign frame includes new game mechanics and tools 
@@ -263,30 +255,6 @@ between your new mechanics and Daggerheart’s core design
 approach
 
 En composition
-# Régions et lieux significatifs
-
-| Nom | Description |
-| --- | ----------- |
-| **Aurélion** | Plaine sacrée où se tiennent les grandes joutes. |
-| **Le Duché de Calbrune** | Bastion juridique contrôlé par les adeptes de Runel. |
-| **Valome** | Capitale principale des Terres d’avant, centre politique et culturel. |
-| **Port de Lume** | Ville côtière prospère grâce à la pêche et au commerce maritime. |
-| **Forêt de l'échardes** | Région boisée riche en ressources naturelles et en légendes locales. |
-| **Mine de Fercreux** | Centre d’extraction minière vital pour l’économie régionale. |
-
----
-
-#  Factions principales
-
-| Duché | Objectifs |
-| --- | --------- |
-| **Duché de Valome** | Maintenir son rôle de centre politique et culturel des Terres d’avant. |
-| **Duché de Calbrune** | Renforcer son contrôle juridique et étendre l’influence de Runel. |
-| **Duché de Fercreux** | Exploiter les ressources minières pour asseoir sa puissance économique. |
-| **Duché de Lume** | Dominer le commerce maritime et les routes commerciales. |
-| **Duché de ???** | . |
-| **Duché d’Aurélion** | Lieu de la joute sacré |
-| **Duché des Échardes** | Petit duché forestier. |
 
 #  Mécaniques personnalisées
 
