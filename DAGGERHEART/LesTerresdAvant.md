@@ -194,13 +194,24 @@ Conserver le titre de Champion est un exploit rare : les responsabilités poli
 
 Ce sont les duchés les plus connue mais il en existe d'autres qui ne sont pas énuméré ici. Prenons le temps de regarder plus en détail chacun de ses duchés
 
-Le Duché des Échardes:
+## Le Duché des Échardes:
 
 Situé au cœur de vastes forêts anciennes, le Duché des Échardes est reconnu pour ses traditions sylvestres profondément enracinées. Chaque saison, les grandes maisons de ce duché parrainent des Gardiens du Bois, ce sont des chevaliers choisies qui pourront bénéficier de financement pour les joutes. 
 
 Les joutes organisées dans ce duché se déroulent souvent dans des clairières enchantées, où les spectateurs s’installent sur des gradins en chêne extrêmement bien travailler. On raconte que les chevaliers doivent démontrer non seulement leur force, mais aussi leur respect envers la nature, sous peine de voir les esprits sylvestres perturber leur performance.Cependant, malgré les traditions de respect, des tensions persistent avec les esprits sylvestres. Certains d’entre eux, anciens et farouches, considèrent les joutes comme une profanation de leurs sanctuaires. Des incidents ont été rapportés où des chevaliers trop arrogants ont vu leurs armes rouiller, leurs montures s’égarer ou leurs voix se perdre dans les bois. Ces manifestations sont interprétées comme des avertissements, voire des malédictions.
 
 Le Duché des Échardes exporte des semences enchantées vers les autres duchés, dans le but de reverdir les terres appauvries et d’étendre son influence écologique.Duché de Fercreux 
+
+### Tensions politique
+
+Les maisons nobles du duché sont divisées entre celles qui veulent exploiter les ressources forestières et celles qui militent pour une alliance durable avec les esprits.
+
+Les joutes sont parfois interrompues par des manifestations druidiques ou des apparitions spectrales, forçant les chevaliers à prouver leur valeur autrement que par la force.
+- *Quel esprit sylvestre t’a marqué à vie — par une bénédiction ou une malédiction ?*
+- *As-tu déjà sacrifié une victoire pour protéger un sanctuaire forestier ?*
+- *Quel pacte secret lie ton lignage aux esprits de la forêt ?*
+
+## Duché de Fercreux
 
 Situé dans une région montagneuse aux entrailles riches en minerais précieux, Fercreux est le cœur battant de l’industrie métallurgique des Terres d’avant. Ses forges résonnent jour et nuit, alimentées par les flammes des Hauts-Fourneaux et le labeur incessant des mineurs. Le duché est réputé pour ses armes d’exception, ses armures gravées de runes anciennes, et ses chevaliers bardés d’acier noir.
 
@@ -210,19 +221,15 @@ Malgré la richesse du duché, les mineurs vivent dans des conditions précaires
 
 Certains mineurs se regroupent en confréries secrètes, comme la Veine Rouge, qui sabote les convois de minerai ou tente de négocier de meilleures conditions. Ces groupes sont parfois soutenus par des druides ou des bardes rebelles, qui voient en eux les véritables héros du duché.
 
-Tensions sociales
+### Tensions politique
 
 Les chevaliers issus du peuple sont rares, mais ceux qui émergent des mines sont souvent porteurs de récits puissants, galvanisant les foules.
 
 Les joutes organisées à Fercreux sont marquées par des démonstrations de force brute, mais aussi par des protestations silencieuses : des symboles gravés dans les armures, des chants de mineurs repris par les spectateurs.
 
-Questions pour les joueurs
-
-As-tu été forgé dans les flammes de Fercreux ou dans l’ombre de ses galeries ?
-
-Quel pacte as-tu passé avec un forgeron pour obtenir ton arme ?
-
-As-tu déjà trahi ton duché pour défendre les mineurs ?
+- *As-tu été forgé dans les flammes de Fercreux ou dans l’ombre de ses galeries ?*
+- *Quel pacte as-tu passé avec un forgeron pour obtenir ton arme ?*
+- *As-tu déjà trahi ton duché pour défendre les mineurs ?*
 
 # CUSTOM MECHANICS  
 Each campaign frame includes new game mechanics and tools 
