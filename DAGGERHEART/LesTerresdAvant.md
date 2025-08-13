@@ -174,18 +174,20 @@ La joute est bien plus qu’un sport : elle est devenue un ordre sacré, garan
 
 ## Les Écuries
 
-Chaque joute est un événement festif et spectaculaire. Les chevaliers ouvrent les festivités par un spectacle grandiose, destiné à captiver les foules. Plus l’ouverture est flamboyante, plus le public est conquis.
+Chaque joute est un événement festif et spectaculaire. Les chevaliers ouvrent les festivités par un spectacle grandiose, destiné à captiver les foules. Plus l’ouverture est flamboyante, plus le public est conquis. Les écuries engagent des utilisateurs de magie pour créer des effets spectaculaires, ou des orateurs talentueux pour galvaniser la foule.
+
+Plus une écurie compte de fans, plus elle peut générer des revenus en vendant des produits dérivés : drapeaux à l’effigie de l’écurie, figurines en bois ou en métal représentant les chevaliers ou les hérauts, et autres objets de collection.
 
 L’attitude des chevaliers joue également un rôle crucial. Certaines écuries engagent plusieurs combattants, évitant ainsi de miser sur un seul poulain. Ces groupes œuvrent de concert, espérant qu’un de leurs champions s’élève au sommet et leur permette d’accéder aux cercles du pouvoir en devenant ses conseillers pour l’année à venir.
 
-Conserver le titre de Champion est un exploit rare : les responsabilités politiques et cérémonielles laissent peu de temps à l’entraînement. Toutefois, l’histoire se souvient d’écuries ayant su alterner leurs champions, conservant ainsi leur emprise sur le pouvoir pendant une décennie entière.
+Conserver le titre de Champion est un exploit rare : les responsabilités politiques et cérémonielles laissent peu de temps à l’entraînement. Toutefois, l’histoire se souvient d’écuries ayant su alterner leurs champions, conservant ainsi leur emprise sur le pouvoir pendant une décennie entière. : les responsabilités politiques et cérémonielles laissent peu de temps à l’entraînement. Toutefois, l’histoire se souvient d’écuries ayant su alterner leurs champions, conservant ainsi leur emprise sur le pouvoir pendant une décennie entière.
 
 ## Les duchés
 
 | Duché | Objectifs |
 | --- | --------- |
 | **Duché de Valome** | Maintenir son rôle de centre politique et culturel des Terres d’avant. |
-| **Duché de Calbrun** | Renforcer son contrôle juridique et étendre l’influence de la déesse Runel. |
+| **Duché de Calbrun** | Renforcer son contrôle juridique. |
 | **Duché de Fercreux** | Exploiter les ressources minières pour asseoir sa puissance économique. |
 | **Duché de Lume** | Dominer le commerce maritime et les routes commerciales. |
 | **Duché de Courvouaille** | Donner plus de place au peuple et réduire la puissance des maisons riches qui contrôle les autres duchés |
@@ -194,22 +196,53 @@ Conserver le titre de Champion est un exploit rare : les responsabilités poli
 
 Ce sont les duchés les plus connue mais il en existe d'autres qui ne sont pas énuméré ici. Prenons le temps de regarder plus en détail chacun de ses duchés
 
-## Le Duché des Échardes:
+## Duché de Valome
 
-Situé au cœur de vastes forêts anciennes, le Duché des Échardes est reconnu pour ses traditions sylvestres profondément enracinées. Chaque saison, les grandes maisons de ce duché parrainent des Gardiens du Bois, ce sont des chevaliers choisies qui pourront bénéficier de financement pour les joutes. 
+Valome, la capitale historique des Terres d’avant, est une cité imprégnée d’histoire et de culture. Bien que son territoire soit limité, son influence politique et culturelle est immense.
 
-Les joutes organisées dans ce duché se déroulent souvent dans des clairières enchantées, où les spectateurs s’installent sur des gradins en chêne extrêmement bien travailler. On raconte que les chevaliers doivent démontrer non seulement leur force, mais aussi leur respect envers la nature, sous peine de voir les esprits sylvestres perturber leur performance.Cependant, malgré les traditions de respect, des tensions persistent avec les esprits sylvestres. Certains d’entre eux, anciens et farouches, considèrent les joutes comme une profanation de leurs sanctuaires. Des incidents ont été rapportés où des chevaliers trop arrogants ont vu leurs armes rouiller, leurs montures s’égarer ou leurs voix se perdre dans les bois. Ces manifestations sont interprétées comme des avertissements, voire des malédictions.
+Le château de Valome, avec ses bannières majestueuses et son architecture ancienne, est une construction qui ne se fait plus de nos jours. Il est protégé par une première muraille imposante, tandis qu’une deuxième muraille englobe une grande partie de la cité. Ces fortifications témoignent de la puissance et de la résilience de Valome à travers les âges.
 
-Le Duché des Échardes exporte des semences enchantées vers les autres duchés, dans le but de reverdir les terres appauvries et d’étendre son influence écologique.Duché de Fercreux 
+Cependant, la capitale n’est pas exempte de problèmes. Les maisons, de plus en plus rapprochées et élevées, plongent certains quartiers dans une obscurité quasi permanente. La criminalité y est en hausse, et une certaine famine s’installe depuis qu’une grande partie des ressources financières est détournée vers Aurélion.
 
-### Tensions politique
+Malgré ces défis, Valome reste un bastion de la religion et de la culture. Ses monuments exceptionnels, tels que le Grand Opéra et le Temple des Hauts Dieux, attirent des visiteurs de tout le royaume. La cité abrite également des statues et des parcs dédiés aux divinités, comme le parc d’Okomé et la forge publique de Runel.
 
-Les maisons nobles du duché sont divisées entre celles qui veulent exploiter les ressources forestières et celles qui militent pour une alliance durable avec les esprits.
+Valome est également le siège social de la Guilde Marchande, grâce à son fleuve qui offre des opportunités commerciales uniques. Cependant, certains investisseurs envisagent de déplacer ce siège à Aurélion, ce qui alimente les tensions entre les deux duchés.
 
-Les joutes sont parfois interrompues par des manifestations druidiques ou des apparitions spectrales, forçant les chevaliers à prouver leur valeur autrement que par la force.
-- *Quel esprit sylvestre t’a marqué à vie — par une bénédiction ou une malédiction ?*
-- *As-tu déjà sacrifié une victoire pour protéger un sanctuaire forestier ?*
-- *Quel pacte secret lie ton lignage aux esprits de la forêt ?*
+Le Chemin des Héros, bordé de statues des champions passés, mène jusqu’au château, rappelant à tous la grandeur et les exploits de Valome.
+
+### Tensions politiques
+
+Valome souhaite conserver son rôle de capitale à tout prix, malgré les défis économiques et sociaux.
+
+La criminalité et la famine alimentent le mécontentement de la population, tandis que les fonds sont principalement utilisés pour maintenir une armée dont l’utilité est de plus en plus remise en question.
+
+Les rivalités avec Aurélion s’intensifient, notamment autour de la question du siège de la Guilde Marchande et de l’influence politique.
+
+- *As-tu grandi dans l’ombre des quartiers surpeuplés ou dans la lumière des monuments historiques ?*
+- *Quel lien personnel as-tu avec les statues du Chemin des Héros ?*
+- *Comment perçois-tu l’armée de Valome et son rôle dans la cité ?*
+
+## Duché de Calbrun
+
+Le Duché de Calbrun est une région vaste et diversifiée, où l’on retrouve un peu de tout, mais en moins prestigieux. Ses terres fertiles permettent une agriculture florissante, ses mines regorgent de ressources précieuses, et ses grandes forêts abritent une biodiversité riche.
+
+Cependant, Calbrun est également une région où les monstres du nord attaquent fréquemment. Les habitants, habitués à se défendre, sont souvent armés et prêts à repousser les vouivres, les loups, et autres créatures inimaginables. Ces attaques ralentissent le développement du duché, mais elles en font aussi le terrain privilégié des exploits des chevaliers.
+
+L’évolution de Calbrun est plus lente que celle des autres duchés, mais ses habitants sont résilients et fiers de leur capacité à surmonter les défis. Les tavernes et auberges y sont nombreuses, offrant des lieux de repos et de rassemblement pour les voyageurs et les héros en quête d’aventures.
+
+Certaines parties du territoire restent peu explorées, comme les montagnes au nord, les vallées à l’est, et les forêts qui les entourent. Ces zones regorgent de légendes et de mystères, attirant les aventuriers et les écuries de chevalier.
+
+### Tensions politiques
+
+Les attaques de monstres du nord ralentissent le développement économique et social du duché, mais elles renforcent la solidarité et la résilience de ses habitants.
+
+Les chevaliers voient en Calbrun un terrain d’exploits, mais certains estiment que le duché devrait recevoir plus de soutien des autres régions pour se développer.
+
+Les zones peu explorées de Calbrun suscitent des convoitises, mais elles sont également sources de conflits entre les habitants et les aventuriers extérieurs.
+
+- *As-tu déjà affronté une créature légendaire dans les forêts de Calbrun ?*
+- *Quel lien personnel as-tu avec les légendes qui entourent les montagnes au nord ?*
+- *Comment perçois-tu le rôle des chevaliers dans la défense et le développement de Calbrun ?*
 
 ## Duché de Fercreux
 
@@ -230,6 +263,94 @@ Les joutes organisées à Fercreux sont marquées par des démonstrations de for
 - *As-tu été forgé dans les flammes de Fercreux ou dans l’ombre de ses galeries ?*
 - *Quel pacte as-tu passé avec un forgeron pour obtenir ton arme ?*
 - *As-tu déjà trahi ton duché pour défendre les mineurs ?*
+
+## Duché de Lume
+
+Le Duché de Lume est une région côtière florissante, centrée autour du Port de BriseLune, une ville extrêmement riche et dynamique. Ce port gigantesque permet aux galions et autres navires de commerce d’accoster facilement, faisant de BriseLune un carrefour incontournable pour les échanges commerciaux.
+
+Le commerce y est florissant, avec des marchés publics spectaculaires et lucratifs où l’on trouve une grande variété de nourriture, de vêtements, et de produits venus des royaumes éloignés. Les nouvelles tendances en haute couture, musiques exotiques, danses et sortilèges sont accueillies à bras ouverts, attirant les écuries qui y font escale pour se préparer à impressionner les foules lors des joutes.
+
+Cependant, la région fait face à plusieurs défis. La majorité de la population se concentre au Port de BriseLune, laissant les alentours vulnérables aux bandits et aux pirates qui infestent les chemins terrestres et le fleuve. Ces problèmes de sécurité freinent le développement du duché et alimentent les tensions avec les autres régions.
+
+L’objectif du Duché de Lume est clair : dominer les routes commerciales et le commerce. Cependant, BriseLune est souvent perçue comme une simple étape avant que les marchandises soient envoyées vers les autres duchés, notamment Valome. Certains navires contournent même BriseLune pour se rendre directement à Valome, ce qui nuit à l’image et à l’influence de Lume.
+
+La Guilde Marchande possède des entrepôts à BriseLune, mais y réalise peu de commerce, ce qui renforce le sentiment que le duché est sous-estimé dans les échanges commerciaux. Lume aspire à devenir un acteur majeur du commerce, et non une simple escale ou un lieu de stockage.
+
+## Tensions politiques
+
+La concentration de la population au Port de BriseLune crée des déséquilibres économiques et sociaux, tandis que les bandits et pirates menacent la sécurité des routes commerciales.
+
+Lume lutte pour être reconnue comme un acteur clé du commerce, mais son rôle est souvent réduit à celui d’une étape intermédiaire dans les échanges commerciaux.
+
+Les rivalités avec Valome et les autres duchés s’intensifient, notamment autour de la question de la domination des routes commerciales.
+
+- *As-tu déjà été témoin d’une attaque de pirates sur le fleuve ou d’un raid de bandits près de BriseLune ?*
+- *Quel lien personnel as-tu avec le commerce des royaumes extérieurs à BriseLune ?*
+- *Comment perçois-tu les ambitions de Lume de dominer les routes commerciales ?*
+
+## Duché de Courvouaille
+
+Le Duché de Courvouaille est une région paisible et diversifiée, où la coexistence des peuples est une priorité. Contrairement aux autres duchés, Courvouaille se distingue par son approche avant-gardiste des droits sociaux, cherchant à réduire la puissance des grandes maisons nobles et à donner plus de place au peuple dans les décisions politiques.
+
+Cette vision progressiste ne plaît pas aux duchés plus conservateurs, ni à ceux qui tentent de préserver l’ordre chevaleresque traditionnel. Courvouaille est souvent perçue comme une menace pour l’équilibre établi, mais ses habitants sont fiers de leur engagement envers l’égalité et la justice.
+
+La région est marquée par une grande diversité culturelle, avec des festivals célébrant les traditions de ses différentes communautés. Les marchés locaux sont animés, offrant des produits artisanaux uniques et des spécialités culinaires variées. Les tavernes et lieux de rassemblement sont des espaces où les idées nouvelles sont débattues et où les alliances se forment.
+
+Cependant, cette quête de justice sociale n’est pas sans défis. Les tensions avec les autres duchés s’intensifient, et certains nobles de Courvouaille s’opposent à ces réformes, craignant de perdre leur influence.
+
+### Tensions politiques
+
+Les réformes sociales de Courvouaille suscitent des résistances internes et externes, notamment de la part des duchés conservateurs et des nobles locaux.
+
+La diversité culturelle de la région est une force, mais elle peut aussi être source de conflits entre les différentes communautés.
+
+Courvouaille lutte pour préserver son identité progressiste tout en naviguant dans un paysage politique dominé par des intérêts conservateurs.
+
+- *As-tu déjà participé à un festival célébrant les traditions de Courvouaille ?*
+- *Quel lien personnel as-tu avec les réformes sociales du duché ?*
+- *Comment perçois-tu les tensions entre Courvouaille et les autres duchés ?*
+
+## Duché d’Aurélion
+
+Situé dans une région en pleine expansion, le Duché d’Aurélion est devenu en quelques décennies l’un des pôles les plus dynamiques des Terres d’avant. Autrefois paisible et rural, composé de fermes et de champs à perte de vue, il a vu sa population croître rapidement, transformant ses paysages agricoles en cités modernes et animées.
+
+Aurélion se distingue par ses infrastructures flambant neuves : arènes dernier cri, routes pavées, quartiers diplomatiques et résidences luxueuses. Contrairement à Valome, ancienne capitale construite autour d’un château monarchique, Aurélion incarne la modernité et l’efficacité. La majorité des autres duchés y ont déjà établi des résidences, renforçant son rôle de carrefour politique et culturel.
+
+Le duché nourrit une ambition claire : devenir le nouveau centre politique et culturel des Terres d’avant. Son essor économique, son attractivité et sa capacité à organiser les plus grands événements en font un prétendant sérieux au titre de capitale.
+
+Mais cette croissance fulgurante n’est pas sans conséquences. Les terres agricoles reculent, les fermiers se sentent dépossédés, et la tranquillité d’antan s’efface devant le tumulte urbain. Les tensions entre anciens et nouveaux habitants s’intensifient, et certains regrettent l’époque où Aurélion n’était qu’un havre de paix.
+
+### Tensions politiques
+
+Les autres duchés, bien qu’impressionnés par Aurélion, ne souhaitent pas voir Valome conserver son hégémonie, mais ne sont pas non plus prêts à céder le trône symbolique à Aurélion.
+
+Les chevaliers issus d’Aurélion sont souvent perçus comme arrogants ou trop ambitieux, ce qui alimente les rivalités dans les joutes.
+
+Les joutes organisées à Aurélion sont marquées par une mise en scène spectaculaire, mais certains y voient une perte de tradition au profit du divertissement.
+
+
+- *As-tu grandi dans les champs d’Aurélion ou dans ses quartiers modernes ?*
+- *Quel sacrifice ta famille a-t-elle fait pour s’adapter à la croissance du duché ?*
+- *Quel rôle joues-tu dans l’ambition d’Aurélion de devenir capitale ?*
+
+## Le Duché des Échardes:
+
+Situé au cœur de vastes forêts anciennes, le Duché des Échardes est reconnu pour ses traditions sylvestres profondément enracinées. Chaque saison, les grandes maisons de ce duché parrainent des Gardiens du Bois, ce sont des chevaliers choisies qui pourront bénéficier de financement pour les joutes. 
+
+Les joutes organisées dans ce duché se déroulent souvent dans des clairières enchantées, où les spectateurs s’installent sur des gradins en chêne extrêmement bien travailler. On raconte que les chevaliers doivent démontrer non seulement leur force, mais aussi leur respect envers la nature, sous peine de voir les esprits sylvestres perturber leur performance.Cependant, malgré les traditions de respect, des tensions persistent avec les esprits sylvestres. Certains d’entre eux, anciens et farouches, considèrent les joutes comme une profanation de leurs sanctuaires. Des incidents ont été rapportés où des chevaliers trop arrogants ont vu leurs armes rouiller, leurs montures s’égarer ou leurs voix se perdre dans les bois. Ces manifestations sont interprétées comme des avertissements, voire des malédictions.
+
+Le Duché des Échardes exporte des semences enchantées vers les autres duchés, dans le but de reverdir les terres appauvries et d’étendre son influence écologique.Duché de Fercreux 
+
+### Tensions politique
+
+Les maisons nobles du duché sont divisées entre celles qui veulent exploiter les ressources forestières et celles qui militent pour une alliance durable avec les esprits.
+
+Les joutes sont parfois interrompues par des manifestations druidiques ou des apparitions spectrales, forçant les chevaliers à prouver leur valeur autrement que par la force.
+
+- *Quel esprit sylvestre t’a marqué à vie — par une bénédiction ou une malédiction ?*
+- *As-tu déjà sacrifié une victoire pour protéger un sanctuaire forestier ?*
+- *Quel pacte secret lie ton lignage aux esprits de la forêt ?*
+
 
 # CUSTOM MECHANICS  
 Each campaign frame includes new game mechanics and tools 
