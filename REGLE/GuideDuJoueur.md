@@ -55,16 +55,12 @@ Lorsqu’il gagne un niveau, votre personnage évolue et progresse. Quand il gag
 En complétant des objectifs ou en participant à une partie, les joueurs.es gagnent des récompenses. Publiez un message dans le fils dédié à votre personnage.
 Il existe plusieurs sortes de récompenses pour les joueurs. Elles peuvent être dépensées ou conservées pour plus tard; il n’est pas obligatoire de les utiliser lorsque vous les recevez.
 
-- Pièces d’Or (po)
-Les personnages gagnent x Pièces d’Or par aventure.
-
 - Périodes d’Intermède (PI)
 Les personnages cumulent x Périodes d’Intermède par aventure. Une liste des activités que votre personnage peut entreprendre durant les périodes d’intermèdes est disponible dans la section Périodes d’Intermède.
 Points de Récompenses d’une partie (Joueur/MJ)
 
 Type  |  Récompense par partie
 ---  | ---
-Pièces d’Or | x
 Périodes d’Intermède | x
 
 #### Milestone (bonus)
@@ -252,7 +248,7 @@ Il est possible pour un maître de jeu de changer une partie de cette règle pou
 ### Les Règles de Base de Dragonbane
 Les règles de base ne sont pas disponible gratuitement. On peut les retrouver sur le serveur Foundryvtt.
 
-## Étapes de création de personnage pour le discord
+## Étapes de création de personnage pour foundry
 ### Choix du peuple (Kin)
 
 Tu peux choisir ou lancer un dé (d20) pour le déterminer aléatoirement
