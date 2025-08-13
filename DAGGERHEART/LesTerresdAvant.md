@@ -392,20 +392,17 @@ Planifiez une ouverture spectaculaire pour captiver les foules et marquer les es
 
 
 Les joutes
-# 🎆 Spectacle d’ouverture – Gagner du Hope dans une joute (*Daggerheart*)
+# Spectacle d’ouverture – Gagner du Hope dans une joute (*Daggerheart*)
 
-## 🎭 Objectif
+## Objectif
 Créer une scène d’introduction où les personnages peuvent :
 - Se présenter avec style
 - Interagir avec la foule
 - Montrer leur personnalité ou leur foi
 - Gagner des points de *Hope* utilisables pendant le duel
 
----
 
-## 🧪 Mécanique proposée
-
-### 🔹 Étape 1 : Déclaration du spectacle
+###  Étape 1 : Déclaration du spectacle
 Chaque jouteur (ou allié) décrit une action spectaculaire :
 - Discours flamboyant
 - Chant inspirant (bardes !)
@@ -413,7 +410,7 @@ Chaque jouteur (ou allié) décrit une action spectaculaire :
 - Invocation divine
 - Jet de rose à la foule…
 
-### 🔹 Étape 2 : Jet de compétence
+###  Étape 2 : Jet de compétence
 Le joueur fait un **jet de Présence**, *Art*, *Foi*, ou autre compétence appropriée.
 
 | Résultat du jet | Gain de Hope | Effet narratif |
@@ -424,7 +421,7 @@ Le joueur fait un **jet de Présence**, *Art*, *Foi*, ou autre compétence appro
 
 ---
 
-## 🛠️ Utilisation du Hope pendant le duel
+##  Utilisation du Hope pendant le duel
 
 Les points de Hope peuvent être dépensés pour :
 
@@ -437,14 +434,14 @@ Les points de Hope peuvent être dépensés pour :
 
 ---
 
-## 🎶 Exemple narratif
+##  Exemple narratif
 
-> 🎺 *Le barde Elowen se tient sur la balustrade, luth en main. Elle entonne une ballade ancienne sur les exploits du chevalier Ser Alaric. Jet de Présence + Art : succès majeur ! Elle gagne 2 points de Hope.*  
-> 🏇 *Lors de la deuxième passe, elle dépense 1 point pour aider Ser Alaric, lui donnant avantage sur son jet de Force. Il renverse son adversaire dans un fracas glorieux.*
+>  *Le barde Elowen se tient sur la balustrade, luth en main. Elle entonne une ballade ancienne sur les exploits du chevalier Ser Alaric. Jet de Présence + Art : succès majeur ! Elle gagne 2 points de Hope.*  
+>  *Lors de la deuxième passe, elle dépense 1 point pour aider Ser Alaric, lui donnant avantage sur son jet de Force. Il renverse son adversaire dans un fracas glorieux.*
 
 ---
 #### Table aléatiore pour les opposants
-# 🎲 Table aléatoire – Actions spectaculaires de joute
+#  Table aléatoire – Actions spectaculaires de joute
 
 Lors du spectacle d’ouverture, les joueurs peuvent tirer ou choisir une action ci-dessous pour impressionner la foule et tenter de gagner du Hope.
 
