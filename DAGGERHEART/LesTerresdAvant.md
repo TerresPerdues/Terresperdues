@@ -354,44 +354,183 @@ Les joutes sont parfois interrompues par des manifestations druidiques ou des ap
 
 ## CUSTOM MECHANICS  
 
-Construire son écuirie
-Chercher un sponsor
-Chercher la gloire
-Pourvoir se classer
+### Règles pour la création d'une écurie de chevalier
+
+**Étape 1 : Choisir un Duché d'origine**
+
+Déterminez le duché auquel votre écurie est affiliée. Cela influencera les valeurs, les ressources et les objectifs de votre écurie.
+
+**Étape 2 : Définir les membres de l'écurie**
+
+Chevaliers : Choisissez un ou plusieurs chevaliers qui représenteront votre écurie lors des joutes.
+Hérauts : Sélectionnez des hérauts pour annoncer vos chevaliers et galvaniser les foules.
+Stratèges : Ajoutez des stratèges pour planifier les tactiques et maximiser les chances de victoire.
+
+**Étape 3 : Déterminer les ressources**
+
+Magie : Décidez si votre écurie utilise des effets magiques pour impressionner les spectateurs.
+Produits dérivés : Créez des objets de collection pour générer des revenus et fidéliser les fans.
+
+**Étape 4 : Fixer les objectifs**
+
+Politique : Votre écurie cherche-t-elle à influencer les décisions du royaume ?
+Prestige : Souhaitez-vous devenir la plus célèbre des écuries ?
+Économie : Visez-vous à maximiser les profits grâce aux produits dérivés ?
+
+**Étape 5 : Définir les valeurs**
+
+Tradition : Votre écurie respecte-t-elle les anciennes coutumes ?
+Innovation : Préférez-vous introduire des idées nouvelles et des stratégies audacieuses ?
+
+**Étape 6 : Créer une identité visuelle**
+
+Concevez un blason, des couleurs et un slogan qui reflètent l'esprit de votre écurie.
+
+**Étape 7 : Préparer les festivités**
+
+Planifiez une ouverture spectaculaire pour captiver les foules et marquer les esprits.
+
 
 Les joutes
+# 🎆 Spectacle d’ouverture – Gagner du Hope dans une joute (*Daggerheart*)
 
-intégré un autre duché
+## 🎭 Objectif
+Créer une scène d’introduction où les personnages peuvent :
+- Se présenter avec style
+- Interagir avec la foule
+- Montrer leur personnalité ou leur foi
+- Gagner des points de *Hope* utilisables pendant le duel
+
+---
+
+## 🧪 Mécanique proposée
+
+### 🔹 Étape 1 : Déclaration du spectacle
+Chaque jouteur (ou allié) décrit une action spectaculaire :
+- Discours flamboyant
+- Chant inspirant (bardes !)
+- Parade à cheval
+- Invocation divine
+- Jet de rose à la foule…
+
+### 🔹 Étape 2 : Jet de compétence
+Le joueur fait un **jet de Présence**, *Art*, *Foi*, ou autre compétence appropriée.
+
+| Résultat du jet | Gain de Hope | Effet narratif |
+|-----------------|--------------|----------------|
+| Succès          | 1 point      | Action réussie, la foule est ravie |
+| Succès majeur   | 2 points     | Ovation, effet mémorable |
+| Échec           | 0 point      | Foule qui hue, cheval nerveux, etc. |
+
+---
+
+## 🛠️ Utilisation du Hope pendant le duel
+
+Les points de Hope peuvent être dépensés pour :
+
+| Action             | Coût en Hope | Effet |
+|--------------------|--------------|-------|
+| Rouler avec espoir | 1            | Ajoute un dé d’espoir au jet |
+| Aider un allié     | 1            | Donne avantage à un jet de joute |
+| Encaisser un coup  | 2            | Réduit ou annule les dégâts d’une passe perdue |
+| Cri héroïque       | 1            | Impressionne la foule, peut influencer le juge ou l’adversaire |
+
+---
+
+## 🎶 Exemple narratif
+
+> 🎺 *Le barde Elowen se tient sur la balustrade, luth en main. Elle entonne une ballade ancienne sur les exploits du chevalier Ser Alaric. Jet de Présence + Art : succès majeur ! Elle gagne 2 points de Hope.*  
+> 🏇 *Lors de la deuxième passe, elle dépense 1 point pour aider Ser Alaric, lui donnant avantage sur son jet de Force. Il renverse son adversaire dans un fracas glorieux.*
+
+---
+#### Table aléatiore pour les opposants
+# 🎲 Table aléatoire – Actions spectaculaires de joute
+
+Lors du spectacle d’ouverture, les joueurs peuvent tirer ou choisir une action ci-dessous pour impressionner la foule et tenter de gagner du Hope.
+
+| d20 | Action spectaculaire |
+|-----|----------------------|
+| 1   | Lancer une rose ou un gant vers l’adversaire avec défi |
+| 2   | Faire cabrer sa monture devant les gradins |
+| 3   | Réciter un poème épique sur sa lignée chevaleresque |
+| 4   | Saluer un noble dans la foule avec une révérence théâtrale |
+| 5   | Chanter un hymne martial accompagné d’un instrument |
+| 6   | Faire tournoyer sa lance dans une danse guerrière |
+| 7   | Peindre des runes de victoire sur son armure ou son cheval |
+| 8   | Lancer un cri de guerre ancestral qui fait frémir la foule |
+| 9   | Dévoiler une bannière personnelle ou familiale au vent |
+| 10  | Faire bénir sa lance par un prêtre ou une entité divine |
+| 11  | Offrir un bijou ou une fleur à un spectateur choisi |
+| 12  | Déclamer une promesse solennelle de victoire ou d’honneur |
+| 13  | Exécuter une acrobatie en descendant de cheval |
+| 14  | Laisser son écuyer raconter ses exploits passés à la foule |
+| 15  | Faire apparaître une illusion magique autour de soi |
+| 16  | Laisser son cheval galoper en cercle en liberté avant de le monter |
+| 17  | Dévoiler une armure ou une arme légendaire au dernier moment |
+| 18  | Lancer une pièce d’or dans la foule pour attirer les acclamations |
+| 19  | S’agenouiller et prier devant tous, invoquant la bénédiction divine |
+| 20  | Déclencher un feu d’artifice ou un effet magique spectaculaire |
+
+---
+
+**Astuce** : Chaque action peut être accompagnée d’un jet de compétence approprié (*Présence*, *Art*, *Foi*, *Adresse*, etc.) pour déterminer son effet et le gain de Hope.
 
 
-##  Mécaniques personnalisées
+Absolument ! Dans *Daggerheart*, les **points de Hope** ne sont pas juste une ressource cosmétique — ils incarnent la volonté, la foi, et l’héroïsme des personnages. Pour un **chevalier**, c’est une ressource idéale pour déclencher des actions spectaculaires, des prouesses martiales ou des gestes de bravoure qui dépassent les limites normales du combat.
+
+Voici comment tu pourrais structurer ça :
+
+---
+
+### Actions héroïques consommant du Hope 
+
+| Action héroïque                     | Coût en Hope | Effet narratif et mécanique |
+|-------------------------------------|--------------|-----------------------------|
+| Charge divine                       | 2            | Ajoute un dé d’espoir + avantage au jet d’attaque |
+| Parade impossible                   | 1            | Ignore un coup reçu, si narrativement justifié |
+| Cri de ralliement                   | 1            | Tous les alliés à portée gagnent un dé d’espoir |
+| Serment de victoire                 | 2            | Bonus narratif si le duel est remporté |
+| Dernier rempart                     | 3            | Se relève après avoir été mis à terre |
+| Frappe légendaire                   | 2            | Désarme, fait tomber ou brise l’arme de l’adversaire |
+| Regard de défi                      | 1            | Intimide l’adversaire (jet de Présence requis) |
+| Protection sacrée                   | 2            | Réduit les dégâts subis par soi ou un allié |
+| Appel de la nature                  | 2            | Invoque une créature ou un effet naturel (racines, vent, etc.) |
+| Vision du prédateur                 | 1            | Détecte les faiblesses de l’adversaire (avantage au prochain jet) |
+| Bond acrobatique                    | 1            | Se déplace hors de portée ou vers une position avantageuse |
+| Bouclier éthéré                     | 1            | Annule ou réduit les dégâts d’un sort ou attaque magique |
+| Parole interdite                    | 3            | Empêche un adversaire de lancer un sort ou parler pendant un tour |
+| Hymne de bravoure                   | 3            | Tous les alliés gagnent un dé d’espoir au prochain jet |
+| Note dissonante                     | 2            | Désoriente un adversaire, lui donnant désavantage |
+| Écho du passé                       | 1            | Rappelle un souvenir à un PNJ, influençant ses actions |
+| Récit inspirant                     | 1            | Donne un bonus narratif à un allié (courage, clarté, etc.) |
+| Main experte                        | 3            | Répare une pièce d’équipement endommagée entre deux joutes. *Effet : restaure un point d’armure*
+| Lecture de posture                  | 2            | Analyse l’adversaire pendant son échauffement. *Effet : bonus tactique de + 1 au jet d'attaque du chevalier lors de sa première attaque.*|
+| Préparation optimale                | 1            | Prépare le cheval avec précision selon le type d’épreuve. *Effet : donne un bonus de vitesse ou d’endurance selon le terrain.*
+| Anticipation brillante              | 1            | Prédit une manœuvre ennemie et propose un contre-plan. *Effet : le chevalier gagne une réaction gratuite pendant la joute.*
+| Main apaisante                      | 1            | Apaise douleur et stress du chevalier. *Effet : enlève du stressl.*
+| Infusion réparatrice                | 1            | Crée un tonique régénérant avec des herbes. *Effet : rend 1d6 points de vie ou soigne un effet secondaire.*
+| Mots réconfortants                  | 1            | Renforce l'esprit du chevalier par prière ou mantra. *Effet : bonus de volonté ou de résistance mentale.*
 
 
-###  Mécaniques d’Équipe et de Joute
+---
 
-#### **Le Chevalier**
-Le chevalier peut personnaliser son équipement pour maximiser ses performances :
+### 🎭 Exemple narratif
 
-- **Cheval** : Choisir un cheval adapté (force, vitesse, endurance) et le préparer avec des entraînements spécifiques.
-- **Armure** : Investir dans des améliorations (résistance, légèreté, esthétique) pour mieux résister aux impacts.
-- **Présence** : Travailler sur son charisme et sa posture pour impressionner la foule et les adversaires.
+> *Ser Alaric, acculé, serre son médaillon de Solen. Il dépense 2 points de Hope pour activer "Dernier rempart". Jet de Force réussi : il se relève, le regard brûlant de détermination. La foule rugit. Son adversaire hésite.*
 
-#### **Le Héraut**
-Chaque équipe peut désigner un héraut chargé de présenter le chevalier et son équipe avant la joute. Si la foule apprécie la présentation (discours, démonstration, ou mise en scène), le chevalier gagne des bonus de moral et de popularité.
+---
 
-#### **L’Écuyer**
-- **Main experte** : Répare une pièce d’équipement endommagée entre deux joutes. *Effet : restaure un point d’armure*
-- **Préparation optimale** : Prépare le cheval avec précision selon le type d’épreuve. *Effet : donne un bonus de vitesse ou d’endurance selon le terrain.*
 
-#### **Le Stratège**
-- **Lecture de posture** : Analyse l’adversaire pendant son échauffement. *Effet : bonus tactique au chevalier lors de sa première attaque.*
-- **Anticipation brillante** : Prédit une manœuvre ennemie et propose un contre-plan. *Effet : le chevalier gagne une réaction gratuite pendant la joute.*
-- **Coordination d’équipe** : Synchronise les effets des soutiens. *Effet : tous les bonus d’équipe sont augmentés pendant un tour.*
-
-#### **Le Soigneur**
-- **Main apaisante** : Apaise douleur et stress du chevalier. *Effet : retire un malus physique ou mental.*
-- **Infusion réparatrice** : Crée un tonique régénérant avec des herbes. *Effet : rend 1d6 points de vie ou soigne un effet secondaire.*
-- **Mots réconfortants** : Renforce l'esprit du chevalier par prière ou mantra. *Effet : bonus de volonté ou de résistance mentale.*
+### Ressources pour un écurie
+| Ressource                           | Bonus        | Effet narratif et mécanique |
+|-------------------------------------|--------------|-----------------------------|
+| Destrier rapide | +1 Evasion pour le chevalier | Choisir un cheval adapté  et le préparer avec des entraînements spécifiques.|
+| Destrier puissant | +1 armure | Choisir un cheval adapté  et le préparer avec des entraînements spécifiques.|
+| Destrier exotique | +1 présence | Choisir un cheval adapté  et le préparer avec des entraînements spécifiques.|
+| Barde de plaques | +1 armure | Composée de métal, très lourde, utilisée par les chevaliers.|
+| Barde de mailles | +1 évasion | Plus souple, offre une bonne protection sans trop gêner le mouvement.|
+| Caparaçon décoratif | +1 présence | Investir dans des améliorations (résistance, légèreté, esthétique) pour mieux résister aux impacts.|
+| Bonne réputation | présence | la foule connait déjà la réputation |
 
 ---
 
