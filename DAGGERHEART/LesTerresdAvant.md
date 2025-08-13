@@ -392,7 +392,7 @@ Planifiez une ouverture spectaculaire pour captiver les foules et marquer les es
 
 
 Les joutes
-# Spectacle d’ouverture – Gagner du Hope dans une joute (*Daggerheart*)
+# Spectacle d’ouverture – Gagner du Hope dans une joute 
 
 ## Objectif
 Créer une scène d’introduction où les personnages peuvent :
@@ -511,7 +511,7 @@ Voici comment tu pourrais structurer ça :
 
 ---
 
-### 🎭 Exemple narratif
+###  Exemple narratif
 
 > *Ser Alaric, acculé, serre son médaillon de Solen. Il dépense 2 points de Hope pour activer "Dernier rempart". Jet de Force réussi : il se relève, le regard brûlant de détermination. La foule rugit. Son adversaire hésite.*
 
