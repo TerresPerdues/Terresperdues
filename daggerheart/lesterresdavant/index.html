@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="turbo-root" content="/Terresperdues">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.11.0.808453485886">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.11.0.808496893539">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.11.0">
@@ -31,11 +31,11 @@
 
     <script data-cfasync="false">(function(){var cl=document.documentElement.classList,ls=localStorage.getItem("retype_scheme"),hd=cl.contains("dark"),hl=cl.contains("light"),wm=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches;if(ls==="dark"||(!ls&&wm&&!hd&&!hl)){cl.remove("light");cl.add("dark")}else if(ls==="light"||(!ls&&!wm&&!hd&&!hl)){cl.remove("dark");cl.add("light")}})();</script>
 
-    <link href="../../resources/css/retype.css?v=3.11.0.808453485886" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.11.0.808496893539" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.11.0.808453485886" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.11.0.808496893539" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.11.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.11.0.808453485886" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.11.0.808496893539" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="retype-app" class="relative text-base antialiased text-base-text bg-base-bg font-body">
@@ -865,9 +865,69 @@ Même si l’exploration est secondaire, les mystères du Voile, les pactes anci
 </div>
 <p><strong>Astuce</strong> : Chaque action peut être accompagnée d’un jet de compétence approprié (<em>Présence</em>, <em>Art</em>, <em>Foi</em>, <em>Adresse</em>, etc.) pour déterminer son effet et le gain de Hope.</p>
 <hr>
+<doc-anchor-target id="règles-de-joute--système-triadique-inspiré-de-pierre-papier-ciseaux">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#règles-de-joute--système-triadique-inspiré-de-pierre-papier-ciseaux">#</doc-anchor-trigger>
+        <span>Règles de Joute : Système Triadique (inspiré de pierre-papier-ciseaux)</span>
+    </h3>
+</doc-anchor-target>
+<p><strong>Principe de base</strong></p>
+<p>Chaque chevalier choisit secrètement une posture de combat parmi trois options pour les 3 rounds de la joute, l&#x27;objectif est de gagné 2 round sur 3. Chaque posture a un avantage sur une autre, créant un triangle d’interactions :</p>
+<p>La frappe précise est une attaque qui attend à la dernière minute pour toucher l&#x27;adversaire, ce qui fait que la parade agile ne fonctionne pas, cependant l&#x27;attaque rapide va toucher en premier.
+La parade rapide permet de placer le bouclier pour faire devier la lance de l&#x27;adveraire, une frappe rapide va être dévier et ne cassera pas la lance. Une attaque précise par contre réussir à toucher.
+Une attaque rapide permet de frapper avant l&#x27;adversaire, ce qui permet de casser sa lance sur l&#x27;adversaire lui faisant raté sa frappe précise mais se fait dévier pas une parade agile.</p>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="comfortable">
+<thead>
+<tr>
+<th>Posture</th>
+<th>Avantage sur</th>
+<th>Faible contre</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Frappe Précise</strong></td>
+<td>Parade agile</td>
+<td>Attaque rapide</td>
+</tr>
+<tr>
+<td><strong>Parade agile</strong></td>
+<td>Attaque rapide</td>
+<td>Frappe précise</td>
+</tr>
+<tr>
+<td><strong>Attaque rapide</strong></td>
+<td>Frappe précise</td>
+<td>Parade agile</td>
+</tr>
+</tbody>
+</table>
+</div>
+<doc-anchor-target id="résolution-du-duel">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#résolution-du-duel">#</doc-anchor-trigger>
+        <span>Résolution du duel</span>
+    </h3>
+</doc-anchor-target>
+<ol>
+<li><strong>Choix secret</strong> : Chaque chevalier choisit sa posture en secret pour les 3 rounds.</li>
+<li><strong>Révélation simultanée</strong> : Les postures sont révélées en même temps.</li>
+<li><strong>Comparaison</strong> :
+<ul>
+<li>Si l’un a l’avantage, il gagne le round.</li>
+<li>Si les postures sont identiques, les deux roulent un test de compétence (Force ou Dextérité selon la posture) pour départager.</li>
+</ul>
+</li>
+<li><strong>Effets narratifs</strong> :
+<ul>
+<li>Le gagnant peut infliger une conséquence en dépensant des points de Hope.</li>
+<li>Le perdant peut tenter une réaction en utilisant des points de Hope.</li>
+</ul>
+</li>
+</ol>
 <p><strong>Utilisation du Hope ou fear pendant le duel</strong></p>
-<p>Une petite nouveauté ici, puisque le duel ressemble à une partie de roche papier ciseau, les point de fear pour le Maître de jeu doievent être dépensé secretement avant les joueurs. Marque le tout sur un papier ou vire les cartes en uilisant les points de hope et laisse les joueurs décider de leur action par la suite.
-Les points de Hope peuvent être dépensés normalement, il existe cependant de nouvelle <strong>Hope Feature</strong> que vous pouvez activer :</p>
+<p>Les points de Hope peuvent être dépensés normalement, il existe cependant de nouvelle <strong>Hope Feature</strong> que vous pouvez activer :</p>
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
 <thead>
@@ -878,15 +938,11 @@ Les points de Hope peuvent être dépensés normalement, il existe cependant de 
 </thead>
 <tbody>
 <tr>
-<td>Encaisser un coup</td>
-<td>Spend 2 Hope Quand tu prend un dégat sévere tu peut mettre un stress et pour marquer un point de vie de mois.</td>
-</tr>
-<tr>
 <td>Cri héroïque</td>
 <td>Spend 1 Hope Impressionne la foule de +1</td>
 </tr>
 <tr>
-<td>Charge divine</td>
+<td>Coup Puissant</td>
 <td>Spend 2 Hope permet de faire rouler un jet de déséquilibre</td>
 </tr>
 <tr>
@@ -968,6 +1024,22 @@ Les points de Hope peuvent être dépensés normalement, il existe cependant de 
 <tr>
 <td>Serment de victoire</td>
 <td>Spend x Hope Bonus narratif si le duel est remporté</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="comfortable">
+<thead>
+<tr>
+<th>Réaction</th>
+<th>Effet  narratif et mécanique</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Encaisser un coup</td>
+<td>Spend 2 Hope Quand tu prend un dégat sévere tu peut mettre un stress et pour marquer un point de vie de mois.</td>
 </tr>
 </tbody>
 </table>
