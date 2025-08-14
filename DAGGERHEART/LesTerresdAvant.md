@@ -357,38 +357,31 @@ Les joutes sont parfois interrompues par des manifestations druidiques ou des ap
 ### Règles pour la création d'une écurie de chevalier
 
 **Étape 1 : Choisir un Duché d'origine**
-
-Déterminez le duché auquel votre écurie est affiliée. Cela influencera les valeurs, les ressources et les objectifs de votre écurie.
+- Déterminez le duché auquel votre écurie est affiliée. Cela influencera les valeurs, les ressources et les objectifs de votre écurie.
 
 **Étape 2 : Définir les membres de l'écurie**
-
-Chevaliers : Choisissez un ou plusieurs chevaliers qui représenteront votre écurie lors des joutes.
-Hérauts : Sélectionnez des hérauts pour annoncer vos chevaliers et galvaniser les foules.
-Stratèges : Ajoutez des stratèges pour planifier les tactiques et maximiser les chances de victoire.
+- Chevaliers : Choisissez un ou plusieurs chevaliers qui représenteront votre écurie lors des joutes.
+- Hérauts : Sélectionnez des hérauts pour annoncer vos chevaliers et galvaniser les foules.
+- Stratèges : Ajoutez des stratèges pour planifier les tactiques et maximiser les chances de victoire.
 
 **Étape 3 : Déterminer les ressources**
-
-Magie : Décidez si votre écurie utilise des effets magiques pour impressionner les spectateurs.
-Produits dérivés : Créez des objets de collection pour générer des revenus et fidéliser les fans.
+- Magie : Décidez si votre écurie utilise des effets magiques pour impressionner les spectateurs.
+- Produits dérivés : Créez des objets de collection pour générer des revenus et fidéliser les fans.
 
 **Étape 4 : Fixer les objectifs**
-
-Politique : Votre écurie cherche-t-elle à influencer les décisions du royaume ?
-Prestige : Souhaitez-vous devenir la plus célèbre des écuries ?
-Économie : Visez-vous à maximiser les profits grâce aux produits dérivés ?
+- Politique : Votre écurie cherche-t-elle à influencer les décisions du royaume ?
+- Prestige : Souhaitez-vous devenir la plus célèbre des écuries ?
+- Économie : Visez-vous à maximiser les profits grâce aux produits dérivés ?
 
 **Étape 5 : Définir les valeurs**
-
-Tradition : Votre écurie respecte-t-elle les anciennes coutumes ?
-Innovation : Préférez-vous introduire des idées nouvelles et des stratégies audacieuses ?
+- Tradition : Votre écurie respecte-t-elle les anciennes coutumes ?
+- Innovation : Préférez-vous introduire des idées nouvelles et des stratégies audacieuses ?
 
 **Étape 6 : Créer une identité visuelle**
-
-Concevez un blason, des couleurs et un slogan qui reflètent l'esprit de votre écurie.
+- Concevez un blason, des couleurs et un slogan qui reflètent l'esprit de votre écurie.
 
 **Étape 7 : Préparer les festivités**
-
-Planifiez une ouverture spectaculaire pour captiver les foules et marquer les esprits.
+- Planifiez une ouverture spectaculaire pour captiver les foules et marquer les esprits.
 
 
 Les joutes
