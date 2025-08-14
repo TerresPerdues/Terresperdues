@@ -342,6 +342,8 @@ Les joutes organisées à Aurélion sont marquées par une mise en scène specta
 
 Situé au cœur de vastes forêts anciennes, le Duché des Échardes est reconnu pour ses traditions sylvestres profondément enracinées. Chaque saison, les grandes maisons de ce duché parrainent des Gardiens du Bois, ce sont des chevaliers choisies qui pourront bénéficier de financement pour les joutes. 
 
+Valbois est une cité forestière bâtie en symbiose avec les arbres, où l’architecture vivante et les traditions druidiques façonnent le quotidien. Carrefour entre les duchés, elle abrite le marché des essences. Ses habitants, fiers et prudents, vivent au rythme des saisons et des signes de la forêt.
+
 Les joutes organisées dans ce duché se déroulent souvent dans des clairières enchantées, où les spectateurs s’installent sur des gradins en chêne extrêmement bien travailler. On raconte que les chevaliers doivent démontrer non seulement leur force, mais aussi leur respect envers la nature, sous peine de voir les esprits sylvestres perturber leur performance.Cependant, malgré les traditions de respect, des tensions persistent avec les esprits sylvestres. Certains d’entre eux, anciens et farouches, considèrent les joutes comme une profanation de leurs sanctuaires. Des incidents ont été rapportés où des chevaliers trop arrogants ont vu leurs armes rouiller, leurs montures s’égarer ou leurs voix se perdre dans les bois. Ces manifestations sont interprétées comme des avertissements, voire des malédictions.
 
 Le Duché des Échardes exporte des semences enchantées vers les autres duchés, dans le but de reverdir les terres appauvries et d’étendre son influence écologique.Duché de Fercreux 
