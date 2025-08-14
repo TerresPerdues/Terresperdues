@@ -187,7 +187,7 @@ Conserver le titre de Champion est un exploit rare : les responsabilités poli
 | Duché | Objectifs |
 | --- | --------- |
 | **Duché de Valome** | Maintenir son rôle de centre politique et culturel des Terres d’avant. |
-| **Duché de Calbrun** | Renforcer son contrôle juridique. |
+| **Duché de Caldrun** | Renforcer son contrôle juridique. |
 | **Duché de Fercreux** | Exploiter les ressources minières pour asseoir sa puissance économique. |
 | **Duché de Lume** | Dominer le commerce maritime et les routes commerciales. |
 | **Duché de Courvouaille** | Donner plus de place au peuple et réduire la puissance des maisons riches qui contrôle les autres duchés |
@@ -222,13 +222,13 @@ Les rivalités avec Aurélion s’intensifient, notamment autour de la question 
 - *Quel lien personnel as-tu avec les statues du Chemin des Héros ?*
 - *Comment perçois-tu l’armée de Valome et son rôle dans la cité ?*
 
-### Duché de Calbrun
+### Duché de Caldrun
 
-Le Duché de Calbrun est une région vaste et diversifiée, où l’on retrouve un peu de tout, mais en moins prestigieux. Ses terres fertiles permettent une agriculture florissante, ses mines regorgent de ressources précieuses, et ses grandes forêts abritent une biodiversité riche.
+Le Duché de Caldrun est une région vaste et diversifiée, où l’on retrouve un peu de tout, mais en moins prestigieux. Ses terres fertiles permettent une agriculture florissante, ses mines regorgent de ressources précieuses, et ses grandes forêts abritent une biodiversité riche. Dagonaut, la plus grande ville du duché, s’élève fièrement autour d’une ancienne forteresse perchée sur une colline. Vestige des premières grandes guerres, cette citadelle a traversé les âges, conservée avec soin comme symbole de résilience et de puissance. Au fil des siècles, les habitations, les marchés et les rues pavées se sont étendus en spirale autour de ses murailles, donnant naissance à une cité florissante où passé et présent s’entrelacent.
 
-Cependant, Calbrun est également une région où les monstres du nord attaquent fréquemment. Les habitants, habitués à se défendre, sont souvent armés et prêts à repousser les vouivres, les loups, et autres créatures inimaginables. Ces attaques ralentissent le développement du duché, mais elles en font aussi le terrain privilégié des exploits des chevaliers.
+Cependant, Caldrun est également une région où les monstres du nord attaquent fréquemment. Les habitants, habitués à se défendre, sont souvent armés et prêts à repousser les vouivres, les loups, et autres créatures inimaginables. Ces attaques ralentissent le développement du duché, mais elles en font aussi le terrain privilégié des exploits des chevaliers.
 
-L’évolution de Calbrun est plus lente que celle des autres duchés, mais ses habitants sont résilients et fiers de leur capacité à surmonter les défis. Les tavernes et auberges y sont nombreuses, offrant des lieux de repos et de rassemblement pour les voyageurs et les héros en quête d’aventures.
+L’évolution de Caldrun est plus lente que celle des autres duchés, mais ses habitants sont résilients et fiers de leur capacité à surmonter les défis. Les tavernes et auberges y sont nombreuses, offrant des lieux de repos et de rassemblement pour les voyageurs et les héros en quête d’aventures.
 
 Certaines parties du territoire restent peu explorées, comme les montagnes au nord, les vallées à l’est, et les forêts qui les entourent. Ces zones regorgent de légendes et de mystères, attirant les aventuriers et les écuries de chevalier.
 
@@ -236,17 +236,18 @@ Certaines parties du territoire restent peu explorées, comme les montagnes au n
 
 Les attaques de monstres du nord ralentissent le développement économique et social du duché, mais elles renforcent la solidarité et la résilience de ses habitants.
 
-Les chevaliers voient en Calbrun un terrain d’exploits, mais certains estiment que le duché devrait recevoir plus de soutien des autres régions pour se développer.
+Les chevaliers voient en Caldrun un terrain d’exploits, mais certains estiment que le duché devrait recevoir plus de soutien des autres régions pour se développer.
 
-Les zones peu explorées de Calbrun suscitent des convoitises, mais elles sont également sources de conflits entre les habitants et les aventuriers extérieurs.
+Les zones peu explorées de Caldrun suscitent des convoitises, mais elles sont également sources de conflits entre les habitants et les aventuriers extérieurs.
 
-- *As-tu déjà affronté une créature légendaire dans les forêts de Calbrun ?*
+- *As-tu déjà affronté une créature légendaire dans les forêts de Caldrun ?*
 - *Quel lien personnel as-tu avec les légendes qui entourent les montagnes au nord ?*
-- *Comment perçois-tu le rôle des chevaliers dans la défense et le développement de Calbrun ?*
+- *Comment perçois-tu le rôle des chevaliers dans la défense et le développement de Caldrun ?*
 
 ### Duché de Fercreux
 
 Situé dans une région montagneuse aux entrailles riches en minerais précieux, Fercreux est le cœur battant de l’industrie métallurgique des Terres d’avant. Ses forges résonnent jour et nuit, alimentées par les flammes des Hauts-Fourneaux et le labeur incessant des mineurs. Le duché est réputé pour ses armes d’exception, ses armures gravées de runes anciennes, et ses chevaliers bardés d’acier noir.
+La ville principale de ce duché est **Fendacier**, une cité industrielle située au pied de la Montagne Fendue, dont les riches gisements de fer alimentent son économie. Partiellement construite à l’extérieur et au sein même de la montagne, elle abrite une population ouvrière spécialisée dans l’extraction minière et la forge. Reconnue pour la qualité de ses métaux, la ville conserve une identité forte, marquée par la rigueur du travail et les légendes liées à ses profondeurs.
 
 Les forgerons de Fercreux sont considérés comme des artistes autant que des artisans. Leurs créations sont convoitées par toutes les écuries, et certaines joutes imposent des quotas pour éviter que Fercreux n’équipe tous les champions. Les armes forgées ici sont souvent enchantées par des mages métallurgistes, capables d’insuffler des propriétés élémentaires dans le métal.
 
@@ -289,6 +290,10 @@ Les rivalités avec Valome et les autres duchés s’intensifient, notamment aut
 - *Comment perçois-tu les ambitions de Lume de dominer les routes commerciales ?*
 
 ### Duché de Courvouaille
+
+La ville central de ce duché est Rochelieu. Une ville qui s’étend au cœur des plaines fertiles de Courvouaille, là où les routes des caravanes croisent les sentiers des pèlerins et des voyageurs. La ville est construite en cercles concentriques autour d’un immense ménhir noir veiné d’argent, appelé le Pilier des Voix. Ce monument ancien, d’origine inconnue, est devenu le symbole de la ville et de son engagement envers l’écoute, le dialogue et la justice.
+
+Contrairement aux cités fortifiées des duchés conservateurs, Rochelieu est ouverte sur l’extérieur : pas de murailles, mais des jardins partagés, des places publiques et des chemins bordés de lanternes enchantées. L’architecture mêle pierre locale, bois sculpté et verrières colorées, reflétant la diversité culturelle de ses habitants.
 
 Le Duché de Courvouaille est une région paisible et diversifiée, où la coexistence des peuples est une priorité. Contrairement aux autres duchés, Courvouaille se distingue par son approche avant-gardiste des droits sociaux, cherchant à réduire la puissance des grandes maisons nobles et à donner plus de place au peuple dans les décisions politiques.
 
