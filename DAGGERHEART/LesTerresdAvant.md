@@ -385,7 +385,7 @@ Les joutes sont parfois interrompues par des manifestations druidiques ou des ap
 
 
 ### Les joutes
-#### Spectacle d’ouverture – Gagner du Hope dans une joute 
+#### Spectacle d’ouverture
 
 **Objectif**
 
@@ -398,7 +398,7 @@ Créer une scène d’introduction où les personnages peuvent :
 
 **Étape 1 : Déclaration du spectacle**
 
-Chaque jouteur (ou allié) décrit une action spectaculaire :
+Chaque héraut (ou allié) décrit une action spectaculaire :
 - Discours flamboyant
 - Chant inspirant (bardes !)
 - Parade à cheval
@@ -411,9 +411,10 @@ Le joueur fait un **jet de Présence**, *Art*, *Foi*, ou autre compétence appro
 
 | Résultat du jet | Gain de Hope | Effet narratif |
 |-----------------|--------------|----------------|
-| Succès          | 1 point      | Action réussie, la foule est ravie |
-| Succès majeur   | 2 points     | Ovation, effet mémorable |
-| Échec           | 0 point      | Foule qui hue, cheval nerveux, etc. |
+| Succès          | 1 point      | Action réussie, la foule est ravie et gagne + 2 de faveur de la foule |
+| Succès majeur   | 2 points     | Ovation, effet mémorable + 4 de faveur de la foule|
+| Échec           | 0 point      | cheval nerveux, foule muette, etc. - 2 de faveur de la foule |
+| Échec critique  | 0 point      | Foule qui hue, enfants qui pleurent, etc. - 4 de faveur de la foule |
 
 **Exemple narratif**
 
@@ -442,7 +443,7 @@ Lors du spectacle d’ouverture, les joueurs ou les opposants peuvent tirer ou c
 | 11  | Offrir un bijou ou une fleur à un spectateur choisi |
 | 12  | Déclamer une promesse solennelle de victoire ou d’honneur |
 | 13  | Exécuter une acrobatie en descendant de cheval |
-| 14  | Laisser son écuyer raconter ses exploits passés à la foule |
+| 14  | Lance des produits dérivées dans la foule |
 | 15  | Faire apparaître une illusion magique autour de soi |
 | 16  | Laisser son cheval galoper en cercle en liberté avant de le monter |
 | 17  | Dévoiler une armure ou une arme légendaire au dernier moment |
@@ -458,28 +459,59 @@ Lors du spectacle d’ouverture, les joueurs ou les opposants peuvent tirer ou c
 
 **Principe de base**
 
-Chaque chevalier choisit secrètement une posture de combat parmi trois options pour les 3 rounds de la joute, l'objectif est de gagné 2 round sur 3. Chaque posture a un avantage sur une autre, créant un triangle d’interactions :
+**Système de joute – Choix de posture**
 
-La frappe précise est une attaque qui attend à la dernière minute pour toucher l'adversaire, ce qui fait que la parade agile ne fonctionne pas, cependant l'attaque rapide va toucher en premier. 
-La parade rapide permet de placer le bouclier pour faire devier la lance de l'adveraire, une frappe rapide va être dévier et ne cassera pas la lance. Une attaque précise par contre réussir à toucher. 
-Une attaque rapide permet de frapper avant l'adversaire, ce qui permet de casser sa lance sur l'adversaire lui faisant raté sa frappe précise mais se fait dévier pas une parade agile. 
+Chaque chevalier choisit **secrètement une posture de combat** parmi trois options pour les **trois rounds** de la joute.  
+L’objectif est de **remporter deux rounds sur trois**.
 
-| Posture | Avantage sur | Faible contre |
-| --- | --- | --- |
-| **Frappe Précise**  | Parade agile | Attaque rapide |
-| **Parade agile**  | Attaque rapide | Frappe précise |
-| **Attaque rapide**  | Frappe précise | Parade agile |
+Chaque posture possède un avantage sur une autre, formant un **triangle stratégique** d’interactions :
+- Frappe précise 💥 : Une attaque calculée qui attend le dernier moment pour frapper, contournant la parade agile. Cependant, elle est vulnérable à l’attaque rapide, qui frappe en premier.
+- Parade agile 🛡️ : Une défense habile qui dévie les assauts rapides, empêchant la lance de se briser. Mais elle échoue face à une frappe précise, trop subtile pour être anticipée.
+- Attaque rapide ⚡ : Une offensive fulgurante qui frappe avant l’adversaire, brisant sa lance et annulant sa frappe précise. Toutefois, elle est facilement détournée par une parade agile bien placée.
+
+**Tableau récapitulatif**
+
+| **Posture**         | **Avantage sur**       | **Faible contre**       |
+|---------------------|------------------------|--------------------------|
+| 💥 Frappe précise   | 🛡️ Parade agile        | ⚡ Attaque rapide         |
+| 🛡️ Parade agile     | ⚡ Attaque rapide       | 💥 Frappe précise         |
+| ⚡ Attaque rapide    | 💥 Frappe précise       | 🛡️ Parade agile           |
+
+---
+**Cartes de Posture**
+
+Pour représenter les postures de combat, chaque joueur peut utiliser des cartes illustrées. 
+
+**Carte : Frappe Précise 💥**
+
+- **Nom** : Frappe Précise
+- **Couleur dominante** : Rouge
+- **Effet** : Bat la Parade Agile 🛡️, perd contre l’Attaque Rapide ⚡
+- **Texte d’ambiance** : « La patience est une arme. »
+
+**Carte : Parade Agile 🛡️**
+
+- **Nom** : Parade Agile
+- **Couleur dominante** : Bleu
+- **Effet** : Bat l’Attaque Rapide ⚡, perd contre la Frappe Précise 💥
+- **Texte d’ambiance** : « L’élégance défie la vitesse. »
+
+**Carte : Attaque Rapide ⚡**
+
+- **Nom** : Attaque Rapide
+- **Couleur dominante** : Jaune
+- **Effet** : Bat la Frappe Précise 💥, perd contre la Parade Agile 🛡️
+- **Texte d’ambiance** : « Frapper avant de penser. »
+
+---
 
 ### Résolution du duel
 
-1. **Choix secret** : Chaque chevalier choisit sa posture en secret pour les 3 rounds.
+1. **Choix secret** : Chaque chevalier choisit un posture en secret par round pour les 3 rounds.
 2. **Révélation simultanée** : Les postures sont révélées en même temps.
 3. **Comparaison** :
    * Si l’un a l’avantage, il gagne le round.
    * Si les postures sont identiques, les deux roulent un test de compétence (Force ou Dextérité selon la posture) pour départager.
-4. **Effets narratifs** :
-   * Le gagnant peut infliger une conséquence en dépensant des points de Hope.
-   * Le perdant peut tenter une réaction en utilisant des points de Hope.
 
 **Utilisation du Hope ou fear pendant le duel**
 
@@ -488,39 +520,69 @@ Les points de Hope peuvent être dépensés normalement, il existe cependant de 
 | Action                              | Effet  narratif et mécanique|
 |-------------------------------------|-----------------------------|
 | Cri héroïque                        | Spend 1 Hope Impressionne la foule de +1 |
-| Coup Puissant                       | Spend 2 Hope permet de faire rouler un jet de déséquilibre  |
-| Parade impossible                   | Spend 3 Hope Ignore un coup reçu, si narrativement justifié |
-| Dernier rempart                     | Spend 3 Hope Se relève rapidement après avoir été mis à terre, ne cause pas de perte d'influence de la foule |
-| Frappe légendaire                   | Spend 2 Hope Désarme, fait tomber ou brise l’arme de l’adversaire |
-| Regard de défi                      | Spend x Hope Intimide l’adversaire (jet de Présence requis) |
-| Protection sacrée                   | Spend 3 Hope clear 2 armor slots|
-| Appel de la nature                  | Spend x Hope Invoque une créature ou un effet naturel (racines, vent, etc.) |
-| Vision du prédateur                 | Spend x Hope Détecte les faiblesses de l’adversaire (avantage au prochain jet) |
-| Bond acrobatique                    | Spend x Hope Se déplace hors de portée ou vers une position avantageuse |
-| Bouclier éthéré                     | Spend x Hope Annule ou réduit les dégâts d’un sort ou attaque magique |
-| Parole interdite                    | Spend x Hope Empêche un adversaire de lancer un sort ou parler pendant un tour |
-| Hymne de bravoure                   | Spend x Hope Tous les alliés gagnent un dé d’espoir au prochain jet |
-| Note dissonante                     | Spend x Hope Désoriente un adversaire, lui donnant désavantage |
-| Écho du passé                       | Spend x Hope Rappelle un souvenir à un PNJ, influençant ses actions |
-| Récit inspirant                     | Spend x Hope Donne un bonus narratif à un allié (courage, clarté, etc.) |
-| Main experte                        | Spend x Hope Répare une pièce d’équipement endommagée entre deux joutes. *Effet : restaure un point d’armure*
-| Lecture de posture                  | Spend x Hope Analyse l’adversaire pendant son échauffement. *Effet : bonus tactique de + 1 au jet d'attaque du chevalier lors de sa première attaque.*|
-| Préparation optimale                | Spend x Hope Prépare le cheval avec précision selon le type d’épreuve. *Effet : donne un bonus de vitesse ou d’endurance selon le terrain.*
-| Anticipation brillante              | Spend x Hope Prédit une manœuvre ennemie et propose un contre-plan. *Effet : le chevalier gagne une réaction gratuite pendant la joute.*
-| Main apaisante                      | Spend x Hope Apaise douleur et stress du chevalier. *Effet : enlève du stressl.*
-| Serment de victoire                 | Spend x Hope Bonus narratif si le duel est remporté |
-
-| Réaction                              | Effet  narratif et mécanique|
-|-------------------------------------|-----------------------------|
-| Encaisser un coup                   | Spend 2 Hope Quand tu prend un dégat sévere tu peut mettre un stress et pour marquer un point de vie de mois.  |
-
+| Coup Puissant                       | Spend x Hope augemente le DC de desarsonnement de + x  |
+| Frappe légendaire                   | Spend 4 Hope augemente le DC de desarsonnement de + 4 |
+| Dernier Rampart                     | Spend x Hope réduit le DC de desarsonnement de + x  |
+| Feint                               | Spend 5 Hope change de posture |
 
 ###  Exemple narratif
 
 > *Ser Alaric, acculé, serre son médaillon de Solen. Il dépense 2 points de Hope pour activer "Dernier rempart". Jet de Force réussi : il se relève, le regard brûlant de détermination. La foule rugit. Son adversaire hésite.*
 
+
+| Action pour le groupe               | Effet  narratif et mécanique|
+|-------------------------------------|-----------------------------|
+| Écho du passé                       | Spend x Hope Rappelle un souvenir négatif de l'adversaire, influençant la foule de -x pour l'adversaire |
+| Récit inspirant                     | Spend x Hope Donne un bonus de +x de faveur de la foule |
+| Main experte                        | Spend x Hope Répare une pièce d’équipement endommagée entre deux joutes. *Effet : restaure x point d’armure*
+| Lecture de posture                  | Spend x Hope Analyse l’adversaire pendant son échauffement. *Effet : Empêche une feint*|
+| Préparation optimale                | Spend x Hope Prépare le cheval avec précision selon le type d’épreuve. *Effet : Reduit le DC de x pour un test de desarssonnement*
+| Anticipation brillante              | Spend x Hope Prédit une manœuvre ennemie et propose un contre-plan. *Effet : Permet de voir la prochaine posture de l'adversaire.*
+| Serment de victoire                 | Spend 2 Hope Bonus de + 4 faveur de la foule si le duel est remporté |
 ---
 
+### Désarçonnement
+
+**Déclenchement**
+
+Le désarçonnement peut survenir dans les cas suivants :
+
+- Le chevalier **perd un round de joute** avec un effet narratif puissant (ex. : coup brutal, feinte brillante).
+- Le chevalier **rate un jet de compétence** avec un échec critique (ex. : un 1 naturel).
+- Le chevalier **subit une conséquence majeure** (ex. : perte de tout son Hope ou effet magique).
+
+Lorsqu’un désarçonnement est déclenché :
+
+**Jet de sauvegarde** : Le chevalier fait un jet de **Force** ou **Dextérité** (au choix selon la posture utilisée).
+   - Difficulté standard : **DC 12**
+   - Si le jet est réussi : le chevalier reste en selle.
+   - Si le jet est raté : le chevalier est désarçonné.
+   - Sur un échec critique : Le chevalier perd la joute.
+
+
+###  Effets Spectaculaires – Points de Faveur de la Foule
+
+Certains effets spectaculaires ou dramatiques peuvent rapporter des points de faveur de la foule, utilisés pour influencer le déroulement du tournoi ou obtenir des avantages narratifs.
+
+| Effet narratif | Points de faveur |
+|----------------|------------------|
+| Désarçonnement spectaculaire | +3 |
+| Feinte brillante suivie d’une contre-attaque | +2 |
+| Cri de guerre galvanisant la foule | +1 |
+| Provocation théâtrale avant le duel | +2 |
+| Victoire rapide en 1 round | +3 |
+| Victoire rapide en 2 round | +2 |
+| Victoire en 3 round | +1 |
+| Victoire contre un adversaire avec plus de faveur de la foule | +1 |
+| Parade acrobatique évitant un coup fatal | +2 |
+| Appui d’un barde ou héraut en pleine action | +1 |
+| Style flamboyant ou gestuelle théâtrale d'après victoire | +1 |
+
+À la fin du tournoi, chaque chevalier additionne ses points de faveur. Selon le total obtenu, il peut recevoir une récompense ou un bonus mécanique :
+
+5+ points : Gagne un point de Hope supplémentaire.
+8+ points : Reçoit un objet narratif (ex. : insigne de bravoure, bénédiction du public).
+10+ points : Obtient un bonus temporaire à une compétence lors de la prochaine joute (+1).
 
 ### Ressources pour un écurie
 | Ressource                           | Bonus        | Effet narratif et mécanique |
@@ -531,33 +593,7 @@ Les points de Hope peuvent être dépensés normalement, il existe cependant de 
 | Barde de plaques | +1 armure | Composée de métal, très lourde, utilisée par les chevaliers.|
 | Barde de mailles | +1 évasion | Plus souple, offre une bonne protection sans trop gêner le mouvement.|
 | Caparaçon décoratif | +1 présence | Investir dans des améliorations (résistance, légèreté, esthétique) pour mieux résister aux impacts.|
-| Bonne réputation | présence | la foule connait déjà la réputation |
-
-Stratégies dans les joutes médiévales
-1. Positionnement et angle d’impact
-Le chevalier devait viser le centre du bouclier ou la poitrine de l’adversaire pour maximiser les chances de désarçonnement.
-
-L’angle de la lance était crucial : trop haut ou trop bas, et le coup perdait en efficacité.
-
-2. Maîtrise de la monture
-Une monture bien entraînée permettait un galop droit et stable, essentiel pour garder l’équilibre et la précision.
-
-Certains chevaliers utilisaient des chevaux plus nerveux pour surprendre l’adversaire par la vitesse.
-
-3. Choix de l’équipement
-Le poids de l’armure influençait la mobilité : plus légère pour les joutes de parade, plus lourde pour les joutes de guerre.
-
-Les lances étaient parfois conçues pour se briser à l’impact, réduisant les blessures mais augmentant le spectacle.
-
-4. Feintes et timing
-Certains chevaliers attendaient le dernier moment pour abaisser leur lance, créant une feinte visuelle.
-
-Le timing du coup était essentiel : frapper trop tôt ou trop tard pouvait entraîner une perte de puissance ou un déséquilibre.
-
-5. Lecture de l’adversaire
-Observer les habitudes de posture, le type de monture, ou même les réactions émotionnelles permettait d’anticiper les mouvements.
-
-Les chevaliers expérimentés savaient exploiter les failles dans la garde ou la posture de l’autre.
+| Bonne réputation | présence | la foule connait déjà la réputation + 2 faveur de la foule|
 
 ---
 
