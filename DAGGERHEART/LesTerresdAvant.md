@@ -365,8 +365,7 @@ Les joutes sont parfois interrompues par des manifestations druidiques ou des ap
 - Stratèges : Ajoutez des stratèges pour planifier les tactiques et maximiser les chances de victoire.
 
 **Étape 3 : Déterminer les ressources**
-- Magie : Décidez si votre écurie utilise des effets magiques pour impressionner les spectateurs.
-- Produits dérivés : Créez des objets de collection pour générer des revenus et fidéliser les fans.
+- Équipement : Vous pouvez choisir un équipement du duché que vous êtes affilié. Si vous n'est pas affilié a aucun, vous commencer chaque partie avec 1 hope supplémentaire
 
 **Étape 4 : Fixer les objectifs**
 - Politique : Votre écurie cherche-t-elle à influencer les décisions du royaume ?
@@ -379,15 +378,16 @@ Les joutes sont parfois interrompues par des manifestations druidiques ou des ap
 
 **Étape 6 : Créer une identité visuelle**
 - Concevez un blason, des couleurs et un slogan qui reflètent l'esprit de votre écurie.
+- Produits dérivés : Créez des objets de collection pour générer des revenus et fidéliser les fans.
 
 **Étape 7 : Préparer les festivités**
 - Planifiez une ouverture spectaculaire pour captiver les foules et marquer les esprits.
 
 
-Les joutes
-# Spectacle d’ouverture – Gagner du Hope dans une joute 
+### Les joutes
+#### Spectacle d’ouverture – Gagner du Hope dans une joute 
 
-## Objectif
+**Objectif**
 Créer une scène d’introduction où les personnages peuvent :
 - Se présenter avec style
 - Interagir avec la foule
@@ -395,7 +395,7 @@ Créer une scène d’introduction où les personnages peuvent :
 - Gagner des points de *Hope* utilisables pendant le duel
 
 
-###  Étape 1 : Déclaration du spectacle
+**Étape 1 : Déclaration du spectacle**
 Chaque jouteur (ou allié) décrit une action spectaculaire :
 - Discours flamboyant
 - Chant inspirant (bardes !)
@@ -403,8 +403,8 @@ Chaque jouteur (ou allié) décrit une action spectaculaire :
 - Invocation divine
 - Jet de rose à la foule…
 
-###  Étape 2 : Jet de compétence
-Le joueur fait un **jet de Présence**, *Art*, *Foi*, ou autre compétence appropriée.
+**Étape 2 : Jet de compétence**
+Le joueur fait un **jet de Présence**, *Art*, *Foi*, ou autre compétence appropriée. Il peut y avoir jusqu'à 3 jets pendant un spectacle à moins d'avis contraire. Les jet avec fear fond perdre une possibilité de jet. 
 
 | Résultat du jet | Gain de Hope | Effet narratif |
 |-----------------|--------------|----------------|
@@ -412,29 +412,16 @@ Le joueur fait un **jet de Présence**, *Art*, *Foi*, ou autre compétence appro
 | Succès majeur   | 2 points     | Ovation, effet mémorable |
 | Échec           | 0 point      | Foule qui hue, cheval nerveux, etc. |
 
----
-
-##  Utilisation du Hope pendant le duel
-
-Les points de Hope peuvent être dépensés pour :
-
-| Action             | Coût en Hope | Effet |
-|--------------------|--------------|-------|
-| Rouler avec espoir | 1            | Ajoute un dé d’espoir au jet |
-| Aider un allié     | 1            | Donne avantage à un jet de joute |
-| Encaisser un coup  | 2            | Réduit ou annule les dégâts d’une passe perdue |
-| Cri héroïque       | 1            | Impressionne la foule, peut influencer le juge ou l’adversaire |
-
----
-
-##  Exemple narratif
+**Exemple narratif**
 
 >  *Le barde Elowen se tient sur la balustrade, luth en main. Elle entonne une ballade ancienne sur les exploits du chevalier Ser Alaric. Jet de Présence + Art : succès majeur ! Elle gagne 2 points de Hope.*  
 >  *Lors de la deuxième passe, elle dépense 1 point pour aider Ser Alaric, lui donnant avantage sur son jet de Force. Il renverse son adversaire dans un fracas glorieux.*
 
 ---
+
+
 #### Table aléatiore pour les opposants
-#  Table aléatoire – Actions spectaculaires de joute
+**Table aléatoire – Actions spectaculaires de joute**
 
 Lors du spectacle d’ouverture, les joueurs peuvent tirer ou choisir une action ci-dessous pour impressionner la foule et tenter de gagner du Hope.
 
@@ -461,21 +448,20 @@ Lors du spectacle d’ouverture, les joueurs peuvent tirer ou choisir une action
 | 19  | S’agenouiller et prier devant tous, invoquant la bénédiction divine |
 | 20  | Déclencher un feu d’artifice ou un effet magique spectaculaire |
 
----
-
 **Astuce** : Chaque action peut être accompagnée d’un jet de compétence approprié (*Présence*, *Art*, *Foi*, *Adresse*, etc.) pour déterminer son effet et le gain de Hope.
 
-
-Absolument ! Dans *Daggerheart*, les **points de Hope** ne sont pas juste une ressource cosmétique — ils incarnent la volonté, la foi, et l’héroïsme des personnages. Pour un **chevalier**, c’est une ressource idéale pour déclencher des actions spectaculaires, des prouesses martiales ou des gestes de bravoure qui dépassent les limites normales du combat.
-
-Voici comment tu pourrais structurer ça :
-
 ---
 
-### Actions héroïques consommant du Hope 
+**Utilisation du Hope pendant le duel**
 
-| Action héroïque                     | Coût en Hope | Effet narratif et mécanique |
+Les points de Hope peuvent être dépensés pour :
+
+| Action                              | Coût en Hope | Effet  narratif et mécanique|
 |-------------------------------------|--------------|-----------------------------|
+| Rouler avec espoir                  | 1            | Ajoute un dé d’espoir au jet |
+| Aider un allié                      | 1            | Donne avantage à un jet |
+| Encaisser un coup                   | 2            | Quand tu prend un dégat sévere tu peut mettre un stress et pour marquer un point de vie de mois.  |
+| Cri héroïque                        | 1            | Impressionne la foule de +1 |
 | Charge divine                       | 2            | Ajoute un dé d’espoir + avantage au jet d’attaque |
 | Parade impossible                   | 1            | Ignore un coup reçu, si narrativement justifié |
 | Cri de ralliement                   | 1            | Tous les alliés à portée gagnent un dé d’espoir |
@@ -483,7 +469,7 @@ Voici comment tu pourrais structurer ça :
 | Dernier rempart                     | 3            | Se relève après avoir été mis à terre |
 | Frappe légendaire                   | 2            | Désarme, fait tomber ou brise l’arme de l’adversaire |
 | Regard de défi                      | 1            | Intimide l’adversaire (jet de Présence requis) |
-| Protection sacrée                   | 2            | Réduit les dégâts subis par soi ou un allié |
+| Protection sacrée                   | 3            | clear 2 armor slots|
 | Appel de la nature                  | 2            | Invoque une créature ou un effet naturel (racines, vent, etc.) |
 | Vision du prédateur                 | 1            | Détecte les faiblesses de l’adversaire (avantage au prochain jet) |
 | Bond acrobatique                    | 1            | Se déplace hors de portée ou vers une position avantageuse |
@@ -501,8 +487,6 @@ Voici comment tu pourrais structurer ça :
 | Infusion réparatrice                | 1            | Crée un tonique régénérant avec des herbes. *Effet : rend 1d6 points de vie ou soigne un effet secondaire.*
 | Mots réconfortants                  | 1            | Renforce l'esprit du chevalier par prière ou mantra. *Effet : bonus de volonté ou de résistance mentale.*
 
-
----
 
 ###  Exemple narratif
 
