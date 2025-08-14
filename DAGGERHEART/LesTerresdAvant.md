@@ -388,6 +388,7 @@ Les joutes sont parfois interrompues par des manifestations druidiques ou des ap
 #### Spectacle d’ouverture – Gagner du Hope dans une joute 
 
 **Objectif**
+
 Créer une scène d’introduction où les personnages peuvent :
 - Se présenter avec style
 - Interagir avec la foule
@@ -396,6 +397,7 @@ Créer une scène d’introduction où les personnages peuvent :
 
 
 **Étape 1 : Déclaration du spectacle**
+
 Chaque jouteur (ou allié) décrit une action spectaculaire :
 - Discours flamboyant
 - Chant inspirant (bardes !)
@@ -404,7 +406,8 @@ Chaque jouteur (ou allié) décrit une action spectaculaire :
 - Jet de rose à la foule…
 
 **Étape 2 : Jet de compétence**
-Le joueur fait un **jet de Présence**, *Art*, *Foi*, ou autre compétence appropriée. Il peut y avoir jusqu'à 3 jets pendant un spectacle à moins d'avis contraire. Les jet avec fear fond perdre une possibilité de jet. 
+
+Le joueur fait un **jet de Présence**, *Art*, *Foi*, ou autre compétence appropriée. Il peut y avoir jusqu'à 3 jets pendant un spectacle à moins d'avis contraire. Les jet avec fear font perdre une possibilité de jet. 
 
 | Résultat du jet | Gain de Hope | Effet narratif |
 |-----------------|--------------|----------------|
@@ -421,6 +424,7 @@ Le joueur fait un **jet de Présence**, *Art*, *Foi*, ou autre compétence appro
 
 
 #### Table aléatiore pour les opposants
+
 **Table aléatoire – Actions spectaculaires de joute**
 
 Lors du spectacle d’ouverture, les joueurs peuvent tirer ou choisir une action ci-dessous pour impressionner la foule et tenter de gagner du Hope.
@@ -454,39 +458,33 @@ Lors du spectacle d’ouverture, les joueurs peuvent tirer ou choisir une action
 
 **Utilisation du Hope pendant le duel**
 
-Les points de Hope peuvent être dépensés pour :
+Les points de Hope peuvent être dépensés normalement, il existe cependant de nouvelle **Hope Feature** que vous pouvez activer :
 
-| Action                              | Coût en Hope | Effet  narratif et mécanique|
-|-------------------------------------|--------------|-----------------------------|
-| Rouler avec espoir                  | 1            | Ajoute un dé d’espoir au jet |
-| Aider un allié                      | 1            | Donne avantage à un jet |
-| Encaisser un coup                   | 2            | Quand tu prend un dégat sévere tu peut mettre un stress et pour marquer un point de vie de mois.  |
-| Cri héroïque                        | 1            | Impressionne la foule de +1 |
-| Charge divine                       | 2            | Ajoute un dé d’espoir + avantage au jet d’attaque |
-| Parade impossible                   | 1            | Ignore un coup reçu, si narrativement justifié |
-| Cri de ralliement                   | 1            | Tous les alliés à portée gagnent un dé d’espoir |
-| Serment de victoire                 | 2            | Bonus narratif si le duel est remporté |
-| Dernier rempart                     | 3            | Se relève après avoir été mis à terre |
-| Frappe légendaire                   | 2            | Désarme, fait tomber ou brise l’arme de l’adversaire |
-| Regard de défi                      | 1            | Intimide l’adversaire (jet de Présence requis) |
-| Protection sacrée                   | 3            | clear 2 armor slots|
-| Appel de la nature                  | 2            | Invoque une créature ou un effet naturel (racines, vent, etc.) |
-| Vision du prédateur                 | 1            | Détecte les faiblesses de l’adversaire (avantage au prochain jet) |
-| Bond acrobatique                    | 1            | Se déplace hors de portée ou vers une position avantageuse |
-| Bouclier éthéré                     | 1            | Annule ou réduit les dégâts d’un sort ou attaque magique |
-| Parole interdite                    | 3            | Empêche un adversaire de lancer un sort ou parler pendant un tour |
-| Hymne de bravoure                   | 3            | Tous les alliés gagnent un dé d’espoir au prochain jet |
-| Note dissonante                     | 2            | Désoriente un adversaire, lui donnant désavantage |
-| Écho du passé                       | 1            | Rappelle un souvenir à un PNJ, influençant ses actions |
-| Récit inspirant                     | 1            | Donne un bonus narratif à un allié (courage, clarté, etc.) |
-| Main experte                        | 3            | Répare une pièce d’équipement endommagée entre deux joutes. *Effet : restaure un point d’armure*
-| Lecture de posture                  | 2            | Analyse l’adversaire pendant son échauffement. *Effet : bonus tactique de + 1 au jet d'attaque du chevalier lors de sa première attaque.*|
-| Préparation optimale                | 1            | Prépare le cheval avec précision selon le type d’épreuve. *Effet : donne un bonus de vitesse ou d’endurance selon le terrain.*
-| Anticipation brillante              | 1            | Prédit une manœuvre ennemie et propose un contre-plan. *Effet : le chevalier gagne une réaction gratuite pendant la joute.*
-| Main apaisante                      | 1            | Apaise douleur et stress du chevalier. *Effet : enlève du stressl.*
-| Infusion réparatrice                | 1            | Crée un tonique régénérant avec des herbes. *Effet : rend 1d6 points de vie ou soigne un effet secondaire.*
-| Mots réconfortants                  | 1            | Renforce l'esprit du chevalier par prière ou mantra. *Effet : bonus de volonté ou de résistance mentale.*
-
+| Action                              | Effet  narratif et mécanique|
+|-------------------------------------|-----------------------------|
+| Encaisser un coup                   | Spend 2 Hope Quand tu prend un dégat sévere tu peut mettre un stress et pour marquer un point de vie de mois.  |
+| Cri héroïque                        | Spend 1 Hope Impressionne la foule de +1 |
+| Charge divine                       | Spend 2 Hope permet de faire rouler un jet de déséquilibre  |
+| Parade impossible                   | Spend 3 Hope Ignore un coup reçu, si narrativement justifié |
+| Dernier rempart                     | Spend 3 Hope Se relève rapidement après avoir été mis à terre, ne cause pas de perte d'influence de la foule |
+| Frappe légendaire                   | Spend 2 Hope Désarme, fait tomber ou brise l’arme de l’adversaire |
+| Regard de défi                      | Spend x Hope Intimide l’adversaire (jet de Présence requis) |
+| Protection sacrée                   | Spend 3 Hope clear 2 armor slots|
+| Appel de la nature                  | Spend x Hope Invoque une créature ou un effet naturel (racines, vent, etc.) |
+| Vision du prédateur                 | Spend x Hope Détecte les faiblesses de l’adversaire (avantage au prochain jet) |
+| Bond acrobatique                    | Spend x Hope Se déplace hors de portée ou vers une position avantageuse |
+| Bouclier éthéré                     | Spend x Hope Annule ou réduit les dégâts d’un sort ou attaque magique |
+| Parole interdite                    | Spend x Hope Empêche un adversaire de lancer un sort ou parler pendant un tour |
+| Hymne de bravoure                   | Spend x Hope Tous les alliés gagnent un dé d’espoir au prochain jet |
+| Note dissonante                     | Spend x Hope Désoriente un adversaire, lui donnant désavantage |
+| Écho du passé                       | Spend x Hope Rappelle un souvenir à un PNJ, influençant ses actions |
+| Récit inspirant                     | Spend x Hope Donne un bonus narratif à un allié (courage, clarté, etc.) |
+| Main experte                        | Spend x Hope Répare une pièce d’équipement endommagée entre deux joutes. *Effet : restaure un point d’armure*
+| Lecture de posture                  | Spend x Hope Analyse l’adversaire pendant son échauffement. *Effet : bonus tactique de + 1 au jet d'attaque du chevalier lors de sa première attaque.*|
+| Préparation optimale                | Spend x Hope Prépare le cheval avec précision selon le type d’épreuve. *Effet : donne un bonus de vitesse ou d’endurance selon le terrain.*
+| Anticipation brillante              | Spend x Hope Prédit une manœuvre ennemie et propose un contre-plan. *Effet : le chevalier gagne une réaction gratuite pendant la joute.*
+| Main apaisante                      | Spend x Hope Apaise douleur et stress du chevalier. *Effet : enlève du stressl.*
+| Serment de victoire                 | Spend x Hope Bonus narratif si le duel est remporté |
 
 ###  Exemple narratif
 
