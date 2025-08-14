@@ -503,6 +503,32 @@ Les points de Hope peuvent être dépensés normalement, il existe cependant de 
 | Caparaçon décoratif | +1 présence | Investir dans des améliorations (résistance, légèreté, esthétique) pour mieux résister aux impacts.|
 | Bonne réputation | présence | la foule connait déjà la réputation |
 
+Stratégies dans les joutes médiévales
+1. Positionnement et angle d’impact
+Le chevalier devait viser le centre du bouclier ou la poitrine de l’adversaire pour maximiser les chances de désarçonnement.
+
+L’angle de la lance était crucial : trop haut ou trop bas, et le coup perdait en efficacité.
+
+2. Maîtrise de la monture
+Une monture bien entraînée permettait un galop droit et stable, essentiel pour garder l’équilibre et la précision.
+
+Certains chevaliers utilisaient des chevaux plus nerveux pour surprendre l’adversaire par la vitesse.
+
+3. Choix de l’équipement
+Le poids de l’armure influençait la mobilité : plus légère pour les joutes de parade, plus lourde pour les joutes de guerre.
+
+Les lances étaient parfois conçues pour se briser à l’impact, réduisant les blessures mais augmentant le spectacle.
+
+4. Feintes et timing
+Certains chevaliers attendaient le dernier moment pour abaisser leur lance, créant une feinte visuelle.
+
+Le timing du coup était essentiel : frapper trop tôt ou trop tard pouvait entraîner une perte de puissance ou un déséquilibre.
+
+5. Lecture de l’adversaire
+Observer les habitudes de posture, le type de monture, ou même les réactions émotionnelles permettait d’anticiper les mouvements.
+
+Les chevaliers expérimentés savaient exploiter les failles dans la garde ou la posture de l’autre.
+
 ---
 
 ## Session 0 
