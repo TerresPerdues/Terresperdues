@@ -423,11 +423,9 @@ Le joueur fait un **jet de Présence**, *Art*, *Foi*, ou autre compétence appro
 ---
 
 
-#### Table aléatiore pour les opposants
+#### Table aléatiore pour les joueurs ou les opposants
 
-**Table aléatoire – Actions spectaculaires de joute**
-
-Lors du spectacle d’ouverture, les joueurs peuvent tirer ou choisir une action ci-dessous pour impressionner la foule et tenter de gagner du Hope.
+Lors du spectacle d’ouverture, les joueurs ou les opposants peuvent tirer ou choisir une action ci-dessous pour impressionner la foule et tenter de gagner du Hope.
 
 | d20 | Action spectaculaire |
 |-----|----------------------|
@@ -456,8 +454,9 @@ Lors du spectacle d’ouverture, les joueurs peuvent tirer ou choisir une action
 
 ---
 
-**Utilisation du Hope pendant le duel**
+**Utilisation du Hope ou fear pendant le duel**
 
+Une petite nouveauté ici, puisque le duel ressemble à une partie de roche papier ciseau, les point de fear pour le Maître de jeu doievent être dépensé secretement avant les joueurs. Marque le tout sur un papier ou vire les cartes en uilisant les points de hope et laisse les joueurs décider de leur action par la suite. 
 Les points de Hope peuvent être dépensés normalement, il existe cependant de nouvelle **Hope Feature** que vous pouvez activer :
 
 | Action                              | Effet  narratif et mécanique|
