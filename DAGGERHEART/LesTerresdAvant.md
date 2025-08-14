@@ -454,16 +454,41 @@ Lors du spectacle d’ouverture, les joueurs ou les opposants peuvent tirer ou c
 
 ---
 
+###  Règles de Joute : Système Triadique (inspiré de pierre-papier-ciseaux)
+
+**Principe de base**
+
+Chaque chevalier choisit secrètement une posture de combat parmi trois options pour les 3 rounds de la joute, l'objectif est de gagné 2 round sur 3. Chaque posture a un avantage sur une autre, créant un triangle d’interactions :
+
+La frappe précise est une attaque qui attend à la dernière minute pour toucher l'adversaire, ce qui fait que la parade agile ne fonctionne pas, cependant l'attaque rapide va toucher en premier. 
+La parade rapide permet de placer le bouclier pour faire devier la lance de l'adveraire, une frappe rapide va être dévier et ne cassera pas la lance. Une attaque précise par contre réussir à toucher. 
+Une attaque rapide permet de frapper avant l'adversaire, ce qui permet de casser sa lance sur l'adversaire lui faisant raté sa frappe précise mais se fait dévier pas une parade agile. 
+
+| Posture | Avantage sur | Faible contre |
+| --- | --- | --- |
+| **Frappe Précise**  | Parade agile | Attaque rapide |
+| **Parade agile**  | Attaque rapide | Frappe précise |
+| **Attaque rapide**  | Frappe précise | Parade agile |
+
+### Résolution du duel
+
+1. **Choix secret** : Chaque chevalier choisit sa posture en secret pour les 3 rounds.
+2. **Révélation simultanée** : Les postures sont révélées en même temps.
+3. **Comparaison** :
+   * Si l’un a l’avantage, il gagne le round.
+   * Si les postures sont identiques, les deux roulent un test de compétence (Force ou Dextérité selon la posture) pour départager.
+4. **Effets narratifs** :
+   * Le gagnant peut infliger une conséquence en dépensant des points de Hope.
+   * Le perdant peut tenter une réaction en utilisant des points de Hope.
+
 **Utilisation du Hope ou fear pendant le duel**
 
-Une petite nouveauté ici, puisque le duel ressemble à une partie de roche papier ciseau, les point de fear pour le Maître de jeu doievent être dépensé secretement avant les joueurs. Marque le tout sur un papier ou vire les cartes en uilisant les points de hope et laisse les joueurs décider de leur action par la suite. 
 Les points de Hope peuvent être dépensés normalement, il existe cependant de nouvelle **Hope Feature** que vous pouvez activer :
 
 | Action                              | Effet  narratif et mécanique|
 |-------------------------------------|-----------------------------|
-| Encaisser un coup                   | Spend 2 Hope Quand tu prend un dégat sévere tu peut mettre un stress et pour marquer un point de vie de mois.  |
 | Cri héroïque                        | Spend 1 Hope Impressionne la foule de +1 |
-| Charge divine                       | Spend 2 Hope permet de faire rouler un jet de déséquilibre  |
+| Coup Puissant                       | Spend 2 Hope permet de faire rouler un jet de déséquilibre  |
 | Parade impossible                   | Spend 3 Hope Ignore un coup reçu, si narrativement justifié |
 | Dernier rempart                     | Spend 3 Hope Se relève rapidement après avoir été mis à terre, ne cause pas de perte d'influence de la foule |
 | Frappe légendaire                   | Spend 2 Hope Désarme, fait tomber ou brise l’arme de l’adversaire |
@@ -484,6 +509,11 @@ Les points de Hope peuvent être dépensés normalement, il existe cependant de 
 | Anticipation brillante              | Spend x Hope Prédit une manœuvre ennemie et propose un contre-plan. *Effet : le chevalier gagne une réaction gratuite pendant la joute.*
 | Main apaisante                      | Spend x Hope Apaise douleur et stress du chevalier. *Effet : enlève du stressl.*
 | Serment de victoire                 | Spend x Hope Bonus narratif si le duel est remporté |
+
+| Réaction                              | Effet  narratif et mécanique|
+|-------------------------------------|-----------------------------|
+| Encaisser un coup                   | Spend 2 Hope Quand tu prend un dégat sévere tu peut mettre un stress et pour marquer un point de vie de mois.  |
+
 
 ###  Exemple narratif
 
