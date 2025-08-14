@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="turbo-root" content="/Terresperdues">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.11.0.808496893539">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.11.0.808512901950">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.11.0">
@@ -31,11 +31,11 @@
 
     <script data-cfasync="false">(function(){var cl=document.documentElement.classList,ls=localStorage.getItem("retype_scheme"),hd=cl.contains("dark"),hl=cl.contains("light"),wm=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches;if(ls==="dark"||(!ls&&wm&&!hd&&!hl)){cl.remove("light");cl.add("dark")}else if(ls==="light"||(!ls&&!wm&&!hd&&!hl)){cl.remove("dark");cl.add("light")}})();</script>
 
-    <link href="../../resources/css/retype.css?v=3.11.0.808496893539" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.11.0.808512901950" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.11.0.808496893539" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.11.0.808512901950" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.11.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.11.0.808496893539" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.11.0.808512901950" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="retype-app" class="relative text-base antialiased text-base-text bg-base-bg font-body">
@@ -705,10 +705,10 @@ Même si l’exploration est secondaire, les mystères du Voile, les pactes anci
         <span>Les joutes</span>
     </h3>
 </doc-anchor-target>
-<doc-anchor-target id="spectacle-douverture--gagner-du-hope-dans-une-joute">
+<doc-anchor-target id="spectacle-douverture">
     <h4>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#spectacle-douverture--gagner-du-hope-dans-une-joute">#</doc-anchor-trigger>
-        <span>Spectacle d’ouverture – Gagner du Hope dans une joute</span>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#spectacle-douverture">#</doc-anchor-trigger>
+        <span>Spectacle d’ouverture</span>
     </h4>
 </doc-anchor-target>
 <p><strong>Objectif</strong></p>
@@ -720,7 +720,7 @@ Même si l’exploration est secondaire, les mystères du Voile, les pactes anci
 <li>Gagner des points de <em>Hope</em> utilisables pendant le duel</li>
 </ul>
 <p><strong>Étape 1 : Déclaration du spectacle</strong></p>
-<p>Chaque jouteur (ou allié) décrit une action spectaculaire :</p>
+<p>Chaque héraut (ou allié) décrit une action spectaculaire :</p>
 <ul>
 <li>Discours flamboyant</li>
 <li>Chant inspirant (bardes !)</li>
@@ -743,17 +743,22 @@ Même si l’exploration est secondaire, les mystères du Voile, les pactes anci
 <tr>
 <td>Succès</td>
 <td>1 point</td>
-<td>Action réussie, la foule est ravie</td>
+<td>Action réussie, la foule est ravie et gagne + 2 de faveur de la foule</td>
 </tr>
 <tr>
 <td>Succès majeur</td>
 <td>2 points</td>
-<td>Ovation, effet mémorable</td>
+<td>Ovation, effet mémorable + 4 de faveur de la foule</td>
 </tr>
 <tr>
 <td>Échec</td>
 <td>0 point</td>
-<td>Foule qui hue, cheval nerveux, etc.</td>
+<td>cheval nerveux, foule muette, etc. - 2 de faveur de la foule</td>
+</tr>
+<tr>
+<td>Échec critique</td>
+<td>0 point</td>
+<td>Foule qui hue, enfants qui pleurent, etc. - 4 de faveur de la foule</td>
 </tr>
 </tbody>
 </table>
@@ -834,7 +839,7 @@ Même si l’exploration est secondaire, les mystères du Voile, les pactes anci
 </tr>
 <tr>
 <td>14</td>
-<td>Laisser son écuyer raconter ses exploits passés à la foule</td>
+<td>Lance des produits dérivées dans la foule</td>
 </tr>
 <tr>
 <td>15</td>
@@ -872,38 +877,69 @@ Même si l’exploration est secondaire, les mystères du Voile, les pactes anci
     </h3>
 </doc-anchor-target>
 <p><strong>Principe de base</strong></p>
-<p>Chaque chevalier choisit secrètement une posture de combat parmi trois options pour les 3 rounds de la joute, l&#x27;objectif est de gagné 2 round sur 3. Chaque posture a un avantage sur une autre, créant un triangle d’interactions :</p>
-<p>La frappe précise est une attaque qui attend à la dernière minute pour toucher l&#x27;adversaire, ce qui fait que la parade agile ne fonctionne pas, cependant l&#x27;attaque rapide va toucher en premier.
-La parade rapide permet de placer le bouclier pour faire devier la lance de l&#x27;adveraire, une frappe rapide va être dévier et ne cassera pas la lance. Une attaque précise par contre réussir à toucher.
-Une attaque rapide permet de frapper avant l&#x27;adversaire, ce qui permet de casser sa lance sur l&#x27;adversaire lui faisant raté sa frappe précise mais se fait dévier pas une parade agile.</p>
+<p><strong>Système de joute – Choix de posture</strong></p>
+<p>Chaque chevalier choisit <strong>secrètement une posture de combat</strong> parmi trois options pour les <strong>trois rounds</strong> de la joute.<br />
+L’objectif est de <strong>remporter deux rounds sur trois</strong>.</p>
+<p>Chaque posture possède un avantage sur une autre, formant un <strong>triangle stratégique</strong> d’interactions :</p>
+<ul>
+<li>Frappe précise <span class="docs-emoji">&#x1F4A5;</span> : Une attaque calculée qui attend le dernier moment pour frapper, contournant la parade agile. Cependant, elle est vulnérable à l’attaque rapide, qui frappe en premier.</li>
+<li>Parade agile <span class="docs-emoji">&#x1F6E1;&#xFE0F;</span> : Une défense habile qui dévie les assauts rapides, empêchant la lance de se briser. Mais elle échoue face à une frappe précise, trop subtile pour être anticipée.</li>
+<li>Attaque rapide <span class="docs-emoji">&#x26A1;</span> : Une offensive fulgurante qui frappe avant l’adversaire, brisant sa lance et annulant sa frappe précise. Toutefois, elle est facilement détournée par une parade agile bien placée.</li>
+</ul>
+<p><strong>Tableau récapitulatif</strong></p>
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
 <thead>
 <tr>
-<th>Posture</th>
-<th>Avantage sur</th>
-<th>Faible contre</th>
+<th><strong>Posture</strong></th>
+<th><strong>Avantage sur</strong></th>
+<th><strong>Faible contre</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><strong>Frappe Précise</strong></td>
-<td>Parade agile</td>
-<td>Attaque rapide</td>
+<td><span class="docs-emoji">&#x1F4A5;</span> Frappe précise</td>
+<td><span class="docs-emoji">&#x1F6E1;&#xFE0F;</span> Parade agile</td>
+<td><span class="docs-emoji">&#x26A1;</span> Attaque rapide</td>
 </tr>
 <tr>
-<td><strong>Parade agile</strong></td>
-<td>Attaque rapide</td>
-<td>Frappe précise</td>
+<td><span class="docs-emoji">&#x1F6E1;&#xFE0F;</span> Parade agile</td>
+<td><span class="docs-emoji">&#x26A1;</span> Attaque rapide</td>
+<td><span class="docs-emoji">&#x1F4A5;</span> Frappe précise</td>
 </tr>
 <tr>
-<td><strong>Attaque rapide</strong></td>
-<td>Frappe précise</td>
-<td>Parade agile</td>
+<td><span class="docs-emoji">&#x26A1;</span> Attaque rapide</td>
+<td><span class="docs-emoji">&#x1F4A5;</span> Frappe précise</td>
+<td><span class="docs-emoji">&#x1F6E1;&#xFE0F;</span> Parade agile</td>
 </tr>
 </tbody>
 </table>
 </div>
+<hr>
+<p><strong>Cartes de Posture</strong></p>
+<p>Pour représenter les postures de combat, chaque joueur peut utiliser des cartes illustrées.</p>
+<p><strong>Carte : Frappe Précise <span class="docs-emoji">&#x1F4A5;</span></strong></p>
+<ul>
+<li><strong>Nom</strong> : Frappe Précise</li>
+<li><strong>Couleur dominante</strong> : Rouge</li>
+<li><strong>Effet</strong> : Bat la Parade Agile <span class="docs-emoji">&#x1F6E1;&#xFE0F;</span>, perd contre l’Attaque Rapide <span class="docs-emoji">&#x26A1;</span></li>
+<li><strong>Texte d’ambiance</strong> : « La patience est une arme. »</li>
+</ul>
+<p><strong>Carte : Parade Agile <span class="docs-emoji">&#x1F6E1;&#xFE0F;</span></strong></p>
+<ul>
+<li><strong>Nom</strong> : Parade Agile</li>
+<li><strong>Couleur dominante</strong> : Bleu</li>
+<li><strong>Effet</strong> : Bat l’Attaque Rapide <span class="docs-emoji">&#x26A1;</span>, perd contre la Frappe Précise <span class="docs-emoji">&#x1F4A5;</span></li>
+<li><strong>Texte d’ambiance</strong> : « L’élégance défie la vitesse. »</li>
+</ul>
+<p><strong>Carte : Attaque Rapide <span class="docs-emoji">&#x26A1;</span></strong></p>
+<ul>
+<li><strong>Nom</strong> : Attaque Rapide</li>
+<li><strong>Couleur dominante</strong> : Jaune</li>
+<li><strong>Effet</strong> : Bat la Frappe Précise <span class="docs-emoji">&#x1F4A5;</span>, perd contre la Parade Agile <span class="docs-emoji">&#x1F6E1;&#xFE0F;</span></li>
+<li><strong>Texte d’ambiance</strong> : « Frapper avant de penser. »</li>
+</ul>
+<hr>
 <doc-anchor-target id="résolution-du-duel">
     <h3>
         <doc-anchor-trigger class="header-anchor-trigger" to="#résolution-du-duel">#</doc-anchor-trigger>
@@ -911,18 +947,12 @@ Une attaque rapide permet de frapper avant l&#x27;adversaire, ce qui permet de c
     </h3>
 </doc-anchor-target>
 <ol>
-<li><strong>Choix secret</strong> : Chaque chevalier choisit sa posture en secret pour les 3 rounds.</li>
+<li><strong>Choix secret</strong> : Chaque chevalier choisit un posture en secret par round pour les 3 rounds.</li>
 <li><strong>Révélation simultanée</strong> : Les postures sont révélées en même temps.</li>
 <li><strong>Comparaison</strong> :
 <ul>
 <li>Si l’un a l’avantage, il gagne le round.</li>
 <li>Si les postures sont identiques, les deux roulent un test de compétence (Force ou Dextérité selon la posture) pour départager.</li>
-</ul>
-</li>
-<li><strong>Effets narratifs</strong> :
-<ul>
-<li>Le gagnant peut infliger une conséquence en dépensant des points de Hope.</li>
-<li>Le perdant peut tenter une réaction en utilisant des points de Hope.</li>
 </ul>
 </li>
 </ol>
@@ -943,103 +973,19 @@ Une attaque rapide permet de frapper avant l&#x27;adversaire, ce qui permet de c
 </tr>
 <tr>
 <td>Coup Puissant</td>
-<td>Spend 2 Hope permet de faire rouler un jet de déséquilibre</td>
-</tr>
-<tr>
-<td>Parade impossible</td>
-<td>Spend 3 Hope Ignore un coup reçu, si narrativement justifié</td>
-</tr>
-<tr>
-<td>Dernier rempart</td>
-<td>Spend 3 Hope Se relève rapidement après avoir été mis à terre, ne cause pas de perte d&#x27;influence de la foule</td>
+<td>Spend x Hope augemente le DC de desarsonnement de + x</td>
 </tr>
 <tr>
 <td>Frappe légendaire</td>
-<td>Spend 2 Hope Désarme, fait tomber ou brise l’arme de l’adversaire</td>
+<td>Spend 4 Hope augemente le DC de desarsonnement de + 4</td>
 </tr>
 <tr>
-<td>Regard de défi</td>
-<td>Spend x Hope Intimide l’adversaire (jet de Présence requis)</td>
+<td>Dernier Rampart</td>
+<td>Spend x Hope réduit le DC de desarsonnement de + x</td>
 </tr>
 <tr>
-<td>Protection sacrée</td>
-<td>Spend 3 Hope clear 2 armor slots</td>
-</tr>
-<tr>
-<td>Appel de la nature</td>
-<td>Spend x Hope Invoque une créature ou un effet naturel (racines, vent, etc.)</td>
-</tr>
-<tr>
-<td>Vision du prédateur</td>
-<td>Spend x Hope Détecte les faiblesses de l’adversaire (avantage au prochain jet)</td>
-</tr>
-<tr>
-<td>Bond acrobatique</td>
-<td>Spend x Hope Se déplace hors de portée ou vers une position avantageuse</td>
-</tr>
-<tr>
-<td>Bouclier éthéré</td>
-<td>Spend x Hope Annule ou réduit les dégâts d’un sort ou attaque magique</td>
-</tr>
-<tr>
-<td>Parole interdite</td>
-<td>Spend x Hope Empêche un adversaire de lancer un sort ou parler pendant un tour</td>
-</tr>
-<tr>
-<td>Hymne de bravoure</td>
-<td>Spend x Hope Tous les alliés gagnent un dé d’espoir au prochain jet</td>
-</tr>
-<tr>
-<td>Note dissonante</td>
-<td>Spend x Hope Désoriente un adversaire, lui donnant désavantage</td>
-</tr>
-<tr>
-<td>Écho du passé</td>
-<td>Spend x Hope Rappelle un souvenir à un PNJ, influençant ses actions</td>
-</tr>
-<tr>
-<td>Récit inspirant</td>
-<td>Spend x Hope Donne un bonus narratif à un allié (courage, clarté, etc.)</td>
-</tr>
-<tr>
-<td>Main experte</td>
-<td>Spend x Hope Répare une pièce d’équipement endommagée entre deux joutes. <em>Effet : restaure un point d’armure</em></td>
-</tr>
-<tr>
-<td>Lecture de posture</td>
-<td>Spend x Hope Analyse l’adversaire pendant son échauffement. <em>Effet : bonus tactique de + 1 au jet d&#x27;attaque du chevalier lors de sa première attaque.</em></td>
-</tr>
-<tr>
-<td>Préparation optimale</td>
-<td>Spend x Hope Prépare le cheval avec précision selon le type d’épreuve. <em>Effet : donne un bonus de vitesse ou d’endurance selon le terrain.</em></td>
-</tr>
-<tr>
-<td>Anticipation brillante</td>
-<td>Spend x Hope Prédit une manœuvre ennemie et propose un contre-plan. <em>Effet : le chevalier gagne une réaction gratuite pendant la joute.</em></td>
-</tr>
-<tr>
-<td>Main apaisante</td>
-<td>Spend x Hope Apaise douleur et stress du chevalier. <em>Effet : enlève du stressl.</em></td>
-</tr>
-<tr>
-<td>Serment de victoire</td>
-<td>Spend x Hope Bonus narratif si le duel est remporté</td>
-</tr>
-</tbody>
-</table>
-</div>
-<div class="table-wrapper scrollbar overflow-hidden">
-<table class="comfortable">
-<thead>
-<tr>
-<th>Réaction</th>
-<th>Effet  narratif et mécanique</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Encaisser un coup</td>
-<td>Spend 2 Hope Quand tu prend un dégat sévere tu peut mettre un stress et pour marquer un point de vie de mois.</td>
+<td>Feint</td>
+<td>Spend 5 Hope change de posture</td>
 </tr>
 </tbody>
 </table>
@@ -1053,7 +999,108 @@ Une attaque rapide permet de frapper avant l&#x27;adversaire, ce qui permet de c
 <blockquote>
 <p><em>Ser Alaric, acculé, serre son médaillon de Solen. Il dépense 2 points de Hope pour activer &quot;Dernier rempart&quot;. Jet de Force réussi : il se relève, le regard brûlant de détermination. La foule rugit. Son adversaire hésite.</em></p>
 </blockquote>
-<hr>
+<doc-anchor-target id="-action-pour-le-groupe----------------effet--narratif-et-mécanique-------------------------------------------------------------------écho-du-passé------------------------spend-x-hope-rappelle-un-souvenir-négatif-de-ladversaire-influençant-la-foule-de--x-pour-ladversaire--récit-inspirant----------------------spend-x-hope-donne-un-bonus-de-x-de-faveur-de-la-foule--main-experte-------------------------spend-x-hope-répare-une-pièce-déquipement-endommagée-entre-deux-joutes-effet--restaure-x-point-darmure-lecture-de-posture-------------------spend-x-hope-analyse-ladversaire-pendant-son-échauffement-effet--empêche-une-feint-préparation-optimale-----------------spend-x-hope-prépare-le-cheval-avec-précision-selon-le-type-dépreuve-effet--reduit-le-dc-de-x-pour-un-test-de-desarssonnement-anticipation-brillante---------------spend-x-hope-prédit-une-manœuvre-ennemie-et-propose-un-contre-plan-effet--permet-de-voir-la-prochaine-posture-de-ladversaire-serment-de-victoire------------------spend-2-hope-bonus-de--4-faveur-de-la-foule-si-le-duel-est-remporté-">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#-action-pour-le-groupe----------------effet--narratif-et-mécanique-------------------------------------------------------------------écho-du-passé------------------------spend-x-hope-rappelle-un-souvenir-négatif-de-ladversaire-influençant-la-foule-de--x-pour-ladversaire--récit-inspirant----------------------spend-x-hope-donne-un-bonus-de-x-de-faveur-de-la-foule--main-experte-------------------------spend-x-hope-répare-une-pièce-déquipement-endommagée-entre-deux-joutes-effet--restaure-x-point-darmure-lecture-de-posture-------------------spend-x-hope-analyse-ladversaire-pendant-son-échauffement-effet--empêche-une-feint-préparation-optimale-----------------spend-x-hope-prépare-le-cheval-avec-précision-selon-le-type-dépreuve-effet--reduit-le-dc-de-x-pour-un-test-de-desarssonnement-anticipation-brillante---------------spend-x-hope-prédit-une-manœuvre-ennemie-et-propose-un-contre-plan-effet--permet-de-voir-la-prochaine-posture-de-ladversaire-serment-de-victoire------------------spend-2-hope-bonus-de--4-faveur-de-la-foule-si-le-duel-est-remporté-">#</doc-anchor-trigger>
+        <span>| Action pour le groupe               | Effet  narratif et mécanique|
+|-------------------------------------|-----------------------------|
+| Écho du passé                       | Spend x Hope Rappelle un souvenir négatif de l&#x27;adversaire, influençant la foule de -x pour l&#x27;adversaire |
+| Récit inspirant                     | Spend x Hope Donne un bonus de +x de faveur de la foule |
+| Main experte                        | Spend x Hope Répare une pièce d’équipement endommagée entre deux joutes. <em>Effet : restaure x point d’armure</em>
+| Lecture de posture                  | Spend x Hope Analyse l’adversaire pendant son échauffement. <em>Effet : Empêche une feint</em>|
+| Préparation optimale                | Spend x Hope Prépare le cheval avec précision selon le type d’épreuve. <em>Effet : Reduit le DC de x pour un test de desarssonnement</em>
+| Anticipation brillante              | Spend x Hope Prédit une manœuvre ennemie et propose un contre-plan. <em>Effet : Permet de voir la prochaine posture de l&#x27;adversaire.</em>
+| Serment de victoire                 | Spend 2 Hope Bonus de + 4 faveur de la foule si le duel est remporté |</span>
+    </h2>
+</doc-anchor-target>
+<doc-anchor-target id="désarçonnement">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#désarçonnement">#</doc-anchor-trigger>
+        <span>Désarçonnement</span>
+    </h3>
+</doc-anchor-target>
+<p><strong>Déclenchement</strong></p>
+<p>Le désarçonnement peut survenir dans les cas suivants :</p>
+<ul>
+<li>Le chevalier <strong>perd un round de joute</strong> avec un effet narratif puissant (ex. : coup brutal, feinte brillante).</li>
+<li>Le chevalier <strong>rate un jet de compétence</strong> avec un échec critique (ex. : un 1 naturel).</li>
+<li>Le chevalier <strong>subit une conséquence majeure</strong> (ex. : perte de tout son Hope ou effet magique).</li>
+</ul>
+<p>Lorsqu’un désarçonnement est déclenché :</p>
+<p><strong>Jet de sauvegarde</strong> : Le chevalier fait un jet de <strong>Force</strong> ou <strong>Dextérité</strong> (au choix selon la posture utilisée).</p>
+<ul>
+<li>Difficulté standard : <strong>DC 12</strong></li>
+<li>Si le jet est réussi : le chevalier reste en selle.</li>
+<li>Si le jet est raté : le chevalier est désarçonné.</li>
+<li>Sur un échec critique : Le chevalier perd la joute.</li>
+</ul>
+<doc-anchor-target id="effets-spectaculaires--points-de-faveur-de-la-foule">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#effets-spectaculaires--points-de-faveur-de-la-foule">#</doc-anchor-trigger>
+        <span>Effets Spectaculaires – Points de Faveur de la Foule</span>
+    </h3>
+</doc-anchor-target>
+<p>Certains effets spectaculaires ou dramatiques peuvent rapporter des points de faveur de la foule, utilisés pour influencer le déroulement du tournoi ou obtenir des avantages narratifs.</p>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="comfortable">
+<thead>
+<tr>
+<th>Effet narratif</th>
+<th>Points de faveur</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Désarçonnement spectaculaire</td>
+<td>+3</td>
+</tr>
+<tr>
+<td>Feinte brillante suivie d’une contre-attaque</td>
+<td>+2</td>
+</tr>
+<tr>
+<td>Cri de guerre galvanisant la foule</td>
+<td>+1</td>
+</tr>
+<tr>
+<td>Provocation théâtrale avant le duel</td>
+<td>+2</td>
+</tr>
+<tr>
+<td>Victoire rapide en 1 round</td>
+<td>+3</td>
+</tr>
+<tr>
+<td>Victoire rapide en 2 round</td>
+<td>+2</td>
+</tr>
+<tr>
+<td>Victoire en 3 round</td>
+<td>+1</td>
+</tr>
+<tr>
+<td>Victoire contre un adversaire avec plus de faveur de la foule</td>
+<td>+1</td>
+</tr>
+<tr>
+<td>Parade acrobatique évitant un coup fatal</td>
+<td>+2</td>
+</tr>
+<tr>
+<td>Appui d’un barde ou héraut en pleine action</td>
+<td>+1</td>
+</tr>
+<tr>
+<td>Style flamboyant ou gestuelle théâtrale d&#x27;après victoire</td>
+<td>+1</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>À la fin du tournoi, chaque chevalier additionne ses points de faveur. Selon le total obtenu, il peut recevoir une récompense ou un bonus mécanique :</p>
+<p>5+ points : Gagne un point de Hope supplémentaire.
+8+ points : Reçoit un objet narratif (ex. : insigne de bravoure, bénédiction du public).
+10+ points : Obtient un bonus temporaire à une compétence lors de la prochaine joute (+1).</p>
 <doc-anchor-target id="ressources-pour-un-écurie">
     <h3>
         <doc-anchor-trigger class="header-anchor-trigger" to="#ressources-pour-un-écurie">#</doc-anchor-trigger>
@@ -1103,37 +1150,11 @@ Une attaque rapide permet de frapper avant l&#x27;adversaire, ce qui permet de c
 <tr>
 <td>Bonne réputation</td>
 <td>présence</td>
-<td>la foule connait déjà la réputation</td>
+<td>la foule connait déjà la réputation + 2 faveur de la foule</td>
 </tr>
 </tbody>
 </table>
 </div>
-<p>Stratégies dans les joutes médiévales</p>
-<ol>
-<li>Positionnement et angle d’impact
-Le chevalier devait viser le centre du bouclier ou la poitrine de l’adversaire pour maximiser les chances de désarçonnement.</li>
-</ol>
-<p>L’angle de la lance était crucial : trop haut ou trop bas, et le coup perdait en efficacité.</p>
-<ol start="2">
-<li>Maîtrise de la monture
-Une monture bien entraînée permettait un galop droit et stable, essentiel pour garder l’équilibre et la précision.</li>
-</ol>
-<p>Certains chevaliers utilisaient des chevaux plus nerveux pour surprendre l’adversaire par la vitesse.</p>
-<ol start="3">
-<li>Choix de l’équipement
-Le poids de l’armure influençait la mobilité : plus légère pour les joutes de parade, plus lourde pour les joutes de guerre.</li>
-</ol>
-<p>Les lances étaient parfois conçues pour se briser à l’impact, réduisant les blessures mais augmentant le spectacle.</p>
-<ol start="4">
-<li>Feintes et timing
-Certains chevaliers attendaient le dernier moment pour abaisser leur lance, créant une feinte visuelle.</li>
-</ol>
-<p>Le timing du coup était essentiel : frapper trop tôt ou trop tard pouvait entraîner une perte de puissance ou un déséquilibre.</p>
-<ol start="5">
-<li>Lecture de l’adversaire
-Observer les habitudes de posture, le type de monture, ou même les réactions émotionnelles permettait d’anticiper les mouvements.</li>
-</ol>
-<p>Les chevaliers expérimentés savaient exploiter les failles dans la garde ou la posture de l’autre.</p>
 <hr>
 <doc-anchor-target id="session-0">
     <h2>
