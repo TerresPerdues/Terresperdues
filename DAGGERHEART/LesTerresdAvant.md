@@ -13,7 +13,7 @@ Un monde ancien où les joutes chevaleresques, les alliances fragiles et les sec
 ## **THE PITCH**
 *Read this section to your players to introduce them to the campaign.*
 
-Dans les Terres d’avant, les héros naviguent entre royaumes brisés, factions rivales et mystères ancestraux. Les joutes chevaleresques ne sont pas seulement des compétitions, mais des rituels sacrés et des outils politiques. Chaque décision peut changer le cours de l’histoire. Les Terres d’avant sont un monde où chaque choix, chaque victoire, et chaque échec résonnent à travers les âges, façonnant le destin des royaumes et des individus.
+Dans les Terres d’avant, les héros naviguent entre duchés brisés, factions rivales et mystères ancestraux. Les joutes chevaleresques ne sont pas seulement des compétitions, mais des rituels sacrés et des outils politiques. Chaque décision peut changer le cours de l’histoire. Les Terres d’avant sont un monde où chaque choix, chaque victoire, et chaque échec résonnent à travers les âges, façonnant le destin des royaumes et des individus.
 
 Les héros commencent souvent leur carrière dans des ligues mineures, où ils perfectionnent leurs compétences et se forgent une réputation. Avec persévérance et talent, ils peuvent devenir des étoiles montantes et, pour les plus exceptionnels, atteindre le statut de véritables vedettes sportives, admirées et célébrées à travers les Terres d’avant.
 
@@ -29,19 +29,19 @@ Game of Thrones, The Witcher, Arthurian Legends, Chevalier
 ## **OVERVIEW**
 *If your group decides to play this campaign, give your players the following information before character creation.*
 
-Les Terres d’avant sont les vestiges d’un monde ancien, où les royaumes brisés, les alliances fragiles et les traditions oubliées s’entrechoquent avec l’ascension de nouvelles puissances. Dans ce monde en perpétuelle recomposition, les joutes chevaleresques ne sont pas de simples compétitions sportives : elles incarnent des rituels sacrés, des instruments d’arbitrage politique et des tremplins vers le pouvoir. Chaque affrontement dans l’arène est une scène où se jouent les ambitions, les loyautés et les trahisons. Les héros doivent naviguer entre équipes rivales, intrigues de cour et décisions qui pourraient bouleverser l’équilibre des duchés.
+Les Terres d’avant sont les fragments épars d’un monde révolu, les vestiges d’un âge d’or désormais brisé. Royaumes morcelés, duchés en quête de grandeur, alliances aussi fragiles que le verre soufflé : tout s’entrechoque dans une danse tumultueuse où les traditions oubliées se heurtent à l’ascension de puissances nouvelles. Dans ce paysage en perpétuelle mutation, les joutes chevaleresques ne sont pas de simples affrontements sportifs — elles sont des cérémonies sacrées, des leviers d’influence politique et des passerelles vers la souveraineté. Chaque duel dans l’arène devient un théâtre d’ambitions, de loyautés mises à l’épreuve et de trahisons dissimulées sous des bannières éclatantes. Les héros, pris dans ce maelström, doivent naviguer entre rivalités féroces, intrigues de cour et choix cruciaux capables de faire vaciller l’équilibre des duchés.
 
-Au cœur de ce théâtre épique se dresse **Valome**, la capitale majestueuse des Terres d’avant. Cité de marbre et de bannières, elle est le centre politique et culturel du royaume, là où convergent les ambitions des ducs, les voix des guildes et les murmures des cultes. C’est à Valome que siège le Champion — figure légendaire, élu par l’Ordre des Chevaliers pour incarner l’excellence, la justice et l’autorité. Le Champion ne se contente pas de régner sur les joutes : il agit comme juge suprême, arbitre des conflits entre duchés, et peut influer sur les lois et les décisions qui façonnent le destin du royaume.
+Au cœur de cette fresque grandiose s’élève **Valome**, capitale majestueuse des Terres d’avant. Cité de marbre et de bannières, elle est le centre politique et culturel du royaume, là où convergent les ambitions des ducs, les voix des guildes et les murmures des cultes. C’est à Valome que siège l’équipe Championne, auréolée de gloire pour une année entière. Leur triomphe, sanctifié par l’Ordre des Chevaliers, leur confère non seulement prestige et honneur, mais aussi autorité morale et politique. Car être Champion, c’est bien plus que dominer l’arène : c’est devenir juge suprême, arbitre des querelles entre duchés, et voix influente dans les décisions qui sculptent le destin du royaume.
 
-Le **Grand Tournoi d'Aurélion**, organisé chaque saison dans les arènes sacrées du duché qui porte ce nom, est l’événement le plus prestigieux des Terres d’avant. Mais y participer n’est pas un droit acquis : c’est un privilège qu’il faut mériter. Chaque équipe ou chevalier aspirant doit offrir un tribut à l’Ordre des Chevaliers, gardien des traditions et régulateur des joutes. Ce tribut peut prendre plusieurs formes, toutes symbolisant la valeur et l’engagement du prétendant :
+Le Grand Tournoi de **Saint-Marcelin**, célébré chaque saison dans les arènes sacrées du duché d’Aurélion, est l’apogée des joutes chevaleresques. C’est l’événement le plus convoité, le plus chanté, le plus redouté. Mais y prétendre n’est pas un droit : c’est un honneur qu’il faut conquérir. Chaque équipe ou chevalier aspirant doit offrir un tribut à l’Ordre des Chevaliers, gardien des traditions et maître des règles. Ces tributs, empreints de symbolisme, témoignent de la valeur et de l’engagement du prétendant :
 
-- Terrasser une créature légendaire, prouvant sa bravoure et sa force.
-- Sauver une communauté en péril, démontrant son sens du devoir et de la justice.
-- Faire un don faramineux à l’Ordre, illustrant sa richesse, ses alliances ou son influence.
+- Terrasser une créature mythique, preuve éclatante de bravoure et de puissance.
+- Sauver une communauté menacée, incarnation du devoir et de la justice.
+- Offrir un don somptueux à l’Ordre, reflet de richesse, d’influence ou d’alliances stratégiques.
 
-Ces tributs ne sont pas de simples formalités : ils sont des récits vivants, des exploits chantés dans les tavernes et gravés dans les archives de l’Ordre. Ils servent à rappeler que dans les Terres d’avant, la gloire ne s’achète pas — elle se conquiert, au prix du sang, du sacrifice et de la légende.
+Ces offrandes ne sont pas de simples rites : elles deviennent des légendes vivantes, des récits transmis dans les tavernes, gravés dans les archives sacrées de l’Ordre. Elles rappellent que dans les Terres d’avant, la gloire ne se mendie pas — elle se conquiert par le sang, le sacrifice et l’éclat de la légende.
 
-**L’ordre des chevaliers**, basé à xxx, régit les règles et les traditions des joutes. Il veille à la préservation des valeurs chevaleresques et à l’équité des compétitions. Les membres de l’ordre, souvent issus des grandes maisons nobles, jouent un rôle clé dans l’organisation des tournois et l’arbitrage des conflits. Leur influence s’étend bien au-delà des arènes, touchant les décisions politiques et les alliances stratégiques qui façonnent le destin des Terres d’avant.
+L’Ordre des Chevaliers, pilier moral et politique du royaume, veille sur les joutes comme un gardien ancestral. Il régit les règles, préserve les valeurs chevaleresques et garantit l’équité des affrontements. Composé de nobles issus des plus grandes maisons, ses membres orchestrent les tournois, arbitrent les conflits et influencent les alliances qui redessinent la carte du pouvoir. Leur autorité dépasse les arènes : elle s’étend aux trônes, aux traités, aux serments. Car dans les Terres d’avant, l’Ordre ne protège pas seulement les traditions — il façonne l’avenir.
 
 ---
 
@@ -293,7 +293,7 @@ Les rivalités avec Valome et les autres duchés s’intensifient, notamment aut
 
 La ville central de ce duché est Rochelieu. Une ville qui s’étend au cœur des plaines fertiles de Courvouaille, là où les routes des caravanes croisent les sentiers des pèlerins et des voyageurs. La ville est construite en cercles concentriques autour d’un immense ménhir noir veiné d’argent, appelé le Pilier des Voix. Ce monument ancien, d’origine inconnue, est devenu le symbole de la ville et de son engagement envers l’écoute, le dialogue et la justice.
 
-Contrairement aux cités fortifiées des duchés conservateurs, Rochelieu est ouverte sur l’extérieur : pas de murailles, mais des jardins partagés, des places publiques et des chemins bordés de lanternes enchantées. L’architecture mêle pierre locale, bois sculpté et verrières colorées, reflétant la diversité culturelle de ses habitants.
+Contrairement aux cités fortifiées des duchés conservateurs, Rocherblanc est ouverte sur l’extérieur : pas de murailles, mais des jardins partagés, des places publiques et des chemins bordés de lanternes enchantées. L’architecture mêle pierre locale, bois sculpté et verrières colorées, reflétant la diversité culturelle de ses habitants.
 
 Le Duché de Courvouaille est une région paisible et diversifiée, où la coexistence des peuples est une priorité. Contrairement aux autres duchés, Courvouaille se distingue par son approche avant-gardiste des droits sociaux, cherchant à réduire la puissance des grandes maisons nobles et à donner plus de place au peuple dans les décisions politiques.
 
@@ -408,7 +408,7 @@ Créer une scène d’introduction où les personnages peuvent :
 Chaque héraut (ou allié) décrit une action spectaculaire :
 - Discours flamboyant
 - Chant inspirant (bardes !)
-- Parade à cheval
+- Charge à cheval
 - Invocation divine
 - Jet de rose à la foule…
 
@@ -472,43 +472,43 @@ Chaque chevalier choisit **secrètement une posture de combat** parmi trois opti
 L’objectif est de **remporter deux rounds sur trois**.
 
 Chaque posture possède un avantage sur une autre, formant un **triangle stratégique** d’interactions :
-- Frappe précise 💥 : Une attaque calculée qui attend le dernier moment pour frapper, contournant la parade agile. Cependant, elle est vulnérable à l’attaque rapide, qui frappe en premier.
-- Parade agile 🛡️ : Une défense habile qui dévie les assauts rapides, empêchant la lance de se briser. Mais elle échoue face à une frappe précise, trop subtile pour être anticipée.
-- Attaque rapide ⚡ : Une offensive fulgurante qui frappe avant l’adversaire, brisant sa lance et annulant sa frappe précise. Toutefois, elle est facilement détournée par une parade agile bien placée.
+- Charge précise 💥 : Une attaque calculée qui attend le dernier moment pour Charger, contournant la Charge agile. Cependant, elle est vulnérable à la Charge rapide, qui Charge en premier.
+- Charge agile 🛡️ : Une défense habile qui dévie les assauts rapides, empêchant la lance de se briser. Mais elle échoue face à une Charge précise, trop subtile pour être anticipée.
+- Charge rapide ⚡ : Une offensive fulgurante qui Charge avant l’adversaire, brisant sa lance et annulant sa Charge précise. Toutefois, elle est facilement détournée par une Charge agile bien placée.
 
 **Tableau récapitulatif**
 
 | **Posture**         | **Avantage sur**       | **Faible contre**       |
 |---------------------|------------------------|--------------------------|
-| 💥 Frappe précise   | 🛡️ Parade agile        | ⚡ Attaque rapide         |
-| 🛡️ Parade agile     | ⚡ Attaque rapide       | 💥 Frappe précise         |
-| ⚡ Attaque rapide    | 💥 Frappe précise       | 🛡️ Parade agile           |
+| 💥 Charge précise   | 🛡️ Charge agile        | ⚡ Charge rapide         |
+| 🛡️ Charge agile     | ⚡ Charge rapide       | 💥 Charge précise         |
+| ⚡ Charge rapide    | 💥 Charge précise       | 🛡️ Charge agile           |
 
 ---
 **Cartes de Posture**
 
 Pour représenter les postures de combat, chaque joueur peut utiliser des cartes illustrées. 
 
-**Carte : Frappe Précise 💥**
+**Carte : Charge Précise 💥**
 
-- **Nom** : Frappe Précise
+- **Nom** : Charge Précise
 - **Couleur dominante** : Rouge
-- **Effet** : Bat la Parade Agile 🛡️, perd contre l’Attaque Rapide ⚡
+- **Effet** : Bat la Charge Agile 🛡️, perd contre l’Charge Rapide ⚡
 - **Texte d’ambiance** : « La patience est une arme. »
 
-**Carte : Parade Agile 🛡️**
+**Carte : Charge Agile 🛡️**
 
-- **Nom** : Parade Agile
+- **Nom** : Charge Agile
 - **Couleur dominante** : Bleu
-- **Effet** : Bat l’Attaque Rapide ⚡, perd contre la Frappe Précise 💥
+- **Effet** : Bat l’Charge Rapide ⚡, perd contre la Charge Précise 💥
 - **Texte d’ambiance** : « L’élégance défie la vitesse. »
 
-**Carte : Attaque Rapide ⚡**
+**Carte : Charge Rapide ⚡**
 
-- **Nom** : Attaque Rapide
+- **Nom** : Charge Rapide
 - **Couleur dominante** : Jaune
-- **Effet** : Bat la Frappe Précise 💥, perd contre la Parade Agile 🛡️
-- **Texte d’ambiance** : « Frapper avant de penser. »
+- **Effet** : Bat la Charge Précise 💥, perd contre la Charge Agile 🛡️
+- **Texte d’ambiance** : « Charger avant de penser. »
 
 ---
 
@@ -528,7 +528,7 @@ Les points de Hope peuvent être dépensés normalement, il existe cependant de 
 |-------------------------------------|-----------------------------|
 | Cri héroïque                        | Spend 1 Hope Impressionne la foule de +1 |
 | Coup Puissant                       | Spend x Hope augemente le DC de desarsonnement de + x  |
-| Frappe légendaire                   | Spend 4 Hope augemente le DC de desarsonnement de + 4 |
+| Charge légendaire                   | Spend 4 Hope augemente le DC de desarsonnement de + 4 |
 | Dernier Rampart                     | Spend x Hope réduit le DC de desarsonnement de + x  |
 | Feint                               | Spend 5 Hope change de posture |
 
@@ -581,7 +581,7 @@ Certains effets spectaculaires ou dramatiques peuvent rapporter des points de fa
 | Victoire rapide en 2 round | +2 |
 | Victoire en 3 round | +1 |
 | Victoire contre un adversaire avec plus de faveur de la foule | +1 |
-| Parade acrobatique évitant un coup fatal | +2 |
+| Charge acrobatique évitant un coup fatal | +2 |
 | Appui d’un barde ou héraut en pleine action | +1 |
 | Style flamboyant ou gestuelle théâtrale d'après victoire | +1 |
 
