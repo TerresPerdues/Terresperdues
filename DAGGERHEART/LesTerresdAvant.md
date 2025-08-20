@@ -404,6 +404,16 @@ Les joutes sont parfois interrompues par des manifestations druidiques ou des ap
 
 
 ### Les joutes
+
+L'objectif de la joute est de faire des points pour monter au classement. La finale est entre les deux chevaliers qui ont le plus de point pour déterminer qui sera le champion avec son écurie.
+Pour ce faire, il existe quelques mécaniques pour faire fonctionner les joutes. 
+- Un des objectif est de cumuler des jetons de foule. Ces jetons peuvent être utiliser par la suite comme un pool de point de Hope de l'écurie qui peut être utiliser par n'importe qui de l'équipe lors de la joute. 
+Il n'y a pas de maximum mais les jetons non utilisés sont perdue à la fin de la joute. 
+- La deuxième mécanique est celle de la joute qui fonctionne un peu comme roche papier ciseau. 
+- La dernière mécanique est celle du calcul des points de la joute. 
+
+### Jetons de foules
+
 #### Spectacle d’ouverture
 
 **Objectif**
@@ -419,25 +429,26 @@ Créer une scène d’introduction où les personnages peuvent :
 
 Chaque héraut (ou allié) décrit une action spectaculaire :
 - Discours flamboyant
-- Chant inspirant (bardes !)
+- Chant inspirant
 - Charge à cheval
 - Invocation divine
+- Prouesse physique
 - Jet de rose à la foule…
 
 **Étape 2 : Jet de compétence**
 
-Le joueur fait un **jet de Présence**, *Art*, *Foi*, ou autre compétence appropriée. Il peut y avoir jusqu'à 3 jets pendant un spectacle à moins d'avis contraire. Les jet avec fear font perdre une possibilité de jet. 
+Le joueur fait un **jet de Présence**, *Agileté*, *Force*, ou autre jet appropriée. Il peut y avoir jusqu'à 3 jets pendant un spectacle à moins d'avis contraire. Les jet avec fear font perdre une possibilité de jet. 
 
 | Résultat du jet | Gain de Hope | Effet narratif |
 |-----------------|--------------|----------------|
-| Succès          | 1 point      | Action réussie, la foule est ravie et gagne + 2 de faveur de la foule |
-| Succès majeur   | 2 points     | Ovation, effet mémorable + 4 de faveur de la foule|
-| Échec           | 0 point      | cheval nerveux, foule muette, etc. - 2 de faveur de la foule |
-| Échec critique  | 0 point      | Foule qui hue, enfants qui pleurent, etc. - 4 de faveur de la foule |
+| Succès          | 1 point      | Action réussie, la foule est ravie et gagne + 1 jeton de faveur de la foule |
+| Succès majeur   | 2 points     | Ovation, effet mémorable + 2 jeton de faveur de la foule|
+| Échec           | 0 point      | cheval nerveux, foule muette, etc.  |
+| Échec critique  | 0 point      | Foule qui hue, enfants qui pleurent, etc. - 1 jeton de faveur de la foule |
 
 **Exemple narratif**
 
->  *Le barde Elowen se tient sur la balustrade, luth en main. Elle entonne une ballade ancienne sur les exploits du chevalier Ser Alaric. Jet de Présence + Art : succès majeur ! Elle gagne 2 points de Hope.*  
+>  *Le barde Elowen se tient sur la balustrade, luth en main. Elle entonne une ballade ancienne sur les exploits du chevalier Ser Alaric. Jet de Présence + Art : succès majeur ! Elle gagne 2 points d'espoire pour elle et 2 jeton pour es jetons de foule.*  
 >  *Lors de la deuxième passe, elle dépense 1 point pour aider Ser Alaric, lui donnant avantage sur son jet de Force. Il renverse son adversaire dans un fracas glorieux.*
 
 ---
@@ -445,32 +456,32 @@ Le joueur fait un **jet de Présence**, *Art*, *Foi*, ou autre compétence appro
 
 #### Table aléatiore pour les joueurs ou les opposants
 
-Lors du spectacle d’ouverture, les joueurs ou les opposants peuvent tirer ou choisir une action ci-dessous pour impressionner la foule et tenter de gagner du Hope.
+Lors du spectacle d’ouverture, les joueurs ou les opposants peuvent tirer ou choisir une action ci-dessous pour impressionner la foule et tenter de gagner de l'espoire.
 
-| d20 | Action spectaculaire |
-|-----|----------------------|
-| 1   | Lancer une rose ou un gant vers l’adversaire avec défi |
-| 2   | Faire cabrer sa monture devant les gradins |
-| 3   | Réciter un poème épique sur sa lignée chevaleresque |
-| 4   | Saluer un noble dans la foule avec une révérence théâtrale |
-| 5   | Chanter un hymne martial accompagné d’un instrument |
-| 6   | Faire tournoyer sa lance dans une danse guerrière |
-| 7   | Peindre des runes de victoire sur son armure ou son cheval |
-| 8   | Lancer un cri de guerre ancestral qui fait frémir la foule |
-| 9   | Dévoiler une bannière personnelle ou familiale au vent |
-| 10  | Faire bénir sa lance par un prêtre ou une entité divine |
-| 11  | Offrir un bijou ou une fleur à un spectateur choisi |
-| 12  | Déclamer une promesse solennelle de victoire ou d’honneur |
-| 13  | Exécuter une acrobatie en descendant de cheval |
-| 14  | Lance des produits dérivées dans la foule |
-| 15  | Faire apparaître une illusion magique autour de soi |
-| 16  | Laisser son cheval galoper en cercle en liberté avant de le monter |
-| 17  | Dévoiler une armure ou une arme légendaire au dernier moment |
-| 18  | Lancer une pièce d’or dans la foule pour attirer les acclamations |
-| 19  | S’agenouiller et prier devant tous, invoquant la bénédiction divine |
-| 20  | Déclencher un feu d’artifice ou un effet magique spectaculaire |
+| d20 | Action spectaculaire | Type de jet |
+|-----|----------------------|---------------|
+| 1   | Lancer une rose ou un gant vers l’adversaire avec défi | Jet de présence|
+| 2   | Faire cabrer sa monture devant les gradins | Jet de finesse |
+| 3   | Réciter un poème épique sur sa lignée chevaleresque | Jet de présence |
+| 4   | Saluer un noble dans la foule avec une révérence théâtrale | Jet de présence |
+| 5   | Chanter un hymne martial accompagné d’un instrument | Jet de présence |
+| 6   | Faire tournoyer sa lance dans une danse guerrière | Jet d'agileté |
+| 7   | Peindre des runes de victoire sur son armure ou son cheval | Jet de Connaissance |
+| 8   | Lancer un cri de guerre ancestral qui fait frémir la foule | Jet de présence |
+| 9   | Dévoiler une bannière personnelle ou familiale au vent | Jet de connaissance |
+| 10  | Faire bénir sa lance par un prêtre ou une entité divine | Jet d'instinct |
+| 11  | Offrir un bijou ou une fleur à un spectateur choisi | Jet de présence |
+| 12  | Déclamer une promesse solennelle de victoire ou d’honneur | Jet de présence |
+| 13  | Exécuter une acrobatie en descendant de cheval | Jet d'agileté ou force |
+| 14  | Lance des produits dérivées dans la foule | Jet de force ou présence |
+| 15  | Faire apparaître une illusion magique autour de soi | Jet de Spellcraft |
+| 16  | Laisser son cheval galoper en cercle en liberté avant de le monter | Jet d'agileté, finesse ou force |
+| 17  | Dévoiler une armure ou une arme légendaire au dernier moment | Jet de force ou présence |
+| 18  | Lancer une pièce d’or dans la foule pour attirer les acclamations | Jet de force ou présence |
+| 19  | S’agenouiller et prier devant tous, invoquant la bénédiction divine | Jet de Spellcraft |
+| 20  | Déclencher un feu d’artifice ou un effet magique spectaculaire | Jet de conaissacnce |
 
-**Astuce** : Chaque action peut être accompagnée d’un jet de compétence approprié (*Présence*, *Art*, *Foi*, *Adresse*, etc.) pour déterminer son effet et le gain de Hope.
+**Astuce** : Chaque action peut être accompagnée d’un expérience approprié ( *Art*, *Foi*, *Adresse*, etc.) pour déterminer son résultat.
 
 ---
 
@@ -484,9 +495,9 @@ Chaque chevalier choisit **secrètement une posture de combat** parmi trois opti
 L’objectif est de **remporter deux rounds sur trois**.
 
 Chaque posture possède un avantage sur une autre, formant un **triangle stratégique** d’interactions :
-- Charge précise 💥 : Une attaque calculée qui attend le dernier moment pour Charger, contournant la Charge agile. Cependant, elle est vulnérable à la Charge rapide, qui Charge en premier.
+- Charge précise 💥 : Une attaque calculée qui attend le dernier moment pour attaquer, contournant la Charge agile. Cependant, elle est vulnérable à la Charge rapide, qui attaque en premier.
 - Charge agile 🛡️ : Une défense habile qui dévie les assauts rapides, empêchant la lance de se briser. Mais elle échoue face à une Charge précise, trop subtile pour être anticipée.
-- Charge rapide ⚡ : Une offensive fulgurante qui Charge avant l’adversaire, brisant sa lance et annulant sa Charge précise. Toutefois, elle est facilement détournée par une Charge agile bien placée.
+- Charge rapide ⚡ : Une offensive fulgurante qui attaque avant l’adversaire, brisant sa lance et empêchant une Charge précise. Toutefois, elle est facilement détournée par une défense habile.
 
 **Tableau récapitulatif**
 
@@ -503,21 +514,21 @@ Pour représenter les postures de combat, chaque joueur peut utiliser des cartes
 
 **Carte : Charge Précise 💥**
 
-- **Nom** : Charge Précise
+- **Nom** : Charge Précise 
 - **Couleur dominante** : Rouge
-- **Effet** : Bat la Charge Agile 🛡️, perd contre l’Charge Rapide ⚡
+- **Effet** : Bat la Charge Agile 🛡️, perd contre la Charge Rapide ⚡
 - **Texte d’ambiance** : « La patience est une arme. »
 
 **Carte : Charge Agile 🛡️**
 
-- **Nom** : Charge Agile
+- **Nom** : Charge Agile 
 - **Couleur dominante** : Bleu
-- **Effet** : Bat l’Charge Rapide ⚡, perd contre la Charge Précise 💥
+- **Effet** : Bat la Charge Rapide ⚡, perd contre la Charge Précise 💥
 - **Texte d’ambiance** : « L’élégance défie la vitesse. »
 
 **Carte : Charge Rapide ⚡**
 
-- **Nom** : Charge Rapide
+- **Nom** : Charge Rapide 
 - **Couleur dominante** : Jaune
 - **Effet** : Bat la Charge Précise 💥, perd contre la Charge Agile 🛡️
 - **Texte d’ambiance** : « Charger avant de penser. »
@@ -529,56 +540,68 @@ Pour représenter les postures de combat, chaque joueur peut utiliser des cartes
 1. **Choix secret** : Chaque chevalier choisit un posture en secret par round pour les 3 rounds.
 2. **Révélation simultanée** : Les postures sont révélées en même temps.
 3. **Comparaison** :
-   * Si l’un a l’avantage, il gagne le round.
-   * Si les postures sont identiques, les deux roulent un test de compétence (Force ou Dextérité selon la posture) pour départager.
+   * Si l'un a gagné par sa posture, l'adversaire à un désavantage sur son jet d'attaque.
+   * Si les postures sont identiques, les deux roulent un jet d'attaque normal.
 
-**Utilisation du Hope ou fear pendant le duel**
+#### Marquer des points
+Cela suit le même principe que pour les points de vie mais cette fois c'est sur votre adversaire. Il est important de noter que malgré que cela utilise le même principe c'est calculer appart et avant toutes les cartes de domaines ou point d'armure, compétences. Lorsque votre attaque touche, vous cassé la pointe de votre lance. Le bout de la lance est séparé en trois et plus la pointe est cassé plus vous gagner de point. Si l'adversaire subit des : 
+- Servere damage c'est que vous obtener 3 points. 
+- Major Damage c'est que vous obtener 2 point. 
+- Minor damage c'est que vous obtener 1 point. 
+- Si vous raté la cible, vous n'obtener rien. 
 
-Les points de Hope peuvent être dépensés normalement, il existe cependant de nouvelle **Hope Feature** que vous pouvez activer :
-
-| Action                              | Effet  narratif et mécanique|
-|-------------------------------------|-----------------------------|
-| Cri héroïque                        | Spend 1 Hope Impressionne la foule de +1 |
-| Coup Puissant                       | Spend x Hope augemente le DC de desarsonnement de + x  |
-| Charge légendaire                   | Spend 4 Hope augemente le DC de desarsonnement de + 4 |
-| Dernier Rampart                     | Spend x Hope réduit le DC de desarsonnement de + x  |
-| Feint                               | Spend 5 Hope change de posture |
-
-###  Exemple narratif
-
-> *Ser Alaric, acculé, serre son médaillon de Solen. Il dépense 2 points de Hope pour activer "Dernier rempart". Jet de Force réussi : il se relève, le regard brûlant de détermination. La foule rugit. Son adversaire hésite.*
-
-
-| Action pour le groupe               | Effet  narratif et mécanique|
-|-------------------------------------|-----------------------------|
-| Écho du passé                       | Spend x Hope Rappelle un souvenir négatif de l'adversaire, influençant la foule de -x pour l'adversaire |
-| Récit inspirant                     | Spend x Hope Donne un bonus de +x de faveur de la foule |
-| Main experte                        | Spend x Hope Répare une pièce d’équipement endommagée entre deux joutes. *Effet : restaure x point d’armure*
-| Lecture de posture                  | Spend x Hope Analyse l’adversaire pendant son échauffement. *Effet : Empêche une feint*|
-| Préparation optimale                | Spend x Hope Prépare le cheval avec précision selon le type d’épreuve. *Effet : Reduit le DC de x pour un test de desarssonnement*
-| Anticipation brillante              | Spend x Hope Prédit une manœuvre ennemie et propose un contre-plan. *Effet : Permet de voir la prochaine posture de l'adversaire.*
-| Serment de victoire                 | Spend 2 Hope Bonus de + 4 faveur de la foule si le duel est remporté |
----
-
-### Désarçonnement
+#### Désarçonnement
 
 **Déclenchement**
 
 Le désarçonnement peut survenir dans les cas suivants :
 
-- Le chevalier **perd un round de joute** avec un effet narratif puissant (ex. : coup brutal, feinte brillante).
-- Le chevalier **rate un jet de compétence** avec un échec critique (ex. : un 1 naturel).
-- Le chevalier **subit une conséquence majeure** (ex. : perte de tout son Hope ou effet magique).
+- Le chevalier **prend du Severe damage**).
+- Le chevalier **rate un jet** avec un échec critique.
+- Le chevalier adverse utilise l'action **Charge légendaire**.
+- Le chevalier **subit une conséquence majeure** (ex. : perte de tout ses points de vie ou stress).
 
 Lorsqu’un désarçonnement est déclenché :
 
-**Jet de sauvegarde** : Le chevalier fait un jet de **Force** ou **Dextérité** (au choix selon la posture utilisée).
+**Jet de sauvegarde** : Le chevalier fait un jet de **Force** ou **Dextérité** (au choix).
    - Difficulté standard : **DC 12**
-   - Si le jet est réussi : le chevalier reste en selle.
-   - Si le jet est raté : le chevalier est désarçonné.
-   - Sur un échec critique : Le chevalier perd la joute.
+   - Si le jet est réussi : le chevalier reste en selle et l'adversaire gagne 1 jetons de foule.
+   - Si le jet est raté : le chevalier est désarçonné et l'adversaire gagne 2 jetons de foule.
+   - Sur un échec critique : Le chevalier est désarçonné et l'adversaire gagne 4 jetons de foule vu l'impressionnante force de frappe.
+
+**Utilisation du Hope ou fear pendant le duel**
+
+Les points de Hope peuvent être dépensés normalement, il existe cependant de nouvelle **Hope Feature** que vous pouvez activer :
+
+| Action du chevalier                 | Effet  narratif et mécanique|
+|-------------------------------------|-----------------------------|
+| Cri héroïque                        | Spend 1 Hope Impressionne la foule de + 1 jeton de faveur de la foule |
+| Coup Puissant                       | Spend x Hope augemente le DC de desarsonnement de + x  |
+| Charge légendaire                   | Spend 4 Hope provoque un desarsonnement |
+| Dernier Rampart                     | Spend x Hope réduit le DC de desarsonnement de + x  |
+| Feint                               | Spend 5 Hope change de posture |
+
+###  Exemple narratif
+
+> *Ser Alaric, acculé, serre son médaillon de Solen. Il dépense 2 points de Hope pour activer "Dernier rempart". Jet de Force réussi : il reste stoic, le regard brûlant de détermination. La foule rugit. Son adversaire hésite.*
 
 
+| Action pour le groupe               | Effet  narratif et mécanique|
+|-------------------------------------|-----------------------------|
+| Écho du passé                       | Spend x Hope Rappelle un souvenir négatif de l'adversaire, influençant la foule de -x pour l'adversaire |
+| Récit inspirant                     | Spend x Hope Donne un bonus de + x jeton de faveur de la foule |
+| Main experte                        | Spend x Hope Répare une pièce d’équipement endommagée entre deux joutes. *Effet : restaure x point d’armure*
+| Lecture de posture                  | Spend 5 Hope Analyse l’adversaire pendant son échauffement. *Effet : Empêche une feint*|
+| Préparation optimale                | Spend x Hope Prépare le cheval avec précision selon le type d’épreuve. *Effet : Reduit le DC de x pour un test de desarssonnement*
+| Anticipation brillante              | Spend 5 Hope Prédit une manœuvre ennemie et propose un contre-plan. *Effet : Permet de voir la prochaine posture de l'adversaire.*
+| Serment de victoire                 | Spend 2 Hope Bonus de + 4 jeton faveur de la foule si le duel est remporté qui seront utiliser pour la prochaine joute et ne font pas partit de celle en cours. |
+---
+
+
+
+
+
+  ---- À voir si c'est conservé ---
 ###  Effets Spectaculaires – Points de Faveur de la Foule
 
 Certains effets spectaculaires ou dramatiques peuvent rapporter des points de faveur de la foule, utilisés pour influencer le déroulement du tournoi ou obtenir des avantages narratifs.
@@ -586,16 +609,12 @@ Certains effets spectaculaires ou dramatiques peuvent rapporter des points de fa
 | Effet narratif | Points de faveur |
 |----------------|------------------|
 | Désarçonnement spectaculaire | +3 |
-| Feinte brillante suivie d’une contre-attaque | +2 |
-| Cri de guerre galvanisant la foule | +1 |
 | Provocation théâtrale avant le duel | +2 |
 | Victoire rapide en 1 round | +3 |
 | Victoire rapide en 2 round | +2 |
 | Victoire en 3 round | +1 |
 | Victoire contre un adversaire avec plus de faveur de la foule | +1 |
-| Charge acrobatique évitant un coup fatal | +2 |
-| Appui d’un barde ou héraut en pleine action | +1 |
-| Style flamboyant ou gestuelle théâtrale d'après victoire | +1 |
+
 
 À la fin du tournoi, chaque chevalier additionne ses points de faveur. Selon le total obtenu, il peut recevoir une récompense ou un bonus mécanique :
 
