@@ -31,7 +31,19 @@ Game of Thrones, The Witcher, Arthurian Legends, Chevalier
 
 Les Terres d’avant sont les fragments épars d’un monde révolu, les vestiges d’un âge d’or désormais brisé. Royaumes morcelés, duchés en quête de grandeur, alliances aussi fragiles que le verre soufflé : tout s’entrechoque dans une danse tumultueuse où les traditions oubliées se heurtent à l’ascension de puissances nouvelles. Dans ce paysage en perpétuelle mutation, les joutes chevaleresques ne sont pas de simples affrontements sportifs — elles sont des cérémonies sacrées, des leviers d’influence politique et des passerelles vers la souveraineté. Chaque duel dans l’arène devient un théâtre d’ambitions, de loyautés mises à l’épreuve et de trahisons dissimulées sous des bannières éclatantes. Les héros, pris dans ce maelström, doivent naviguer entre rivalités féroces, intrigues de cour et choix cruciaux capables de faire vaciller l’équilibre des duchés.
 
+**L’Ordre des Chevaliers**, pilier moral et politique du royaume, veille sur les joutes comme un gardien ancestral. Il régit les règles, préserve les valeurs chevaleresques et garantit l’équité des affrontements. Composé de nobles issus des plus grandes maisons, ses membres orchestrent les tournois, arbitrent les conflits et influencent les alliances qui redessinent la carte du pouvoir. Leur autorité dépasse les arènes : elle s’étend aux trônes, aux traités, aux serments. Car dans les Terres d’avant, l’Ordre ne protège pas seulement les traditions — il façonne l’avenir.
+
 Au cœur de cette fresque grandiose s’élève **Valome**, capitale majestueuse des Terres d’avant. Cité de marbre et de bannières, elle est le centre politique et culturel du royaume, là où convergent les ambitions des ducs, les voix des guildes et les murmures des cultes. C’est à Valome que siège l’équipe Championne, auréolée de gloire pour une année entière. Leur triomphe, sanctifié par l’Ordre des Chevaliers, leur confère non seulement prestige et honneur, mais aussi autorité morale et politique. Car être Champion, c’est bien plus que dominer l’arène : c’est devenir juge suprême, arbitre des querelles entre duchés, et voix influente dans les décisions qui sculptent le destin du royaume.
+
+Le **Duché de Caldrun** est une région fertile et riche en ressources, marquée par sa cité fortifiée de **Dagonaut** et ses terres sauvages encore inexplorées. Fréquemment attaqué par des créatures du nord, il forge des habitants résilients et attire les chevaliers en quête de gloire. Malgré un développement ralenti, Caldrun demeure un bastion d’aventure et de légendes.
+
+Le **Duché de Fercreux**, niché dans les montagnes, est le pilier métallurgique des Terres d’avant, célèbre pour ses armes enchantées et ses chevaliers d’acier noir. Sa capitale, **Fendacier**, vibre au rythme des forges et des luttes ouvrières, où les mineurs, malgré des conditions difficiles, incarnent une résistance souterraine. Entre art du métal et tensions sociales, Fercreux est un duché de feu et de fer.
+
+Le **Duché de Lume**, centré sur le port prospère de **BriseLune**, est un carrefour commercial vibrant où se mêlent luxe, exotisme et ambition. Malgré sa richesse, la région souffre d’insécurité et peine à s’imposer face à ses rivaux comme Valome. Lume aspire à devenir un acteur majeur du commerce, mais reste souvent perçue comme une simple escale.
+
+Le **Duché de Courvouaille**, centré sur la ville ouverte du **RocherBlanc**, incarne une vision progressiste fondée sur la justice sociale, le dialogue et la diversité culturelle. Sa quête d’égalité et de réforme politique suscite tensions et admiration, faisant de Courvouaille un bastion d’innovation au cœur des Terres d’avant.
+
+Le **Duché des Échardes**, niché dans des forêts anciennes, valorise les traditions druidiques et le respect de la nature, incarnés par ses chevaliers Gardiens du Bois. Sa cité de **Valbois** vit des tensions avec les esprits sylvestres qui menacent ses joutes et ses ambitions écologiques.
 
 Le Grand Tournoi de **Saint-Marcelin**, célébré chaque saison dans les arènes sacrées du duché d’Aurélion, est l’apogée des joutes chevaleresques. C’est l’événement le plus convoité, le plus chanté, le plus redouté. Mais y prétendre n’est pas un droit : c’est un honneur qu’il faut conquérir. Chaque équipe ou chevalier aspirant doit offrir un tribut à l’Ordre des Chevaliers, gardien des traditions et maître des règles. Ces tributs, empreints de symbolisme, témoignent de la valeur et de l’engagement du prétendant :
 
@@ -41,7 +53,7 @@ Le Grand Tournoi de **Saint-Marcelin**, célébré chaque saison dans les arène
 
 Ces offrandes ne sont pas de simples rites : elles deviennent des légendes vivantes, des récits transmis dans les tavernes, gravés dans les archives sacrées de l’Ordre. Elles rappellent que dans les Terres d’avant, la gloire ne se mendie pas — elle se conquiert par le sang, le sacrifice et l’éclat de la légende.
 
-L’Ordre des Chevaliers, pilier moral et politique du royaume, veille sur les joutes comme un gardien ancestral. Il régit les règles, préserve les valeurs chevaleresques et garantit l’équité des affrontements. Composé de nobles issus des plus grandes maisons, ses membres orchestrent les tournois, arbitrent les conflits et influencent les alliances qui redessinent la carte du pouvoir. Leur autorité dépasse les arènes : elle s’étend aux trônes, aux traités, aux serments. Car dans les Terres d’avant, l’Ordre ne protège pas seulement les traditions — il façonne l’avenir.
+Dans les Terres d’avant, la frontière entre héros et tyran est aussi fine qu’une lame de duel. Les champions d’aujourd’hui peuvent devenir les oppresseurs de demain, et les rebelles honnis, les sauveurs du royaume. C’est dans cette incertitude que naissent les légendes, que se forgent les destins, et que les Terres d’avant poursuivent leur éternelle danse entre ruine et renaissance.
 
 ---
 
@@ -291,7 +303,7 @@ Les rivalités avec Valome et les autres duchés s’intensifient, notamment aut
 
 ### Duché de Courvouaille
 
-La ville central de ce duché est Rochelieu. Une ville qui s’étend au cœur des plaines fertiles de Courvouaille, là où les routes des caravanes croisent les sentiers des pèlerins et des voyageurs. La ville est construite en cercles concentriques autour d’un immense ménhir noir veiné d’argent, appelé le Pilier des Voix. Ce monument ancien, d’origine inconnue, est devenu le symbole de la ville et de son engagement envers l’écoute, le dialogue et la justice.
+La ville central de ce duché est Rocherblanc. Une ville qui s’étend au cœur des plaines fertiles de Courvouaille, là où les routes des caravanes croisent les sentiers des pèlerins et des voyageurs. La ville est construite en cercles concentriques autour d’un immense ménhir noir veiné d’argent, appelé le Pilier des Voix. Ce monument ancien, d’origine inconnue, est devenu le symbole de la ville et de son engagement envers l’écoute, le dialogue et la justice.
 
 Contrairement aux cités fortifiées des duchés conservateurs, Rocherblanc est ouverte sur l’extérieur : pas de murailles, mais des jardins partagés, des places publiques et des chemins bordés de lanternes enchantées. L’architecture mêle pierre locale, bois sculpté et verrières colorées, reflétant la diversité culturelle de ses habitants.
 
