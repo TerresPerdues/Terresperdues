@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="turbo-root" content="/Terresperdues">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.11.0.809032181153">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.11.0.809037215363">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.11.0">
@@ -31,11 +31,11 @@
 
     <script data-cfasync="false">(function(){var cl=document.documentElement.classList,ls=localStorage.getItem("retype_scheme"),hd=cl.contains("dark"),hl=cl.contains("light"),wm=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches;if(ls==="dark"||(!ls&&wm&&!hd&&!hl)){cl.remove("light");cl.add("dark")}else if(ls==="light"||(!ls&&!wm&&!hd&&!hl)){cl.remove("dark");cl.add("light")}})();</script>
 
-    <link href="../../resources/css/retype.css?v=3.11.0.809032181153" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.11.0.809037215363" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.11.0.809032181153" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.11.0.809037215363" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.11.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.11.0.809032181153" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.11.0.809037215363" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="retype-app" class="relative text-base antialiased text-base-text bg-base-bg font-body">
@@ -715,6 +715,20 @@ La ville principale de ce duché est <strong>Fendacier</strong>, une cité indus
         <span>Les joutes</span>
     </h3>
 </doc-anchor-target>
+<p>L&#x27;objectif de la joute est de faire des points pour monter au classement. La finale est entre les deux chevaliers qui ont le plus de point pour déterminer qui sera le champion avec son écurie.
+Pour ce faire, il existe quelques mécaniques pour faire fonctionner les joutes.</p>
+<ul>
+<li>Un des objectif est de cumuler des jetons de foule. Ces jetons peuvent être utiliser par la suite comme un pool de point de Hope de l&#x27;écurie qui peut être utiliser par n&#x27;importe qui de l&#x27;équipe lors de la joute.
+Il n&#x27;y a pas de maximum mais les jetons non utilisés sont perdue à la fin de la joute.</li>
+<li>La deuxième mécanique est celle de la joute qui fonctionne un peu comme roche papier ciseau.</li>
+<li>La dernière mécanique est celle du calcul des points de la joute.</li>
+</ul>
+<doc-anchor-target id="jetons-de-foules">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#jetons-de-foules">#</doc-anchor-trigger>
+        <span>Jetons de foules</span>
+    </h3>
+</doc-anchor-target>
 <doc-anchor-target id="spectacle-douverture">
     <h4>
         <doc-anchor-trigger class="header-anchor-trigger" to="#spectacle-douverture">#</doc-anchor-trigger>
@@ -733,13 +747,14 @@ La ville principale de ce duché est <strong>Fendacier</strong>, une cité indus
 <p>Chaque héraut (ou allié) décrit une action spectaculaire :</p>
 <ul>
 <li>Discours flamboyant</li>
-<li>Chant inspirant (bardes !)</li>
+<li>Chant inspirant</li>
 <li>Charge à cheval</li>
 <li>Invocation divine</li>
+<li>Prouesse physique</li>
 <li>Jet de rose à la foule…</li>
 </ul>
 <p><strong>Étape 2 : Jet de compétence</strong></p>
-<p>Le joueur fait un <strong>jet de Présence</strong>, <em>Art</em>, <em>Foi</em>, ou autre compétence appropriée. Il peut y avoir jusqu&#x27;à 3 jets pendant un spectacle à moins d&#x27;avis contraire. Les jet avec fear font perdre une possibilité de jet.</p>
+<p>Le joueur fait un <strong>jet de Présence</strong>, <em>Agileté</em>, <em>Force</em>, ou autre jet appropriée. Il peut y avoir jusqu&#x27;à 3 jets pendant un spectacle à moins d&#x27;avis contraire. Les jet avec fear font perdre une possibilité de jet.</p>
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
 <thead>
@@ -753,29 +768,29 @@ La ville principale de ce duché est <strong>Fendacier</strong>, une cité indus
 <tr>
 <td>Succès</td>
 <td>1 point</td>
-<td>Action réussie, la foule est ravie et gagne + 2 de faveur de la foule</td>
+<td>Action réussie, la foule est ravie et gagne + 1 jeton de faveur de la foule</td>
 </tr>
 <tr>
 <td>Succès majeur</td>
 <td>2 points</td>
-<td>Ovation, effet mémorable + 4 de faveur de la foule</td>
+<td>Ovation, effet mémorable + 2 jeton de faveur de la foule</td>
 </tr>
 <tr>
 <td>Échec</td>
 <td>0 point</td>
-<td>cheval nerveux, foule muette, etc. - 2 de faveur de la foule</td>
+<td>cheval nerveux, foule muette, etc.</td>
 </tr>
 <tr>
 <td>Échec critique</td>
 <td>0 point</td>
-<td>Foule qui hue, enfants qui pleurent, etc. - 4 de faveur de la foule</td>
+<td>Foule qui hue, enfants qui pleurent, etc. - 1 jeton de faveur de la foule</td>
 </tr>
 </tbody>
 </table>
 </div>
 <p><strong>Exemple narratif</strong></p>
 <blockquote>
-<p><em>Le barde Elowen se tient sur la balustrade, luth en main. Elle entonne une ballade ancienne sur les exploits du chevalier Ser Alaric. Jet de Présence + Art : succès majeur ! Elle gagne 2 points de Hope.</em><br />
+<p><em>Le barde Elowen se tient sur la balustrade, luth en main. Elle entonne une ballade ancienne sur les exploits du chevalier Ser Alaric. Jet de Présence + Art : succès majeur ! Elle gagne 2 points d&#x27;espoire pour elle et 2 jeton pour es jetons de foule.</em><br />
 <em>Lors de la deuxième passe, elle dépense 1 point pour aider Ser Alaric, lui donnant avantage sur son jet de Force. Il renverse son adversaire dans un fracas glorieux.</em></p>
 </blockquote>
 <hr>
@@ -785,100 +800,121 @@ La ville principale de ce duché est <strong>Fendacier</strong>, une cité indus
         <span>Table aléatiore pour les joueurs ou les opposants</span>
     </h4>
 </doc-anchor-target>
-<p>Lors du spectacle d’ouverture, les joueurs ou les opposants peuvent tirer ou choisir une action ci-dessous pour impressionner la foule et tenter de gagner du Hope.</p>
+<p>Lors du spectacle d’ouverture, les joueurs ou les opposants peuvent tirer ou choisir une action ci-dessous pour impressionner la foule et tenter de gagner de l&#x27;espoire.</p>
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
 <thead>
 <tr>
 <th>d20</th>
 <th>Action spectaculaire</th>
+<th>Type de jet</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>1</td>
 <td>Lancer une rose ou un gant vers l’adversaire avec défi</td>
+<td>Jet de présence</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Faire cabrer sa monture devant les gradins</td>
+<td>Jet de finesse</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Réciter un poème épique sur sa lignée chevaleresque</td>
+<td>Jet de présence</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Saluer un noble dans la foule avec une révérence théâtrale</td>
+<td>Jet de présence</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Chanter un hymne martial accompagné d’un instrument</td>
+<td>Jet de présence</td>
 </tr>
 <tr>
 <td>6</td>
 <td>Faire tournoyer sa lance dans une danse guerrière</td>
+<td>Jet d&#x27;agileté</td>
 </tr>
 <tr>
 <td>7</td>
 <td>Peindre des runes de victoire sur son armure ou son cheval</td>
+<td>Jet de Connaissance</td>
 </tr>
 <tr>
 <td>8</td>
 <td>Lancer un cri de guerre ancestral qui fait frémir la foule</td>
+<td>Jet de présence</td>
 </tr>
 <tr>
 <td>9</td>
 <td>Dévoiler une bannière personnelle ou familiale au vent</td>
+<td>Jet de connaissance</td>
 </tr>
 <tr>
 <td>10</td>
 <td>Faire bénir sa lance par un prêtre ou une entité divine</td>
+<td>Jet d&#x27;instinct</td>
 </tr>
 <tr>
 <td>11</td>
 <td>Offrir un bijou ou une fleur à un spectateur choisi</td>
+<td>Jet de présence</td>
 </tr>
 <tr>
 <td>12</td>
 <td>Déclamer une promesse solennelle de victoire ou d’honneur</td>
+<td>Jet de présence</td>
 </tr>
 <tr>
 <td>13</td>
 <td>Exécuter une acrobatie en descendant de cheval</td>
+<td>Jet d&#x27;agileté ou force</td>
 </tr>
 <tr>
 <td>14</td>
 <td>Lance des produits dérivées dans la foule</td>
+<td>Jet de force ou présence</td>
 </tr>
 <tr>
 <td>15</td>
 <td>Faire apparaître une illusion magique autour de soi</td>
+<td>Jet de Spellcraft</td>
 </tr>
 <tr>
 <td>16</td>
 <td>Laisser son cheval galoper en cercle en liberté avant de le monter</td>
+<td>Jet d&#x27;agileté, finesse ou force</td>
 </tr>
 <tr>
 <td>17</td>
 <td>Dévoiler une armure ou une arme légendaire au dernier moment</td>
+<td>Jet de force ou présence</td>
 </tr>
 <tr>
 <td>18</td>
 <td>Lancer une pièce d’or dans la foule pour attirer les acclamations</td>
+<td>Jet de force ou présence</td>
 </tr>
 <tr>
 <td>19</td>
 <td>S’agenouiller et prier devant tous, invoquant la bénédiction divine</td>
+<td>Jet de Spellcraft</td>
 </tr>
 <tr>
 <td>20</td>
 <td>Déclencher un feu d’artifice ou un effet magique spectaculaire</td>
+<td>Jet de conaissacnce</td>
 </tr>
 </tbody>
 </table>
 </div>
-<p><strong>Astuce</strong> : Chaque action peut être accompagnée d’un jet de compétence approprié (<em>Présence</em>, <em>Art</em>, <em>Foi</em>, <em>Adresse</em>, etc.) pour déterminer son effet et le gain de Hope.</p>
+<p><strong>Astuce</strong> : Chaque action peut être accompagnée d’un expérience approprié ( <em>Art</em>, <em>Foi</em>, <em>Adresse</em>, etc.) pour déterminer son résultat.</p>
 <hr>
 <doc-anchor-target id="règles-de-joute--système-triadique-inspiré-de-pierre-papier-ciseaux">
     <h3>
@@ -892,9 +928,9 @@ La ville principale de ce duché est <strong>Fendacier</strong>, une cité indus
 L’objectif est de <strong>remporter deux rounds sur trois</strong>.</p>
 <p>Chaque posture possède un avantage sur une autre, formant un <strong>triangle stratégique</strong> d’interactions :</p>
 <ul>
-<li>Charge précise <span class="docs-emoji">&#x1F4A5;</span> : Une attaque calculée qui attend le dernier moment pour Charger, contournant la Charge agile. Cependant, elle est vulnérable à la Charge rapide, qui Charge en premier.</li>
+<li>Charge précise <span class="docs-emoji">&#x1F4A5;</span> : Une attaque calculée qui attend le dernier moment pour attaquer, contournant la Charge agile. Cependant, elle est vulnérable à la Charge rapide, qui attaque en premier.</li>
 <li>Charge agile <span class="docs-emoji">&#x1F6E1;&#xFE0F;</span> : Une défense habile qui dévie les assauts rapides, empêchant la lance de se briser. Mais elle échoue face à une Charge précise, trop subtile pour être anticipée.</li>
-<li>Charge rapide <span class="docs-emoji">&#x26A1;</span> : Une offensive fulgurante qui Charge avant l’adversaire, brisant sa lance et annulant sa Charge précise. Toutefois, elle est facilement détournée par une Charge agile bien placée.</li>
+<li>Charge rapide <span class="docs-emoji">&#x26A1;</span> : Une offensive fulgurante qui attaque avant l’adversaire, brisant sa lance et empêchant une Charge précise. Toutefois, elle est facilement détournée par une défense habile.</li>
 </ul>
 <p><strong>Tableau récapitulatif</strong></p>
 <div class="table-wrapper scrollbar overflow-hidden">
@@ -932,14 +968,14 @@ L’objectif est de <strong>remporter deux rounds sur trois</strong>.</p>
 <ul>
 <li><strong>Nom</strong> : Charge Précise</li>
 <li><strong>Couleur dominante</strong> : Rouge</li>
-<li><strong>Effet</strong> : Bat la Charge Agile <span class="docs-emoji">&#x1F6E1;&#xFE0F;</span>, perd contre l’Charge Rapide <span class="docs-emoji">&#x26A1;</span></li>
+<li><strong>Effet</strong> : Bat la Charge Agile <span class="docs-emoji">&#x1F6E1;&#xFE0F;</span>, perd contre la Charge Rapide <span class="docs-emoji">&#x26A1;</span></li>
 <li><strong>Texte d’ambiance</strong> : « La patience est une arme. »</li>
 </ul>
 <p><strong>Carte : Charge Agile <span class="docs-emoji">&#x1F6E1;&#xFE0F;</span></strong></p>
 <ul>
 <li><strong>Nom</strong> : Charge Agile</li>
 <li><strong>Couleur dominante</strong> : Bleu</li>
-<li><strong>Effet</strong> : Bat l’Charge Rapide <span class="docs-emoji">&#x26A1;</span>, perd contre la Charge Précise <span class="docs-emoji">&#x1F4A5;</span></li>
+<li><strong>Effet</strong> : Bat la Charge Rapide <span class="docs-emoji">&#x26A1;</span>, perd contre la Charge Précise <span class="docs-emoji">&#x1F4A5;</span></li>
 <li><strong>Texte d’ambiance</strong> : « L’élégance défie la vitesse. »</li>
 </ul>
 <p><strong>Carte : Charge Rapide <span class="docs-emoji">&#x26A1;</span></strong></p>
@@ -961,25 +997,60 @@ L’objectif est de <strong>remporter deux rounds sur trois</strong>.</p>
 <li><strong>Révélation simultanée</strong> : Les postures sont révélées en même temps.</li>
 <li><strong>Comparaison</strong> :
 <ul>
-<li>Si l’un a l’avantage, il gagne le round.</li>
-<li>Si les postures sont identiques, les deux roulent un test de compétence (Force ou Dextérité selon la posture) pour départager.</li>
+<li>Si l&#x27;un a gagné par sa posture, l&#x27;adversaire à un désavantage sur son jet d&#x27;attaque.</li>
+<li>Si les postures sont identiques, les deux roulent un jet d&#x27;attaque normal.</li>
 </ul>
 </li>
 </ol>
+<doc-anchor-target id="marquer-des-points">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#marquer-des-points">#</doc-anchor-trigger>
+        <span>Marquer des points</span>
+    </h4>
+</doc-anchor-target>
+<p>Cela suit le même principe que pour les points de vie mais cette fois c&#x27;est sur votre adversaire. Il est important de noter que malgré que cela utilise le même principe c&#x27;est calculer appart et avant toutes les cartes de domaines ou point d&#x27;armure, compétences. Lorsque votre attaque touche, vous cassé la pointe de votre lance. Le bout de la lance est séparé en trois et plus la pointe est cassé plus vous gagner de point. Si l&#x27;adversaire subit des :</p>
+<ul>
+<li>Servere damage c&#x27;est que vous obtener 3 points.</li>
+<li>Major Damage c&#x27;est que vous obtener 2 point.</li>
+<li>Minor damage c&#x27;est que vous obtener 1 point.</li>
+<li>Si vous raté la cible, vous n&#x27;obtener rien.</li>
+</ul>
+<doc-anchor-target id="désarçonnement">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#désarçonnement">#</doc-anchor-trigger>
+        <span>Désarçonnement</span>
+    </h4>
+</doc-anchor-target>
+<p><strong>Déclenchement</strong></p>
+<p>Le désarçonnement peut survenir dans les cas suivants :</p>
+<ul>
+<li>Le chevalier <strong>prend du Severe damage</strong>).</li>
+<li>Le chevalier <strong>rate un jet</strong> avec un échec critique.</li>
+<li>Le chevalier adverse utilise l&#x27;action <strong>Charge légendaire</strong>.</li>
+<li>Le chevalier <strong>subit une conséquence majeure</strong> (ex. : perte de tout ses points de vie ou stress).</li>
+</ul>
+<p>Lorsqu’un désarçonnement est déclenché :</p>
+<p><strong>Jet de sauvegarde</strong> : Le chevalier fait un jet de <strong>Force</strong> ou <strong>Dextérité</strong> (au choix).</p>
+<ul>
+<li>Difficulté standard : <strong>DC 12</strong></li>
+<li>Si le jet est réussi : le chevalier reste en selle et l&#x27;adversaire gagne 1 jetons de foule.</li>
+<li>Si le jet est raté : le chevalier est désarçonné et l&#x27;adversaire gagne 2 jetons de foule.</li>
+<li>Sur un échec critique : Le chevalier est désarçonné et l&#x27;adversaire gagne 4 jetons de foule vu l&#x27;impressionnante force de frappe.</li>
+</ul>
 <p><strong>Utilisation du Hope ou fear pendant le duel</strong></p>
 <p>Les points de Hope peuvent être dépensés normalement, il existe cependant de nouvelle <strong>Hope Feature</strong> que vous pouvez activer :</p>
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
 <thead>
 <tr>
-<th>Action</th>
+<th>Action du chevalier</th>
 <th>Effet  narratif et mécanique</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>Cri héroïque</td>
-<td>Spend 1 Hope Impressionne la foule de +1</td>
+<td>Spend 1 Hope Impressionne la foule de + 1 jeton de faveur de la foule</td>
 </tr>
 <tr>
 <td>Coup Puissant</td>
@@ -987,7 +1058,7 @@ L’objectif est de <strong>remporter deux rounds sur trois</strong>.</p>
 </tr>
 <tr>
 <td>Charge légendaire</td>
-<td>Spend 4 Hope augemente le DC de desarsonnement de + 4</td>
+<td>Spend 4 Hope provoque un desarsonnement</td>
 </tr>
 <tr>
 <td>Dernier Rampart</td>
@@ -1007,43 +1078,23 @@ L’objectif est de <strong>remporter deux rounds sur trois</strong>.</p>
     </h3>
 </doc-anchor-target>
 <blockquote>
-<p><em>Ser Alaric, acculé, serre son médaillon de Solen. Il dépense 2 points de Hope pour activer &quot;Dernier rempart&quot;. Jet de Force réussi : il se relève, le regard brûlant de détermination. La foule rugit. Son adversaire hésite.</em></p>
+<p><em>Ser Alaric, acculé, serre son médaillon de Solen. Il dépense 2 points de Hope pour activer &quot;Dernier rempart&quot;. Jet de Force réussi : il reste stoic, le regard brûlant de détermination. La foule rugit. Son adversaire hésite.</em></p>
 </blockquote>
-<doc-anchor-target id="-action-pour-le-groupe----------------effet--narratif-et-mécanique-------------------------------------------------------------------écho-du-passé------------------------spend-x-hope-rappelle-un-souvenir-négatif-de-ladversaire-influençant-la-foule-de--x-pour-ladversaire--récit-inspirant----------------------spend-x-hope-donne-un-bonus-de-x-de-faveur-de-la-foule--main-experte-------------------------spend-x-hope-répare-une-pièce-déquipement-endommagée-entre-deux-joutes-effet--restaure-x-point-darmure-lecture-de-posture-------------------spend-x-hope-analyse-ladversaire-pendant-son-échauffement-effet--empêche-une-feint-préparation-optimale-----------------spend-x-hope-prépare-le-cheval-avec-précision-selon-le-type-dépreuve-effet--reduit-le-dc-de-x-pour-un-test-de-desarssonnement-anticipation-brillante---------------spend-x-hope-prédit-une-manœuvre-ennemie-et-propose-un-contre-plan-effet--permet-de-voir-la-prochaine-posture-de-ladversaire-serment-de-victoire------------------spend-2-hope-bonus-de--4-faveur-de-la-foule-si-le-duel-est-remporté-">
+<doc-anchor-target id="-action-pour-le-groupe----------------effet--narratif-et-mécanique-------------------------------------------------------------------écho-du-passé------------------------spend-x-hope-rappelle-un-souvenir-négatif-de-ladversaire-influençant-la-foule-de--x-pour-ladversaire--récit-inspirant----------------------spend-x-hope-donne-un-bonus-de--x-jeton-de-faveur-de-la-foule--main-experte-------------------------spend-x-hope-répare-une-pièce-déquipement-endommagée-entre-deux-joutes-effet--restaure-x-point-darmure-lecture-de-posture-------------------spend-5-hope-analyse-ladversaire-pendant-son-échauffement-effet--empêche-une-feint-préparation-optimale-----------------spend-x-hope-prépare-le-cheval-avec-précision-selon-le-type-dépreuve-effet--reduit-le-dc-de-x-pour-un-test-de-desarssonnement-anticipation-brillante---------------spend-5-hope-prédit-une-manœuvre-ennemie-et-propose-un-contre-plan-effet--permet-de-voir-la-prochaine-posture-de-ladversaire-serment-de-victoire------------------spend-2-hope-bonus-de--4-jeton-faveur-de-la-foule-si-le-duel-est-remporté-qui-seront-utiliser-pour-la-prochaine-joute-et-ne-font-pas-partit-de-celle-en-cours-">
     <h2>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#-action-pour-le-groupe----------------effet--narratif-et-mécanique-------------------------------------------------------------------écho-du-passé------------------------spend-x-hope-rappelle-un-souvenir-négatif-de-ladversaire-influençant-la-foule-de--x-pour-ladversaire--récit-inspirant----------------------spend-x-hope-donne-un-bonus-de-x-de-faveur-de-la-foule--main-experte-------------------------spend-x-hope-répare-une-pièce-déquipement-endommagée-entre-deux-joutes-effet--restaure-x-point-darmure-lecture-de-posture-------------------spend-x-hope-analyse-ladversaire-pendant-son-échauffement-effet--empêche-une-feint-préparation-optimale-----------------spend-x-hope-prépare-le-cheval-avec-précision-selon-le-type-dépreuve-effet--reduit-le-dc-de-x-pour-un-test-de-desarssonnement-anticipation-brillante---------------spend-x-hope-prédit-une-manœuvre-ennemie-et-propose-un-contre-plan-effet--permet-de-voir-la-prochaine-posture-de-ladversaire-serment-de-victoire------------------spend-2-hope-bonus-de--4-faveur-de-la-foule-si-le-duel-est-remporté-">#</doc-anchor-trigger>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#-action-pour-le-groupe----------------effet--narratif-et-mécanique-------------------------------------------------------------------écho-du-passé------------------------spend-x-hope-rappelle-un-souvenir-négatif-de-ladversaire-influençant-la-foule-de--x-pour-ladversaire--récit-inspirant----------------------spend-x-hope-donne-un-bonus-de--x-jeton-de-faveur-de-la-foule--main-experte-------------------------spend-x-hope-répare-une-pièce-déquipement-endommagée-entre-deux-joutes-effet--restaure-x-point-darmure-lecture-de-posture-------------------spend-5-hope-analyse-ladversaire-pendant-son-échauffement-effet--empêche-une-feint-préparation-optimale-----------------spend-x-hope-prépare-le-cheval-avec-précision-selon-le-type-dépreuve-effet--reduit-le-dc-de-x-pour-un-test-de-desarssonnement-anticipation-brillante---------------spend-5-hope-prédit-une-manœuvre-ennemie-et-propose-un-contre-plan-effet--permet-de-voir-la-prochaine-posture-de-ladversaire-serment-de-victoire------------------spend-2-hope-bonus-de--4-jeton-faveur-de-la-foule-si-le-duel-est-remporté-qui-seront-utiliser-pour-la-prochaine-joute-et-ne-font-pas-partit-de-celle-en-cours-">#</doc-anchor-trigger>
         <span>| Action pour le groupe               | Effet  narratif et mécanique|
 |-------------------------------------|-----------------------------|
 | Écho du passé                       | Spend x Hope Rappelle un souvenir négatif de l&#x27;adversaire, influençant la foule de -x pour l&#x27;adversaire |
-| Récit inspirant                     | Spend x Hope Donne un bonus de +x de faveur de la foule |
+| Récit inspirant                     | Spend x Hope Donne un bonus de + x jeton de faveur de la foule |
 | Main experte                        | Spend x Hope Répare une pièce d’équipement endommagée entre deux joutes. <em>Effet : restaure x point d’armure</em>
-| Lecture de posture                  | Spend x Hope Analyse l’adversaire pendant son échauffement. <em>Effet : Empêche une feint</em>|
+| Lecture de posture                  | Spend 5 Hope Analyse l’adversaire pendant son échauffement. <em>Effet : Empêche une feint</em>|
 | Préparation optimale                | Spend x Hope Prépare le cheval avec précision selon le type d’épreuve. <em>Effet : Reduit le DC de x pour un test de desarssonnement</em>
-| Anticipation brillante              | Spend x Hope Prédit une manœuvre ennemie et propose un contre-plan. <em>Effet : Permet de voir la prochaine posture de l&#x27;adversaire.</em>
-| Serment de victoire                 | Spend 2 Hope Bonus de + 4 faveur de la foule si le duel est remporté |</span>
+| Anticipation brillante              | Spend 5 Hope Prédit une manœuvre ennemie et propose un contre-plan. <em>Effet : Permet de voir la prochaine posture de l&#x27;adversaire.</em>
+| Serment de victoire                 | Spend 2 Hope Bonus de + 4 jeton faveur de la foule si le duel est remporté qui seront utiliser pour la prochaine joute et ne font pas partit de celle en cours. |</span>
     </h2>
 </doc-anchor-target>
-<doc-anchor-target id="désarçonnement">
-    <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#désarçonnement">#</doc-anchor-trigger>
-        <span>Désarçonnement</span>
-    </h3>
-</doc-anchor-target>
-<p><strong>Déclenchement</strong></p>
-<p>Le désarçonnement peut survenir dans les cas suivants :</p>
-<ul>
-<li>Le chevalier <strong>perd un round de joute</strong> avec un effet narratif puissant (ex. : coup brutal, feinte brillante).</li>
-<li>Le chevalier <strong>rate un jet de compétence</strong> avec un échec critique (ex. : un 1 naturel).</li>
-<li>Le chevalier <strong>subit une conséquence majeure</strong> (ex. : perte de tout son Hope ou effet magique).</li>
-</ul>
-<p>Lorsqu’un désarçonnement est déclenché :</p>
-<p><strong>Jet de sauvegarde</strong> : Le chevalier fait un jet de <strong>Force</strong> ou <strong>Dextérité</strong> (au choix selon la posture utilisée).</p>
-<ul>
-<li>Difficulté standard : <strong>DC 12</strong></li>
-<li>Si le jet est réussi : le chevalier reste en selle.</li>
-<li>Si le jet est raté : le chevalier est désarçonné.</li>
-<li>Sur un échec critique : Le chevalier perd la joute.</li>
-</ul>
+<p>---- À voir si c&#x27;est conservé ---</p>
 <doc-anchor-target id="effets-spectaculaires--points-de-faveur-de-la-foule">
     <h3>
         <doc-anchor-trigger class="header-anchor-trigger" to="#effets-spectaculaires--points-de-faveur-de-la-foule">#</doc-anchor-trigger>
@@ -1065,14 +1116,6 @@ L’objectif est de <strong>remporter deux rounds sur trois</strong>.</p>
 <td>+3</td>
 </tr>
 <tr>
-<td>Feinte brillante suivie d’une contre-attaque</td>
-<td>+2</td>
-</tr>
-<tr>
-<td>Cri de guerre galvanisant la foule</td>
-<td>+1</td>
-</tr>
-<tr>
 <td>Provocation théâtrale avant le duel</td>
 <td>+2</td>
 </tr>
@@ -1090,18 +1133,6 @@ L’objectif est de <strong>remporter deux rounds sur trois</strong>.</p>
 </tr>
 <tr>
 <td>Victoire contre un adversaire avec plus de faveur de la foule</td>
-<td>+1</td>
-</tr>
-<tr>
-<td>Charge acrobatique évitant un coup fatal</td>
-<td>+2</td>
-</tr>
-<tr>
-<td>Appui d’un barde ou héraut en pleine action</td>
-<td>+1</td>
-</tr>
-<tr>
-<td>Style flamboyant ou gestuelle théâtrale d&#x27;après victoire</td>
 <td>+1</td>
 </tr>
 </tbody>
