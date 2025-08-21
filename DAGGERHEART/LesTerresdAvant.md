@@ -45,7 +45,7 @@ Le **Duché de Courvouaille**, centré sur la ville ouverte du **RocherBlanc**, 
 
 Le **Duché des Échardes**, niché dans des forêts anciennes, valorise les traditions druidiques et le respect de la nature, incarnés par ses chevaliers Gardiens du Bois. Sa cité de **Valbois** vit des tensions avec les esprits sylvestres qui menacent ses joutes et ses ambitions écologiques.
 
-Le Grand Tournoi de **Saint-Marcelin**, célébré chaque saison dans les arènes sacrées du duché d’Aurélion, est l’apogée des joutes chevaleresques. C’est l’événement le plus convoité, le plus chanté, le plus redouté. Mais y prétendre n’est pas un droit : c’est un honneur qu’il faut conquérir. Chaque équipe ou chevalier aspirant doit offrir un tribut à l’Ordre des Chevaliers, gardien des traditions et maître des règles. Ces tributs, empreints de symbolisme, témoignent de la valeur et de l’engagement du prétendant :
+Le Grand Tournoi de **Saint-Marcelin**, dans le **Duché d'Aurélion**, célébré chaque saison dans les arènes sacrées du duché d’Aurélion, est l’apogée des joutes chevaleresques. C’est l’événement le plus convoité, le plus chanté, le plus redouté. Mais y prétendre n’est pas un droit : c’est un honneur qu’il faut conquérir. Chaque équipe ou chevalier aspirant doit offrir un tribut à l’Ordre des Chevaliers, gardien des traditions et maître des règles. Ces tributs, empreints de symbolisme, témoignent de la valeur et de l’engagement du prétendant :
 
 - Terrasser une créature mythique, preuve éclatante de bravoure et de puissance.
 - Sauver une communauté menacée, incarnation du devoir et de la justice.
@@ -184,7 +184,7 @@ Au fil des décennies, l’influence des duchés s’est accrue. Ils parrainent 
 
 La joute est bien plus qu’un sport : elle est devenue un ordre sacré, garant de l’équilibre entre les duchés. Grâce à cette institution, une paix durable s’est installée, et les duels chevaleresques ont remplacé les guerres interminables.
 
-### Les Écuries
+### 🟨 Les Écuries
 
 Chaque joute est un événement festif et spectaculaire. Les chevaliers ouvrent les festivités par un spectacle grandiose, destiné à captiver les foules. Plus l’ouverture est flamboyante, plus le public est conquis. Les écuries engagent des utilisateurs de magie pour créer des effets spectaculaires, ou des orateurs talentueux pour galvaniser la foule.
 
@@ -194,7 +194,7 @@ L’attitude des chevaliers joue également un rôle crucial. Certaines écuries
 
 Conserver le titre de Champion est un exploit rare : les responsabilités politiques et cérémonielles laissent peu de temps à l’entraînement. Toutefois, l’histoire se souvient d’écuries ayant su alterner leurs champions, conservant ainsi leur emprise sur le pouvoir pendant une décennie entière. : les responsabilités politiques et cérémonielles laissent peu de temps à l’entraînement. Toutefois, l’histoire se souvient d’écuries ayant su alterner leurs champions, conservant ainsi leur emprise sur le pouvoir pendant une décennie entière.
 
-### Les duchés
+### 🟨 Les duchés
 
 | Duché | Objectifs |
 | --- | --------- |
@@ -371,9 +371,9 @@ Les joutes sont parfois interrompues par des manifestations druidiques ou des ap
 - *Quel pacte secret lie ton lignage aux esprits de la forêt ?*
 
 
-## CUSTOM MECHANICS  
+## 🟨CUSTOM MECHANICS  
 
-### Règles pour la création d'une écurie de chevalier
+### 🟨Règles pour la création d'une écurie de chevalier
 
 **Étape 1 : Choisir un Duché d'origine**
 - Déterminez le duché auquel votre écurie est affiliée. Cela influencera les valeurs, les ressources et les objectifs de votre écurie.
@@ -403,7 +403,7 @@ Les joutes sont parfois interrompues par des manifestations druidiques ou des ap
 - Planifiez une ouverture spectaculaire pour captiver les foules et marquer les esprits.
 
 
-### Les joutes
+### 🟨Les joutes
 
 #### Objectif de la joute
 
@@ -431,7 +431,7 @@ Pour faire fonctionner les joutes, plusieurs mécaniques sont mises en place :
 
 - Une dernière mécanique concerne le calcul des points
 
-### Jetons de faveur de la foule
+### 🟨Jetons de faveur de la foule
 
 Les points de faveur de la foule peuvent être obtenus de deux façons :
 - Lors du **spectacle d’ouverture**
@@ -467,7 +467,7 @@ Chaque spectacle peut inclure jusqu’à **trois jets**, sauf indication contrai
 | Échec             | 0              | Foule indifférente, tension palpable                |
 | Échec critique    | 0              | Huées, malaise dans l’arène (-1 jeton de faveur de la foule)              |
 
-### Exemple narratif
+#### Exemple narratif
 
 > *Elowen, la barde, s’élève sur la balustrade, luth en main. Elle entonne une ballade sur les exploits du chevalier Ser Alaric. Jet de Présence + Art : succès majeur ! Elle gagne 2 points de Hope et 2 jetons de faveur de la foule.*  
 > *Lors de la deuxième passe, elle dépense 1 point de hope pour soutenir Ser Alaric, lui offrant un avantage sur son jet de Force. Il renverse son adversaire dans un fracas glorieux.*
@@ -503,7 +503,7 @@ Lors du spectacle d’ouverture, les joueurs ou les opposants peuvent tirer ou c
 
 ---
 
-### La joute
+### 🟨La joute
 
 Chaque chevalier sélectionne **secrètement une posture de combat** pour chacun des **trois rounds** de la joute.  
 Ces postures forment un système d’interactions stratégiques, où chaque option a un avantage sur une autre.
@@ -558,7 +558,7 @@ Pour représenter les postures de combat, chaque joueur peut utiliser des cartes
 - **Effet** : Bat la Charge Précise 💥, perd contre la Charge Agile 🛡️
 - **Texte d’ambiance** : « Charger avant de penser. »
 
-###  Résolution du duel
+####  Résolution du duel
 
 La joute se déroule en **trois rounds**, chacun suivant les étapes suivantes :
 
@@ -572,7 +572,7 @@ La joute se déroule en **trois rounds**, chacun suivant les étapes suivantes :
    - Si l’une des postures l’emporte sur l’autre, le chevalier adverse subit un **désavantage** sur son jet d’attaque.  
    - Si les postures sont identiques, les deux chevaliers effectuent un **jet d’attaque normal**.
 
-### Marquer des points
+#### Marquer des points
 
 Les points sont attribués en fonction des dégâts infligés à l’adversaire, selon un système distinct des points de vie.  
 Ce calcul est effectué **avant** l’application des cartes de domaine, de l’armure ou des compétences.
@@ -619,7 +619,7 @@ Les points de Hope peuvent être dépensés normalement, il existe cependant de 
 | Dernier rempart         | Dépense X points de Hope pour réduire la difficulté du jet de désarçonnement de X |
 | Feinte                  | Dépense 5 points de Hope pour changer de posture de combat       |
 
-###  Exemple narratif
+####  Exemple narratif
 
 > *Ser Alaric, acculé, serre son médaillon de Solen. Il dépense 2 points de Hope pour activer "Dernier rempart". Il baisse de RC de 12 à 10. Il roule 11 avec Hope. Jet de Force réussi : il reste stoic, le regard brûlant de détermination. La foule rugit. Son adversaire hésite.*
 
@@ -632,25 +632,79 @@ Les points de Hope peuvent être dépensés normalement, il existe cependant de 
 | Anticipation brillante     | Dépense 5 points de Hope pour anticiper une manœuvre ennemie. Permet de connaître la prochaine posture de l’adversaire. |
 | Serment de victoire        | Dépense 2 points de Hope. Si le duel est remporté, gagne +2 jetons de faveur de la foule utilisables lors de la prochaine joute (non comptabilisés dans celle en cours). |
 
+### 🟨Fin de la joute et récompenses
+
+À l’issue du tournoi, chaque chevalier additionne les points obtenus grâce aux lances brisées et aux désarçonnements. Selon le total cumulé, il peut recevoir les récompenses suivantes :
+
+- **5 points ou plus** : reçoit un objet narratif (ex. : insigne de bravoure, bénédiction du public).
+- **10 points ou plus** : obtient une ressource pour son écurie.
+- **15 points** : commence sa prochaine joute avec 2 jetons de faveur de la foule.
+
+#### Qualification pour la joute du champion
+
+Seuls les points obtenus lors des **quatre joutes de saison** organisées à **Saint-Marcelin**, dans le **duché d’Aurélion**, sont pris en compte pour les qualifications officielles.
+
+À la fin de la saison, les **deux chevaliers ayant accumulé le plus de points** s’affrontent en **finale** lors de la **joute du champion**.
 
 
-À la fin du tournoi, chaque chevalier additionne ses points de faveur. Selon le total obtenu, il peut recevoir une récompense ou un bonus mécanique :
+### 🟨 Les ressources 
 
-5+ points : Gagne un point de Hope supplémentaire.
-8+ points : Reçoit un objet narratif (ex. : insigne de bravoure, bénédiction du public).
-10+ points : Obtient un bonus temporaire à une compétence lors de la prochaine joute (+1).
-
-### Ressources tier 1 pour un écurie
+#### Ressource tier pour les écuries 1
 | Ressource                           | Bonus        | Effet narratif et mécanique |
 |-------------------------------------|--------------|-----------------------------|
-| Destrier rapide | +1 Evasion pour le chevalier | Choisir un cheval adapté  et le préparer avec des entraînements spécifiques.|
-| Destrier puissant | +1 de dégat | Choisir un cheval adapté  et le préparer avec des entraînements spécifiques.|
-| Destrier exotique | +1 présence | Choisir un cheval adapté  et le préparer avec des entraînements spécifiques.|
-| Barde de plaques | +1 armure | Composée de métal, très lourde, utilisée par les chevaliers.|
-| Barde de mailles | +1 évasion | Plus souple, offre une bonne protection sans trop gêner le mouvement.|
-| Caparaçon décoratif | +1 présence | Investir dans des améliorations (résistance, légèreté, esthétique) pour mieux résister aux impacts.|
-| Bonne réputation | + 2 jetons de faveur de la foule| la foule connait déjà la réputation|
+| Destrier rapide     | +1 Évasion   | Monture vive, entraînée pour esquiver les assauts. |
+| Destrier puissant   | +1 Dégâts    | Monture robuste, chargée pour frapper fort.       |
+| Destrier exotique   | +1 Présence  | Monture rare, attire l’attention du public.       |
+| Barde de plaques    | +1 armure    | Composée de métal, très lourde, offre un peu d'armure au chevalier.|
+| Barde de mailles    | +1 évasion   | Plus souple, offre une bonne protection sans trop gêner le mouvement.|
+| Caparaçon décoratif | +1 présence  | Magnifique .|
+| Bonne réputation    | + 2 jetons de faveur de la foule| la foule connait déjà la réputation|
 | Réputation terrifiante | + stress pour l'adversaire| Le chevalier adverse connait la réputation terrifiante du chevalier.|
+
+Exemple d'une destrier exotique : Destrier de Sable d’Ashkar
+
+*Issu des dunes brûlantes du royaume d’Ashkar, ce destrier au pelage doré et aux yeux d’ambre est réputé pour son endurance hors pair et sa foulée silencieuse. Dressé dans les tempêtes du désert, il ne craint ni la chaleur ni le tumulte des arènes. Sa présence seule impose le respect, et sa loyauté envers son cavalier est aussi inébranlable que les murailles d’Aurélion.*
+
+| Ressource                     | Bonus                        | Effet narratif et mécanique                          |
+|-------------------------------|------------------------------|------------------------------------------------------|
+| Insigne de Valome             | +1 Présence                  | Symbole politique et noble reconnu, impose le respect en joute. |
+| base de lance de Caldrun      | +1 Dégats                    | Forgé pour pourfendre les créatures du Nord.            |
+| Écu de Fercreux               | +1 Armure                    | Métal enchanté, issu des forges de Fendacier.         |
+| Tissu de Lume                 | +1 Présence                  | Cape luxueuse, évoque richesse et prestige marchand.  |
+| Serment de Courvouaille       | +1 Hope                      | Engagement public, inspire confiance et loyauté.      |
+| Bénédiction des Échardes      | +1 Jet de sauvegarde         | Protection druidique contre les effets surnaturels.   |
+| Tribut d’Aurélion             | +1 Jeton de faveur initial   | Offrande sacrée, reconnue par l’Ordre des Chevaliers. |
+
+#### Ressource Tier 2
+| Objet                        | Bonus mécanique           | Effet narratif concis                            |
+|-----------------------------|---------------------------|--------------------------------------------------|
+| Anneau de Valome            | +1 Présence               | Symbole d’autorité reconnu dans tout le royaume. |
+| Gantelet de Fercreux        | +1 Force                  | Forgé dans les mines, renforce la prise en joute. |
+| Cape de BriseLune           | +1 Évasion                | Tissu léger, favorise les mouvements rapides.     |
+| Sceau de Courvouaille       | +1 Hope                   | Emblème de justice, inspire confiance.            |
+| Talisman des Échardes       | +1 Jet de sauvegarde      | Protège contre les effets magiques ou naturels.   |
+| Harnais de Caldrun          | +1 Armure                 | Renforcé pour résister aux charges brutales.      |
+| Plume de l’Ordre            | +1 Jeton de faveur        | Offerte par les juges, marque d’excellence.       |
+| Éperons d’Aurélion          | +1 Évasion             | Permettent une mise en selle rapide et précise.   |
+
+#### Ressource Tier 3
+| Objet                        | Bonus mécanique           | Effet narratif concis                             |
+|-----------------------------|---------------------------|---------------------------------------------------|
+| Heaume du Champion          | +2 Présence               | Reconnu dans tout le royaume, impose le silence. |
+| Bottes de Fendacier         | +2 Évasion                | Forgées pour l’arène, fluides et résistantes.     |
+| Lame de Saint-Marcelin      | +2 Dégâts                 | Sanctifiée par l’Ordre, tranche avec autorité.    |
+| Barde royale                | +2 Armure                 | Chef-d’œuvre d’artisanat, symbole de noblesse.    |
+| Sceau des Hauts-Ducs        | +2 Présence               | Héritage politique, inspire loyauté et respect.   |
+
+#### Artefact Légendaire
+| Artefact                    | Bonus mécanique           | Effet narratif concis                             |
+|-----------------------------|---------------------------|---------------------------------------------------|
+| Lance de Valome             | +2 Présence, +1 Dégâts    | Porte la voix du royaume, frappe avec justice.   |
+| Éperons du Jugement         | +2 Dégats                 | Activés par serment, imposent le rythme du duel. |
+| Bénédiction d’Aurélion      | +2 Jeton de faveur        | Don sacré, reconnu par l’Ordre des Chevaliers.   |
+| Voile de BriseLune          | +2 Évasion, +1 Hope       | Cache les intentions, protège les secrets.       |
+| Cuirasse des Échardes       | +2 Armure, +1 sauvegarde  | Vivante, liée aux esprits de la forêt ancienne.  |
+
 
 
 #### Armes tier 1
