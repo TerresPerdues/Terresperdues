@@ -467,7 +467,7 @@ Chaque spectacle peut inclure jusqu’à **trois jets**, sauf indication contrai
 | Échec             | 0              | Foule indifférente, tension palpable                |
 | Échec critique    | 0              | Huées, malaise dans l’arène (-1 jeton de faveur de la foule)              |
 
-### 📖 Exemple narratif
+### Exemple narratif
 
 > *Elowen, la barde, s’élève sur la balustrade, luth en main. Elle entonne une ballade sur les exploits du chevalier Ser Alaric. Jet de Présence + Art : succès majeur ! Elle gagne 2 points de Hope et 2 jetons de faveur de la foule.*  
 > *Lors de la deuxième passe, elle dépense 1 point de hope pour soutenir Ser Alaric, lui offrant un avantage sur son jet de Force. Il renverse son adversaire dans un fracas glorieux.*
@@ -586,6 +586,8 @@ Lorsqu’une attaque réussit, la **pointe de la lance se brise**, et sa fragmen
 | Dégât mineur        | 1 point        | Touché léger, éclat minime           |
 | Aucun dégât         | 0 point        | Attaque manquée, aucun point gagné   |
 
+Si un chevalier **désarçonne** son adversaire, il gagne également **1 point supplémentaire**. 
+
 #### Désarçonnement
 
 **Conditions de déclenchement**
@@ -598,58 +600,38 @@ Un chevalier peut être désarçonné dans les situations suivantes :
 
 **Jet de sauvegarde**
 
-Lorsque le désarçonnement est déclenché, le chevalier effectue un jet de **Force** ou de **Dextérité** (au choix), avec une difficulté standard de **DC 12**.
+Lorsque le désarçonnement est déclenché, le chevalier effectue un jet de **Force**, **Dextérité** ou **Agileté** (au choix), avec une difficulté standard de **DC 12**.
 
-- **Jet réussi** : le chevalier reste en selle. L’adversaire gagne 1 jeton de faveur de la foule.
-- **Jet raté** : le chevalier est désarçonné. L’adversaire gagne 2 jetons de faveur de la foule.
-- **Échec critique** : le chevalier est désarçonné. L’adversaire gagne 4 jetons de faveur de la foule, en raison de la puissance spectaculaire de l’impact.
+- **Jet réussi** : le chevalier reste en selle. 
+- **Jet raté** : le chevalier est désarçonné. L’adversaire gagne 1 jeton de faveur de la foule.
+- **Échec critique** : le chevalier est désarçonné. L’adversaire gagne 2 jetons de faveur de la foule, en raison de la puissance spectaculaire de l’impact.
 
 
 **Utilisation d'espoire, de peur ou de jeton de faveur de la foule pendant le duel**
 
 Les points de Hope peuvent être dépensés normalement, il existe cependant de nouvelle **Hope Feature** que vous pouvez activer :
 
-| Action du chevalier                 | Effet  narratif et mécanique|
-|-------------------------------------|-----------------------------|
-| Cri héroïque                        | Spend 1 Hope Impressionne la foule de + 1 jeton de faveur de la foule |
-| Coup Puissant                       | Spend x Hope augemente le DC de desarsonnement de + x  |
-| Charge légendaire                   | Spend 4 Hope provoque un desarsonnement |
-| Dernier Rampart                     | Spend x Hope réduit le DC de desarsonnement de + x  |
-| Feint                               | Spend 5 Hope change de posture |
+| Action du chevalier     | Effet narratif et mécanique                                      |
+|-------------------------|------------------------------------------------------------------|
+| Cri héroïque            | Dépense 1 point de Hope pour impressionner la foule (+1 jeton de faveur de la foule)  |
+| Coup puissant           | Dépense X points de Hope pour augmenter la difficulté du jet de désarçonnement de X |
+| Charge légendaire       | Dépense 4 points de Hope pour tenter de désarçonner l’adversaire |
+| Dernier rempart         | Dépense X points de Hope pour réduire la difficulté du jet de désarçonnement de X |
+| Feinte                  | Dépense 5 points de Hope pour changer de posture de combat       |
 
 ###  Exemple narratif
 
-> *Ser Alaric, acculé, serre son médaillon de Solen. Il dépense 2 points de Hope pour activer "Dernier rempart". Jet de Force réussi : il reste stoic, le regard brûlant de détermination. La foule rugit. Son adversaire hésite.*
+> *Ser Alaric, acculé, serre son médaillon de Solen. Il dépense 2 points de Hope pour activer "Dernier rempart". Il baisse de RC de 12 à 10. Il roule 11 avec Hope. Jet de Force réussi : il reste stoic, le regard brûlant de détermination. La foule rugit. Son adversaire hésite.*
 
+| Action de groupe           | Effet narratif et mécanique                                                                 |
+|---------------------------|----------------------------------------------------------------------------------------------|
+| Écho du passé              | Dépense X points de Hope pour évoquer un souvenir négatif de l’adversaire. La foule retire X jetons de sa faveur. |
+| Récit inspirant            | Dépense X points de Hope pour motiver l’équipe. La foule accorde + X jetons de faveur.       |
+| Lecture de posture         | Dépense 5 points de Hope pour analyser la posture de l’adversaire. Permet de contrer une feinte. |
+| Préparation optimale       | Dépense X points de Hope pour ajuster l’équipement avec précision. Réduit la difficulté (DC) du premier test de désarçonnement de X. |
+| Anticipation brillante     | Dépense 5 points de Hope pour anticiper une manœuvre ennemie. Permet de connaître la prochaine posture de l’adversaire. |
+| Serment de victoire        | Dépense 2 points de Hope. Si le duel est remporté, gagne +2 jetons de faveur de la foule utilisables lors de la prochaine joute (non comptabilisés dans celle en cours). |
 
-| Action pour le groupe               | Effet  narratif et mécanique|
-|-------------------------------------|-----------------------------|
-| Écho du passé                       | Spend x Hope Rappelle un souvenir négatif de l'adversaire, influençant la foule de -x pour l'adversaire |
-| Récit inspirant                     | Spend x Hope Donne un bonus de + x jeton de faveur de la foule |
-| Main experte                        | Spend x Hope Répare une pièce d’équipement endommagée entre deux joutes. *Effet : restaure x point d’armure*
-| Lecture de posture                  | Spend 5 Hope Analyse l’adversaire pendant son échauffement. *Effet : Empêche une feint*|
-| Préparation optimale                | Spend x Hope Prépare le cheval avec précision selon le type d’épreuve. *Effet : Reduit le DC de x pour un test de desarssonnement*
-| Anticipation brillante              | Spend 5 Hope Prédit une manœuvre ennemie et propose un contre-plan. *Effet : Permet de voir la prochaine posture de l'adversaire.*
-| Serment de victoire                 | Spend 2 Hope Bonus de + 4 jeton faveur de la foule si le duel est remporté qui seront utiliser pour la prochaine joute et ne font pas partit de celle en cours. |
----
-
-
-
-
-
-  ---- À voir si c'est conservé ---
-###  Effets Spectaculaires – Points de Faveur de la Foule
-
-Certains effets spectaculaires ou dramatiques peuvent rapporter des points de faveur de la foule, utilisés pour influencer le déroulement du tournoi ou obtenir des avantages narratifs.
-
-| Effet narratif | Points de faveur |
-|----------------|------------------|
-| Désarçonnement spectaculaire | +3 |
-| Provocation théâtrale avant le duel | +2 |
-| Victoire rapide en 1 round | +3 |
-| Victoire rapide en 2 round | +2 |
-| Victoire en 3 round | +1 |
-| Victoire contre un adversaire avec plus de faveur de la foule | +1 |
 
 
 À la fin du tournoi, chaque chevalier additionne ses points de faveur. Selon le total obtenu, il peut recevoir une récompense ou un bonus mécanique :
@@ -658,16 +640,47 @@ Certains effets spectaculaires ou dramatiques peuvent rapporter des points de fa
 8+ points : Reçoit un objet narratif (ex. : insigne de bravoure, bénédiction du public).
 10+ points : Obtient un bonus temporaire à une compétence lors de la prochaine joute (+1).
 
-### Ressources pour un écurie
+### Ressources tier 1 pour un écurie
 | Ressource                           | Bonus        | Effet narratif et mécanique |
 |-------------------------------------|--------------|-----------------------------|
 | Destrier rapide | +1 Evasion pour le chevalier | Choisir un cheval adapté  et le préparer avec des entraînements spécifiques.|
-| Destrier puissant | +1 armure | Choisir un cheval adapté  et le préparer avec des entraînements spécifiques.|
+| Destrier puissant | +1 de dégat | Choisir un cheval adapté  et le préparer avec des entraînements spécifiques.|
 | Destrier exotique | +1 présence | Choisir un cheval adapté  et le préparer avec des entraînements spécifiques.|
 | Barde de plaques | +1 armure | Composée de métal, très lourde, utilisée par les chevaliers.|
 | Barde de mailles | +1 évasion | Plus souple, offre une bonne protection sans trop gêner le mouvement.|
 | Caparaçon décoratif | +1 présence | Investir dans des améliorations (résistance, légèreté, esthétique) pour mieux résister aux impacts.|
-| Bonne réputation | présence | la foule connait déjà la réputation + 2 faveur de la foule|
+| Bonne réputation | + 2 jetons de faveur de la foule| la foule connait déjà la réputation|
+| Réputation terrifiante | + stress pour l'adversaire| Le chevalier adverse connait la réputation terrifiante du chevalier.|
+
+
+#### Armes tier 1
+| Nom de la lance         | Trait associé  | Dégâts         | Portée       | Maniement   | Effets spéciaux                                                                 |
+|-------------------------|----------------|----------------|--------------|-------------|----------------------------------------------------------------------------------|
+| Lance de chevalier      | Force          | d8 + 2         | Très proche  | Une main    |                      |
+| Lance de chevalier de guerre         | Force          | d8 + 2         | Très proche  | Une main    | Augmente le DC de désarçonnement de +1 si l’attaque touche                      |
+| Lance de chevalier d’évasion         | Agilité        | d6 + 2         | Très proche  | Une main    | Ignore un désavantage sur un jet d’attaque une fois par joute |
+| Lance de chevalier de précision      | Dextérité      | d6 + 3         | Très proche  | Une main    | +1 jeton de faveur sur un succès majeur       |
+
+#### Armes tier 2
+| Nom de la lance           | Trait associé  | Dégâts         | Portée       | Maniement   | Effets spéciaux                                                                 |
+|---------------------------|----------------|----------------|--------------|-------------|----------------------------------------------------------------------------------|
+| Lance de guerre renforcée | Force          | d10 + 2        | Très proche  | Une main    | Augmente le DC de désarçonnement de +2 si l’attaque touche|
+| Lance d’évasion affûtée   | Agilité        | d8 + 2         | Très proche  | Une main    | Ignore un désavantage 2x par joute ; permet une feinte gratuite  |
+| Lance de précision noble  | Dextérité      | d8 + 3         | Très proche  | Une main    | +1 jeton de faveur sur chaque succès ; relance possible 1x par joute |
+
+#### Armes tier 3
+| Nom de la lance             | Trait       | Dégâts         | Portée       | Maniement  | Effets spéciaux                                                                 |
+|-----------------------------|-------------|----------------|--------------|------------|----------------------------------------------------------------------------------|
+| Lance du Titan              | Force       | d12 + 2        | Très proche  | Une main    | Augmente le DC de désarçonnement de +3 ; ignore les bonus d’armure légère       |
+| Lance du Vent Furtif        | Agilité     | d10 + 3        | Très proche  | Une main    | Permet une feinte gratuite chaque round ; ignore les malus de posture perdante  |
+| Lance de l’Aigle            | Dextérité   | d10 + 2        | Très proche  | Une main    | Critique sur 18–20 ; +1 jeton de faveur sur chaque succès ; relance 2x par joute |
+
+#### Arme enchanté Tier 2
+| Nom enchanté                | Base        | Effet magique                                                                 |
+|-----------------------------|-------------|-------------------------------------------------------------------------------|
+| Lance des Murmures          | Précision   | Permet de lire la posture adverse 1x par joute ; +1 jeton de faveur sur succès |
+| Lance de Brume              | Évasion     | Le chevalier peut annuler un désavantage 1x par joute ; +2 à l’initiative     |
+| Lance du Rugissement        | Guerre      | Sur un succès majeur, inflige peur à l’adversaire ; +1 au DC de désarçonnement |
 
 ---
 
