@@ -384,7 +384,7 @@ Les joutes sont parfois interrompues par des manifestations druidiques ou des ap
 - Stratèges : Ajoutez des stratèges pour planifier les tactiques et maximiser les chances de victoire.
 
 **Étape 3 : Déterminer les ressources**
-- Équipement : Vous pouvez choisir un équipement du duché que vous êtes affilié. Si vous n'est pas affilié a aucun, vous commencer chaque partie avec 1 hope supplémentaire
+- Équipement : Vous pouvez choisir un équipement du duché que vous êtes affilié. Si vous n'est pas affilié a aucun, vous commencer chaque partie avec 1 jeton de faveur de la foule supplémentaire à chaque joute. 
 
 **Étape 4 : Fixer les objectifs**
 - Politique : Votre écurie cherche-t-elle à influencer les décisions du royaume ?
@@ -405,58 +405,76 @@ Les joutes sont parfois interrompues par des manifestations druidiques ou des ap
 
 ### Les joutes
 
-L'objectif de la joute est de faire des points pour monter au classement. La finale est entre les deux chevaliers qui ont le plus de point pour déterminer qui sera le champion avec son écurie.
-Pour ce faire, il existe quelques mécaniques pour faire fonctionner les joutes. 
-- Un des objectif est de cumuler des jetons de foule. Ces jetons peuvent être utiliser par la suite comme un pool de point de Hope de l'écurie qui peut être utiliser par n'importe qui de l'équipe lors de la joute. 
-Il n'y a pas de maximum mais les jetons non utilisés sont perdue à la fin de la joute. 
-- La deuxième mécanique est celle de la joute qui fonctionne un peu comme roche papier ciseau. 
-- La dernière mécanique est celle du calcul des points de la joute. 
+#### Objectif de la joute
 
-### Jetons de foules
+Le but principal des joutes est d’accumuler des points afin de progresser dans le classement.  
+La finale oppose les deux chevaliers ayant obtenu le plus de points, et permet de désigner le champion ainsi que son écurie.
+
+#### Mécaniques de jeu
+
+Pour faire fonctionner les joutes, plusieurs mécaniques sont mises en place :
+
+**Jetons de faveur de la foule**
+
+- L’un des objectifs est de collecter des jetons de faveur de la foule.
+- Ces jetons constituent une réserve de points de *Hope* pour l’écurie.
+- Ils peuvent être utilisés par n’importe quel membre de l’équipe pendant une joute.
+- Il n’existe pas de limite au nombre de jetons pouvant être accumulés.
+- Les jetons non utilisés à la fin d’une joute sont perdus.
+
+**Système de joute**
+
+- Les affrontements entre chevaliers reposent sur une mécanique similaire à *Pierre-Papier-Ciseaux*.
+- Cette approche introduit une dimension stratégique dans les duels.
+
+**Calcul des points**
+
+- Une dernière mécanique concerne le calcul des points
+
+### Jetons de faveur de la foule
+
+Les points de faveur de la foule peuvent être obtenus de deux façons :
+- Lors du **spectacle d’ouverture**
+- Pendant la **joute**
+
+Les jetons gagnés peuvent être placés sur une carte pour suivre le total accumulé. Ils représentent l’enthousiasme du public et peuvent influencer le déroulement des joutes.
 
 #### Spectacle d’ouverture
 
-**Objectif**
+Avant le début des joutes, chaque personnage peut créer une scène d’introduction pour impressionner la foule. Cette scène permet de :
+- Se présenter avec panache
+- Interagir avec le public
+- Mettre en valeur sa personnalité
 
-Créer une scène d’introduction où les personnages peuvent :
-- Se présenter avec style
-- Interagir avec la foule
-- Montrer leur personnalité ou leur foi
-- Gagner des points de *Hope* utilisables pendant le duel
+#### Étape 1 : Déclaration du spectacle
 
+Chaque héraut (ou allié) décrit une action spectaculaire, telle que :
+- Un discours enflammé
+- Un chant inspirant
+- Une charge à cheval
+- Une démonstration de force
+- Un geste théâtral (ex. : jeter une rose à la foule)
 
-**Étape 1 : Déclaration du spectacle**
+#### Étape 2 : Jet de compétence
 
-Chaque héraut (ou allié) décrit une action spectaculaire :
-- Discours flamboyant
-- Chant inspirant
-- Charge à cheval
-- Invocation divine
-- Prouesse physique
-- Jet de rose à la foule…
+Le joueur effectue un **jet de Présence**, **Agilité**, **Force**, ou autres.  
+Chaque spectacle peut inclure jusqu’à **trois jets**, sauf indication contraire.  
 
-**Étape 2 : Jet de compétence**
+| Résultat du jet   | Points de Hope | Effet narratif                                      |
+|-------------------|----------------|-----------------------------------------------------|
+| Succès            | +1             | Action réussie, la foule applaudit (+1 jeton de faveur de la foule)       |
+| Succès majeur     | +2             | Ovation générale, moment marquant (+2 jetons de faveur de la foule)       |
+| Échec             | 0              | Foule indifférente, tension palpable                |
+| Échec critique    | 0              | Huées, malaise dans l’arène (-1 jeton de faveur de la foule)              |
 
-Le joueur fait un **jet de Présence**, *Agileté*, *Force*, ou autre jet appropriée. Il peut y avoir jusqu'à 3 jets pendant un spectacle à moins d'avis contraire. Les jet avec fear font perdre une possibilité de jet. 
+### 📖 Exemple narratif
 
-| Résultat du jet | Gain de Hope | Effet narratif |
-|-----------------|--------------|----------------|
-| Succès          | 1 point      | Action réussie, la foule est ravie et gagne + 1 jeton de faveur de la foule |
-| Succès majeur   | 2 points     | Ovation, effet mémorable + 2 jeton de faveur de la foule|
-| Échec           | 0 point      | cheval nerveux, foule muette, etc.  |
-| Échec critique  | 0 point      | Foule qui hue, enfants qui pleurent, etc. - 1 jeton de faveur de la foule |
-
-**Exemple narratif**
-
->  *Le barde Elowen se tient sur la balustrade, luth en main. Elle entonne une ballade ancienne sur les exploits du chevalier Ser Alaric. Jet de Présence + Art : succès majeur ! Elle gagne 2 points d'espoire pour elle et 2 jeton pour es jetons de foule.*  
->  *Lors de la deuxième passe, elle dépense 1 point pour aider Ser Alaric, lui donnant avantage sur son jet de Force. Il renverse son adversaire dans un fracas glorieux.*
-
----
-
+> *Elowen, la barde, s’élève sur la balustrade, luth en main. Elle entonne une ballade sur les exploits du chevalier Ser Alaric. Jet de Présence + Art : succès majeur ! Elle gagne 2 points de Hope et 2 jetons de faveur de la foule.*  
+> *Lors de la deuxième passe, elle dépense 1 point de hope pour soutenir Ser Alaric, lui offrant un avantage sur son jet de Force. Il renverse son adversaire dans un fracas glorieux.*
 
 #### Table aléatiore pour les joueurs ou les opposants
 
-Lors du spectacle d’ouverture, les joueurs ou les opposants peuvent tirer ou choisir une action ci-dessous pour impressionner la foule et tenter de gagner de l'espoire.
+Lors du spectacle d’ouverture, les joueurs ou les opposants peuvent tirer ou choisir une action ci-dessous pour impressionner la foule et tenter de gagner des jetons de faveur de la foule.
 
 | d20 | Action spectaculaire | Type de jet |
 |-----|----------------------|---------------|
@@ -485,91 +503,109 @@ Lors du spectacle d’ouverture, les joueurs ou les opposants peuvent tirer ou c
 
 ---
 
-###  Règles de Joute : Système Triadique (inspiré de pierre-papier-ciseaux)
+### La joute
 
-**Principe de base**
+Chaque chevalier sélectionne **secrètement une posture de combat** pour chacun des **trois rounds** de la joute.  
+Ces postures forment un système d’interactions stratégiques, où chaque option a un avantage sur une autre.
 
-**Système de joute – Choix de posture**
+#### Les trois postures
 
-Chaque chevalier choisit **secrètement une posture de combat** parmi trois options pour les **trois rounds** de la joute.  
-L’objectif est de **remporter deux rounds sur trois**.
+- **Charge précise 💥**  
+  Attaque méthodique déclenchée au dernier moment.  
+  - Bat : *Charge agile*  
+  - Perd contre : *Charge rapide*
 
-Chaque posture possède un avantage sur une autre, formant un **triangle stratégique** d’interactions :
-- Charge précise 💥 : Une attaque calculée qui attend le dernier moment pour attaquer, contournant la Charge agile. Cependant, elle est vulnérable à la Charge rapide, qui attaque en premier.
-- Charge agile 🛡️ : Une défense habile qui dévie les assauts rapides, empêchant la lance de se briser. Mais elle échoue face à une Charge précise, trop subtile pour être anticipée.
-- Charge rapide ⚡ : Une offensive fulgurante qui attaque avant l’adversaire, brisant sa lance et empêchant une Charge précise. Toutefois, elle est facilement détournée par une défense habile.
+- **Charge agile 🛡️**  
+  Défense souple et réactive, capable de détourner les assauts rapides.  
+  - Bat : *Charge rapide*  
+  - Perd contre : *Charge précise*
+
+- **Charge rapide ⚡**  
+  Offensive immédiate visant à surprendre l’adversaire.  
+  - Bat : *Charge précise*  
+  - Perd contre : *Charge agile*
+
+Ce système repose sur un **triangle d’avantages**, similaire à *Pierre-Papier-Ciseaux*, encourageant la lecture du jeu adverse et la prise de risque tactique.
+
 
 **Tableau récapitulatif**
 
-| **Posture**         | **Avantage sur**       | **Faible contre**       |
+| **Posture**         | **Gagne contre**       | **Perd contre**       |
 |---------------------|------------------------|--------------------------|
 | 💥 Charge précise   | 🛡️ Charge agile        | ⚡ Charge rapide         |
 | 🛡️ Charge agile     | ⚡ Charge rapide       | 💥 Charge précise         |
 | ⚡ Charge rapide    | 💥 Charge précise       | 🛡️ Charge agile           |
 
----
 **Cartes de Posture**
 
 Pour représenter les postures de combat, chaque joueur peut utiliser des cartes illustrées. 
 
 **Carte : Charge Précise 💥**
-
 - **Nom** : Charge Précise 
 - **Couleur dominante** : Rouge
 - **Effet** : Bat la Charge Agile 🛡️, perd contre la Charge Rapide ⚡
 - **Texte d’ambiance** : « La patience est une arme. »
 
 **Carte : Charge Agile 🛡️**
-
 - **Nom** : Charge Agile 
 - **Couleur dominante** : Bleu
 - **Effet** : Bat la Charge Rapide ⚡, perd contre la Charge Précise 💥
-- **Texte d’ambiance** : « L’élégance défie la vitesse. »
+- **Texte d’ambiance** : « La prudence ouvre des opportunités. »
 
 **Carte : Charge Rapide ⚡**
-
 - **Nom** : Charge Rapide 
 - **Couleur dominante** : Jaune
 - **Effet** : Bat la Charge Précise 💥, perd contre la Charge Agile 🛡️
 - **Texte d’ambiance** : « Charger avant de penser. »
 
----
+###  Résolution du duel
 
-### Résolution du duel
+La joute se déroule en **trois rounds**, chacun suivant les étapes suivantes :
 
-1. **Choix secret** : Chaque chevalier choisit un posture en secret par round pour les 3 rounds.
-2. **Révélation simultanée** : Les postures sont révélées en même temps.
-3. **Comparaison** :
-   * Si l'un a gagné par sa posture, l'adversaire à un désavantage sur son jet d'attaque.
-   * Si les postures sont identiques, les deux roulent un jet d'attaque normal.
+1. **Choix secret**  
+   Chaque chevalier sélectionne secrètement une posture de combat pour le round en cours.
 
-#### Marquer des points
-Cela suit le même principe que pour les points de vie mais cette fois c'est sur votre adversaire. Il est important de noter que malgré que cela utilise le même principe c'est calculer appart et avant toutes les cartes de domaines ou point d'armure, compétences. Lorsque votre attaque touche, vous cassé la pointe de votre lance. Le bout de la lance est séparé en trois et plus la pointe est cassé plus vous gagner de point. Si l'adversaire subit des : 
-- Servere damage c'est que vous obtener 3 points. 
-- Major Damage c'est que vous obtener 2 point. 
-- Minor damage c'est que vous obtener 1 point. 
-- Si vous raté la cible, vous n'obtener rien. 
+2. **Révélation simultanée**  
+   Les deux postures sont révélées en même temps.
+
+3. **Comparaison des postures**  
+   - Si l’une des postures l’emporte sur l’autre, le chevalier adverse subit un **désavantage** sur son jet d’attaque.  
+   - Si les postures sont identiques, les deux chevaliers effectuent un **jet d’attaque normal**.
+
+### Marquer des points
+
+Les points sont attribués en fonction des dégâts infligés à l’adversaire, selon un système distinct des points de vie.  
+Ce calcul est effectué **avant** l’application des cartes de domaine, de l’armure ou des compétences.
+
+Lorsqu’une attaque réussit, la **pointe de la lance se brise**, et sa fragmentation détermine le nombre de points obtenus :
+
+| Type de dégât       | Points gagnés | Description                          |
+|---------------------|----------------|--------------------------------------|
+| Dégât sévère        | 3 points       | Impact puissant, lance brisée en trois |
+| Dégât majeur        | 2 points       | Frappe solide, lance partiellement brisée |
+| Dégât mineur        | 1 point        | Touché léger, éclat minime           |
+| Aucun dégât         | 0 point        | Attaque manquée, aucun point gagné   |
 
 #### Désarçonnement
 
-**Déclenchement**
+**Conditions de déclenchement**
 
-Le désarçonnement peut survenir dans les cas suivants :
+Un chevalier peut être désarçonné dans les situations suivantes :
+- Il subit un **dégât sévère**.
+- Il obtient un **échec critique** lors d’un jet.
+- Son adversaire utilise l’action **Charge légendaire**.
+- Il subit une **conséquence majeure** (ex. : perte totale de points de vie ou de stress).
 
-- Le chevalier **prend du Severe damage**).
-- Le chevalier **rate un jet** avec un échec critique.
-- Le chevalier adverse utilise l'action **Charge légendaire**.
-- Le chevalier **subit une conséquence majeure** (ex. : perte de tout ses points de vie ou stress).
+**Jet de sauvegarde**
 
-Lorsqu’un désarçonnement est déclenché :
+Lorsque le désarçonnement est déclenché, le chevalier effectue un jet de **Force** ou de **Dextérité** (au choix), avec une difficulté standard de **DC 12**.
 
-**Jet de sauvegarde** : Le chevalier fait un jet de **Force** ou **Dextérité** (au choix).
-   - Difficulté standard : **DC 12**
-   - Si le jet est réussi : le chevalier reste en selle et l'adversaire gagne 1 jetons de foule.
-   - Si le jet est raté : le chevalier est désarçonné et l'adversaire gagne 2 jetons de foule.
-   - Sur un échec critique : Le chevalier est désarçonné et l'adversaire gagne 4 jetons de foule vu l'impressionnante force de frappe.
+- **Jet réussi** : le chevalier reste en selle. L’adversaire gagne 1 jeton de faveur de la foule.
+- **Jet raté** : le chevalier est désarçonné. L’adversaire gagne 2 jetons de faveur de la foule.
+- **Échec critique** : le chevalier est désarçonné. L’adversaire gagne 4 jetons de faveur de la foule, en raison de la puissance spectaculaire de l’impact.
 
-**Utilisation du Hope ou fear pendant le duel**
+
+**Utilisation d'espoire, de peur ou de jeton de faveur de la foule pendant le duel**
 
 Les points de Hope peuvent être dépensés normalement, il existe cependant de nouvelle **Hope Feature** que vous pouvez activer :
 
