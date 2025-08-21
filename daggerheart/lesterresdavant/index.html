@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="turbo-root" content="/Terresperdues">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.11.0.809107359322">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.11.0.809119969064">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.11.0">
@@ -31,11 +31,11 @@
 
     <script data-cfasync="false">(function(){var cl=document.documentElement.classList,ls=localStorage.getItem("retype_scheme"),hd=cl.contains("dark"),hl=cl.contains("light"),wm=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches;if(ls==="dark"||(!ls&&wm&&!hd&&!hl)){cl.remove("light");cl.add("dark")}else if(ls==="light"||(!ls&&!wm&&!hd&&!hl)){cl.remove("dark");cl.add("light")}})();</script>
 
-    <link href="../../resources/css/retype.css?v=3.11.0.809107359322" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.11.0.809119969064" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.11.0.809107359322" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.11.0.809119969064" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.11.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.11.0.809107359322" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.11.0.809119969064" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="retype-app" class="relative text-base antialiased text-base-text bg-base-bg font-body">
@@ -826,10 +826,10 @@ Chaque spectacle peut inclure jusqu’à <strong>trois jets</strong>, sauf indic
 </tbody>
 </table>
 </div>
-<doc-anchor-target id="-exemple-narratif">
+<doc-anchor-target id="exemple-narratif">
     <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#-exemple-narratif">#</doc-anchor-trigger>
-        <span><span class="docs-emoji">&#x1F4D6;</span> Exemple narratif</span>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#exemple-narratif">#</doc-anchor-trigger>
+        <span>Exemple narratif</span>
     </h3>
 </doc-anchor-target>
 <blockquote>
@@ -1111,6 +1111,7 @@ Ce calcul est effectué <strong>avant</strong> l’application des cartes de dom
 </tbody>
 </table>
 </div>
+<p>Si un chevalier <strong>désarçonne</strong> son adversaire, il gagne également <strong>1 point supplémentaire</strong>.</p>
 <doc-anchor-target id="désarçonnement">
     <h4>
         <doc-anchor-trigger class="header-anchor-trigger" to="#désarçonnement">#</doc-anchor-trigger>
@@ -1126,11 +1127,11 @@ Ce calcul est effectué <strong>avant</strong> l’application des cartes de dom
 <li>Il subit une <strong>conséquence majeure</strong> (ex. : perte totale de points de vie ou de stress).</li>
 </ul>
 <p><strong>Jet de sauvegarde</strong></p>
-<p>Lorsque le désarçonnement est déclenché, le chevalier effectue un jet de <strong>Force</strong> ou de <strong>Dextérité</strong> (au choix), avec une difficulté standard de <strong>DC 12</strong>.</p>
+<p>Lorsque le désarçonnement est déclenché, le chevalier effectue un jet de <strong>Force</strong>, <strong>Dextérité</strong> ou <strong>Agileté</strong> (au choix), avec une difficulté standard de <strong>DC 12</strong>.</p>
 <ul>
-<li><strong>Jet réussi</strong> : le chevalier reste en selle. L’adversaire gagne 1 jeton de faveur de la foule.</li>
-<li><strong>Jet raté</strong> : le chevalier est désarçonné. L’adversaire gagne 2 jetons de faveur de la foule.</li>
-<li><strong>Échec critique</strong> : le chevalier est désarçonné. L’adversaire gagne 4 jetons de faveur de la foule, en raison de la puissance spectaculaire de l’impact.</li>
+<li><strong>Jet réussi</strong> : le chevalier reste en selle.</li>
+<li><strong>Jet raté</strong> : le chevalier est désarçonné. L’adversaire gagne 1 jeton de faveur de la foule.</li>
+<li><strong>Échec critique</strong> : le chevalier est désarçonné. L’adversaire gagne 2 jetons de faveur de la foule, en raison de la puissance spectaculaire de l’impact.</li>
 </ul>
 <p><strong>Utilisation d&#x27;espoire, de peur ou de jeton de faveur de la foule pendant le duel</strong></p>
 <p>Les points de Hope peuvent être dépensés normalement, il existe cependant de nouvelle <strong>Hope Feature</strong> que vous pouvez activer :</p>
@@ -1139,96 +1140,74 @@ Ce calcul est effectué <strong>avant</strong> l’application des cartes de dom
 <thead>
 <tr>
 <th>Action du chevalier</th>
-<th>Effet  narratif et mécanique</th>
+<th>Effet narratif et mécanique</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>Cri héroïque</td>
-<td>Spend 1 Hope Impressionne la foule de + 1 jeton de faveur de la foule</td>
+<td>Dépense 1 point de Hope pour impressionner la foule (+1 jeton de faveur de la foule)</td>
 </tr>
 <tr>
-<td>Coup Puissant</td>
-<td>Spend x Hope augemente le DC de desarsonnement de + x</td>
+<td>Coup puissant</td>
+<td>Dépense X points de Hope pour augmenter la difficulté du jet de désarçonnement de X</td>
 </tr>
 <tr>
 <td>Charge légendaire</td>
-<td>Spend 4 Hope provoque un desarsonnement</td>
+<td>Dépense 4 points de Hope pour tenter de désarçonner l’adversaire</td>
 </tr>
 <tr>
-<td>Dernier Rampart</td>
-<td>Spend x Hope réduit le DC de desarsonnement de + x</td>
+<td>Dernier rempart</td>
+<td>Dépense X points de Hope pour réduire la difficulté du jet de désarçonnement de X</td>
 </tr>
 <tr>
-<td>Feint</td>
-<td>Spend 5 Hope change de posture</td>
+<td>Feinte</td>
+<td>Dépense 5 points de Hope pour changer de posture de combat</td>
 </tr>
 </tbody>
 </table>
 </div>
-<doc-anchor-target id="exemple-narratif">
+<doc-anchor-target id="exemple-narratif-1">
     <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#exemple-narratif">#</doc-anchor-trigger>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#exemple-narratif-1">#</doc-anchor-trigger>
         <span>Exemple narratif</span>
     </h3>
 </doc-anchor-target>
 <blockquote>
-<p><em>Ser Alaric, acculé, serre son médaillon de Solen. Il dépense 2 points de Hope pour activer &quot;Dernier rempart&quot;. Jet de Force réussi : il reste stoic, le regard brûlant de détermination. La foule rugit. Son adversaire hésite.</em></p>
+<p><em>Ser Alaric, acculé, serre son médaillon de Solen. Il dépense 2 points de Hope pour activer &quot;Dernier rempart&quot;. Il baisse de RC de 12 à 10. Il roule 11 avec Hope. Jet de Force réussi : il reste stoic, le regard brûlant de détermination. La foule rugit. Son adversaire hésite.</em></p>
 </blockquote>
-<doc-anchor-target id="-action-pour-le-groupe----------------effet--narratif-et-mécanique-------------------------------------------------------------------écho-du-passé------------------------spend-x-hope-rappelle-un-souvenir-négatif-de-ladversaire-influençant-la-foule-de--x-pour-ladversaire--récit-inspirant----------------------spend-x-hope-donne-un-bonus-de--x-jeton-de-faveur-de-la-foule--main-experte-------------------------spend-x-hope-répare-une-pièce-déquipement-endommagée-entre-deux-joutes-effet--restaure-x-point-darmure-lecture-de-posture-------------------spend-5-hope-analyse-ladversaire-pendant-son-échauffement-effet--empêche-une-feint-préparation-optimale-----------------spend-x-hope-prépare-le-cheval-avec-précision-selon-le-type-dépreuve-effet--reduit-le-dc-de-x-pour-un-test-de-desarssonnement-anticipation-brillante---------------spend-5-hope-prédit-une-manœuvre-ennemie-et-propose-un-contre-plan-effet--permet-de-voir-la-prochaine-posture-de-ladversaire-serment-de-victoire------------------spend-2-hope-bonus-de--4-jeton-faveur-de-la-foule-si-le-duel-est-remporté-qui-seront-utiliser-pour-la-prochaine-joute-et-ne-font-pas-partit-de-celle-en-cours-">
-    <h2>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#-action-pour-le-groupe----------------effet--narratif-et-mécanique-------------------------------------------------------------------écho-du-passé------------------------spend-x-hope-rappelle-un-souvenir-négatif-de-ladversaire-influençant-la-foule-de--x-pour-ladversaire--récit-inspirant----------------------spend-x-hope-donne-un-bonus-de--x-jeton-de-faveur-de-la-foule--main-experte-------------------------spend-x-hope-répare-une-pièce-déquipement-endommagée-entre-deux-joutes-effet--restaure-x-point-darmure-lecture-de-posture-------------------spend-5-hope-analyse-ladversaire-pendant-son-échauffement-effet--empêche-une-feint-préparation-optimale-----------------spend-x-hope-prépare-le-cheval-avec-précision-selon-le-type-dépreuve-effet--reduit-le-dc-de-x-pour-un-test-de-desarssonnement-anticipation-brillante---------------spend-5-hope-prédit-une-manœuvre-ennemie-et-propose-un-contre-plan-effet--permet-de-voir-la-prochaine-posture-de-ladversaire-serment-de-victoire------------------spend-2-hope-bonus-de--4-jeton-faveur-de-la-foule-si-le-duel-est-remporté-qui-seront-utiliser-pour-la-prochaine-joute-et-ne-font-pas-partit-de-celle-en-cours-">#</doc-anchor-trigger>
-        <span>| Action pour le groupe               | Effet  narratif et mécanique|
-|-------------------------------------|-----------------------------|
-| Écho du passé                       | Spend x Hope Rappelle un souvenir négatif de l&#x27;adversaire, influençant la foule de -x pour l&#x27;adversaire |
-| Récit inspirant                     | Spend x Hope Donne un bonus de + x jeton de faveur de la foule |
-| Main experte                        | Spend x Hope Répare une pièce d’équipement endommagée entre deux joutes. <em>Effet : restaure x point d’armure</em>
-| Lecture de posture                  | Spend 5 Hope Analyse l’adversaire pendant son échauffement. <em>Effet : Empêche une feint</em>|
-| Préparation optimale                | Spend x Hope Prépare le cheval avec précision selon le type d’épreuve. <em>Effet : Reduit le DC de x pour un test de desarssonnement</em>
-| Anticipation brillante              | Spend 5 Hope Prédit une manœuvre ennemie et propose un contre-plan. <em>Effet : Permet de voir la prochaine posture de l&#x27;adversaire.</em>
-| Serment de victoire                 | Spend 2 Hope Bonus de + 4 jeton faveur de la foule si le duel est remporté qui seront utiliser pour la prochaine joute et ne font pas partit de celle en cours. |</span>
-    </h2>
-</doc-anchor-target>
-<p>---- À voir si c&#x27;est conservé ---</p>
-<doc-anchor-target id="effets-spectaculaires--points-de-faveur-de-la-foule">
-    <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#effets-spectaculaires--points-de-faveur-de-la-foule">#</doc-anchor-trigger>
-        <span>Effets Spectaculaires – Points de Faveur de la Foule</span>
-    </h3>
-</doc-anchor-target>
-<p>Certains effets spectaculaires ou dramatiques peuvent rapporter des points de faveur de la foule, utilisés pour influencer le déroulement du tournoi ou obtenir des avantages narratifs.</p>
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
 <thead>
 <tr>
-<th>Effet narratif</th>
-<th>Points de faveur</th>
+<th>Action de groupe</th>
+<th>Effet narratif et mécanique</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Désarçonnement spectaculaire</td>
-<td>+3</td>
+<td>Écho du passé</td>
+<td>Dépense X points de Hope pour évoquer un souvenir négatif de l’adversaire. La foule retire X jetons de sa faveur.</td>
 </tr>
 <tr>
-<td>Provocation théâtrale avant le duel</td>
-<td>+2</td>
+<td>Récit inspirant</td>
+<td>Dépense X points de Hope pour motiver l’équipe. La foule accorde + X jetons de faveur.</td>
 </tr>
 <tr>
-<td>Victoire rapide en 1 round</td>
-<td>+3</td>
+<td>Lecture de posture</td>
+<td>Dépense 5 points de Hope pour analyser la posture de l’adversaire. Permet de contrer une feinte.</td>
 </tr>
 <tr>
-<td>Victoire rapide en 2 round</td>
-<td>+2</td>
+<td>Préparation optimale</td>
+<td>Dépense X points de Hope pour ajuster l’équipement avec précision. Réduit la difficulté (DC) du premier test de désarçonnement de X.</td>
 </tr>
 <tr>
-<td>Victoire en 3 round</td>
-<td>+1</td>
+<td>Anticipation brillante</td>
+<td>Dépense 5 points de Hope pour anticiper une manœuvre ennemie. Permet de connaître la prochaine posture de l’adversaire.</td>
 </tr>
 <tr>
-<td>Victoire contre un adversaire avec plus de faveur de la foule</td>
-<td>+1</td>
+<td>Serment de victoire</td>
+<td>Dépense 2 points de Hope. Si le duel est remporté, gagne +2 jetons de faveur de la foule utilisables lors de la prochaine joute (non comptabilisés dans celle en cours).</td>
 </tr>
 </tbody>
 </table>
@@ -1237,10 +1216,10 @@ Ce calcul est effectué <strong>avant</strong> l’application des cartes de dom
 <p>5+ points : Gagne un point de Hope supplémentaire.
 8+ points : Reçoit un objet narratif (ex. : insigne de bravoure, bénédiction du public).
 10+ points : Obtient un bonus temporaire à une compétence lors de la prochaine joute (+1).</p>
-<doc-anchor-target id="ressources-pour-un-écurie">
+<doc-anchor-target id="ressources-tier-1-pour-un-écurie">
     <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#ressources-pour-un-écurie">#</doc-anchor-trigger>
-        <span>Ressources pour un écurie</span>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#ressources-tier-1-pour-un-écurie">#</doc-anchor-trigger>
+        <span>Ressources tier 1 pour un écurie</span>
     </h3>
 </doc-anchor-target>
 <div class="table-wrapper scrollbar overflow-hidden">
@@ -1260,7 +1239,7 @@ Ce calcul est effectué <strong>avant</strong> l’application des cartes de dom
 </tr>
 <tr>
 <td>Destrier puissant</td>
-<td>+1 armure</td>
+<td>+1 de dégat</td>
 <td>Choisir un cheval adapté  et le préparer avec des entraînements spécifiques.</td>
 </tr>
 <tr>
@@ -1285,8 +1264,193 @@ Ce calcul est effectué <strong>avant</strong> l’application des cartes de dom
 </tr>
 <tr>
 <td>Bonne réputation</td>
-<td>présence</td>
-<td>la foule connait déjà la réputation + 2 faveur de la foule</td>
+<td>+ 2 jetons de faveur de la foule</td>
+<td>la foule connait déjà la réputation</td>
+</tr>
+<tr>
+<td>Réputation terrifiante</td>
+<td>+ stress pour l&#x27;adversaire</td>
+<td>Le chevalier adverse connait la réputation terrifiante du chevalier.</td>
+</tr>
+</tbody>
+</table>
+</div>
+<doc-anchor-target id="armes-tier-1">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#armes-tier-1">#</doc-anchor-trigger>
+        <span>Armes tier 1</span>
+    </h4>
+</doc-anchor-target>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="comfortable">
+<thead>
+<tr>
+<th>Nom de la lance</th>
+<th>Trait associé</th>
+<th>Dégâts</th>
+<th>Portée</th>
+<th>Maniement</th>
+<th>Effets spéciaux</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Lance de chevalier</td>
+<td>Force</td>
+<td>d8 + 2</td>
+<td>Très proche</td>
+<td>Une main</td>
+<td></td>
+</tr>
+<tr>
+<td>Lance de chevalier de guerre</td>
+<td>Force</td>
+<td>d8 + 2</td>
+<td>Très proche</td>
+<td>Une main</td>
+<td>Augmente le DC de désarçonnement de +1 si l’attaque touche</td>
+</tr>
+<tr>
+<td>Lance de chevalier d’évasion</td>
+<td>Agilité</td>
+<td>d6 + 2</td>
+<td>Très proche</td>
+<td>Une main</td>
+<td>Ignore un désavantage sur un jet d’attaque une fois par joute</td>
+</tr>
+<tr>
+<td>Lance de chevalier de précision</td>
+<td>Dextérité</td>
+<td>d6 + 3</td>
+<td>Très proche</td>
+<td>Une main</td>
+<td>+1 jeton de faveur sur un succès majeur</td>
+</tr>
+</tbody>
+</table>
+</div>
+<doc-anchor-target id="armes-tier-2">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#armes-tier-2">#</doc-anchor-trigger>
+        <span>Armes tier 2</span>
+    </h4>
+</doc-anchor-target>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="comfortable">
+<thead>
+<tr>
+<th>Nom de la lance</th>
+<th>Trait associé</th>
+<th>Dégâts</th>
+<th>Portée</th>
+<th>Maniement</th>
+<th>Effets spéciaux</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Lance de guerre renforcée</td>
+<td>Force</td>
+<td>d10 + 2</td>
+<td>Très proche</td>
+<td>Une main</td>
+<td>Augmente le DC de désarçonnement de +2 si l’attaque touche</td>
+</tr>
+<tr>
+<td>Lance d’évasion affûtée</td>
+<td>Agilité</td>
+<td>d8 + 2</td>
+<td>Très proche</td>
+<td>Une main</td>
+<td>Ignore un désavantage 2x par joute ; permet une feinte gratuite</td>
+</tr>
+<tr>
+<td>Lance de précision noble</td>
+<td>Dextérité</td>
+<td>d8 + 3</td>
+<td>Très proche</td>
+<td>Une main</td>
+<td>+1 jeton de faveur sur chaque succès ; relance possible 1x par joute</td>
+</tr>
+</tbody>
+</table>
+</div>
+<doc-anchor-target id="armes-tier-3">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#armes-tier-3">#</doc-anchor-trigger>
+        <span>Armes tier 3</span>
+    </h4>
+</doc-anchor-target>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="comfortable">
+<thead>
+<tr>
+<th>Nom de la lance</th>
+<th>Trait</th>
+<th>Dégâts</th>
+<th>Portée</th>
+<th>Maniement</th>
+<th>Effets spéciaux</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Lance du Titan</td>
+<td>Force</td>
+<td>d12 + 2</td>
+<td>Très proche</td>
+<td>Une main</td>
+<td>Augmente le DC de désarçonnement de +3 ; ignore les bonus d’armure légère</td>
+</tr>
+<tr>
+<td>Lance du Vent Furtif</td>
+<td>Agilité</td>
+<td>d10 + 3</td>
+<td>Très proche</td>
+<td>Une main</td>
+<td>Permet une feinte gratuite chaque round ; ignore les malus de posture perdante</td>
+</tr>
+<tr>
+<td>Lance de l’Aigle</td>
+<td>Dextérité</td>
+<td>d10 + 2</td>
+<td>Très proche</td>
+<td>Une main</td>
+<td>Critique sur 18–20 ; +1 jeton de faveur sur chaque succès ; relance 2x par joute</td>
+</tr>
+</tbody>
+</table>
+</div>
+<doc-anchor-target id="arme-enchanté-tier-2">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#arme-enchanté-tier-2">#</doc-anchor-trigger>
+        <span>Arme enchanté Tier 2</span>
+    </h4>
+</doc-anchor-target>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="comfortable">
+<thead>
+<tr>
+<th>Nom enchanté</th>
+<th>Base</th>
+<th>Effet magique</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Lance des Murmures</td>
+<td>Précision</td>
+<td>Permet de lire la posture adverse 1x par joute ; +1 jeton de faveur sur succès</td>
+</tr>
+<tr>
+<td>Lance de Brume</td>
+<td>Évasion</td>
+<td>Le chevalier peut annuler un désavantage 1x par joute ; +2 à l’initiative</td>
+</tr>
+<tr>
+<td>Lance du Rugissement</td>
+<td>Guerre</td>
+<td>Sur un succès majeur, inflige peur à l’adversaire ; +1 au DC de désarçonnement</td>
 </tr>
 </tbody>
 </table>
