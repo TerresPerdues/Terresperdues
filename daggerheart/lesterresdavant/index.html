@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="turbo-root" content="/Terresperdues">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.11.0.809037215363">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.11.0.809107359322">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.11.0">
@@ -31,11 +31,11 @@
 
     <script data-cfasync="false">(function(){var cl=document.documentElement.classList,ls=localStorage.getItem("retype_scheme"),hd=cl.contains("dark"),hl=cl.contains("light"),wm=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches;if(ls==="dark"||(!ls&&wm&&!hd&&!hl)){cl.remove("light");cl.add("dark")}else if(ls==="light"||(!ls&&!wm&&!hd&&!hl)){cl.remove("dark");cl.add("light")}})();</script>
 
-    <link href="../../resources/css/retype.css?v=3.11.0.809037215363" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.11.0.809107359322" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.11.0.809037215363" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.11.0.809107359322" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.11.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.11.0.809037215363" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.11.0.809107359322" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="retype-app" class="relative text-base antialiased text-base-text bg-base-bg font-body">
@@ -687,7 +687,7 @@ La ville principale de ce duché est <strong>Fendacier</strong>, une cité indus
 </ul>
 <p><strong>Étape 3 : Déterminer les ressources</strong></p>
 <ul>
-<li>Équipement : Vous pouvez choisir un équipement du duché que vous êtes affilié. Si vous n&#x27;est pas affilié a aucun, vous commencer chaque partie avec 1 hope supplémentaire</li>
+<li>Équipement : Vous pouvez choisir un équipement du duché que vous êtes affilié. Si vous n&#x27;est pas affilié a aucun, vous commencer chaque partie avec 1 jeton de faveur de la foule supplémentaire à chaque joute.</li>
 </ul>
 <p><strong>Étape 4 : Fixer les objectifs</strong></p>
 <ul>
@@ -715,92 +715,134 @@ La ville principale de ce duché est <strong>Fendacier</strong>, une cité indus
         <span>Les joutes</span>
     </h3>
 </doc-anchor-target>
-<p>L&#x27;objectif de la joute est de faire des points pour monter au classement. La finale est entre les deux chevaliers qui ont le plus de point pour déterminer qui sera le champion avec son écurie.
-Pour ce faire, il existe quelques mécaniques pour faire fonctionner les joutes.</p>
+<doc-anchor-target id="objectif-de-la-joute">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#objectif-de-la-joute">#</doc-anchor-trigger>
+        <span>Objectif de la joute</span>
+    </h4>
+</doc-anchor-target>
+<p>Le but principal des joutes est d’accumuler des points afin de progresser dans le classement.<br />
+La finale oppose les deux chevaliers ayant obtenu le plus de points, et permet de désigner le champion ainsi que son écurie.</p>
+<doc-anchor-target id="mécaniques-de-jeu">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#mécaniques-de-jeu">#</doc-anchor-trigger>
+        <span>Mécaniques de jeu</span>
+    </h4>
+</doc-anchor-target>
+<p>Pour faire fonctionner les joutes, plusieurs mécaniques sont mises en place :</p>
+<p><strong>Jetons de faveur de la foule</strong></p>
 <ul>
-<li>Un des objectif est de cumuler des jetons de foule. Ces jetons peuvent être utiliser par la suite comme un pool de point de Hope de l&#x27;écurie qui peut être utiliser par n&#x27;importe qui de l&#x27;équipe lors de la joute.
-Il n&#x27;y a pas de maximum mais les jetons non utilisés sont perdue à la fin de la joute.</li>
-<li>La deuxième mécanique est celle de la joute qui fonctionne un peu comme roche papier ciseau.</li>
-<li>La dernière mécanique est celle du calcul des points de la joute.</li>
+<li>L’un des objectifs est de collecter des jetons de faveur de la foule.</li>
+<li>Ces jetons constituent une réserve de points de <em>Hope</em> pour l’écurie.</li>
+<li>Ils peuvent être utilisés par n’importe quel membre de l’équipe pendant une joute.</li>
+<li>Il n’existe pas de limite au nombre de jetons pouvant être accumulés.</li>
+<li>Les jetons non utilisés à la fin d’une joute sont perdus.</li>
 </ul>
-<doc-anchor-target id="jetons-de-foules">
+<p><strong>Système de joute</strong></p>
+<ul>
+<li>Les affrontements entre chevaliers reposent sur une mécanique similaire à <em>Pierre-Papier-Ciseaux</em>.</li>
+<li>Cette approche introduit une dimension stratégique dans les duels.</li>
+</ul>
+<p><strong>Calcul des points</strong></p>
+<ul>
+<li>Une dernière mécanique concerne le calcul des points</li>
+</ul>
+<doc-anchor-target id="jetons-de-faveur-de-la-foule">
     <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#jetons-de-foules">#</doc-anchor-trigger>
-        <span>Jetons de foules</span>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#jetons-de-faveur-de-la-foule">#</doc-anchor-trigger>
+        <span>Jetons de faveur de la foule</span>
     </h3>
 </doc-anchor-target>
+<p>Les points de faveur de la foule peuvent être obtenus de deux façons :</p>
+<ul>
+<li>Lors du <strong>spectacle d’ouverture</strong></li>
+<li>Pendant la <strong>joute</strong></li>
+</ul>
+<p>Les jetons gagnés peuvent être placés sur une carte pour suivre le total accumulé. Ils représentent l’enthousiasme du public et peuvent influencer le déroulement des joutes.</p>
 <doc-anchor-target id="spectacle-douverture">
     <h4>
         <doc-anchor-trigger class="header-anchor-trigger" to="#spectacle-douverture">#</doc-anchor-trigger>
         <span>Spectacle d’ouverture</span>
     </h4>
 </doc-anchor-target>
-<p><strong>Objectif</strong></p>
-<p>Créer une scène d’introduction où les personnages peuvent :</p>
+<p>Avant le début des joutes, chaque personnage peut créer une scène d’introduction pour impressionner la foule. Cette scène permet de :</p>
 <ul>
-<li>Se présenter avec style</li>
-<li>Interagir avec la foule</li>
-<li>Montrer leur personnalité ou leur foi</li>
-<li>Gagner des points de <em>Hope</em> utilisables pendant le duel</li>
+<li>Se présenter avec panache</li>
+<li>Interagir avec le public</li>
+<li>Mettre en valeur sa personnalité</li>
 </ul>
-<p><strong>Étape 1 : Déclaration du spectacle</strong></p>
-<p>Chaque héraut (ou allié) décrit une action spectaculaire :</p>
+<doc-anchor-target id="étape-1--déclaration-du-spectacle">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#étape-1--déclaration-du-spectacle">#</doc-anchor-trigger>
+        <span>Étape 1 : Déclaration du spectacle</span>
+    </h4>
+</doc-anchor-target>
+<p>Chaque héraut (ou allié) décrit une action spectaculaire, telle que :</p>
 <ul>
-<li>Discours flamboyant</li>
-<li>Chant inspirant</li>
-<li>Charge à cheval</li>
-<li>Invocation divine</li>
-<li>Prouesse physique</li>
-<li>Jet de rose à la foule…</li>
+<li>Un discours enflammé</li>
+<li>Un chant inspirant</li>
+<li>Une charge à cheval</li>
+<li>Une démonstration de force</li>
+<li>Un geste théâtral (ex. : jeter une rose à la foule)</li>
 </ul>
-<p><strong>Étape 2 : Jet de compétence</strong></p>
-<p>Le joueur fait un <strong>jet de Présence</strong>, <em>Agileté</em>, <em>Force</em>, ou autre jet appropriée. Il peut y avoir jusqu&#x27;à 3 jets pendant un spectacle à moins d&#x27;avis contraire. Les jet avec fear font perdre une possibilité de jet.</p>
+<doc-anchor-target id="étape-2--jet-de-compétence">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#étape-2--jet-de-compétence">#</doc-anchor-trigger>
+        <span>Étape 2 : Jet de compétence</span>
+    </h4>
+</doc-anchor-target>
+<p>Le joueur effectue un <strong>jet de Présence</strong>, <strong>Agilité</strong>, <strong>Force</strong>, ou autres.<br />
+Chaque spectacle peut inclure jusqu’à <strong>trois jets</strong>, sauf indication contraire.</p>
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
 <thead>
 <tr>
 <th>Résultat du jet</th>
-<th>Gain de Hope</th>
+<th>Points de Hope</th>
 <th>Effet narratif</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>Succès</td>
-<td>1 point</td>
-<td>Action réussie, la foule est ravie et gagne + 1 jeton de faveur de la foule</td>
+<td>+1</td>
+<td>Action réussie, la foule applaudit (+1 jeton de faveur de la foule)</td>
 </tr>
 <tr>
 <td>Succès majeur</td>
-<td>2 points</td>
-<td>Ovation, effet mémorable + 2 jeton de faveur de la foule</td>
+<td>+2</td>
+<td>Ovation générale, moment marquant (+2 jetons de faveur de la foule)</td>
 </tr>
 <tr>
 <td>Échec</td>
-<td>0 point</td>
-<td>cheval nerveux, foule muette, etc.</td>
+<td>0</td>
+<td>Foule indifférente, tension palpable</td>
 </tr>
 <tr>
 <td>Échec critique</td>
-<td>0 point</td>
-<td>Foule qui hue, enfants qui pleurent, etc. - 1 jeton de faveur de la foule</td>
+<td>0</td>
+<td>Huées, malaise dans l’arène (-1 jeton de faveur de la foule)</td>
 </tr>
 </tbody>
 </table>
 </div>
-<p><strong>Exemple narratif</strong></p>
+<doc-anchor-target id="-exemple-narratif">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#-exemple-narratif">#</doc-anchor-trigger>
+        <span><span class="docs-emoji">&#x1F4D6;</span> Exemple narratif</span>
+    </h3>
+</doc-anchor-target>
 <blockquote>
-<p><em>Le barde Elowen se tient sur la balustrade, luth en main. Elle entonne une ballade ancienne sur les exploits du chevalier Ser Alaric. Jet de Présence + Art : succès majeur ! Elle gagne 2 points d&#x27;espoire pour elle et 2 jeton pour es jetons de foule.</em><br />
-<em>Lors de la deuxième passe, elle dépense 1 point pour aider Ser Alaric, lui donnant avantage sur son jet de Force. Il renverse son adversaire dans un fracas glorieux.</em></p>
+<p><em>Elowen, la barde, s’élève sur la balustrade, luth en main. Elle entonne une ballade sur les exploits du chevalier Ser Alaric. Jet de Présence + Art : succès majeur ! Elle gagne 2 points de Hope et 2 jetons de faveur de la foule.</em><br />
+<em>Lors de la deuxième passe, elle dépense 1 point de hope pour soutenir Ser Alaric, lui offrant un avantage sur son jet de Force. Il renverse son adversaire dans un fracas glorieux.</em></p>
 </blockquote>
-<hr>
 <doc-anchor-target id="table-aléatiore-pour-les-joueurs-ou-les-opposants">
     <h4>
         <doc-anchor-trigger class="header-anchor-trigger" to="#table-aléatiore-pour-les-joueurs-ou-les-opposants">#</doc-anchor-trigger>
         <span>Table aléatiore pour les joueurs ou les opposants</span>
     </h4>
 </doc-anchor-target>
-<p>Lors du spectacle d’ouverture, les joueurs ou les opposants peuvent tirer ou choisir une action ci-dessous pour impressionner la foule et tenter de gagner de l&#x27;espoire.</p>
+<p>Lors du spectacle d’ouverture, les joueurs ou les opposants peuvent tirer ou choisir une action ci-dessous pour impressionner la foule et tenter de gagner des jetons de faveur de la foule.</p>
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
 <thead>
@@ -916,30 +958,52 @@ Il n&#x27;y a pas de maximum mais les jetons non utilisés sont perdue à la fin
 </div>
 <p><strong>Astuce</strong> : Chaque action peut être accompagnée d’un expérience approprié ( <em>Art</em>, <em>Foi</em>, <em>Adresse</em>, etc.) pour déterminer son résultat.</p>
 <hr>
-<doc-anchor-target id="règles-de-joute--système-triadique-inspiré-de-pierre-papier-ciseaux">
+<doc-anchor-target id="la-joute">
     <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#règles-de-joute--système-triadique-inspiré-de-pierre-papier-ciseaux">#</doc-anchor-trigger>
-        <span>Règles de Joute : Système Triadique (inspiré de pierre-papier-ciseaux)</span>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#la-joute">#</doc-anchor-trigger>
+        <span>La joute</span>
     </h3>
 </doc-anchor-target>
-<p><strong>Principe de base</strong></p>
-<p><strong>Système de joute – Choix de posture</strong></p>
-<p>Chaque chevalier choisit <strong>secrètement une posture de combat</strong> parmi trois options pour les <strong>trois rounds</strong> de la joute.<br />
-L’objectif est de <strong>remporter deux rounds sur trois</strong>.</p>
-<p>Chaque posture possède un avantage sur une autre, formant un <strong>triangle stratégique</strong> d’interactions :</p>
+<p>Chaque chevalier sélectionne <strong>secrètement une posture de combat</strong> pour chacun des <strong>trois rounds</strong> de la joute.<br />
+Ces postures forment un système d’interactions stratégiques, où chaque option a un avantage sur une autre.</p>
+<doc-anchor-target id="les-trois-postures">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#les-trois-postures">#</doc-anchor-trigger>
+        <span>Les trois postures</span>
+    </h4>
+</doc-anchor-target>
 <ul>
-<li>Charge précise <span class="docs-emoji">&#x1F4A5;</span> : Une attaque calculée qui attend le dernier moment pour attaquer, contournant la Charge agile. Cependant, elle est vulnérable à la Charge rapide, qui attaque en premier.</li>
-<li>Charge agile <span class="docs-emoji">&#x1F6E1;&#xFE0F;</span> : Une défense habile qui dévie les assauts rapides, empêchant la lance de se briser. Mais elle échoue face à une Charge précise, trop subtile pour être anticipée.</li>
-<li>Charge rapide <span class="docs-emoji">&#x26A1;</span> : Une offensive fulgurante qui attaque avant l’adversaire, brisant sa lance et empêchant une Charge précise. Toutefois, elle est facilement détournée par une défense habile.</li>
+<li><p><strong>Charge précise <span class="docs-emoji">&#x1F4A5;</span></strong><br />
+Attaque méthodique déclenchée au dernier moment.</p>
+<ul>
+<li>Bat : <em>Charge agile</em></li>
+<li>Perd contre : <em>Charge rapide</em></li>
 </ul>
+</li>
+<li><p><strong>Charge agile <span class="docs-emoji">&#x1F6E1;&#xFE0F;</span></strong><br />
+Défense souple et réactive, capable de détourner les assauts rapides.</p>
+<ul>
+<li>Bat : <em>Charge rapide</em></li>
+<li>Perd contre : <em>Charge précise</em></li>
+</ul>
+</li>
+<li><p><strong>Charge rapide <span class="docs-emoji">&#x26A1;</span></strong><br />
+Offensive immédiate visant à surprendre l’adversaire.</p>
+<ul>
+<li>Bat : <em>Charge précise</em></li>
+<li>Perd contre : <em>Charge agile</em></li>
+</ul>
+</li>
+</ul>
+<p>Ce système repose sur un <strong>triangle d’avantages</strong>, similaire à <em>Pierre-Papier-Ciseaux</em>, encourageant la lecture du jeu adverse et la prise de risque tactique.</p>
 <p><strong>Tableau récapitulatif</strong></p>
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
 <thead>
 <tr>
 <th><strong>Posture</strong></th>
-<th><strong>Avantage sur</strong></th>
-<th><strong>Faible contre</strong></th>
+<th><strong>Gagne contre</strong></th>
+<th><strong>Perd contre</strong></th>
 </tr>
 </thead>
 <tbody>
@@ -961,7 +1025,6 @@ L’objectif est de <strong>remporter deux rounds sur trois</strong>.</p>
 </tbody>
 </table>
 </div>
-<hr>
 <p><strong>Cartes de Posture</strong></p>
 <p>Pour représenter les postures de combat, chaque joueur peut utiliser des cartes illustrées.</p>
 <p><strong>Carte : Charge Précise <span class="docs-emoji">&#x1F4A5;</span></strong></p>
@@ -976,7 +1039,7 @@ L’objectif est de <strong>remporter deux rounds sur trois</strong>.</p>
 <li><strong>Nom</strong> : Charge Agile</li>
 <li><strong>Couleur dominante</strong> : Bleu</li>
 <li><strong>Effet</strong> : Bat la Charge Rapide <span class="docs-emoji">&#x26A1;</span>, perd contre la Charge Précise <span class="docs-emoji">&#x1F4A5;</span></li>
-<li><strong>Texte d’ambiance</strong> : « L’élégance défie la vitesse. »</li>
+<li><strong>Texte d’ambiance</strong> : « La prudence ouvre des opportunités. »</li>
 </ul>
 <p><strong>Carte : Charge Rapide <span class="docs-emoji">&#x26A1;</span></strong></p>
 <ul>
@@ -985,59 +1048,91 @@ L’objectif est de <strong>remporter deux rounds sur trois</strong>.</p>
 <li><strong>Effet</strong> : Bat la Charge Précise <span class="docs-emoji">&#x1F4A5;</span>, perd contre la Charge Agile <span class="docs-emoji">&#x1F6E1;&#xFE0F;</span></li>
 <li><strong>Texte d’ambiance</strong> : « Charger avant de penser. »</li>
 </ul>
-<hr>
 <doc-anchor-target id="résolution-du-duel">
     <h3>
         <doc-anchor-trigger class="header-anchor-trigger" to="#résolution-du-duel">#</doc-anchor-trigger>
         <span>Résolution du duel</span>
     </h3>
 </doc-anchor-target>
+<p>La joute se déroule en <strong>trois rounds</strong>, chacun suivant les étapes suivantes :</p>
 <ol>
-<li><strong>Choix secret</strong> : Chaque chevalier choisit un posture en secret par round pour les 3 rounds.</li>
-<li><strong>Révélation simultanée</strong> : Les postures sont révélées en même temps.</li>
-<li><strong>Comparaison</strong> :
+<li><p><strong>Choix secret</strong><br />
+Chaque chevalier sélectionne secrètement une posture de combat pour le round en cours.</p>
+</li>
+<li><p><strong>Révélation simultanée</strong><br />
+Les deux postures sont révélées en même temps.</p>
+</li>
+<li><p><strong>Comparaison des postures</strong></p>
 <ul>
-<li>Si l&#x27;un a gagné par sa posture, l&#x27;adversaire à un désavantage sur son jet d&#x27;attaque.</li>
-<li>Si les postures sont identiques, les deux roulent un jet d&#x27;attaque normal.</li>
+<li>Si l’une des postures l’emporte sur l’autre, le chevalier adverse subit un <strong>désavantage</strong> sur son jet d’attaque.</li>
+<li>Si les postures sont identiques, les deux chevaliers effectuent un <strong>jet d’attaque normal</strong>.</li>
 </ul>
 </li>
 </ol>
 <doc-anchor-target id="marquer-des-points">
-    <h4>
+    <h3>
         <doc-anchor-trigger class="header-anchor-trigger" to="#marquer-des-points">#</doc-anchor-trigger>
         <span>Marquer des points</span>
-    </h4>
+    </h3>
 </doc-anchor-target>
-<p>Cela suit le même principe que pour les points de vie mais cette fois c&#x27;est sur votre adversaire. Il est important de noter que malgré que cela utilise le même principe c&#x27;est calculer appart et avant toutes les cartes de domaines ou point d&#x27;armure, compétences. Lorsque votre attaque touche, vous cassé la pointe de votre lance. Le bout de la lance est séparé en trois et plus la pointe est cassé plus vous gagner de point. Si l&#x27;adversaire subit des :</p>
-<ul>
-<li>Servere damage c&#x27;est que vous obtener 3 points.</li>
-<li>Major Damage c&#x27;est que vous obtener 2 point.</li>
-<li>Minor damage c&#x27;est que vous obtener 1 point.</li>
-<li>Si vous raté la cible, vous n&#x27;obtener rien.</li>
-</ul>
+<p>Les points sont attribués en fonction des dégâts infligés à l’adversaire, selon un système distinct des points de vie.<br />
+Ce calcul est effectué <strong>avant</strong> l’application des cartes de domaine, de l’armure ou des compétences.</p>
+<p>Lorsqu’une attaque réussit, la <strong>pointe de la lance se brise</strong>, et sa fragmentation détermine le nombre de points obtenus :</p>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="comfortable">
+<thead>
+<tr>
+<th>Type de dégât</th>
+<th>Points gagnés</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Dégât sévère</td>
+<td>3 points</td>
+<td>Impact puissant, lance brisée en trois</td>
+</tr>
+<tr>
+<td>Dégât majeur</td>
+<td>2 points</td>
+<td>Frappe solide, lance partiellement brisée</td>
+</tr>
+<tr>
+<td>Dégât mineur</td>
+<td>1 point</td>
+<td>Touché léger, éclat minime</td>
+</tr>
+<tr>
+<td>Aucun dégât</td>
+<td>0 point</td>
+<td>Attaque manquée, aucun point gagné</td>
+</tr>
+</tbody>
+</table>
+</div>
 <doc-anchor-target id="désarçonnement">
     <h4>
         <doc-anchor-trigger class="header-anchor-trigger" to="#désarçonnement">#</doc-anchor-trigger>
         <span>Désarçonnement</span>
     </h4>
 </doc-anchor-target>
-<p><strong>Déclenchement</strong></p>
-<p>Le désarçonnement peut survenir dans les cas suivants :</p>
+<p><strong>Conditions de déclenchement</strong></p>
+<p>Un chevalier peut être désarçonné dans les situations suivantes :</p>
 <ul>
-<li>Le chevalier <strong>prend du Severe damage</strong>).</li>
-<li>Le chevalier <strong>rate un jet</strong> avec un échec critique.</li>
-<li>Le chevalier adverse utilise l&#x27;action <strong>Charge légendaire</strong>.</li>
-<li>Le chevalier <strong>subit une conséquence majeure</strong> (ex. : perte de tout ses points de vie ou stress).</li>
+<li>Il subit un <strong>dégât sévère</strong>.</li>
+<li>Il obtient un <strong>échec critique</strong> lors d’un jet.</li>
+<li>Son adversaire utilise l’action <strong>Charge légendaire</strong>.</li>
+<li>Il subit une <strong>conséquence majeure</strong> (ex. : perte totale de points de vie ou de stress).</li>
 </ul>
-<p>Lorsqu’un désarçonnement est déclenché :</p>
-<p><strong>Jet de sauvegarde</strong> : Le chevalier fait un jet de <strong>Force</strong> ou <strong>Dextérité</strong> (au choix).</p>
+<p><strong>Jet de sauvegarde</strong></p>
+<p>Lorsque le désarçonnement est déclenché, le chevalier effectue un jet de <strong>Force</strong> ou de <strong>Dextérité</strong> (au choix), avec une difficulté standard de <strong>DC 12</strong>.</p>
 <ul>
-<li>Difficulté standard : <strong>DC 12</strong></li>
-<li>Si le jet est réussi : le chevalier reste en selle et l&#x27;adversaire gagne 1 jetons de foule.</li>
-<li>Si le jet est raté : le chevalier est désarçonné et l&#x27;adversaire gagne 2 jetons de foule.</li>
-<li>Sur un échec critique : Le chevalier est désarçonné et l&#x27;adversaire gagne 4 jetons de foule vu l&#x27;impressionnante force de frappe.</li>
+<li><strong>Jet réussi</strong> : le chevalier reste en selle. L’adversaire gagne 1 jeton de faveur de la foule.</li>
+<li><strong>Jet raté</strong> : le chevalier est désarçonné. L’adversaire gagne 2 jetons de faveur de la foule.</li>
+<li><strong>Échec critique</strong> : le chevalier est désarçonné. L’adversaire gagne 4 jetons de faveur de la foule, en raison de la puissance spectaculaire de l’impact.</li>
 </ul>
-<p><strong>Utilisation du Hope ou fear pendant le duel</strong></p>
+<p><strong>Utilisation d&#x27;espoire, de peur ou de jeton de faveur de la foule pendant le duel</strong></p>
 <p>Les points de Hope peuvent être dépensés normalement, il existe cependant de nouvelle <strong>Hope Feature</strong> que vous pouvez activer :</p>
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
