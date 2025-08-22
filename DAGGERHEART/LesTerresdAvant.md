@@ -540,23 +540,9 @@ Ce système repose sur un **triangle d’avantages**, similaire à *Pierre-Papie
 
 Pour représenter les postures de combat, chaque joueur peut utiliser des cartes illustrées. 
 
-**Carte : Charge Précise 💥**
-- **Nom** : Charge Précise 
-- **Couleur dominante** : Rouge
-- **Effet** : Bat la Charge Agile 🛡️, perd contre la Charge Rapide ⚡
-- **Texte d’ambiance** : « La patience est une arme. »
-
-**Carte : Charge Agile 🛡️**
-- **Nom** : Charge Agile 
-- **Couleur dominante** : Bleu
-- **Effet** : Bat la Charge Rapide ⚡, perd contre la Charge Précise 💥
-- **Texte d’ambiance** : « La prudence ouvre des opportunités. »
-
-**Carte : Charge Rapide ⚡**
-- **Nom** : Charge Rapide 
-- **Couleur dominante** : Jaune
-- **Effet** : Bat la Charge Précise 💥, perd contre la Charge Agile 🛡️
-- **Texte d’ambiance** : « Charger avant de penser. »
+-![|100](/Images/Aed.png)
+-![|100](/Images/Aed.png)
+-![|100](/Images/Aed.png)
 
 ####  Résolution du duel
 
