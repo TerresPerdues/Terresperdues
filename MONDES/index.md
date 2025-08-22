@@ -5,7 +5,7 @@ expanded: true
 ---
 
 <style>
-h1:before { content: ":globe_with_meridians:" }
+h1:before { content: "🌐" }
 </style> 
 
 
