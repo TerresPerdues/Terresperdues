@@ -176,7 +176,7 @@ Ces principes guident les joueurs pour incarner des personnages pleinement engag
 
 ## DISTINCTIONS  
 
-### Origine du Championat et des Écuries
+### 🟨 Origine du Championat et des Écuries
 
 Dans les temps anciens, le dernier roi des Terres d’Avant périt lors d’une joute légendaire. N’ayant point d’héritier, le champion victorieux fut acclamé par le peuple et élevé au rang de souverain. Ce changement, salué par les foules, permit aux duchés d’orchestrer une transition politique habile : ils firent de cette exception une tradition, abolissant ainsi la monarchie au profit d’un ordre chevaleresque.
 
@@ -371,7 +371,7 @@ Les joutes sont parfois interrompues par des manifestations druidiques ou des ap
 - *Quel pacte secret lie ton lignage aux esprits de la forêt ?*
 
 
-## 🟨CUSTOM MECHANICS  
+## CUSTOM MECHANICS  
 
 ### 🟨Règles pour la création d'une écurie de chevalier
 
