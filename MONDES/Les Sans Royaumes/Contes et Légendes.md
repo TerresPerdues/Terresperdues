@@ -1,4 +1,4 @@
-# Les Échos Oubliés des Terres Perdues
+# Les Échos Oubliés
 
 Lorsque les Brumes premières s’élevèrent des abîmes, le monde encore jeune fut sculpté par des forces ancestrales, indomptées et presque oubliées. D’antiques divinités, tissèrent les continents, insufflèrent la vie aux bêtes et aux hommes, et allumèrent les premières étoiles.
 
