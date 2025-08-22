@@ -17,10 +17,13 @@ links:
   link: /
 - text: Les Règles
   link: https://terresperdues.github.io/Terresperdues/regle/
+- text: Les westmarch
+  link: https://terresperdues.github.io/Terresperdues/Westmarch/
 - text: Les mondes
   link: https://terresperdues.github.io/Terresperdues/Mondes/
 - text: GAME JAM des Terres Perdues
   link: https://terresperdues.github.io/Terresperdues/gamejam/
+
 -
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
