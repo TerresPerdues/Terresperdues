@@ -5,7 +5,7 @@ expanded: true
 ---
 
 <style>
-h1:before { content: ":compass:" }
+h1:before { content: "🧭" }
 </style> 
 
 
