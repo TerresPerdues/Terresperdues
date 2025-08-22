@@ -385,6 +385,8 @@ Il est tout à fait possible de créer son propre duché extérieur, avec ses co
 
 ### 🟨Règles pour la création d'une écurie de chevalier
 
+Voici quelques règles simples pour créer une écurie de chevalier :
+
 **Étape 1 : Choisir un Duché d'origine**
 - Déterminez le duché auquel votre écurie est affiliée. Cela influencera les valeurs, les ressources et les objectifs de votre écurie.
 
@@ -412,6 +414,33 @@ Il est tout à fait possible de créer son propre duché extérieur, avec ses co
 **Étape 7 : Préparer les festivités**
 - Planifiez une ouverture spectaculaire pour captiver les foules et marquer les esprits.
 
+### 🟨Règles pour la création d'un duché ou royaume extérieur
+
+Voici quelques règles simples pour créer un duché ou royaume extérieur :
+
+**1. Nom et Origine**
+- Choisis un nom évocateur qui reflète l’identité du duché.
+- Décris son emplacement géographique ou mythique : désert brûlant, cité volante, archipel brumeux, royaume souterrain, etc.
+
+**2. Culture et Coutumes**
+- Décris une ou deux traditions uniques : un style de joute particulier, une croyance dominante, une façon de choisir ses champions.
+- Quelle est la place de la magie, de la religion ou de la technologie dans ce duché ?
+
+**3. Objectifs et Ambitions**
+- Que cherche ton duché dans les Terres d’avant ? Gloire, influence, commerce, vengeance, savoir interdit ?
+- Est-il là pour s’intégrer ou pour bouleverser l’ordre établi ?
+
+**4. Relations avec les Duchés Locaux**
+- Comment ton duché est-il perçu par les autres ? Méfiance, fascination, rivalité ?
+- Existe-t-il des alliances secrètes ou des tensions diplomatiques ?
+
+**5. Figures Emblématiques**
+- Crée un personnage marquant : un chevalier légendaire, un ambassadeur rusé, un mage exilé, etc.
+- Ce personnage peut servir de mentor, de rival ou de modèle pour les joueurs.
+
+**6. Défis et Mystères**
+- Intègre un danger, une légende ou un secret lié à ton duché : une malédiction, une créature mythique, une prophétie oubliée.
+- Ces éléments peuvent alimenter des intrigues ou des quêtes secondaires.
 
 ### 🟨Les joutes
 
@@ -550,9 +579,9 @@ Ce système repose sur un **triangle d’avantages**, similaire à *Pierre-Papie
 
 Pour représenter les postures de combat, chaque joueur peut utiliser des cartes illustrées. 
 
-![](/Images/FrameDaggerheart/Knight/ChargePrecise.png)
-![](/Images/FrameDaggerheart/Knight/ChargeAgile.png)
-![](/Images/FrameDaggerheart/Knight/ChargeRapide.png)
+-![](/Images/FrameDaggerheart/Knight/ChargePrecise.png)
+-![](/Images/FrameDaggerheart/Knight/ChargeAgile.png)
+-![](/Images/FrameDaggerheart/Knight/ChargeRapide.png)
 
 ####  Résolution du duel
 
