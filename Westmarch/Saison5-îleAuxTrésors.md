@@ -1,7 +1,7 @@
 ---
 label: Saison 5 - Île aux trésors
 order: 5
-icon: ":globe_with_meridians:"
+icon: ":compass:"
 ---
 
 ![](/Images/terresperdues5.png)
