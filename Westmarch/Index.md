@@ -1,11 +1,11 @@
 ---
 order: 800
-icon: ":full_moon:"
+icon: ":compass:"
 expanded: true
 ---
 
 <style>
-h1:before { content: ":full_moon:" }
+h1:before { content: ":compass:" }
 </style> 
 
 
