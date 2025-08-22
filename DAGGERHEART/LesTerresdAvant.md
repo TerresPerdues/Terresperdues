@@ -579,9 +579,9 @@ Ce système repose sur un **triangle d’avantages**, similaire à *Pierre-Papie
 
 Pour représenter les postures de combat, chaque joueur peut utiliser des cartes illustrées. 
 
--![](/Images/FrameDaggerheart/Knight/ChargePrecise.png)
--![](/Images/FrameDaggerheart/Knight/ChargeAgile.png)
--![](/Images/FrameDaggerheart/Knight/ChargeRapide.png)
+-![500](/Images/FrameDaggerheart/Knight/ChargePrecise.png)
+-![500](/Images/FrameDaggerheart/Knight/ChargeAgile.png)
+![500](/Images/FrameDaggerheart/Knight/ChargeRapide.png)
 
 ####  Résolution du duel
 
