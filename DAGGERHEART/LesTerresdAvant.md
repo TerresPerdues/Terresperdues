@@ -763,24 +763,15 @@ Exemple d'une destrier exotique : Destrier de Sable d’Ashkar
 
 ---
 
-## Session 0 
-These are new questions specific to the campaign frame that 
-should be asked during a session zero These questions should 
-both help situate your PCs in the setting and prompt groups 
-to articulate how they want to address or handle important 
-thematic or content elements of the campaign (such as gore 
-the impact of war or intraparty conflict)
- For inspiration look to both the session zero questions 
-for the campaign frames in the core rulebook and also 
-the background and connection questions in each class’s 
-character guide 
-CAMPAIGN MAP 
-Providing a map can be helpful for orienting players within 
-your campaign frame’s setting Maps for Daggerheart 
-campaign frames are designed with some locations filled in 
-and plenty of space left for groups to make the map their own 
-Consider adding a list of names to the map that thematically 
-f
- it the world—GMs can prompt players to choose from these 
-names and place them on the map building out the setting 
-together so everyone feels ownership of the story 
+## Session zero questions
+*Ask any of these questions to your players, or make your own*
+
+- *Comment les membres de votre équipe se sont-ils rencontrés pour la première fois ?*
+- *Quel événement marquant a scellé votre alliance ou votre amitié ?*
+- *Quel est le nom de votre équipe ou de votre écurie, et que représente-t-il ?*
+- *Quels sont les objectifs communs qui vous motivent à participer aux joutes ?*
+- *Avez-vous un code d’honneur, une devise ou une tradition qui vous unit ?*
+- *Quels sont les talents ou forces complémentaires que chaque membre apporte au groupe ?*
+- *Y a-t-il des tensions internes ou des secrets entre vous qui pourraient influencer vos choix ?*
+- *Comment votre équipe est perçue par les autres écuries ou par le peuple ?*
+ -*Quel est votre plus grand défi en tant qu’équipe dans les Terres d’avant ?
