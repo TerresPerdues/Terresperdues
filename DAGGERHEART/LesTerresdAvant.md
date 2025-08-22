@@ -456,7 +456,7 @@ Pour faire fonctionner les joutes, plusieurs mécaniques sont mises en place :
 **Jetons de faveur de la foule**
 
 - L’un des objectifs est de collecter des jetons de faveur de la foule.
-- Ces jetons constituent une réserve de points de *Hope* pour l’écurie.
+- Ces jetons constituent une réserve de points de *Espoir* pour l’écurie.
 - Ils peuvent être utilisés par n’importe quel membre de l’équipe pendant une joute.
 - Il n’existe pas de limite au nombre de jetons pouvant être accumulés.
 - Les jetons non utilisés à la fin d’une joute sont perdus.
@@ -499,7 +499,7 @@ Chaque héraut (ou allié) décrit une action spectaculaire, telle que :
 Le joueur effectue un **jet de Présence**, **Agilité**, **Force**, ou autres.  
 Chaque spectacle peut inclure jusqu’à **trois jets**, sauf indication contraire.  
 
-| Résultat du jet   | Points de Hope | Effet narratif                                      |
+| Résultat du jet   | Points de Espoir | Effet narratif                                      |
 |-------------------|----------------|-----------------------------------------------------|
 | Succès            | +1             | Action réussie, la foule applaudit (+1 jeton de faveur de la foule)       |
 | Succès majeur     | +2             | Ovation générale, moment marquant (+2 jetons de faveur de la foule)       |
@@ -508,8 +508,8 @@ Chaque spectacle peut inclure jusqu’à **trois jets**, sauf indication contrai
 
 #### Exemple narratif
 
-> *Elowen, la barde, s’élève sur la balustrade, luth en main. Elle entonne une ballade sur les exploits du chevalier Ser Alaric. Jet de Présence + Art : succès majeur ! Elle gagne 2 points de Hope et 2 jetons de faveur de la foule.*  
-> *Lors de la deuxième passe, elle dépense 1 point de hope pour soutenir Ser Alaric, lui offrant un avantage sur son jet de Force. Il renverse son adversaire dans un fracas glorieux.*
+> *Elowen, la barde, s’élève sur la balustrade, luth en main. Elle entonne une ballade sur les exploits du chevalier Ser Alaric. Jet de Présence + Art : succès majeur ! Elle gagne 2 points de Espoir et 2 jetons de faveur de la foule.*  
+> *Lors de la deuxième passe, elle dépense 1 point de Espoir pour soutenir Ser Alaric, lui offrant un avantage sur son jet de Force. Il renverse son adversaire dans un fracas glorieux.*
 
 #### Table aléatiore pour les joueurs ou les opposants
 
@@ -634,28 +634,28 @@ Lorsque le désarçonnement est déclenché, le chevalier effectue un jet de **F
 
 **Utilisation d'espoire, de peur ou de jeton de faveur de la foule pendant le duel**
 
-Les points de Hope peuvent être dépensés normalement, il existe cependant de nouvelle **Hope Feature** que vous pouvez activer :
+Les points de Espoir peuvent être dépensés normalement, il existe cependant de nouvelle **Espoir Feature** que vous pouvez activer :
 
 | Action du chevalier     | Effet narratif et mécanique                                      |
 |-------------------------|------------------------------------------------------------------|
-| Cri héroïque            | Dépense 1 point de Hope pour impressionner la foule (+1 jeton de faveur de la foule)  |
-| Coup puissant           | Dépense X points de Hope pour augmenter la difficulté du jet de désarçonnement de X |
-| Charge légendaire       | Dépense 4 points de Hope pour tenter de désarçonner l’adversaire |
-| Dernier rempart         | Dépense X points de Hope pour réduire la difficulté du jet de désarçonnement de X |
-| Feinte                  | Dépense 5 points de Hope pour changer de posture de combat       |
+| Cri héroïque            | Dépense 1 point de Espoir pour impressionner la foule (+1 jeton de faveur de la foule)  |
+| Coup puissant           | Dépense X points de Espoir pour augmenter la difficulté du jet de désarçonnement de X |
+| Charge légendaire       | Dépense 4 points de Espoir pour tenter de désarçonner l’adversaire |
+| Dernier rempart         | Dépense X points de Espoir pour réduire la difficulté du jet de désarçonnement de X |
+| Feinte                  | Dépense 5 points de Espoir pour changer de posture de combat       |
 
 ####  Exemple narratif
 
-> *Ser Alaric, acculé, serre son médaillon de Solen. Il dépense 2 points de Hope pour activer "Dernier rempart". Il baisse de RC de 12 à 10. Il roule 11 avec Hope. Jet de Force réussi : il reste stoic, le regard brûlant de détermination. La foule rugit. Son adversaire hésite.*
+> *Ser Alaric, acculé, serre son médaillon de Solen. Il dépense 2 points de Espoir pour activer "Dernier rempart". Il baisse de RC de 12 à 10. Il roule 11 avec Espoir. Jet de Force réussi : il reste stoic, le regard brûlant de détermination. La foule rugit. Son adversaire hésite.*
 
 | Action de groupe           | Effet narratif et mécanique                                                                 |
 |---------------------------|----------------------------------------------------------------------------------------------|
-| Écho du passé              | Dépense X points de Hope pour évoquer un souvenir négatif de l’adversaire. La foule retire X jetons de sa faveur. |
-| Récit inspirant            | Dépense X points de Hope pour motiver l’équipe. La foule accorde + X jetons de faveur.       |
-| Lecture de posture         | Dépense 5 points de Hope pour analyser la posture de l’adversaire. Permet de contrer une feinte. |
-| Préparation optimale       | Dépense X points de Hope pour ajuster l’équipement avec précision. Réduit la difficulté (DC) du premier test de désarçonnement de X. |
-| Anticipation brillante     | Dépense 5 points de Hope pour anticiper une manœuvre ennemie. Permet de connaître la prochaine posture de l’adversaire. |
-| Serment de victoire        | Dépense 2 points de Hope. Si le duel est remporté, gagne +2 jetons de faveur de la foule utilisables lors de la prochaine joute (non comptabilisés dans celle en cours). |
+| Écho du passé              | Dépense X points de Espoir pour évoquer un souvenir négatif de l’adversaire. La foule retire X jetons de sa faveur. |
+| Récit inspirant            | Dépense X points de Espoir pour motiver l’équipe. La foule accorde + X jetons de faveur.       |
+| Lecture de posture         | Dépense 5 points de Espoir pour analyser la posture de l’adversaire. Permet de contrer une feinte. |
+| Préparation optimale       | Dépense X points de Espoir pour ajuster l’équipement avec précision. Réduit la difficulté (DC) du premier test de désarçonnement de X. |
+| Anticipation brillante     | Dépense 5 points de Espoir pour anticiper une manœuvre ennemie. Permet de connaître la prochaine posture de l’adversaire. |
+| Serment de victoire        | Dépense 2 points de Espoir. Si le duel est remporté, gagne +2 jetons de faveur de la foule utilisables lors de la prochaine joute (non comptabilisés dans celle en cours). |
 
 ### 🟨Fin de la joute et récompenses
 
@@ -696,7 +696,7 @@ Exemple d'une destrier exotique : Destrier de Sable d’Ashkar
 | base de lance de Caldrun      | +1 Dégats                    | Forgé pour pourfendre les créatures du Nord.            |
 | Écu de Fercreux               | +1 Armure                    | Métal enchanté, issu des forges de Fendacier.         |
 | Tissu de Lume                 | +1 Présence                  | Cape luxueuse, évoque richesse et prestige marchand.  |
-| Serment de Courvouaille       | +1 Hope                      | Engagement public, inspire confiance et loyauté.      |
+| Serment de Courvouaille       | +1 Espoir                      | Engagement public, inspire confiance et loyauté.      |
 | Bénédiction des Échardes      | +1 Jet de sauvegarde         | Protection druidique contre les effets surnaturels.   |
 | Tribut d’Aurélion             | +1 Jeton de faveur initial   | Offrande sacrée, reconnue par l’Ordre des Chevaliers. |
 
@@ -706,7 +706,7 @@ Exemple d'une destrier exotique : Destrier de Sable d’Ashkar
 | Anneau de Valome            | +1 Présence               | Symbole d’autorité reconnu dans tout le royaume. |
 | Gantelet de Fercreux        | +1 Force                  | Forgé dans les mines, renforce la prise en joute. |
 | Cape de BriseLune           | +1 Évasion                | Tissu léger, favorise les mouvements rapides.     |
-| Sceau de Courvouaille       | +1 Hope                   | Emblème de justice, inspire confiance.            |
+| Sceau de Courvouaille       | +1 Espoir                   | Emblème de justice, inspire confiance.            |
 | Talisman des Échardes       | +1 Jet de sauvegarde      | Protège contre les effets magiques ou naturels.   |
 | Harnais de Caldrun          | +1 Armure                 | Renforcé pour résister aux charges brutales.      |
 | Plume de l’Ordre            | +1 Jeton de faveur        | Offerte par les juges, marque d’excellence.       |
@@ -727,7 +727,7 @@ Exemple d'une destrier exotique : Destrier de Sable d’Ashkar
 | Lance de Valome             | +2 Présence, +1 Dégâts    | Porte la voix du royaume, frappe avec justice.   |
 | Éperons du Jugement         | +2 Dégats                 | Activés par serment, imposent le rythme du duel. |
 | Bénédiction d’Aurélion      | +2 Jeton de faveur        | Don sacré, reconnu par l’Ordre des Chevaliers.   |
-| Voile de BriseLune          | +2 Évasion, +1 Hope       | Cache les intentions, protège les secrets.       |
+| Voile de BriseLune          | +2 Évasion, +1 Espoir       | Cache les intentions, protège les secrets.       |
 | Cuirasse des Échardes       | +2 Armure, +1 sauvegarde  | Vivante, liée aux esprits de la forêt ancienne.  |
 
 
