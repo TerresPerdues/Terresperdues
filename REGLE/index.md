@@ -1,5 +1,5 @@
 ---
-order: 9000
+order: 900
 icon: ":gear:"
 expanded: true
 ---
