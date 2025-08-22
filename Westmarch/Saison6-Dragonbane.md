@@ -1,7 +1,7 @@
 ---
 label: Saison 6 - Le fléau du dragon
 order: 6
-icon: ":globe_with_meridians:"
+icon: ":compass:"
 ---
 
 ![](/Images/TPDragonbane.png)
