@@ -1,11 +1,11 @@
 ---
 order: 200
-icon: "🧭"
+icon: ":full_moon:"
 expanded: true
 ---
 
 <style>
-h1:before { content: "🧭 " }
+h1:before { content: ":full_moon:" }
 </style> 
 
 
