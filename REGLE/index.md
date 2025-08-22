@@ -16,8 +16,7 @@ h1:before { content: "⚙️ " }
 [!ref icon=":wave:" text="à venir"](vide)
 === Règle pour les joueurs des Terres perdues
 [!ref icon=":beginner:" text="Guide du joueur"](GuideDuJoueur.md)
-=== Règle pour Terres Perdues Drakkenheim
-[!ref icon=":hammer_and_wrench:" text="Règle pour Drakkenheim"](TerresPerduesDrakkenheim.md)
+
 === Règle pour le Roleplay
 [!ref icon=":hammer_and_wrench:" text="Règle pour Roleplay"](GuideRoleplay.md)
 ===
