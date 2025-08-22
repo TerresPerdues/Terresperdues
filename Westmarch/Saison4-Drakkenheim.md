@@ -1,7 +1,6 @@
 ---
 label: Saison 04 - Drakkenheim
 order: 4
-icon: ":compass:"
 ---
 
 
