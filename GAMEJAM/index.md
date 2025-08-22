@@ -1,5 +1,5 @@
 ---
-order: 400
+order: 100
 icon: "🧭:"
 expanded: true
 ---
