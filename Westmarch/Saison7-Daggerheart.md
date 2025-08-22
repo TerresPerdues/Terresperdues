@@ -1,7 +1,7 @@
 ---
 label: Saison 7 - Daggerheart
 order: 7
-icon: ":globe_with_meridians:"
+icon: ":compass:"
 ---
 
 ![](/Images/TPOmbreLumières.png)
