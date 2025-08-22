@@ -370,6 +370,16 @@ Les joutes sont parfois interrompues par des manifestations druidiques ou des ap
 - *As-tu déjà sacrifié une victoire pour protéger un sanctuaire forestier ?*
 - *Quel pacte secret lie ton lignage aux esprits de la forêt ?*
 
+### Les Duchés ou royaumes Extérieurs
+
+Bien que les Terres d’avant soient le cœur des joutes chevaleresques, il arrive que des chevaliers venus de duchés ou royaumes extérieurs s’aventurent dans le royaume pour tenter leur chance. Ces visiteurs apportent avec eux des traditions, des styles de combat et des philosophies différentes, enrichissant les joutes par leur diversité.
+
+Certains sont envoyés par des cours étrangères pour observer ou influencer les compétitions, tandis que d’autres viennent en quête de gloire personnelle ou pour honorer des pactes anciens. Leur présence est parfois vue avec méfiance, mais elle est aussi source de fascination et d’inspiration.
+
+Il est tout à fait possible de créer son propre duché extérieur, avec ses coutumes, ses objectifs et ses tensions. Les règles de création de duché seront présentées plus bas dans ce document.
+
+- *D’où viens-tu et pourquoi as-tu quitté ton royaume pour participer aux joutes des Terres d’avant ?*
+- *As-tu un objectif secret ou une mission diplomatique liée à ta venue dans le royaume ?*
 
 ## CUSTOM MECHANICS  
 
