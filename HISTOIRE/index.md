@@ -15,7 +15,8 @@ h1:before { content: "🧭 " }
 [!ref icon=":classical_building:" text="Les Dieux"](Dieux.md)
 - Les Royaumes
 [!ref icon=":beginner:" text="Les Royaumes"](LesRoyaumes.md)
-- Les Mythes et Légendes
+- Les organisations
 [!ref icon=":scroll:" text="Les organisations"](Organisations.md)
+- Les Mythes et Légendes
 [!ref icon=":scales:" text="Les Mythes et Légendes"](MythesetLegendes.md)
 
