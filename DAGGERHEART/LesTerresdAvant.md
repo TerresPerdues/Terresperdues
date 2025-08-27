@@ -721,45 +721,34 @@ Exemple d'une destrier exotique : Destrier de Sable d’Ashkar
 | Barde royale                | +2 Armure                 | Chef-d’œuvre d’artisanat, symbole de noblesse.    |
 | Sceau des Hauts-Ducs        | +2 Présence               | Héritage politique, inspire loyauté et respect.   |
 
-#### Artefact Légendaire
-| Artefact                    | Bonus mécanique           | Effet narratif concis                             |
-|-----------------------------|---------------------------|---------------------------------------------------|
-| Lance de Valome             | +2 Présence, +1 Dégâts    | Porte la voix du royaume, frappe avec justice.   |
-| Éperons du Jugement         | +2 Dégats                 | Activés par serment, imposent le rythme du duel. |
-| Bénédiction d’Aurélion      | +2 Jeton de faveur        | Don sacré, reconnu par l’Ordre des Chevaliers.   |
-| Voile de BriseLune          | +2 Évasion, +1 Espoir       | Cache les intentions, protège les secrets.       |
-| Cuirasse des Échardes       | +2 Armure, +1 sauvegarde  | Vivante, liée aux esprits de la forêt ancienne.  |
-
-
 
 #### Armes tier 1
-| Nom de la lance         | Trait associé  | Dégâts         | Portée       | Maniement   | Effets spéciaux                                                                 |
-|-------------------------|----------------|----------------|--------------|-------------|----------------------------------------------------------------------------------|
-| Lance de chevalier      | Force          | d8 + 2         | Très proche  | Une main    |                      |
-| Lance de chevalier de guerre         | Force          | d8 + 2         | Très proche  | Une main    | Augmente le DC de désarçonnement de +1 si l’attaque touche                      |
-| Lance de chevalier d’évasion         | Agilité        | d6 + 2         | Très proche  | Une main    | Ignore un désavantage sur un jet d’attaque une fois par joute |
-| Lance de chevalier de précision      | Dextérité      | d6 + 3         | Très proche  | Une main    | +1 jeton de faveur sur un succès majeur       |
+| Nom de l'arme                   | Trait associé  | Portée   | Dégâts     | Maniement   | Effets spéciaux                                                                  |
+|---------------------------------|----------------|----------|------------|-------------|----------------------------------------------------------------------------------|
+| Lance de chevalier              | Agilité        | Mèlée    | d8 + 3     | Une main    |                                                                                  |
+| Lance de chevalier de guerre    | Force          | Mèlée    | d10 + 3    | Une main    | Heavy: −1 to Evasion                   |
+| Lance de chevalier de précision | Dextérité      | Mèlée    | d8 + 3     | Une main    | Reliable: +1 to attack rolls        |
 
 #### Armes tier 2
-| Nom de la lance           | Trait associé  | Dégâts         | Portée       | Maniement   | Effets spéciaux                                                                 |
-|---------------------------|----------------|----------------|--------------|-------------|----------------------------------------------------------------------------------|
-| Lance de guerre renforcée | Force          | d10 + 2        | Très proche  | Une main    | Augmente le DC de désarçonnement de +2 si l’attaque touche|
-| Lance d’évasion affûtée   | Agilité        | d8 + 2         | Très proche  | Une main    | Ignore un désavantage 2x par joute ; permet une feinte gratuite  |
-| Lance de précision noble  | Dextérité      | d8 + 3         | Très proche  | Une main    | +1 jeton de faveur sur chaque succès ; relance possible 1x par joute |
+| Nom de l'arme                   | Trait associé  | Portée   | Dégâts     | Maniement   | Effets spéciaux                                                                  |
+|---------------------------------|----------------|----------|------------|-------------|----------------------------------------------------------------------------------|
+| Lance de chevalier amélioré             | Agilité        | Mèlée    | d8 + 3     | Une main    |                                                                                  |
+| Lance de chevalier de guerre amélioré     | Force          | Mèlée    | d10 + 3    | Une main    | Heavy: −1 to Evasion                   |
+| Lance de chevalier de précision amélioré   | Dextérité      | Mèlée    | d8 + 3     | Une main    | Reliable: +1 to attack rolls        |
 
 #### Armes tier 3
-| Nom de la lance             | Trait       | Dégâts         | Portée       | Maniement  | Effets spéciaux                                                                 |
-|-----------------------------|-------------|----------------|--------------|------------|----------------------------------------------------------------------------------|
-| Lance du Titan              | Force       | d12 + 2        | Très proche  | Une main    | Augmente le DC de désarçonnement de +3 ; ignore les bonus d’armure légère       |
-| Lance du Vent Furtif        | Agilité     | d10 + 3        | Très proche  | Une main    | Permet une feinte gratuite chaque round ; ignore les malus de posture perdante  |
-| Lance de l’Aigle            | Dextérité   | d10 + 2        | Très proche  | Une main    | Critique sur 18–20 ; +1 jeton de faveur sur chaque succès ; relance 2x par joute |
+| Nom de l'arme                   | Trait associé  | Portée   | Dégâts     | Maniement   | Effets spéciaux                                                                  |
+|---------------------------------|----------------|----------|------------|-------------|----------------------------------------------------------------------------------|
+| Lance de chevalier raffiné             | Agilité        | Mèlée    | d8 + 3     | Une main    |                                                                                  |
+| Lance de chevalier de guerre raffiné     | Force          | Mèlée    | d10 + 3    | Une main    | Heavy: −1 to Evasion                   |
+| Lance de chevalier de précision raffiné  | Dextérité      | Mèlée    | d8 + 3     | Une main    | Reliable: +1 to attack rolls        |
 
-#### Arme enchanté Tier 2
-| Nom enchanté                | Base        | Effet magique                                                                 |
-|-----------------------------|-------------|-------------------------------------------------------------------------------|
-| Lance des Murmures          | Précision   | Permet de lire la posture adverse 1x par joute ; +1 jeton de faveur sur succès |
-| Lance de Brume              | Évasion     | Le chevalier peut annuler un désavantage 1x par joute ; +2 à l’initiative     |
-| Lance du Rugissement        | Guerre      | Sur un succès majeur, inflige peur à l’adversaire ; +1 au DC de désarçonnement |
+
+SECONDARY WEAPON TABLE
+#### Armes tier 1
+| Nom de l'arme                   | Trait associé  | Portée   | Dégâts     | Maniement   | Effets spéciaux                                                                  |
+|---------------------------------|----------------|----------|------------|-------------|----------------------------------------------------------------------------------|
+| Bouclier de joute               | Force          | Mèlée    | -------    | Une main    | Protective: +1 to Armor Score |                                                                                 |
 
 ---
 
