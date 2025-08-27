@@ -732,16 +732,16 @@ Exemple d'une destrier exotique : Destrier de Sable d’Ashkar
 #### Armes tier 2
 | Nom de l'arme                   | Trait associé  | Portée   | Dégâts     | Maniement   | Effets spéciaux                                                                  |
 |---------------------------------|----------------|----------|------------|-------------|----------------------------------------------------------------------------------|
-| Lance de chevalier amélioré             | Agilité        | Mèlée    | d8 + 3     | Une main    |                                                                                  |
-| Lance de chevalier de guerre amélioré     | Force          | Mèlée    | d10 + 3    | Une main    | Heavy: −1 to Evasion                   |
-| Lance de chevalier de précision amélioré   | Dextérité      | Mèlée    | d8 + 3     | Une main    | Reliable: +1 to attack rolls        |
+| Lance de chevalier amélioré             | Agilité        | Mèlée    | d8 + 6     | Une main    |                                                                                  |
+| Lance de chevalier de guerre amélioré     | Force          | Mèlée    | d10 + 6    | Une main    | Heavy: −1 to Evasion                   |
+| Lance de chevalier de précision amélioré   | Dextérité      | Mèlée    | d8 + 6     | Une main    | Reliable: +1 to attack rolls        |
 
 #### Armes tier 3
 | Nom de l'arme                   | Trait associé  | Portée   | Dégâts     | Maniement   | Effets spéciaux                                                                  |
 |---------------------------------|----------------|----------|------------|-------------|----------------------------------------------------------------------------------|
-| Lance de chevalier raffiné             | Agilité        | Mèlée    | d8 + 3     | Une main    |                                                                                  |
-| Lance de chevalier de guerre raffiné     | Force          | Mèlée    | d10 + 3    | Une main    | Heavy: −1 to Evasion                   |
-| Lance de chevalier de précision raffiné  | Dextérité      | Mèlée    | d8 + 3     | Une main    | Reliable: +1 to attack rolls        |
+| Lance de chevalier raffiné             | Agilité        | Mèlée    | d8 + 9     | Une main    |                                                                                  |
+| Lance de chevalier de guerre raffiné     | Force          | Mèlée    | d10 + 9    | Une main    | Heavy: −1 to Evasion                   |
+| Lance de chevalier de précision raffiné  | Dextérité      | Mèlée    | d8 + 9     | Une main    | Reliable: +1 to attack rolls        |
 
 
 SECONDARY WEAPON TABLE
