@@ -674,52 +674,44 @@ Seuls les points obtenus lors des **quatre joutes de saison** organisées à **S
 
 ### 🟨 Les ressources 
 
-#### Ressource tier pour les écuries 1
-| Ressource                           | Bonus        | Effet narratif et mécanique |
-|-------------------------------------|--------------|-----------------------------|
-| Destrier rapide     | +1 Évasion   | Monture vive, entraînée pour esquiver les assauts. |
-| Destrier puissant   | +1 Dégâts    | Monture robuste, chargée pour frapper fort.       |
-| Destrier exotique   | +1 Présence  | Monture rare, attire l’attention du public.       |
-| Barde de plaques    | +1 armure    | Composée de métal, très lourde, offre un peu d'armure au chevalier.|
-| Barde de mailles    | +1 évasion   | Plus souple, offre une bonne protection sans trop gêner le mouvement.|
-| Caparaçon décoratif | +1 présence  | Magnifique .|
-| Bonne réputation    | + 2 jetons de faveur de la foule| la foule connait déjà la réputation|
-| Réputation terrifiante | + stress pour l'adversaire| Le chevalier adverse connait la réputation terrifiante du chevalier.|
+#### Ressource tier pour les écuries 
+**La monture du chevalier : un atout stratégique**
+
+Un chevalier n’est rien sans sa monture. Le destrier, fidèle compagnon de combat, joue un rôle essentiel dans les joutes et peut conférer des avantages significatifs à son cavalier. Ce dernier a la possibilité d’améliorer sa monture selon ses préférences tactiques et les exigences du tournoi.
+
+**Éléments modifiables**
+
+Trois composants distincts peuvent être améliorés :
+
+- **Le cheval** (race, entraînement, endurance)
+- **La barde** (armure du cheval)
+- **La selle** (stabilité et contrôle)
+
+**Types de bonus accordés**
+
+Ces améliorations permettent d’obtenir trois types de bonus :
+
+1. **Optimisé** : Bonus de +2 au RC pour désarçonner l’adversaire lors de l’impact
+2. **Stable** : Bonus de +2 au jet de sauvegarde contre le désarçonnement
+3. **Exotique** : Bonus de 2 jeton de faveur du public au début de la joute
+
+**Expériences du compagnon**
+
+Le compagnon commence avec **+2 dans deux expériences** de votre choix.  
+Chaque fois que vous gagnez une nouvelle expérience, votre compagnon en reçoit également une.  
+Toute nouvelle expérience commence avec un score de **+2**.
+
+*Exemples d’expériences de compagnon*
+*Amical, Terrifiant, Intimidant, Loyal jusqu’à la fin, Agile, Personne ne reste derrière, En alerte maximale, Protecteur, Compagnon royal, Éclaireur, Monture de confiance, Vigilant, On les retrouve toujours.
+
+Vous pouvez prendre la fiche prévu à cette effet pour incorporer ses informations. 
+---
+
+> Ces éléments permettent aux joueurs de personnaliser leur approche des joutes et d’ajouter une dimension stratégique à leur équipement équestre.
+
 
 Exemple d'une destrier exotique : Destrier de Sable d’Ashkar
-
-*Issu des dunes brûlantes du royaume d’Ashkar, ce destrier au pelage doré et aux yeux d’ambre est réputé pour son endurance hors pair et sa foulée silencieuse. Dressé dans les tempêtes du désert, il ne craint ni la chaleur ni le tumulte des arènes. Sa présence seule impose le respect, et sa loyauté envers son cavalier est aussi inébranlable que les murailles d’Aurélion.*
-
-| Ressource                     | Bonus                        | Effet narratif et mécanique                          |
-|-------------------------------|------------------------------|------------------------------------------------------|
-| Insigne de Valome             | +1 Présence                  | Symbole politique et noble reconnu, impose le respect en joute. |
-| base de lance de Caldrun      | +1 Dégats                    | Forgé pour pourfendre les créatures du Nord.            |
-| Écu de Fercreux               | +1 Armure                    | Métal enchanté, issu des forges de Fendacier.         |
-| Tissu de Lume                 | +1 Présence                  | Cape luxueuse, évoque richesse et prestige marchand.  |
-| Serment de Courvouaille       | +1 Espoir                      | Engagement public, inspire confiance et loyauté.      |
-| Bénédiction des Échardes      | +1 Jet de sauvegarde         | Protection druidique contre les effets surnaturels.   |
-| Tribut d’Aurélion             | +1 Jeton de faveur initial   | Offrande sacrée, reconnue par l’Ordre des Chevaliers. |
-
-#### Ressource Tier 2
-| Objet                        | Bonus mécanique           | Effet narratif concis                            |
-|-----------------------------|---------------------------|--------------------------------------------------|
-| Anneau de Valome            | +1 Présence               | Symbole d’autorité reconnu dans tout le royaume. |
-| Gantelet de Fercreux        | +1 Force                  | Forgé dans les mines, renforce la prise en joute. |
-| Cape de BriseLune           | +1 Évasion                | Tissu léger, favorise les mouvements rapides.     |
-| Sceau de Courvouaille       | +1 Espoir                   | Emblème de justice, inspire confiance.            |
-| Talisman des Échardes       | +1 Jet de sauvegarde      | Protège contre les effets magiques ou naturels.   |
-| Harnais de Caldrun          | +1 Armure                 | Renforcé pour résister aux charges brutales.      |
-| Plume de l’Ordre            | +1 Jeton de faveur        | Offerte par les juges, marque d’excellence.       |
-| Éperons d’Aurélion          | +1 Évasion             | Permettent une mise en selle rapide et précise.   |
-
-#### Ressource Tier 3
-| Objet                        | Bonus mécanique           | Effet narratif concis                             |
-|-----------------------------|---------------------------|---------------------------------------------------|
-| Heaume du Champion          | +2 Présence               | Reconnu dans tout le royaume, impose le silence. |
-| Bottes de Fendacier         | +2 Évasion                | Forgées pour l’arène, fluides et résistantes.     |
-| Lame de Saint-Marcelin      | +2 Dégâts                 | Sanctifiée par l’Ordre, tranche avec autorité.    |
-| Barde royale                | +2 Armure                 | Chef-d’œuvre d’artisanat, symbole de noblesse.    |
-| Sceau des Hauts-Ducs        | +2 Présence               | Héritage politique, inspire loyauté et respect.   |
+*Issu des dunes brûlantes du royaume d’Ashkar, ce destrier au pelage doré et aux yeux d’ambre est réputé pour son endurance hors pair et sa foulée silencieuse. Dressé dans les tempêtes du désert, il ne craint ni la chaleur ni le tumulte des arènes. Sa présence seule impose le respect, et sa loyauté envers son cavalier est aussi inébranlable que les murailles d’Aurélion. Bonus de + 1 jeton de faveur de la foule au début d'une joute.*
 
 
 #### Armes tier 1
@@ -743,12 +735,11 @@ Exemple d'une destrier exotique : Destrier de Sable d’Ashkar
 | Lance de chevalier de guerre raffiné     | Force          | Mèlée    | d10 + 9    | Une main    | Heavy: −1 to Evasion                   |
 | Lance de chevalier de précision raffiné  | Dextérité      | Mèlée    | d8 + 9     | Une main    | Reliable: +1 to attack rolls        |
 
-
 SECONDARY WEAPON TABLE
 #### Armes tier 1
 | Nom de l'arme                   | Trait associé  | Portée   | Dégâts     | Maniement   | Effets spéciaux                                                                  |
 |---------------------------------|----------------|----------|------------|-------------|----------------------------------------------------------------------------------|
-| Bouclier de joute               | Force          | Mèlée    | -------    | Une main    | Protective: +1 to Armor Score |                                                                                 |
+| Bouclier de joute               | Force          | Mèlée    | -------    | Une main    | Protective: +1 to Armor Score |                                                                  
 
 ---
 
