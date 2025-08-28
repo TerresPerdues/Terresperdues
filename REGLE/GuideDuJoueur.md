@@ -251,7 +251,7 @@ Les règles de base ne sont pas disponible gratuitement. On peut les retrouver s
 ## Étapes de création de personnage pour foundry
 ### Choix du peuple (Kin)
 
-Tu peux choisir ou lancer un dé (d20) pour le déterminer aléatoirement
+Tu peux choisir ou lancer un dé (d20) pour le déterminer aléatoirement. Lorsque vous connaissez la race que vous aller jouer, il faut ouvrir sa feuille de personnage, aller dans Items ansuite DragonBane - Rules /1-kin et glisser le **Kin** choisit dans la case Kin sur la feuille du personnage. 
 
 | jet | Kin        | Traits distinctifs                                       |
 |--- |------------|----------------------------------------------------------|
@@ -272,29 +272,27 @@ Tu peux choisir ou lancer un dé (d20) pour le déterminer aléatoirement
 | 20 | Satyr        | Raise Spirits -  Activating this ability counts as an action and removes a chosen condition from a person within earshot and 10 meters. The ability cannot be used on the satyr itself.  |
 
 ### Profession
-
+Comme pour le Kin mais cette fois-ci aller dans 2-Professions et la glisser dans **profession**. 
 Exemples : artisan, barde, chasseur, chevalier, combattant, érudit, mage, marchand, marin et voleur
 Déterminée par un d10 si tu veux du hasard
 
 ### Âge
-Jeune, Adulte ou Âgé
+Vous allez choisir dans background sur votre feuille de personnage l'age de votre personnage Jeune, Adulte ou Âgé dans la case **Age**
 L’âge influence les attributs et les compétences : plus vieux = moins d’attributs, mais plus de compétences
 
 ### Attributs
 Six caractéristiques : Force (STR), Constitution (CON), Agilité (AGL), Intelligence (INT), Volonté (WIL), Charisme (CHA)
 Méthode à déterminer selon le nombre de joueurs
-1. lancer 4d6 et garder les 3 meilleurs dés pour chaque attribut (min 3, max 18)
-2. Placer 15, 14, 13, 12, 10, et 8 dans les attributs.
+Placer 15, 14, 13, 12, 10, et 8 dans les attributs.
 
-## Dans foundry
-### Statistiques dérivées
+### Statistiques dérivées son gèré automatiquement dans foundry
 Points de vie = Constitution
 Points de volonté = Volonté
 Bonus de dégâts selon Force ou Agilité
 Mouvement de base selon le peuple + modificateur d’Agilité
 
-### Faiblesse et Memento (optionnels mais fun)
-Faiblesse : défaut de caractère (ex. : avide, colérique)
+### Memento (optionnels mais fun)
+
 Memento : objet sentimental ou mystérieux (ex. : clé ancienne, bijou familial)
 
 ### Évolution du personnage
@@ -331,7 +329,7 @@ Les récompenses et l’équipement ne peuvent pas être cédés à un autre per
 
 ### Achat
 Achat d’équipement de base et de composante non magique
-Afin d'acheter de l’équipement de base à votre personnage. Écrivez l’objet sur votre fiche de personnage et déduisez le prix de l’objet de votre total de pièces.
+Afin d'acheter de l’équipement de base à votre personnage. Vous cliquez sur la loupe et acheter l'objet. 
 
 ### Périodes d’Intermède
 Votre personnage peut effectuer des activités de période d’intermède après une session. D’autres activités sont permises si elles sont introduites dans un autre document officiel de la campagne.
