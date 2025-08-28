@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="turbo-root" content="/Terresperdues">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.11.0.809639212384">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.11.0.809722705056">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.11.0">
@@ -31,11 +31,11 @@
 
     <script data-cfasync="false">(function(){var cl=document.documentElement.classList,ls=localStorage.getItem("retype_scheme"),hd=cl.contains("dark"),hl=cl.contains("light"),wm=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches;if(ls==="dark"||(!ls&&wm&&!hd&&!hl)){cl.remove("light");cl.add("dark")}else if(ls==="light"||(!ls&&!wm&&!hd&&!hl)){cl.remove("dark");cl.add("light")}})();</script>
 
-    <link href="../../resources/css/retype.css?v=3.11.0.809639212384" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.11.0.809722705056" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.11.0.809639212384" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.11.0.809722705056" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.11.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.11.0.809639212384" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.11.0.809722705056" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="retype-app" class="relative text-base antialiased text-base-text bg-base-bg font-body">
@@ -827,7 +827,7 @@ Si vous revenez dans l&#x27;aventure avant la fin de la session de jeu, vous pou
         <span>Choix du peuple (Kin)</span>
     </h3>
 </doc-anchor-target>
-<p>Tu peux choisir ou lancer un dé (d20) pour le déterminer aléatoirement</p>
+<p>Tu peux choisir ou lancer un dé (d20) pour le déterminer aléatoirement. Lorsque vous connaissez la race que vous aller jouer, il faut ouvrir sa feuille de personnage, aller dans Items ansuite DragonBane - Rules /1-kin et glisser le <strong>Kin</strong> choisit dans la case Kin sur la feuille du personnage.</p>
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
 <thead>
@@ -922,7 +922,8 @@ Si vous revenez dans l&#x27;aventure avant la fin de la session de jeu, vous pou
         <span>Profession</span>
     </h3>
 </doc-anchor-target>
-<p>Exemples : artisan, barde, chasseur, chevalier, combattant, érudit, mage, marchand, marin et voleur
+<p>Comme pour le Kin mais cette fois-ci aller dans 2-Professions et la glisser dans <strong>profession</strong>.
+Exemples : artisan, barde, chasseur, chevalier, combattant, érudit, mage, marchand, marin et voleur
 Déterminée par un d10 si tu veux du hasard</p>
 <doc-anchor-target id="âge">
     <h3>
@@ -930,7 +931,7 @@ Déterminée par un d10 si tu veux du hasard</p>
         <span>Âge</span>
     </h3>
 </doc-anchor-target>
-<p>Jeune, Adulte ou Âgé
+<p>Vous allez choisir dans background sur votre feuille de personnage l&#x27;age de votre personnage Jeune, Adulte ou Âgé dans la case <strong>Age</strong>
 L’âge influence les attributs et les compétences : plus vieux = moins d’attributs, mais plus de compétences</p>
 <doc-anchor-target id="attributs">
     <h3>
@@ -939,35 +940,25 @@ L’âge influence les attributs et les compétences : plus vieux = moins d’at
     </h3>
 </doc-anchor-target>
 <p>Six caractéristiques : Force (STR), Constitution (CON), Agilité (AGL), Intelligence (INT), Volonté (WIL), Charisme (CHA)
-Méthode à déterminer selon le nombre de joueurs</p>
-<ol>
-<li>lancer 4d6 et garder les 3 meilleurs dés pour chaque attribut (min 3, max 18)</li>
-<li>Placer 15, 14, 13, 12, 10, et 8 dans les attributs.</li>
-</ol>
-<doc-anchor-target id="dans-foundry">
-    <h2>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#dans-foundry">#</doc-anchor-trigger>
-        <span>Dans foundry</span>
-    </h2>
-</doc-anchor-target>
-<doc-anchor-target id="statistiques-dérivées">
+Méthode à déterminer selon le nombre de joueurs
+Placer 15, 14, 13, 12, 10, et 8 dans les attributs.</p>
+<doc-anchor-target id="statistiques-dérivées-son-gèré-automatiquement-dans-foundry">
     <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#statistiques-dérivées">#</doc-anchor-trigger>
-        <span>Statistiques dérivées</span>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#statistiques-dérivées-son-gèré-automatiquement-dans-foundry">#</doc-anchor-trigger>
+        <span>Statistiques dérivées son gèré automatiquement dans foundry</span>
     </h3>
 </doc-anchor-target>
 <p>Points de vie = Constitution
 Points de volonté = Volonté
 Bonus de dégâts selon Force ou Agilité
 Mouvement de base selon le peuple + modificateur d’Agilité</p>
-<doc-anchor-target id="faiblesse-et-memento-optionnels-mais-fun">
+<doc-anchor-target id="memento-optionnels-mais-fun">
     <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#faiblesse-et-memento-optionnels-mais-fun">#</doc-anchor-trigger>
-        <span>Faiblesse et Memento (optionnels mais fun)</span>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#memento-optionnels-mais-fun">#</doc-anchor-trigger>
+        <span>Memento (optionnels mais fun)</span>
     </h3>
 </doc-anchor-target>
-<p>Faiblesse : défaut de caractère (ex. : avide, colérique)
-Memento : objet sentimental ou mystérieux (ex. : clé ancienne, bijou familial)</p>
+<p>Memento : objet sentimental ou mystérieux (ex. : clé ancienne, bijou familial)</p>
 <doc-anchor-target id="évolution-du-personnage-2">
     <h3>
         <doc-anchor-trigger class="header-anchor-trigger" to="#évolution-du-personnage-2">#</doc-anchor-trigger>
@@ -1040,7 +1031,7 @@ Les récompenses et l’équipement ne peuvent pas être cédés à un autre per
     </h3>
 </doc-anchor-target>
 <p>Achat d’équipement de base et de composante non magique
-Afin d&#x27;acheter de l’équipement de base à votre personnage. Écrivez l’objet sur votre fiche de personnage et déduisez le prix de l’objet de votre total de pièces.</p>
+Afin d&#x27;acheter de l’équipement de base à votre personnage. Vous cliquez sur la loupe et acheter l&#x27;objet.</p>
 <doc-anchor-target id="périodes-dintermède-1">
     <h3>
         <doc-anchor-trigger class="header-anchor-trigger" to="#périodes-dintermède-1">#</doc-anchor-trigger>
