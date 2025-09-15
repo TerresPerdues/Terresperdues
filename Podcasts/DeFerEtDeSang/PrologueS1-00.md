@@ -16,7 +16,7 @@ Le groupe échangea avec Rubio, qui leur confia son rêve : **fonder une écurie
 ## Les joutes commencent
 La fête prit un tournant martial avec l’ouverture des joutes. Ignarion affronta Robert, un jeune noble arrogant, et le désarçonna deux fois sous les acclamations de la foule. L’ambiance était légère, presque euphorique.
 
-Mais tout changea lorsque **Andertal Hautemine**, chevalier géant du duché de Fercreux, entra en lice. Sa présence imposait le silence. Invité pour une joute amicale avec Rubio, il semblait calme… jusqu’à la troisième passe, où il transperça le jeune noble de sa lance, le soulevant hors de sa selle dans un geste brutal et délibéré.
+Mais tout changea lorsque **Andertal Hautemine**, chevalier géant du duché de Fercreux, entra en lice. Sa présence imposait le silence. Invité pour une joute amicale avec Rubio, il semblait calme… jusqu’à la deuxième passe, où il transperça le jeune noble de sa lance, le soulevant hors de sa selle dans un geste brutal et délibéré.
 
 Le silence tomba. Le corps de Rubio, encore embroché, fut porté devant son père, **Dumas Duras**, figé dans une douleur muette. Malgré l’horreur, les règles de l’honneur exigeaient que le prix soit remis au vainqueur. Dumas, les mains tremblantes, dut remettre le trophée à l’assassin de son fils.
 
