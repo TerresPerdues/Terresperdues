@@ -1,0 +1,795 @@
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="turbo-root" content="/Terresperdues">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.11.0.811622893442">
+
+    <!-- See retype.com -->
+    <meta name="generator" content="Retype 3.11.0">
+
+    <!-- Primary Meta Tags -->
+    <title>TITLE | Terres Perdues Guides</title>
+    <meta name="title" content="TITLE | Terres Perdues Guides">
+    <meta name="description" content="Les Terres Sombres d'Orvalhys Créé par Tommy Doyon et Ludovic Gasse">
+
+    <!-- Canonical -->
+    <link rel="canonical" href="https://terresperdues.github.io/Terresperdues/daggerheart/orvalhys/">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://terresperdues.github.io/Terresperdues/daggerheart/orvalhys/">
+    <meta property="og:title" content="TITLE | Terres Perdues Guides">
+    <meta property="og:description" content="Les Terres Sombres d'Orvalhys Créé par Tommy Doyon et Ludovic Gasse">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://terresperdues.github.io/Terresperdues/daggerheart/orvalhys/">
+    <meta property="twitter:title" content="TITLE | Terres Perdues Guides">
+    <meta property="twitter:description" content="Les Terres Sombres d'Orvalhys Créé par Tommy Doyon et Ludovic Gasse">
+
+    <script data-cfasync="false">(function(){var cl=document.documentElement.classList,ls=localStorage.getItem("retype_scheme"),hd=cl.contains("dark"),hl=cl.contains("light"),wm=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches;if(ls==="dark"||(!ls&&wm&&!hd&&!hl)){cl.remove("light");cl.add("dark")}else if(ls==="light"||(!ls&&!wm&&!hd&&!hl)){cl.remove("dark");cl.add("light")}})();</script>
+
+    <link href="../../resources/css/retype.css?v=3.11.0.811622893442" rel="stylesheet">
+
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.11.0.811622893442" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/retype.js?v=3.11.0" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.11.0.811622893442" data-turbo-eval="false" defer></script>
+</head>
+<body>
+    <div id="retype-app" class="relative text-base antialiased text-base-text bg-base-bg font-body">
+        <div class="absolute bottom-0 left-0" style="top: 5rem; right: 50%"></div>
+    
+        <header id="retype-header" class="sticky top-0 z-30 flex w-full h-16 bg-header-bg border-b border-header-border md:h-20">
+            <div class="container relative flex items-center justify-between pr-6 grow md:justify-start">
+                <!-- Mobile menu button skeleton -->
+                <button v-cloak class="skeleton retype-mobile-menu-button flex items-center justify-center shrink-0 overflow-hidden dark:text-white focus:outline-none rounded-full w-10 h-10 ml-3.5 md:hidden"><svg xmlns="http://www.w3.org/2000/svg" class="mb-px shrink-0" width="24" height="24" viewBox="0 0 24 24" role="presentation" style="margin-bottom: 0px;"><g fill="currentColor"><path d="M2 4h20v2H2zM2 11h20v2H2zM2 18h20v2H2z"></path></g></svg></button>
+                <div v-cloak id="retype-sidebar-left-toggle-button"></div>
+        
+                <!-- Logo -->
+                <div class="flex items-center justify-between h-full py-2 md:w-75">
+                    <div class="flex items-center px-2 md:px-6">
+                        <a id="retype-branding-logo" href="../../" class="flex items-center leading-snug text-xl">
+                            <span class="w-10 mr-2 grow-0 shrink-0 overflow-hidden">
+                                <img class="max-h-10 dark:hidden md:inline-block" src="../../images/logo-circle.png">
+                                <img class="max-h-10 hidden dark:inline-block" src="../../images/logo-circle.png">
+                            </span>
+                            <span class="dark:text-white font-bold line-clamp-1 md:line-clamp-2">Terres Perdues Guide</span>
+                        </a><span id="retype-branding-label" class="inline-flex mt-1 px-2 py-1 ml-4 text-xs font-medium leading-none items-center rounded-md bg-branding-label-bg text-branding-label-text ring-1 ring-branding-label-border ring-inset md:inline-block">v1.5</span>
+                    </div>
+        
+                    <span class="hidden h-8 border-r md:inline-block border-base-border"></span>
+                </div>
+        
+                <div class="flex justify-between md:grow">
+                    <!-- Top Nav -->
+                    <nav id="retype-header-nav" class="hidden md:flex">
+                        <ul class="flex flex-col mb-4 md:pl-16 md:mb-0 md:flex-row md:items-center">
+                            <li class="mr-6">
+                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="../../">Bienvenue!</a>
+                            </li>
+                            <li class="mr-6">
+                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="https://terresperdues.github.io/Terresperdues/regle/">Les Règles</a>
+                            </li>
+                            <li class="mr-6">
+                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="https://terresperdues.github.io/Terresperdues/westmarch/">Les westmarch</a>
+                            </li>
+                            <li class="mr-6">
+                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="https://terresperdues.github.io/Terresperdues/mondes/">Les mondes</a>
+                            </li>
+                            <li class="mr-6">
+                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="https://terresperdues.github.io/Terresperdues/gamejam/">GAME JAM des Terres Perdues</a>
+                            </li>
+        
+                        </ul>
+                    </nav>
+        
+                    <!-- Header Right Skeleton -->
+                    <div v-cloak class="flex justify-end grow skeleton">
+        
+                        <!-- Search input mock -->
+                        <div class="relative hidden w-40 lg:block lg:max-w-sm lg:ml-auto">
+                            <div class="absolute flex items-center justify-center h-full pl-3 dark:text-dark-300">
+                                <svg xmlns="http://www.w3.org/2000/svg" class="icon-base" width="16" height="16" viewBox="0 0 24 24" aria-labelledby="icon" role="presentation" style="margin-bottom: 1px;"><g fill="currentColor" ><path d="M21.71 20.29l-3.68-3.68A8.963 8.963 0 0020 11c0-4.96-4.04-9-9-9s-9 4.04-9 9 4.04 9 9 9c2.12 0 4.07-.74 5.61-1.97l3.68 3.68c.2.19.45.29.71.29s.51-.1.71-.29c.39-.39.39-1.03 0-1.42zM4 11c0-3.86 3.14-7 7-7s7 3.14 7 7c0 1.92-.78 3.66-2.04 4.93-.01.01-.02.01-.02.01-.01.01-.01.01-.01.02A6.98 6.98 0 0111 18c-3.86 0-7-3.14-7-7z" ></path></g></svg>
+                            </div>
+                            <input class="w-full h-10 placeholder-search-placeholder transition-colors duration-200 ease-in bg-search-bg border border-transparent rounded md:text-sm hover:border-search-border-hover focus:outline-none focus:border-search-border-focus" style="padding: 0.625rem 0.75rem 0.625rem 2rem" type="text" placeholder="Search">
+                        </div>
+        
+                        <!-- Mobile search button -->
+                        <div class="flex items-center justify-center w-10 h-10 lg:hidden">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="shrink-0 icon-base" width="20" height="20" viewBox="0 0 24 24" aria-labelledby="icon" role="presentation" style="margin-bottom: 0px;"><g fill="currentColor" ><path d="M21.71 20.29l-3.68-3.68A8.963 8.963 0 0020 11c0-4.96-4.04-9-9-9s-9 4.04-9 9 4.04 9 9 9c2.12 0 4.07-.74 5.61-1.97l3.68 3.68c.2.19.45.29.71.29s.51-.1.71-.29c.39-.39.39-1.03 0-1.42zM4 11c0-3.86 3.14-7 7-7s7 3.14 7 7c0 1.92-.78 3.66-2.04 4.93-.01.01-.02.01-.02.01-.01.01-.01.01-.01.02A6.98 6.98 0 0111 18c-3.86 0-7-3.14-7-7z" ></path></g></svg>
+                        </div>
+        
+                        <!-- Dark mode switch placeholder -->
+                        <div class="w-10 h-10 lg:ml-2"></div>
+        
+                        <!-- History button -->
+                        <div class="flex items-center justify-center w-10 h-10" style="margin-right: -0.625rem;">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="shrink-0 icon-base" width="22" height="22" viewBox="0 0 24 24" aria-labelledby="icon" role="presentation" style="margin-bottom: 0px;"><g fill="currentColor" ><g ><path d="M12.01 6.01c-.55 0-1 .45-1 1V12a1 1 0 00.4.8l3 2.22a.985.985 0 001.39-.2.996.996 0 00-.21-1.4l-2.6-1.92V7.01c.02-.55-.43-1-.98-1z"></path><path d="M12.01 1.91c-5.33 0-9.69 4.16-10.05 9.4l-.29-.26a.997.997 0 10-1.34 1.48l1.97 1.79c.19.17.43.26.67.26s.48-.09.67-.26l1.97-1.79a.997.997 0 10-1.34-1.48l-.31.28c.34-4.14 3.82-7.41 8.05-7.41 4.46 0 8.08 3.63 8.08 8.09s-3.63 8.08-8.08 8.08c-2.18 0-4.22-.85-5.75-2.4a.996.996 0 10-1.42 1.4 10.02 10.02 0 007.17 2.99c5.56 0 10.08-4.52 10.08-10.08.01-5.56-4.52-10.09-10.08-10.09z"></path></g></g></svg>
+                        </div>
+                    </div>
+        
+                    <div v-cloak class="flex justify-end grow">
+                        <div id="retype-mobile-search-button"></div>
+                        <doc-search-desktop></doc-search-desktop>
+        
+                        <doc-theme-switch class="lg:ml-2"></doc-theme-switch>
+                        <doc-history></doc-history>
+                    </div>
+                </div>
+            </div>
+        </header>
+    
+    
+        <div id="retype-container" class="container relative flex bg-white">
+            <!-- Sidebar Skeleton -->
+            <div v-cloak class="fixed flex flex-col shrink-0 duration-300 ease-in-out bg-sidebar-left-bg border-sidebar-left-border sidebar top-20 w-75 border-r h-screen md:sticky transition-transform skeleton">
+            
+                <div class="flex items-center h-16 px-6">
+                    <input class="w-full h-8 px-3 py-2 transition-colors duration-200 ease-linear bg-filter-bg border border-filter-border rounded shadow-none text-sm focus:outline-none focus:border-filter-border-focus" type="text" placeholder="Filter">
+                </div>
+            
+                <div class="pl-6 mt-1 mb-4">
+                    <div class="w-32 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                    <div class="w-48 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                    <div class="w-40 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                    <div class="w-32 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                    <div class="w-48 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                    <div class="w-40 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                </div>
+            
+                <div class="shrink-0 mt-auto bg-transparent dark:border-base-border">
+                    <a class="flex items-center justify-center flex-nowrap h-16 text-gray-350 dark:text-dark-400 hover:text-gray-600 dark:hover:text-dark-300 transition-colors duration-150 ease-in docs-powered-by" target="_blank" href="https://retype.com/" rel="noopener">
+                        <span class="text-xs whitespace-nowrap">Powered by</span>
+                        <svg xmlns="http://www.w3.org/2000/svg" class="ml-2" fill="currentColor" width="96" height="20" overflow="visible"><path d="M0 0v20h13.59V0H0zm11.15 17.54H2.44V2.46h8.71v15.08zM15.8 20h2.44V4.67L15.8 2.22zM20.45 6.89V20h2.44V9.34z"/><g><path d="M40.16 8.44c0 1.49-.59 2.45-1.75 2.88l2.34 3.32h-2.53l-2.04-2.96h-1.43v2.96h-2.06V5.36h3.5c1.43 0 2.46.24 3.07.73s.9 1.27.9 2.35zm-2.48 1.1c.26-.23.38-.59.38-1.09 0-.5-.13-.84-.4-1.03s-.73-.28-1.39-.28h-1.54v2.75h1.5c.72 0 1.2-.12 1.45-.35zM51.56 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92h4.74v1.83h-6.79V5.36h6.64zM60.09 7.15v7.48h-2.06V7.15h-2.61V5.36h7.28v1.79h-2.61zM70.81 14.64h-2.06v-3.66l-3.19-5.61h2.23l1.99 3.45 1.99-3.45H74l-3.19 5.61v3.66zM83.99 6.19c.65.55.97 1.4.97 2.55s-.33 1.98-1 2.51-1.68.8-3.04.8h-1.23v2.59h-2.06V5.36h3.26c1.42 0 2.45.28 3.1.83zm-1.51 3.65c.25-.28.37-.69.37-1.22s-.16-.92-.48-1.14c-.32-.23-.82-.34-1.5-.34H79.7v3.12h1.38c.68 0 1.15-.14 1.4-.42zM95.85 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92H96v1.83h-6.79V5.36h6.64z"/></g></svg>
+                    </a>
+                </div>
+            </div>
+            
+            <!-- Sidebar component -->
+            <doc-sidebar v-cloak>
+                <template #sidebar-footer>
+                    <div class="shrink-0 mt-auto border-t md:bg-transparent md:border-none dark:border-base-border">
+            
+                        <div class="py-3 px-6 md:hidden border-b dark:border-base-border">
+                            <nav>
+                                <ul class="flex flex-wrap justify-center items-center">
+                                    <li class="mr-6">
+                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="../../">Bienvenue!</a>
+                                    </li>
+                                    <li class="mr-6">
+                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="https://terresperdues.github.io/Terresperdues/regle/">Les Règles</a>
+                                    </li>
+                                    <li class="mr-6">
+                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="https://terresperdues.github.io/Terresperdues/westmarch/">Les westmarch</a>
+                                    </li>
+                                    <li class="mr-6">
+                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="https://terresperdues.github.io/Terresperdues/mondes/">Les mondes</a>
+                                    </li>
+                                    <li class="mr-6">
+                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="https://terresperdues.github.io/Terresperdues/gamejam/">GAME JAM des Terres Perdues</a>
+                                    </li>
+            
+                                </ul>
+                            </nav>
+                        </div>
+            
+                        <a class="flex items-center justify-center flex-nowrap h-16 text-gray-350 dark:text-dark-400 hover:text-gray-600 dark:hover:text-dark-300 transition-colors duration-150 ease-in docs-powered-by" target="_blank" href="https://retype.com/" rel="noopener">
+                            <span class="text-xs whitespace-nowrap">Powered by</span>
+                            <svg xmlns="http://www.w3.org/2000/svg" class="ml-2" fill="currentColor" width="96" height="20" overflow="visible"><path d="M0 0v20h13.59V0H0zm11.15 17.54H2.44V2.46h8.71v15.08zM15.8 20h2.44V4.67L15.8 2.22zM20.45 6.89V20h2.44V9.34z"/><g><path d="M40.16 8.44c0 1.49-.59 2.45-1.75 2.88l2.34 3.32h-2.53l-2.04-2.96h-1.43v2.96h-2.06V5.36h3.5c1.43 0 2.46.24 3.07.73s.9 1.27.9 2.35zm-2.48 1.1c.26-.23.38-.59.38-1.09 0-.5-.13-.84-.4-1.03s-.73-.28-1.39-.28h-1.54v2.75h1.5c.72 0 1.2-.12 1.45-.35zM51.56 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92h4.74v1.83h-6.79V5.36h6.64zM60.09 7.15v7.48h-2.06V7.15h-2.61V5.36h7.28v1.79h-2.61zM70.81 14.64h-2.06v-3.66l-3.19-5.61h2.23l1.99 3.45 1.99-3.45H74l-3.19 5.61v3.66zM83.99 6.19c.65.55.97 1.4.97 2.55s-.33 1.98-1 2.51-1.68.8-3.04.8h-1.23v2.59h-2.06V5.36h3.26c1.42 0 2.45.28 3.1.83zm-1.51 3.65c.25-.28.37-.69.37-1.22s-.16-.92-.48-1.14c-.32-.23-.82-.34-1.5-.34H79.7v3.12h1.38c.68 0 1.15-.14 1.4-.42zM95.85 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92H96v1.83h-6.79V5.36h6.64z"/></g></svg>
+                        </a>
+                    </div>
+                </template>
+            </doc-sidebar>
+    
+            <div class="grow min-w-0 bg-body-bg">
+                <!-- Render "toolbar" template here on api pages --><!-- Render page content -->
+                <div class="flex">
+                    <div id="retype-main" class="min-w-0 p-4 grow md:px-16">
+                        <main class="relative pb-12 lg:pt-2">
+                            <div class="retype-markdown" id="retype-content">
+                                <!-- Rendered if sidebar right is enabled -->
+                                <div id="retype-sidebar-right-toggle"></div>
+                                <!-- Page content  -->
+<doc-anchor-target id="title" class="break-words">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#title">#</doc-anchor-trigger>
+        <span><strong>TITLE</strong></span>
+    </h1>
+</doc-anchor-target>
+<p>Les Terres Sombres d&#x27;Orvalhys
+<em>Créé par Tommy Doyon et Ludovic Gasse</em></p>
+<doc-anchor-target id="concept">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#concept">#</doc-anchor-trigger>
+        <span><strong>CONCEPT</strong></span>
+    </h1>
+</doc-anchor-target>
+<p>Un monde déchu de son Âge d’Or, où les ténèbres issues d’un châtiment divin forcent les survivants à lutter contre monstres, morts-vivants et factions rivales pour le contrôle des dernières enclaves de lumière.</p>
+<doc-anchor-target id="complexity-rating">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#complexity-rating">#</doc-anchor-trigger>
+        <span><strong>COMPLEXITY RATING</strong></span>
+    </h1>
+</doc-anchor-target>
+<p><span class="docs-emoji">&#x26AA;</span><span class="docs-emoji">&#x26AA;</span></p>
+<doc-anchor-target id="the-pitch">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#the-pitch">#</doc-anchor-trigger>
+        <span><strong>THE PITCH</strong></span>
+    </h1>
+</doc-anchor-target>
+<p><em>Read this section to your players to introduce them to the campaign.</em></p>
+<p>Orvalhys est un monde en ruine, jadis éclatant, aujourd’hui ravagé par les ténèbres d’un châtiment divin. Là où se dressaient autrefois des cités rayonnantes, il ne reste que des enclaves de lumière, fragiles et convoitées. Les Pierres-Larmes, reliques sacrées capables de repousser l’obscurité, sont l’enjeu d’une lutte impitoyable : royaumes déchus, ordres religieux, seigneurs de guerre et aventuriers téméraires cherchent à les protéger, les voler ou les revendiquer. Dans cette campagne, vous explorerez les Terres Perdues, affronterez des monstres issus des enfers et des morts qui marchent, et devrez naviguer entre alliances fragiles et trahisons inévitables. Le ton est sombre, imprégné de désespoir, mais chaque victoire, chaque enclave sauvée ou conquise, portera le poids d’un choix moral. Ici, la lumière n’est jamais acquise… et c’est à vous de décider qui en sera digne.</p>
+<doc-anchor-target id="tone--feel">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#tone--feel">#</doc-anchor-trigger>
+        <span><strong>TONE &amp; FEEL</strong></span>
+    </h1>
+</doc-anchor-target>
+<p>Ancien, intimidant, épique, sinistre, inquiétant, terrifiant, tragique</p>
+<p>Orvalhys est un monde de haute-fantasy sombre (grimdark high fantasy) où la majesté d’antan survit à travers les ruines et la peur. L’atmosphère est lourde de tension : chaque voyage au-delà des enclaves lumineuses est une lutte pour la survie, chaque rencontre avec une autre faction est teintée de méfiance. Les joueurs évolueront dans un univers épique mais impitoyable, où la beauté des paysages et la grandeur des anciennes cités contrastent avec la menace omniprésente des ténèbres. L’émotion dominante est un mélange d’espoir fragile et de désespoir latent — la satisfaction de remporter de petites victoires dans un monde qui s’effrite, mais aussi le poids de décisions difficiles qui marqueront durablement le destin des vivants.</p>
+<doc-anchor-target id="themes">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#themes">#</doc-anchor-trigger>
+        <span><strong>THEMES</strong></span>
+    </h1>
+</doc-anchor-target>
+<p>Apocalypse, corruption, ténèbres contre lumière, espoir, rédemption, survie</p>
+<p>Dans un monde où la lumière se fait rare, jusqu’où iriez-vous pour protéger ce qui reste ? Orvalhys explore la survie dans un univers brisé par un châtiment divin, où la menace ne vient pas seulement des monstres et des ténèbres, mais aussi des ambitions humaines. Les rares enclaves protégées par les Pierres-Larmes sont autant de sanctuaires fragiles que de symboles de pouvoir, attisant la convoitise de royaumes, d’ordres religieux et de seigneurs de guerre. Les personnages devront naviguer dans un paysage de tensions constantes, où sauver les autres peut signifier renoncer à son propre avantage, où chaque alliance est fragile et chaque trahison possible, et où la foi en des dieux absents se heurte au désir de forger un destin par ses propres mains. Dans ce monde où chaque choix peut déterminer le sort de centaines d’âmes, une question demeure : êtes-vous prêt à sacrifier le pouvoir pour la lumière, ou sacrifierez-vous la lumière pour le pouvoir ?</p>
+<doc-anchor-target id="touchstones">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#touchstones">#</doc-anchor-trigger>
+        <span><strong>TOUCHSTONES</strong></span>
+    </h1>
+</doc-anchor-target>
+<p>Final Fantasy, Berserk, Diablo, The Witcher</p>
+<doc-anchor-target id="overview">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#overview">#</doc-anchor-trigger>
+        <span><strong>OVERVIEW</strong></span>
+    </h1>
+</doc-anchor-target>
+<doc-anchor-target id="le-monde">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#le-monde">#</doc-anchor-trigger>
+        <span>Le Monde</span>
+    </h3>
+</doc-anchor-target>
+<p>Orvalhys est un univers de haute-fantasy qui a connu un Âge d’Or où royaumes, cités et peuples vivaient sous la lumière et la bénédiction des dieux. La paix, la prospérité et la magie abondaient, tissant un équilibre presque parfait. Mais cet âge de splendeur a pris fin lorsqu’un acte impie — une tentative de voler l’essence d’un dieu — a déclenché la colère céleste. Les divinités se sont détournées des mortels, et les ténèbres ont envahi le monde : morts-vivants, démons et créatures monstrueuses hantent désormais les terres.</p>
+<doc-anchor-target id="les-pierres-larmes">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#les-pierres-larmes">#</doc-anchor-trigger>
+        <span>Les Pierres-Larmes</span>
+    </h3>
+</doc-anchor-target>
+<p>Les rares zones encore protégées de la corruption le sont grâce aux Pierres-Larmes : des cristaux sacrés nés de l’âme de héros légendaires à leur mort. Leur lumière repousse les ténèbres, mais leur portée est limitée et leur rareté en fait l’objet de toutes les convoitises. Posséder une Pierre-Larme, c’est avoir le pouvoir de protéger — ou de dominer — des centaines de vies.</p>
+<doc-anchor-target id="les-dangers">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#les-dangers">#</doc-anchor-trigger>
+        <span>Les Dangers</span>
+    </h3>
+</doc-anchor-target>
+<p>Au-delà des enclaves lumineuses, s’étendent les Terres Perdues, où les ombres dominent. Les voyageurs y affrontent monstres, pièges, ruines maudites et conditions extrêmes. Mais le danger vient aussi des vivants : royaumes déchus, ordres religieux fanatiques, guildes marchandes armées et bandes de pillards s’affrontent pour contrôler ces reliques. Les alliances y sont fragiles, les trahisons fréquentes, et chaque rencontre peut être fatale.</p>
+<doc-anchor-target id="votre-rôle">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#votre-rôle">#</doc-anchor-trigger>
+        <span>Votre Rôle</span>
+    </h3>
+</doc-anchor-target>
+<p>Vous êtes de ceux qui osent franchir les frontières de la lumière pour braver les Terres Perdues. Vos missions vous mèneront à chercher des Pierres-Larmes, défendre celles existantes ou, parfois, les arracher des mains de vos rivaux. Vous devrez combattre, négocier, survivre… et faire des choix qui auront un impact durable. Car dans Orvalhys, chaque victoire a un prix, et chaque flamme rallumée attire les ombres.</p>
+<doc-anchor-target id="verronne">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#verronne">#</doc-anchor-trigger>
+        <span>Verronne</span>
+    </h3>
+</doc-anchor-target>
+<p>Verronne s’élève au cœur de ce qui fut jadis une majestueuse cité fortifiée, aujourd’hui encore solidement protégée par ses murailles. La ville est coupée en deux par le fleuve Ravelyne, artère vitale qui permet aux navires de haute mer d’accoster avant de transférer leur cargaison sur des embarcations plus petites pour remonter le cours du fleuve, ou sur des chariots pour un transport terrestre.</p>
+<p>Réputée pour son architecture de pierre monumentale, Verronne se distingue par ses façades richement ornées, ses sculptures raffinées et ses longs ponts élégants qui enjambent la Ravelyne, reliant les deux rives en un réseau harmonieux.</p>
+<doc-anchor-target id="mossgarde">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#mossgarde">#</doc-anchor-trigger>
+        <span>Mossgarde</span>
+    </h3>
+</doc-anchor-target>
+<p>La cité perchée de Mossgarde, surnommée la Cité aux Mille Passerelles, se dresse à l’orée d’une forêt ancestrale où des arbres colossaux s’élèvent vers le ciel. Ici, l’art et l’ingénierie se sont épanouis dans une parfaite symbiose avec le monde naturel. Certains bâtiments monumentaux sont suspendus entre plusieurs troncs, tandis que d’autres s’enroulent et s’entrelacent autour d’un seul arbre, comme façonnés par le bois lui-même.</p>
+<p>Mossgarde est un îlot d’ordre au milieu du chaos du monde, organisé en strates verticales. La noblesse vit dans la canopée, dans des demeures dépassant même les cimes, offrant une vue imprenable sur des lieues à la ronde. Un peu plus bas, sous l’épaisseur des branches, réside la bourgeoisie. Plus on descend vers le sol, plus les habitations sont modestes, jusqu’aux foyers des gens simples et des pauvres. Les plus démunis, quant à eux, vivent dans des cavernes creusées entre les racines titanesques des géants de bois.</p>
+<p>Ici, les lois sont strictes : tout crime pouvant menacer la santé ou l’intégrité d’un de ces arbres sacrés est puni de manière rapide et implacable.</p>
+<doc-anchor-target id="briselune">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#briselune">#</doc-anchor-trigger>
+        <span>BriseLune</span>
+    </h3>
+</doc-anchor-target>
+<p>BriseLune est une cité portuaire animée, berceau d’explorateurs marins, de marchands et de pêcheurs aguerris. Comme partout ailleurs dans le monde, elle subit l’assaut des monstres… mais son sort est plus terrible encore. Les créatures qui règnent sur l’océan, colossales et implacables, surpassent en horreur tout ce que l’on peut rencontrer sur terre. Pour les habitants, chaque sortie en mer est un pari avec la mort, et la survie dépend autant de l’habileté des marins que de la chance des dieux.</p>
+<doc-anchor-target id="grenth-krall">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#grenth-krall">#</doc-anchor-trigger>
+        <span>Grenth Krall</span>
+    </h3>
+</doc-anchor-target>
+<p>Grenth Krall s’élève dans une vallée perpétuellement noyée de brume, comme si la lumière elle-même hésitait à s’y aventurer. C’est un refuge pour tous ceux que le monde a rejetés : exclus, malandrins, hérétiques et âmes brisées. Plus qu’une cité, c’est une enclave sauvage où la loi du plus fort fait figure d’autorité.</p>
+<p>Les habitants se regroupent en clans et familles, chacun jaloux de son honneur et prêt à tout pour le défendre. Ici, une offense ou une marque de déshonneur peut précipiter la chute d’un clan tout entier, car s’attirer la colère des autres revient souvent à signer sa propre condamnation. Le pouvoir se mesure à la force qu’un clan peut démontrer, et le moindre signe de faiblesse peut conduire à l’abandon, voire à l’élimination pure et simple. Dans cette cité impitoyable, il n’est pas rare que l’on “coupe la branche malade” avant qu’elle ne menace l’arbre tout entier.</p>
+<doc-anchor-target id="les-montagnes-sacrées-de-loryande-et-valcouronne">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#les-montagnes-sacrées-de-loryande-et-valcouronne">#</doc-anchor-trigger>
+        <span>Les Montagnes sacrées de Loryande et Valcouronne</span>
+    </h3>
+</doc-anchor-target>
+<p>Au cœur du monde s’étend une vaste et complexe chaîne montagneuse où règne un hiver éternel. Le froid y est maître, et seuls ceux qui ont une raison impérieuse s’y aventurent. Dominant ce royaume glacé se dresse le Mont Aetheryon, montagne sacrée sur laquelle fut bâti un temple surplombant les terres comme pour veiller sur elles.</p>
+<p>En son centre se trouve le Trône Céleste Brisé, sanctuaire de la divinité majeure de la Justice et de l’Équilibre. Ce trône n’a pas été endommagé par le temps ou la violence : il a été façonné volontairement dans cet état, fendu dès sa création. Cette fracture est le symbole absolu que, dans un pacte scellé en ce lieu, la seule chose qui puisse être brisée est le trône lui-même. Quiconque ose rompre un serment prononcé ici sans en passer par ce symbole s’expose à la colère divine. Jadis, rois, nobles et héros entreprenaient de longues expéditions pour venir y sceller des alliances, des traités et des serments qui devaient durer autant que le monde.</p>
+<p>Tout autour, dans les vallées et jusque dans les montagnes enneigées qui encerclent le Mont Aetheryon, s’étend la région de Valcouronne. Cette nécropole royale et héroïque abrite depuis des siècles les dépouilles des souverains et champions d’Orvalhys. On y trouve une infinité de sépultures : certaines, sobres, se limitent à une tombe creusée surmontée d’une stèle gravée ; d’autres, plus grandioses, sont de véritables tombeaux monumentaux dissimulés sous terre, abritant les trésors, les reliques et les légendes des figures qui façonnèrent l’histoire.</p>
+<doc-anchor-target id="le-panthéon">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#le-panthéon">#</doc-anchor-trigger>
+        <span>Le Panthéon</span>
+    </h3>
+</doc-anchor-target>
+<p>Même si le monde subit la colère divine, les dieux sont bien connus et parfois certain d&#x27;entre eux daignes aider les mortels. Les prêtres qui restent sont souvent vu comme des élus puisent qu&#x27;ils attirent à eux l&#x27;attention des divinités mais également la convoitise et la jalousie des mortels.</p>
+<doc-anchor-target id="les-divinités-majeures">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#les-divinités-majeures">#</doc-anchor-trigger>
+        <span><strong>Les Divinités Majeures</strong></span>
+    </h2>
+</doc-anchor-target>
+<doc-anchor-target id="oophianne">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#oophianne">#</doc-anchor-trigger>
+        <span>Oophianne</span>
+    </h1>
+</doc-anchor-target>
+<p>Domaine : Temps – Déesse du sablier cosmique, gardienne du cycle et du calendrier</p>
+<doc-anchor-target id="justiane">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#justiane">#</doc-anchor-trigger>
+        <span>Justiane</span>
+    </h1>
+</doc-anchor-target>
+<p>Domaine : Justice – Loi divine, gardienne des serments et du jugement</p>
+<doc-anchor-target id="aëllora">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#aëllora">#</doc-anchor-trigger>
+        <span>Aëllora</span>
+    </h1>
+</doc-anchor-target>
+<p>Domaine : Vie &amp; Mort – Tisseuse d’âmes, équilibre entre naissance et trépas</p>
+<doc-anchor-target id="myrdhinn">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#myrdhinn">#</doc-anchor-trigger>
+        <span>Myrdhinn</span>
+    </h1>
+</doc-anchor-target>
+<p>Domaine : Magie – Dieu des arcanes et des secrets oubliés, source des mystères</p>
+<doc-anchor-target id="ignéor">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#ignéor">#</doc-anchor-trigger>
+        <span>Ignéor</span>
+    </h1>
+</doc-anchor-target>
+<p>Domaine : Feu – Dieu de la forge et de la passion destructrice</p>
+<doc-anchor-target id="ondiane">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#ondiane">#</doc-anchor-trigger>
+        <span>Ondiane</span>
+    </h1>
+</doc-anchor-target>
+<p>Domaine : Eau – Reine des émotions et des profondeurs mystiques</p>
+<doc-anchor-target id="terragant">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#terragant">#</doc-anchor-trigger>
+        <span>Terragant</span>
+    </h1>
+</doc-anchor-target>
+<p>Domaine : Terre – Gardien de la fertilité, de la stabilité et des traditions rurales</p>
+<doc-anchor-target id="sylphiris">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#sylphiris">#</doc-anchor-trigger>
+        <span>Sylphiris</span>
+    </h1>
+</doc-anchor-target>
+<p>Domaine : Air – Souffle, inspiration et mouvement – guide des voyageurs et bardes</p>
+<doc-anchor-target id="nécrodéus">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#nécrodéus">#</doc-anchor-trigger>
+        <span>Nécrodéus</span>
+    </h1>
+</doc-anchor-target>
+<p>Domaine : Mal &amp; Corruption – Opposant cosmique, force du blasphème, du chaos et de la profanation</p>
+<doc-anchor-target id="les-divinités-mineures">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#les-divinités-mineures">#</doc-anchor-trigger>
+        <span><strong>Les Divinités Mineures</strong></span>
+    </h2>
+</doc-anchor-target>
+<doc-anchor-target id="solarion">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#solarion">#</doc-anchor-trigger>
+        <span>Solarion</span>
+    </h1>
+</doc-anchor-target>
+<p>Domaine : Jour &amp; Lumière – Dieu solaire de la vérité, de la clarté divine et de la révélation</p>
+<doc-anchor-target id="cérélia">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#cérélia">#</doc-anchor-trigger>
+        <span>Cérélia</span>
+    </h1>
+</doc-anchor-target>
+<p>Domaine : Agriculture &amp; Fertilité – Déesse nourricière, garante des récoltes et de la fécondité naturelle</p>
+<doc-anchor-target id="vaelys">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#vaelys">#</doc-anchor-trigger>
+        <span>Vaelys</span>
+    </h1>
+</doc-anchor-target>
+<p>Domaine : Protection &amp; Courage – Protecteur des justes, des héros et des innocents</p>
+<doc-anchor-target id="amarielle">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#amarielle">#</doc-anchor-trigger>
+        <span>Amarielle</span>
+    </h1>
+</doc-anchor-target>
+<p>Domaine : Amour &amp; Beauté – Déesse de la passion pure, des liens sincères et de la grâce</p>
+<doc-anchor-target id="lynora">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#lynora">#</doc-anchor-trigger>
+        <span>Lynora</span>
+    </h1>
+</doc-anchor-target>
+<p>Domaine : Savoir &amp; Secrets – Déesse des énigmes, des savoirs anciens et des choses cachées</p>
+<doc-anchor-target id="valmérion">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#valmérion">#</doc-anchor-trigger>
+        <span>Valmérion</span>
+    </h1>
+</doc-anchor-target>
+<p>Domaine : Guerre &amp; Honneur – Dieu des batailles justes, de la discipline martiale et de l’honneur guerrier</p>
+<doc-anchor-target id="sylvian">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#sylvian">#</doc-anchor-trigger>
+        <span>Sylvian</span>
+    </h1>
+</doc-anchor-target>
+<p>Domaine : Nature &amp; Liberté – Dieu des terres sauvages, de la chasse et des esprits farouches</p>
+<doc-anchor-target id="maëstria">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#maëstria">#</doc-anchor-trigger>
+        <span>Maëstria</span>
+    </h1>
+</doc-anchor-target>
+<p>Domaine : Arts &amp; Inspiration – Déesse des poètes, des artistes, des conteurs et des créateurs</p>
+<doc-anchor-target id="domélia">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#domélia">#</doc-anchor-trigger>
+        <span>Domélia</span>
+    </h1>
+</doc-anchor-target>
+<p>Domaine : Famille &amp; Maison – Déesse des foyers, des traditions et de l’hospitalité sacrée</p>
+<doc-anchor-target id="fatélynn">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#fatélynn">#</doc-anchor-trigger>
+        <span>Fatélynn</span>
+    </h1>
+</doc-anchor-target>
+<p>Domaine : Destinée &amp; Prophétie – Déesse mystérieuse des trames du destin et des révélations oraculaires</p>
+<doc-anchor-target id="bacchian">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#bacchian">#</doc-anchor-trigger>
+        <span>Bacchian</span>
+    </h1>
+</doc-anchor-target>
+<p>Domaine : Fêtes &amp; Ivresse – Dieu des célébrations, du vin, de la joie et de la liesse collective</p>
+<doc-anchor-target id="faëlar">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#faëlar">#</doc-anchor-trigger>
+        <span>Faëlar</span>
+    </h1>
+</doc-anchor-target>
+<p>Domaine : Vol &amp; Larcins – Dieu rusé des voleurs, des espions, et des secrets murmurés dans l’ombre</p>
+<doc-anchor-target id="dominéon">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#dominéon">#</doc-anchor-trigger>
+        <span>Dominéon</span>
+    </h1>
+</doc-anchor-target>
+<p>Domaine : Pouvoir &amp; Suprématie – Dieu de la souveraineté, de la hiérarchie absolue et de l’autorité incontestée</p>
+<hr>
+<doc-anchor-target id="communities">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#communities">#</doc-anchor-trigger>
+        <span>COMMUNITIES</span>
+    </h1>
+</doc-anchor-target>
+<p><em>All communities are available, but some have unique aspects within a Terres d&#x27;Avant campaign. As needed, provide the following information to your players and choose one or more of the questions to ask them during your session zero.</em></p>
+<doc-anchor-target id="-highborne">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#-highborne">#</doc-anchor-trigger>
+        <span><span class="docs-emoji">&#x1F7E8;</span> Highborne</span>
+    </h2>
+</doc-anchor-target>
+<p>La majorité des Highborne viennent des derniers bastions de la civilisation — ces cités antiques qui ont survécu aux âges sombres et brillent encore d’une lumière indomptable. Leurs tours d’ivoire défient les cieux, leurs bibliothèques regorgent de savoir oublié, et leurs rues pavées résonnent des chants d’un peuple qui refuse de s’éteindre.</p>
+<ul>
+<li>Est-ce que ta famille a un secret lourd à porter?</li>
+<li>Est-ce qu&#x27;il reste encore beaucoup d&#x27;héritier à ta famille ou tu es le dernier?</li>
+</ul>
+<doc-anchor-target id="-loreborne-et-orderborne">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#-loreborne-et-orderborne">#</doc-anchor-trigger>
+        <span><span class="docs-emoji">&#x1F7E8;</span> Loreborne et Orderborne</span>
+    </h2>
+</doc-anchor-target>
+<p>il peut paraître étrange que l’ordre, les lois et le savoir aient survécu dans un monde englouti par les ténèbres. Et pourtant… Dans les ruines du passé, là où la lumière vacille mais ne s’éteint jamais, les Loreborne conservent les récits, les vérités et les secrets des âges révolus. Leurs parchemins chantent encore les échos d’un monde oublié, et leur mémoire est une arme contre l’oubli. Les Orderborne, quant à eux, incarnent la structure dans le chaos. Leurs serments sont des piliers dressés contre l’effondrement, et leur foi dans la loi est aussi tranchante que leur lame. Ensemble, ils forment les gardiens d’un équilibre fragile, défiant l’entropie par la discipline et la connaissance.</p>
+<p>Pour un Loreborne : Quel savoir interdit ou oublié serais-tu prêt à risquer ta vie pour préserver… ou révéler au monde?
+Pour un Orderborne : Si la loi que tu sers venait à contredire ta propre morale, suivrais-tu encore l’ordre… ou briserais-tu le serment?</p>
+<doc-anchor-target id="-ridgeborne-underborne-et-slyborne">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#-ridgeborne-underborne-et-slyborne">#</doc-anchor-trigger>
+        <span><span class="docs-emoji">&#x1F7E8;</span> Ridgeborne, Underborne et Slyborne</span>
+    </h2>
+</doc-anchor-target>
+<p>Il existe ceux qui ont foulé les terres oubliées, qui ont vu l’ancien monde s’effondrer sous son propre poids. Ils ne croient plus que l’on puisse simplement continuer ainsi. Pour eux, il faut tout recommencer. Évoluer. Se transformer pour survivre.</p>
+<p>Le monde des ténèbres n’offre que peu d’opportunités… mais certains y entrevoient une voie. Une promesse. Un renouveau caché dans les ombres.</p>
+<p>Ces lignées portent en elles la mémoire du dessous, la rage du changement, et l’espoir d’un monde réinventé.</p>
+<ul>
+<li>Quel fragment de l’ancien monde refuses-tu d’abandonner, même s’il te freine dans ton évolution?</li>
+<li>Quand les ténèbres t’ont murmuré une vérité, qu’as-tu choisi d’en faire : la taire, la suivre ou la combattre?</li>
+</ul>
+<doc-anchor-target id="-seaborne-et-wanderborne">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#-seaborne-et-wanderborne">#</doc-anchor-trigger>
+        <span><span class="docs-emoji">&#x1F7E8;</span> Seaborne et Wanderborne</span>
+    </h2>
+</doc-anchor-target>
+<p>Malgré le voile d’ombre qui recouvre le monde, les Seaborne et les Wanderborne ont appris à se mouvoir sans éveiller les regards. Par ruse, discrétion ou intuition, ils traversent les ruines et les terres oubliées, tissant des liens là où tout semble brisé.</p>
+<p>Ils sont les passeurs d’échanges, les porteurs de nouvelles, les bâtisseurs d’un fragile réseau de troc et de commerce entre les fragments de civilisation encore debout. Là où d’autres voient le chaos, eux voient des chemins.</p>
+<ul>
+<li>Quel secret transportes-tu entre les ruines, et pourquoi ne l’as-tu jamais révélé?</li>
+<li>Quand as-tu choisi de détourner ton regard plutôt que d’intervenir, et que reste-t-il de ce choix?</li>
+</ul>
+<doc-anchor-target id="-wyldborne">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#-wyldborne">#</doc-anchor-trigger>
+        <span><span class="docs-emoji">&#x1F7E8;</span> Wyldborne</span>
+    </h2>
+</doc-anchor-target>
+<p>Vivre dans les forêts est une épreuve constante. Les Wyldborne le savent mieux que quiconque. Il faut se fondre dans le feuillage, écouter les murmures du vent, et marcher sans laisser de trace. Mais la nature, capricieuse et sauvage, offre aussi ses bénédictions : nourriture plus abondante, abris secrets, et une magie ancienne qui veille sur ceux qui la respectent.</p>
+<p>Les dangers rôdent — prédateurs, créatures oubliées, et les ombres d’un monde qui ne pardonne pas. Pourtant, les Wyldborne avancent, portés par une résilience farouche et une communion profonde avec le vivant.</p>
+<ul>
+<li>Quel pacte as-tu scellé avec la forêt, et quel prix dois-tu encore payer pour le respecter?</li>
+<li>Quand la forêt t’a offert un choix entre la survie et l’honneur, qu’as-tu choisi — et pourquoi?</li>
+</ul>
+<doc-anchor-target id="ancestries">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#ancestries">#</doc-anchor-trigger>
+        <span>ANCESTRIES</span>
+    </h1>
+</doc-anchor-target>
+<p>All ancestries are available, but some have unique aspects within an Terres d&#x27;Avant campaign. As needed, provide the following information to your players.*</p>
+<doc-anchor-target id="-fungus">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#-fungus">#</doc-anchor-trigger>
+        <span><span class="docs-emoji">&#x1F7E8;</span> Fungus</span>
+    </h2>
+</doc-anchor-target>
+<p>à regarder</p>
+<doc-anchor-target id="classes">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#classes">#</doc-anchor-trigger>
+        <span>CLASSES</span>
+    </h1>
+</doc-anchor-target>
+<p><em>All classes are available</em></p>
+<hr>
+<doc-anchor-target id="player-princples">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#player-princples">#</doc-anchor-trigger>
+        <span>PLAYER PRINCPLES</span>
+    </h1>
+</doc-anchor-target>
+<doc-anchor-target id="-touver-des-pierres-de-larme">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#-touver-des-pierres-de-larme">#</doc-anchor-trigger>
+        <span><span class="docs-emoji">&#x1F7E8;</span> Touver des pierres de larme</span>
+    </h2>
+</doc-anchor-target>
+<p>Valcouronne vallé de la mort
+Pacte avec un démon
+Voler à une ville</p>
+<doc-anchor-target id="-explorer-les-terres">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#-explorer-les-terres">#</doc-anchor-trigger>
+        <span><span class="docs-emoji">&#x1F7E8;</span> explorer les Terres</span>
+    </h2>
+</doc-anchor-target>
+<p>Est-ce que c&#x27;est comme cela partout</p>
+<doc-anchor-target id="-survivre">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#-survivre">#</doc-anchor-trigger>
+        <span><span class="docs-emoji">&#x1F7E8;</span> Survivre</span>
+    </h2>
+</doc-anchor-target>
+<doc-anchor-target id="-enlever-la-malédiction">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#-enlever-la-malédiction">#</doc-anchor-trigger>
+        <span><span class="docs-emoji">&#x1F7E8;</span> enlever la malédiction</span>
+    </h2>
+</doc-anchor-target>
+<doc-anchor-target id="gm-principles">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#gm-principles">#</doc-anchor-trigger>
+        <span>GM PRINCIPLES</span>
+    </h1>
+</doc-anchor-target>
+<doc-anchor-target id="les-pierres-ont-un-prix-à-payer">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#les-pierres-ont-un-prix-à-payer">#</doc-anchor-trigger>
+        <span><span class="docs-emoji">&#x1F7E8;</span>Les pierres ont un prix à payer</span>
+    </h2>
+</doc-anchor-target>
+<doc-anchor-target id="-danger-partout-autour">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#-danger-partout-autour">#</doc-anchor-trigger>
+        <span><span class="docs-emoji">&#x1F7E8;</span> Danger partout autour</span>
+    </h2>
+</doc-anchor-target>
+<doc-anchor-target id="-pacte-avec-le-diable-qui-cherche-des-âmes">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#-pacte-avec-le-diable-qui-cherche-des-âmes">#</doc-anchor-trigger>
+        <span><span class="docs-emoji">&#x1F7E8;</span> Pacte avec le diable qui cherche des âmes</span>
+    </h2>
+</doc-anchor-target>
+<doc-anchor-target id="-enlever-la-malédiction-1">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#-enlever-la-malédiction-1">#</doc-anchor-trigger>
+        <span><span class="docs-emoji">&#x1F7E8;</span> enlever la malédiction</span>
+    </h2>
+</doc-anchor-target>
+<p>La malédiction peut etre différente pour votre frame mais voici une idée :</p>
+<hr>
+<doc-anchor-target id="distinctions">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#distinctions">#</doc-anchor-trigger>
+        <span>DISTINCTIONS</span>
+    </h1>
+</doc-anchor-target>
+<p>En composition</p>
+<doc-anchor-target id="artefacts-de-lumière--règle-de-protection-communautaire">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#artefacts-de-lumière--règle-de-protection-communautaire">#</doc-anchor-trigger>
+        <span>Artefacts de Lumière – Règle de Protection Communautaire</span>
+    </h1>
+</doc-anchor-target>
+<p>Dans les ténèbres persistantes de ce monde brisé, certains fragments de lumière subsistent. Ces <strong>Artefacts de Lumière</strong>, aussi appelés <strong>Pierres-Larmes</strong>, sont des reliques anciennes imprégnées d’une magie protectrice. Leur pouvoir ne se manifeste pleinement que lorsqu’elles sont activées en lien avec une communauté.</p>
+<doc-anchor-target id="fonctionnement">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#fonctionnement">#</doc-anchor-trigger>
+        <span>Fonctionnement</span>
+    </h2>
+</doc-anchor-target>
+<ul>
+<li>Chaque artefact génère un <strong>champ de protection lumineux</strong> qui repousse les créatures des ombres, stabilise les émotions, et empêche la corruption de s’installer.</li>
+<li>Lorsqu’elles sont <strong>combinées</strong>, leur puissance se multiplie, permettant de protéger un plus grand nombre d’âmes sur une zone plus vaste.</li>
+</ul>
+<doc-anchor-target id="table-de-répartition">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#table-de-répartition">#</doc-anchor-trigger>
+        <span>Table de Répartition</span>
+    </h2>
+</doc-anchor-target>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="comfortable">
+<thead>
+<tr>
+<th>Type de communauté</th>
+<th>Nombre de reliques</th>
+<th>Population protégée</th>
+<th>Rayon estimé</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Petit village</td>
+<td>1 relique</td>
+<td>~50 personnes</td>
+<td>Quelques kilomètres</td>
+</tr>
+<tr>
+<td>Ville moyenne</td>
+<td>2 reliques</td>
+<td>~500 personnes</td>
+<td>Quartier entier</td>
+</tr>
+<tr>
+<td>Grande cité</td>
+<td>3 reliques</td>
+<td>~5 000 personnes</td>
+<td>Zone urbaine étendue</td>
+</tr>
+<tr>
+<td>Capitale fortifiée</td>
+<td>4 reliques</td>
+<td>~50 000 personnes</td>
+<td>Région métropolitaine</td>
+</tr>
+</tbody>
+</table>
+</div>
+<blockquote>
+<p><strong>Note :</strong> Ces chiffres sont des estimations. Les effets peuvent varier selon l’état des reliques, leur alignement, et les rituels d’activation employés.</p>
+</blockquote>
+<hr>
+<doc-anchor-target id="session-0">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#session-0">#</doc-anchor-trigger>
+        <span>Session 0</span>
+    </h1>
+</doc-anchor-target>
+
+                                
+                                <!-- Required only on API pages -->
+                                <doc-toolbar-member-filter-no-results></doc-toolbar-member-filter-no-results>
+                            </div>
+                            <footer id="retype-content-footer" class="clear-both">
+                            
+                                <nav id="retype-nextprev" class="print:hidden flex mt-14">
+                                    <div class="w-1/2">
+                                        <a class="px-5 py-4 h-full flex items-center break-normal font-medium text-body-link border border-base-border hover:border-base-border-hover rounded-l-lg transition-colors duration-150 relative hover:z-5" href="../../daggerheart/lesterresdavant/">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="mr-3" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M19 11H7.41l5.29-5.29a.996.996 0 10-1.41-1.41l-7 7a1 1 0 000 1.42l7 7a1.024 1.024 0 001.42-.01.996.996 0 000-1.41L7.41 13H19c.55 0 1-.45 1-1s-.45-1-1-1z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
+                                            <span>
+                                                <span class="block text-xs font-normal text-base-text-muted">Previous</span>
+                                                <span class="block mt-1">Les​Terresd​Avant</span>
+                                            </span>
+                                        </a>
+                                    </div>
+                            
+                                    <div class="w-1/2">
+                                        <a class="px-5 py-4 -mx-px h-full flex items-center justify-end break-normal font-medium text-body-link border border-base-border hover:border-base-border-hover rounded-r-lg transition-colors duration-150 relative hover:z-5" href="../../gamejam/">
+                                            <span>
+                                                <span class="block text-xs font-normal text-right text-base-text-muted">Next</span>
+                                                <span class="block mt-1">GAME JAM des Terres Perdue</span>
+                                            </span>
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="ml-3" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M19.92 12.38a1 1 0 00-.22-1.09l-7-7a.996.996 0 10-1.41 1.41l5.3 5.3H5c-.55 0-1 .45-1 1s.45 1 1 1h11.59l-5.29 5.29a.996.996 0 000 1.41c.19.2.44.3.7.3s.51-.1.71-.29l7-7c.09-.09.16-.21.21-.33z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
+                                        </a>
+                                    </div>
+                                </nav>
+                            </footer>
+                        </main>
+                
+                        <div id="retype-page-footer" class="print:border-none border-t border-base-border pt-6 mb-8">
+                            <footer class="flex flex-wrap items-center justify-between print:justify-center">
+                                <div id="retype-footer-links" class="print:hidden">
+                                    <ul class="flex flex-wrap items-center text-sm">
+                                    </ul>
+                                </div>
+                                <div id="retype-copyright" class="print:justify-center py-2 text-footer-text font-footer-link-weight text-sm leading-relaxed"><p>© Copyright 2025. All rights reserved.</p></div>
+                            </footer>
+                        </div>
+                    </div>
+                
+                    <!-- Rendered if sidebar right is enabled -->
+                    <!-- Sidebar right skeleton-->
+                    <div v-cloak class="fixed top-0 bottom-0 right-0 translate-x-full bg-sidebar-right-bg border-sidebar-right-border lg:sticky lg:border-l lg:shrink-0 lg:pt-6 lg:transform-none sm:w-1/2 lg:w-64 lg:z-0 md:w-104 sidebar-right skeleton">
+                        <div class="pl-5">
+                            <div class="w-32 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                            <div class="w-48 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                            <div class="w-40 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                        </div>
+                    </div>
+                
+                    <!-- User should be able to hide sidebar right -->
+                    <doc-sidebar-right v-cloak></doc-sidebar-right>
+                </div>
+
+            </div>
+        </div>
+    
+        <doc-search-mobile></doc-search-mobile>
+        <doc-back-to-top></doc-back-to-top>
+    </div>
+
+
+    <div id="retype-overlay-target"></div>
+
+    <script data-cfasync="false">window.__DOCS__ = { "title": "TITLE", level: 2, icon: "file", hasPrism: false, hasMermaid: false, hasMath: false, tocDepth: 23 }</script>
+</body>
+</html>
