@@ -111,7 +111,7 @@ Même si le monde subit la colère divine, les dieux sont bien connus et parfois
 ---
 
 # COMMUNITIES
-*All communities are available, but some have unique aspects within a Terres d'Avant campaign. As needed, provide the following information to your players and choose one or more of the questions to ask them during your session zero.*
+*All communities are available, but some have unique aspects within Les Terres Sombres d'Orvalhys campaign. As needed, provide the following information to your players and choose one or more of the questions to ask them during your session zero.*
 
 ## 🟨 Highborne 
 La majorité des Highborne viennent des derniers bastions de la civilisation — ces cités antiques qui ont survécu aux âges sombres et brillent encore d’une lumière indomptable. Leurs tours d’ivoire défient les cieux, leurs bibliothèques regorgent de savoir oublié, et leurs rues pavées résonnent des chants d’un peuple qui refuse de s’éteindre.
@@ -157,7 +157,7 @@ Les dangers rôdent — prédateurs, créatures oubliées, et les ombres d’un 
 
 
 # ANCESTRIES
-All ancestries are available, but some have unique aspects within an Terres d'Avant campaign. As needed, provide the following information to your players.*
+All ancestries are available, but some have unique aspects within Les Terres Sombres d'Orvalhys campaign. As needed, provide the following information to your players.*
 ## 🟨 Fungus
 à regarder 
 
