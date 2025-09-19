@@ -17,17 +17,19 @@ Orvalhys est un monde en ruine, jadis éclatant, aujourd’hui ravagé par les t
 # **TONE & FEEL**
 Ancien, intimidant, épique, sinistre, inquiétant, terrifiant, tragique
 
-Orvalhys est un monde de haute-fantasy sombre (grimdark high fantasy) où la majesté d’antan survit à travers les ruines et la peur. L’atmosphère est lourde de tension : chaque voyage au-delà des enclaves lumineuses est une lutte pour la survie, chaque rencontre avec une autre faction est teintée de méfiance. Les joueurs évolueront dans un univers épique mais impitoyable, où la beauté des paysages et la grandeur des anciennes cités contrastent avec la menace omniprésente des ténèbres. L’émotion dominante est un mélange d’espoir fragile et de désespoir latent — la satisfaction de remporter de petites victoires dans un monde qui s’effrite, mais aussi le poids de décisions difficiles qui marqueront durablement le destin des vivants.
-
 # **THEMES**
 Apocalypse, corruption, ténèbres contre lumière, espoir, rédemption, survie
 
-Dans un monde où la lumière se fait rare, jusqu’où iriez-vous pour protéger ce qui reste ? Orvalhys explore la survie dans un univers brisé par un châtiment divin, où la menace ne vient pas seulement des monstres et des ténèbres, mais aussi des ambitions humaines. Les rares enclaves protégées par les Pierres-Larmes sont autant de sanctuaires fragiles que de symboles de pouvoir, attisant la convoitise de royaumes, d’ordres religieux et de seigneurs de guerre. Les personnages devront naviguer dans un paysage de tensions constantes, où sauver les autres peut signifier renoncer à son propre avantage, où chaque alliance est fragile et chaque trahison possible, et où la foi en des dieux absents se heurte au désir de forger un destin par ses propres mains. Dans ce monde où chaque choix peut déterminer le sort de centaines d’âmes, une question demeure : êtes-vous prêt à sacrifier le pouvoir pour la lumière, ou sacrifierez-vous la lumière pour le pouvoir ?
 
 # **TOUCHSTONES**
 Final Fantasy, Berserk, Diablo, The Witcher
 
 # **OVERVIEW**
+
+Orvalhys est un monde de haute-fantasy sombre (grimdark high fantasy) où la majesté d’antan survit à travers les ruines et la peur. L’atmosphère est lourde de tension : chaque voyage au-delà des enclaves lumineuses est une lutte pour la survie, chaque rencontre avec une autre faction est teintée de méfiance. Les joueurs évolueront dans un univers épique mais impitoyable, où la beauté des paysages et la grandeur des anciennes cités contrastent avec la menace omniprésente des ténèbres. L’émotion dominante est un mélange d’espoir fragile et de désespoir latent — la satisfaction de remporter de petites victoires dans un monde qui s’effrite, mais aussi le poids de décisions difficiles qui marqueront durablement le destin des vivants.
+
+Dans un monde où la lumière se fait rare, jusqu’où iriez-vous pour protéger ce qui reste ? Orvalhys explore la survie dans un univers brisé par un châtiment divin, où la menace ne vient pas seulement des monstres et des ténèbres, mais aussi des ambitions humaines. Les rares enclaves protégées par les Pierres-Larmes sont autant de sanctuaires fragiles que de symboles de pouvoir, attisant la convoitise de royaumes, d’ordres religieux et de seigneurs de guerre. Les personnages devront naviguer dans un paysage de tensions constantes, où sauver les autres peut signifier renoncer à son propre avantage, où chaque alliance est fragile et chaque trahison possible, et où la foi en des dieux absents se heurte au désir de forger un destin par ses propres mains. Dans ce monde où chaque choix peut déterminer le sort de centaines d’âmes, une question demeure : êtes-vous prêt à sacrifier le pouvoir pour la lumière, ou sacrifierez-vous la lumière pour le pouvoir ?
+
 ### Le Monde
 Orvalhys est un univers de haute-fantasy qui a connu un Âge d’Or où royaumes, cités et peuples vivaient sous la lumière et la bénédiction des dieux. La paix, la prospérité et la magie abondaient, tissant un équilibre presque parfait. Mais cet âge de splendeur a pris fin lorsqu’un acte impie — une tentative de voler l’essence d’un dieu — a déclenché la colère céleste. Les divinités se sont détournées des mortels, et les ténèbres ont envahi le monde : morts-vivants, démons et créatures monstrueuses hantent désormais les terres.
 
