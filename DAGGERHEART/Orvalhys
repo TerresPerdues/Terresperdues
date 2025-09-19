@@ -148,26 +148,46 @@ Domaine : Pouvoir & Suprématie – Dieu de la souveraineté, de la hiérarchie 
 *All communities are available, but some have unique aspects within a Terres d'Avant campaign. As needed, provide the following information to your players and choose one or more of the questions to ask them during your session zero.*
 
 ## 🟨 Highborne 
-La majorité des Highborne viennent de Verronne et de la haute ville de Mossgarde. 
+La majorité des Highborne viennent des derniers bastions de la civilisation — ces cités antiques qui ont survécu aux âges sombres et brillent encore d’une lumière indomptable. Leurs tours d’ivoire défient les cieux, leurs bibliothèques regorgent de savoir oublié, et leurs rues pavées résonnent des chants d’un peuple qui refuse de s’éteindre.
 - Est-ce que ta famille a un secret lourd à porter?
 - Est-ce qu'il reste encore beaucoup d'héritier à ta famille ou tu es le dernier?
 
 
 ## 🟨 Loreborne et Orderborne 
-Verronne
+il peut paraître étrange que l’ordre, les lois et le savoir aient survécu dans un monde englouti par les ténèbres. Et pourtant… Dans les ruines du passé, là où la lumière vacille mais ne s’éteint jamais, les Loreborne conservent les récits, les vérités et les secrets des âges révolus. Leurs parchemins chantent encore les échos d’un monde oublié, et leur mémoire est une arme contre l’oubli. Les Orderborne, quant à eux, incarnent la structure dans le chaos. Leurs serments sont des piliers dressés contre l’effondrement, et leur foi dans la loi est aussi tranchante que leur lame. Ensemble, ils forment les gardiens d’un équilibre fragile, défiant l’entropie par la discipline et la connaissance.
+
+Pour un Loreborne : Quel savoir interdit ou oublié serais-tu prêt à risquer ta vie pour préserver… ou révéler au monde?
+Pour un Orderborne : Si la loi que tu sers venait à contredire ta propre morale, suivrais-tu encore l’ordre… ou briserais-tu le serment?
 
 
 ## 🟨 Ridgeborne, Underborne et Slyborne
-Grenth Kraal
+Il existe ceux qui ont foulé les terres oubliées, qui ont vu l’ancien monde s’effondrer sous son propre poids. Ils ne croient plus que l’on puisse simplement continuer ainsi. Pour eux, il faut tout recommencer. Évoluer. Se transformer pour survivre.
+
+Le monde des ténèbres n’offre que peu d’opportunités… mais certains y entrevoient une voie. Une promesse. Un renouveau caché dans les ombres.
+
+Ces lignées portent en elles la mémoire du dessous, la rage du changement, et l’espoir d’un monde réinventé.
+
+
+- Quel fragment de l’ancien monde refuses-tu d’abandonner, même s’il te freine dans ton évolution?
+- Quand les ténèbres t’ont murmuré une vérité, qu’as-tu choisi d’en faire : la taire, la suivre ou la combattre?
 
 
 ## 🟨 Seaborne et Wanderborne
-Briselune
+Malgré le voile d’ombre qui recouvre le monde, les Seaborne et les Wanderborne ont appris à se mouvoir sans éveiller les regards. Par ruse, discrétion ou intuition, ils traversent les ruines et les terres oubliées, tissant des liens là où tout semble brisé.
 
+Ils sont les passeurs d’échanges, les porteurs de nouvelles, les bâtisseurs d’un fragile réseau de troc et de commerce entre les fragments de civilisation encore debout. Là où d’autres voient le chaos, eux voient des chemins.
+
+- Quel secret transportes-tu entre les ruines, et pourquoi ne l’as-tu jamais révélé?
+- Quand as-tu choisi de détourner ton regard plutôt que d’intervenir, et que reste-t-il de ce choix?
 
 
 ## 🟨 Wyldborne
-Mossgarde
+Vivre dans les forêts est une épreuve constante. Les Wyldborne le savent mieux que quiconque. Il faut se fondre dans le feuillage, écouter les murmures du vent, et marcher sans laisser de trace. Mais la nature, capricieuse et sauvage, offre aussi ses bénédictions : nourriture plus abondante, abris secrets, et une magie ancienne qui veille sur ceux qui la respectent.
+
+Les dangers rôdent — prédateurs, créatures oubliées, et les ombres d’un monde qui ne pardonne pas. Pourtant, les Wyldborne avancent, portés par une résilience farouche et une communion profonde avec le vivant.
+
+- Quel pacte as-tu scellé avec la forêt, et quel prix dois-tu encore payer pour le respecter?
+- Quand la forêt t’a offert un choix entre la survie et l’honneur, qu’as-tu choisi — et pourquoi?
 
 
 # ANCESTRIES
@@ -177,15 +197,7 @@ All ancestries are available, but some have unique aspects within an Terres d'Av
 
 
 # CLASSES 
-*All classes are available, but some have unique aspects within a Terres d'Avant campaign.*
-
-## 🟨 Warriors, Guardians and Ranger
-
-
-## 🟨 Bards, Rogues, Sorcerer and Wizards 
-
-
-## 🟨 Seraph et Druid
+*All classes are available*
 
 ---
 
@@ -224,12 +236,27 @@ La malédiction peut etre différente pour votre frame mais voici une idée :
 
 
 En composition
- Mécanique
 
-Village 1 pierre 50 personnes
-Ville 2 pierres 500 personnes
-Grosse ville 3 pierres 5000 personnes
-Capital 4 pierres 50 000 personnes. 
+# Artefacts de Lumière – Règle de Protection Communautaire
+
+Dans les ténèbres persistantes de ce monde brisé, certains fragments de lumière subsistent. Ces **Artefacts de Lumière**, aussi appelés **Pierres-Larmes**, sont des reliques anciennes imprégnées d’une magie protectrice. Leur pouvoir ne se manifeste pleinement que lorsqu’elles sont activées en lien avec une communauté.
+
+## Fonctionnement
+
+- Chaque artefact génère un **champ de protection lumineux** qui repousse les créatures des ombres, stabilise les émotions, et empêche la corruption de s’installer.
+- Lorsqu’elles sont **combinées**, leur puissance se multiplie, permettant de protéger un plus grand nombre d’âmes sur une zone plus vaste.
+
+## Table de Répartition
+
+| Type de communauté     | Nombre de reliques | Population protégée | Rayon estimé                |
+|------------------------|--------------------|----------------------|-----------------------------|
+| Petit village          | 1 relique          | ~50 personnes        | Quelques kilomètres         |
+| Ville moyenne          | 2 reliques         | ~500 personnes       | Quartier entier             |
+| Grande cité            | 3 reliques         | ~5 000 personnes     | Zone urbaine étendue        |
+| Capitale fortifiée     | 4 reliques         | ~50 000 personnes    | Région métropolitaine       |
+
+> **Note :** Ces chiffres sont des estimations. Les effets peuvent varier selon l’état des reliques, leur alignement, et les rituels d’activation employés.
+
 
 ---
 
