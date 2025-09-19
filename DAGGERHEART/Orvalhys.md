@@ -28,7 +28,7 @@ Final Fantasy, Berserk, Diablo, The Witcher
 
 # **OVERVIEW**
 
-Orvalhys est un monde de haute-fantasy sombre (grimdark high fantasy) où la majesté d’antan survit à travers les ruines et la peur. L’atmosphère est lourde de tension : chaque voyage au-delà des enclaves lumineuses est une lutte pour la survie, chaque rencontre avec une autre faction est teintée de méfiance. Les joueurs évolueront dans un univers épique mais impitoyable, où la beauté des paysages et la grandeur des anciennes cités contrastent avec la menace omniprésente des ténèbres. L’émotion dominante est un mélange d’espoir fragile et de désespoir latent — la satisfaction de remporter de petites victoires dans un monde qui s’effrite, mais aussi le poids de décisions difficiles qui marqueront durablement le destin des vivants.
+Orvalhys est un monde où la majesté d’antan survit à travers les ruines et la peur. L’atmosphère est lourde de tension : chaque voyage au-delà des enclaves lumineuses est une lutte pour la survie, chaque rencontre avec une autre faction est teintée de méfiance. Les joueurs évolueront dans un univers épique mais impitoyable, où la beauté des paysages et la grandeur des anciennes cités contrastent avec la menace omniprésente des ténèbres. L’émotion dominante est un mélange d’espoir fragile et de désespoir latent — la satisfaction de remporter de petites victoires dans un monde qui s’effrite, mais aussi le poids de décisions difficiles qui marqueront durablement le destin des vivants.
 
 
 ### Le Monde
