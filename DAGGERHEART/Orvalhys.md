@@ -7,7 +7,7 @@ Les Terres Sombres d'Orvalhys
 Un monde déchu de son Âge d’Or, où les ténèbres issues d’un châtiment divin forcent les survivants à lutter contre monstres, morts-vivants et factions rivales pour le contrôle des dernières enclaves de lumière.
 
 # **COMPLEXITY RATING**
-⚪⚪
+⚪
 
 # **THE PITCH**
 *Read this section to your players to introduce them to the campaign.*
@@ -169,39 +169,76 @@ All ancestries are available, but some have unique aspects within Les Terres Som
 
 # PLAYER PRINCPLES
 
-## 🟨 Touver des pierres de larme
-Valcouronne vallé de la mort
-Pacte avec un démon
-Voler à une ville
+## 🟨 La lumière a un prix
+Dans Orvalhys, chaque joueur incarne un être prêt à tout pour préserver, obtenir ou manipuler la lumière. Les Pierres-Larmes, rares et sacrées, sont au cœur de cette quête — mais leur acquisition n’est jamais simple, ni pure.
 
-## 🟨 explorer les Terres 
-Est-ce que c'est comme cela partout
+Les choix sont multiples :
 
-## 🟨 Survivre  
+- Explorer Valcouronne, la Vallée de la Mort, et risquer l’oubli pour retrouver une relique perdue
+- Sceller un pacte avec un démon, troquant une part de soi contre un fragment de pouvoir
+- Voler une ville affaiblie, et condamner des innocents pour sauver d’autres vies ailleurs
 
-## 🟨 enlever la malédiction 
+Chaque action aura des conséquences. Dans ce monde brisé, la lumière peut être arrachée, négociée ou souillée… mais jamais obtenue sans sacrifice.
+
+## 🟨 Explorer les Terres Sombres
+Dans Orvalhys, l’exploration n’est pas un simple voyage — c’est une épreuve. Les Terres Sombres sont vastes, changeantes, et souvent hostiles. Chaque région porte les cicatrices du châtiment divin : forêts pétrifiées, cités englouties, vallées hantées par les morts. Les joueurs ne traversent pas un monde neutre, mais un champ de ruines vivantes, où chaque pas peut réveiller une horreur oubliée ou révéler un fragment de lumière.
+
+Non, ce n’est pas comme cela partout. Certaines enclaves protégées par les Pierres-Larmes offrent un semblant de stabilité, mais elles sont rares et assiégées. Le reste du monde est instable, corrompu, et imprégné d’une magie déformée. Les routes changent, les cartes mentent, et les repères s’effacent. Explorer, c’est accepter de ne jamais être certain de revenir — ou de revenir inchangé.
+
+## 🟨 Survivre coûte quelque chose
+Dans Orvalhys, la survie n’est jamais garantie — elle se gagne, elle se négocie, elle se vole parfois. Les vivres sont rares, les abris précaires, et même la lumière peut devenir une monnaie d’échange. Chaque jour est une lutte contre les ténèbres, les créatures qui rôdent… et les autres survivants.
+
+Les joueurs devront faire des choix difficiles :
+- Partager ou garder les ressources vitales
+- Soigner un allié ou fuir pour sauver sa propre peau
+- Mentir pour obtenir un refuge, ou dire la vérité et risquer l’exclusion
+
+La survie dans Orvalhys n’est pas un état — c’est une tension constante, un équilibre fragile entre solidarité et instinct, entre espoir et pragmatisme. Et parfois, pour survivre… il faut devenir ce que l’on craignait.
+
+## 🟨 Briser la malédiction du monde
+Le monde d’Orvalhys est marqué par un châtiment divin, une malédiction qui ronge la terre, les âmes et les cieux. Les joueurs ne sont pas seulement des survivants ou des explorateurs — ils sont les porteurs d’un espoir fragile : celui de rompre la malédiction, de purifier ce qui peut l’être, ou de réécrire le destin du monde.
+
+Mais cette tâche n’est ni claire, ni simple. Les signes sont cryptiques, les dieux silencieux, et les reliques disséminées dans des lieux oubliés ou profanés. Pour briser la malédiction, il faudra comprendre ses origines, affronter ses gardiens, et parfois sacrifier ce que l’on croyait juste.
 
 
 #  GM PRINCIPLES
 
-## 🟨Les pierres ont un prix à payer
+## 🟨Les Pierres-Larmes ont un prix
+Les Pierres-Larmes sont des artefacts sacrés, capables de repousser les ténèbres et de protéger des enclaves entières. Mais leur puissance ne doit jamais être banalisée. Elles ne sont jamais faciles à obtenir, et chaque tentative pour en acquérir une doit être marquée par sacrifice, danger ou dilemme moral.
 
-## 🟨 Danger partout autour
+Le maître de jeu doit s’assurer que chaque Pierre-Larme représente :
+- Une quête périlleuse, impliquant exploration, affrontement ou négociation risquée
+- Un choix difficile, où la lumière ne vient qu’au prix d’une perte : d’un allié, d’un secret, d’une part de soi
+- Une conséquence durable, qui modifie le monde, les relations ou l’équilibre des forces
 
-## 🟨 Pacte avec le diable qui cherche des âmes
+Ces reliques ne sont pas des récompenses mécaniques, mais des catalyseurs narratifs. Elles doivent toujours poser une question : "Méritez-vous cette lumière… et que serez-vous prêt à payer pour la garder?"
 
-## 🟨 enlever la malédiction 
-La malédiction peut etre différente pour votre frame mais voici une idée : 
+## 🟨 Le danger est partout
+Dans Orvalhys, le monde lui-même est une menace. Le danger ne se limite pas aux monstres tapis dans les ombres — il est constant, insidieux, et omniprésent. Chaque lieu, chaque rencontre, chaque décision peut basculer vers le péril.
 
+Le maître de jeu doit maintenir une tension palpable :
+- Les routes sont piégées, instables ou hantées
+- Les alliances sont fragiles, et les sourires peuvent cacher des lames
+- Même les enclaves de lumière peuvent être infiltrées, corrompues ou assiégées
 
+Ce principe ne vise pas à punir les joueurs, mais à rendre chaque choix significatif. La sécurité est temporaire, la paix est rare, et le monde ne pardonne pas l’insouciance. Dans Orvalhys, vivre est un acte de défi.
 
----
+## 🟨 Les démons veulent leurs âmes
+Survivre ne signifie pas être libre. Les démons rôdent, attirés par les âmes marquées par la peur, le désespoir ou la corruption. Ils ne cherchent pas à tuer — ils cherchent à posséder, à marchander, à lier. Chaque survivant est une cible, chaque pacte est une chaîne.
+
+Le maître de jeu doit faire sentir que les pactes démoniaques sont tentants mais dangereux. Ils offrent des pouvoirs, des protections, des raccourcis… mais toujours à un coût spirituel. Une âme vendue n’est jamais rendue intacte. Et parfois, le joueur ne sait même plus s’il est encore lui-même.
+
+Ce principe invite à jouer avec la tension entre désespoir et ambition, entre sacrifice et damnation. Les démons ne sont pas des monstres à combattre — ce sont des tentateurs, des manipulateurs, des marchands de destin. Et dans Orvalhys, chaque âme a un prix.
+
+## 🟨 Enlever la malédiction
+La malédiction qui ronge Orvalhys n’est pas universelle — elle peut varier selon la partie, selon les choix du maître de jeu, et selon les secrets enfouis dans les Terres Sombres. Ce principe invite le MJ à définir la nature de la malédiction, ses origines, ses manifestations… et surtout, ce qu’il faut pour la briser.
+
+Une idée qui peut être utilisé : seule une partie du monde est sous l’emprise de la malédiction, isolée comme une plaie que les dieux ne peuvent atteindre. Tant qu’il reste des âmes non corrompues sur ces terres, les divins ne peuvent intervenir. Pour que la purification commence, tous doivent partir — ou périr. Ce n’est qu’une fois le dernier souffle rendu ou le dernier pas franchi que les dieux pourront agir.
+
+Ce principe place les joueurs face à un dilemme : fuir pour sauver le monde, ou rester pour le défendre, au risque de l’empêcher de guérir. La malédiction devient alors un miroir de leurs choix, de leur attachement, et de leur foi en quelque chose de plus grand qu’eux. 
 
 
 # DISTINCTIONS  
-
-
-En composition
 
 # Artefacts de Lumière – Règle de Protection Communautaire
 
@@ -223,8 +260,28 @@ Dans les ténèbres persistantes de ce monde brisé, certains fragments de lumi�
 
 > **Note :** Ces chiffres sont des estimations. Les effets peuvent varier selon l’état des reliques, leur alignement, et les rituels d’activation employés.
 
-
 ---
+#  Marque des Ténèbres – Corruption visible
+
+Lorsqu’un personnage s’expose trop longtemps aux ténèbres, pactise avec des entités infernales, ou utilise une Pierre-Larme de manière profane, il peut développer une **Marque des Ténèbres** : une altération physique et spirituelle qui trahit son lien avec l’obscurité.
+
+##  Manifestations visibles
+
+- **Yeux vitreux ou entièrement noirs**, comme si la lumière ne les atteignait plus  
+- **Veines sombres** parcourant la peau, pulsant lors d’émotions fortes  
+- **Ombre qui ne suit plus les mouvements du corps**, comme si elle avait sa propre volonté  
+- **Voix altérée**, résonnant avec un écho lointain ou une dissonance inquiétante  
+- **Présence dérangeante**, les animaux fuient, les enfants pleurent, les flammes vacillent
+
+## Impact narratif
+
+- Les PNJ peuvent réagir avec peur, méfiance ou hostilité  
+- Certains lieux sacrés peuvent refuser l’entrée ou infliger des effets néfastes  
+- Les rituels de purification deviennent nécessaires pour éviter une perte de contrôle
+
+> **Note :** La Marque des Ténèbres peut évoluer selon les choix du personnage, ses actes, et son exposition aux forces corrompues. Elle est à la fois un outil narratif et un signal de tension dramatique.
+
+
 
 # Session 0 
 
