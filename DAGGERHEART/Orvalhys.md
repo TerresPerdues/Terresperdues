@@ -73,76 +73,39 @@ Tout autour, dans les vallées et jusque dans les montagnes enneigées qui encer
 ### Le Panthéon
 Même si le monde subit la colère divine, les dieux sont bien connus et parfois certain d'entre eux daignes aider les mortels. Les prêtres qui restent sont souvent vu comme des élus puisent qu'ils attirent à eux l'attention des divinités mais également la convoitise et la jalousie des mortels.
 
-## **Les Divinités Majeures**
+##  Les Divinités Majeures
 
-# Oophianne
-Domaine : Temps – Déesse du sablier cosmique, gardienne du cycle et du calendrier
+| Nom        | Domaine              | Description |
+|------------|----------------------|-------------|
+| Oophianne  | Temps                | Déesse du sablier cosmique, gardienne du cycle et du calendrier |
+| Justiane   | Justice              | Loi divine, gardienne des serments et du jugement |
+| Aëllora    | Vie & Mort           | Tisseuse d’âmes, équilibre entre naissance et trépas |
+| Myrdhinn   | Magie                | Dieu des arcanes et des secrets oubliés, source des mystères |
+| Ignéor     | Feu                  | Dieu de la forge et de la passion destructrice |
+| Ondiane    | Eau                  | Reine des émotions et des profondeurs mystiques |
+| Terragant  | Terre                | Gardien de la fertilité, de la stabilité et des traditions rurales |
+| Sylphiris  | Air                  | Souffle, inspiration et mouvement – guide des voyageurs et bardes |
+| Nécrodéus  | Mal & Corruption     | Opposant cosmique, force du blasphème, du chaos et de la profanation |
 
-# Justiane
-Domaine : Justice – Loi divine, gardienne des serments et du jugement
+---
 
-# Aëllora
-Domaine : Vie & Mort – Tisseuse d’âmes, équilibre entre naissance et trépas
+##  Les Divinités Mineures
 
-# Myrdhinn
-Domaine : Magie – Dieu des arcanes et des secrets oubliés, source des mystères
-
-# Ignéor
-Domaine : Feu – Dieu de la forge et de la passion destructrice
-
-# Ondiane
-Domaine : Eau – Reine des émotions et des profondeurs mystiques
-
-# Terragant
-Domaine : Terre – Gardien de la fertilité, de la stabilité et des traditions rurales
-
-# Sylphiris
-Domaine : Air – Souffle, inspiration et mouvement – guide des voyageurs et bardes
-
-# Nécrodéus
-Domaine : Mal & Corruption – Opposant cosmique, force du blasphème, du chaos et de la profanation
-
-
-## **Les Divinités Mineures**
-
-# Solarion
-Domaine : Jour & Lumière – Dieu solaire de la vérité, de la clarté divine et de la révélation
-
-# Cérélia
-Domaine : Agriculture & Fertilité – Déesse nourricière, garante des récoltes et de la fécondité naturelle
-
-# Vaelys
-Domaine : Protection & Courage – Protecteur des justes, des héros et des innocents
-
-# Amarielle
-Domaine : Amour & Beauté – Déesse de la passion pure, des liens sincères et de la grâce
-
-# Lynora
-Domaine : Savoir & Secrets – Déesse des énigmes, des savoirs anciens et des choses cachées
-
-# Valmérion
-Domaine : Guerre & Honneur – Dieu des batailles justes, de la discipline martiale et de l’honneur guerrier
-
-# Sylvian
-Domaine : Nature & Liberté – Dieu des terres sauvages, de la chasse et des esprits farouches
-
-# Maëstria
-Domaine : Arts & Inspiration – Déesse des poètes, des artistes, des conteurs et des créateurs
-
-# Domélia
-Domaine : Famille & Maison – Déesse des foyers, des traditions et de l’hospitalité sacrée
-
-# Fatélynn
-Domaine : Destinée & Prophétie – Déesse mystérieuse des trames du destin et des révélations oraculaires
-
-# Bacchian
-Domaine : Fêtes & Ivresse – Dieu des célébrations, du vin, de la joie et de la liesse collective
-
-# Faëlar
-Domaine : Vol & Larcins – Dieu rusé des voleurs, des espions, et des secrets murmurés dans l’ombre
-
-# Dominéon
-Domaine : Pouvoir & Suprématie – Dieu de la souveraineté, de la hiérarchie absolue et de l’autorité incontestée
+| Nom         | Domaine                | Description |
+|-------------|------------------------|-------------|
+| Solarion    | Jour & Lumière         | Dieu solaire de la vérité, de la clarté divine et de la révélation |
+| Cérélia     | Agriculture & Fertilité| Déesse nourricière, garante des récoltes et de la fécondité naturelle |
+| Vaelys      | Protection & Courage   | Protecteur des justes, des héros et des innocents |
+| Amarielle   | Amour & Beauté         | Déesse de la passion pure, des liens sincères et de la grâce |
+| Lynora      | Savoir & Secrets       | Déesse des énigmes, des savoirs anciens et des choses cachées |
+| Valmérion   | Guerre & Honneur       | Dieu des batailles justes, de la discipline martiale et de l’honneur guerrier |
+| Sylvian     | Nature & Liberté       | Dieu des terres sauvages, de la chasse et des esprits farouches |
+| Maëstria    | Arts & Inspiration     | Déesse des poètes, des artistes, des conteurs et des créateurs |
+| Domélia     | Famille & Maison       | Déesse des foyers, des traditions et de l’hospitalité sacrée |
+| Fatélynn    | Destinée & Prophétie   | Déesse mystérieuse des trames du destin et des révélations oraculaires |
+| Bacchian    | Fêtes & Ivresse        | Dieu des célébrations, du vin, de la joie et de la liesse collective |
+| Faëlar      | Vol & Larcins          | Dieu rusé des voleurs, des espions, et des secrets murmurés dans l’ombre |
+| Dominéon    | Pouvoir & Suprématie   | Dieu de la souveraineté, de la hiérarchie absolue et de l’autorité incontestée |
 
 
 ---
