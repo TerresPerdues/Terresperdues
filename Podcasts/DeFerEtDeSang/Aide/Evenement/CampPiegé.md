@@ -1,4 +1,4 @@
-
+*Version Franglish, Version francaise et anglaise à venir*
 **Camp piégé**
 
 **Tier 1** - **Traversal** 
@@ -19,7 +19,9 @@
 -------------------------------------------
 
 ## Features
-- Corde huilée tendue entre deux rochers, presque invisible à l’œil nu.
-- Tronc creux dissimulant une arbalète montée, prête à tirer une flèche empoisonnée.
-- Empreintes fraîches et copeaux de bois autour du piège, indices pour les joueurs attentifs.
-- Ambiance silencieuse et oppressante, renforçant la tension narrative.
+**Détecter le piège — Passif** : Si le piège est caché et que les joueurs déclarent qu’ils le cherchent, ils peuvent effectuer un jet d’Instinct pour tenter de le repérer. En cas de succès, ils peuvent ensuite essayer de le désamorcer.
+
+**Désamorcer le piège — Action** : Désamorcer un piège demande un jet d’Agilité. En cas de succès, le piège est neutralisé. En cas d’échec, il se déclenche immédiatement.
+
+**Pris au piège — Action** : Si le piège est conçu pour retenir une cible, le ou les joueurs se retrouvent avec la condition appropriée (par exemple, "Entravé"). Si le piège est conçu pour blesser, la cible subit 1d12 de dégâts.
+
