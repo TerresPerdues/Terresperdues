@@ -54,7 +54,7 @@ Le voyage vers le **Lac des Ancêtres** débute sous le signe du deuil. Les hér
 
 ### Embuscade en forêt
 Alors qu’ils traversent les bois enneigés :
-- **Euséphine**, la faune, est surprise par un brigand mais parvient à le repousser d’un **coup de sabot** bien placé.
+- **Eunéphine**, la faune, est surprise par un brigand mais parvient à le repousser d’un **coup de sabot** bien placé.
 - **Aveline** décapite un assaillant et **tranche le bras** d’un autre dans un élan fulgurant.
 - **Iganrion** remarque un **tatouage suspect** sur les corps : les brigands semblent liés à la **délégation de Fercreux**, soulevant des questions sur leurs intentions.
 
