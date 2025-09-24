@@ -1,4 +1,4 @@
-# Résumé de la Partie – La Joute du Sang et de l’Honneur
+# Épisode 00 – Prologue - La Joute du Sang et de l’Honneur
 
 Nos aventuriers ont été conviés à une fête somptueuse dans le domaine des **Duras**, une maison noble réputée pour son amour des joutes et des traditions chevaleresques. Le jeune **Rubio Duras**, héritier unique, célébrait son anniversaire avec faste. Lanternes flottantes, musiciens ambulants, mets raffinés et nobles en habits d’apparat composaient le décor d’une soirée qui s’annonçait joyeuse.
 
