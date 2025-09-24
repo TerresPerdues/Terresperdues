@@ -1,8 +1,8 @@
 # Épisode 01 — Le Pacte du Cerf d’Argent
 
-## Dragonaut, cité des serments
+## Dagonaut, cité des serments
 
-Dragonaut… jadis bastion de pierre et de feu, aujourd’hui cité fortifiée où les serments résonnent encore entre les murs blanchis par le temps.  
+Dagonaut… jadis bastion de pierre et de feu, aujourd’hui cité fortifiée où les serments résonnent encore entre les murs blanchis par le temps.  
 Les casernes sont devenues des échoppes, les cours d’entraînement des marchés, mais sous les pavés, la mémoire des guerres veille toujours.  
 C’est ici, au pied du Donjon du Dragon, que les prétendants viennent forger leur nom… ou le perdre.
 
@@ -14,7 +14,7 @@ Les échanges furent nombreux. Albus leur décrit l'homme qu'ils allaient rencon
 ---
 
 ## Le Pavillon du Cerf
-Le pavillon se dressait à la lisière nord de Caldrun, austère et silencieux, entouré de statues de cerfs et de chevaliers tombés. Le vent faisait tinter les carillons suspendus aux arches, comme pour saluer les pas des prétendants. Au centre de la cour pavée, une silhouette immobile les attendait.
+Le pavillon se dressait à la lisière nord de Dagonaut, austère et silencieux, entouré de statues de cerfs et de chevaliers tombés. Le vent faisait tinter les carillons suspendus aux arches, comme pour saluer les pas des prétendants. Au centre de la cour pavée, une silhouette immobile les attendait.
 
 Sir Almaric, droit comme une lance, vêtu d’une armure d’apparat ternie par le temps, les observa sans mot dire. Son manteau de fourrure pâle flottait doucement, et son insigne — un cerf aux yeux d’onyx — semblait les jauger autant que lui.
 
