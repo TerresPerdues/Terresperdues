@@ -1,6 +1,6 @@
-# 📖 Épisode 01 — Le Pacte du Cerf d’Argent
+# Épisode 01 — Le Pacte du Cerf d’Argent
 
-## 🏰 Dragonaut, cité des serments
+## Dragonaut, cité des serments
 
 Dragonaut… jadis bastion de pierre et de feu, aujourd’hui cité fortifiée où les serments résonnent encore entre les murs blanchis par le temps.  
 Les casernes sont devenues des échoppes, les cours d’entraînement des marchés, mais sous les pavés, la mémoire des guerres veille toujours.  
