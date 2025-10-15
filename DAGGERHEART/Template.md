@@ -68,7 +68,7 @@ Some communities are not available for a [TITLE] campaign. As needed, provide th
 [UNAVAILABLE COMMUNITY NAME]
 [One Paragraph Description of Why Community is Unavailable]
 
-ANCESTRIES
+## ANCESTRIES
 All ancestries are available, but some have unique aspects within a [TITLE] campaign. As needed, provide the following information to your players.
 OR
 Some ancestries are not available for a [TITLE] campaign. As needed, provide the following information to your players.
@@ -77,7 +77,7 @@ Some ancestries are not available for a [TITLE] campaign. As needed, provide the
 [UNAVAILABLE ANCESTRY NAME]
 [One Paragraph Description of Why Ancestry is Unavailable]
 
-CLASSES
+## CLASSES
 All classes are available, but some have unique aspects within a [TITLE] campaign. As needed, provide the following information to your players.
 OR
 Some classes are not available for a [TITLE] campaign. As needed, provide the following information to your players.
@@ -86,7 +86,7 @@ Some classes are not available for a [TITLE] campaign. As needed, provide the fo
 [UNAVAILABLE CLASS NAME]
 [One Paragraph Description of Why Class is Unavailable]
 
-PLAYER PRINCIPLES  
+## PLAYER PRINCIPLES  
 Just as Daggerheart has player principles each campaign frame has thematic guidelines for players to keep in mind during the campaign. Following these principles helps players stay in the ideal mindset to enjoy the campaign frame. When creating these ensure they are evocative specific and actionable by the players.
 Create at least 3 player principles.
 If your group decides to play this campaign, give your players the following information before character creation.
@@ -97,7 +97,7 @@ If your group decides to play this campaign, give your players the following inf
 [PRINCIPLE 3]
 [One Paragraph Description of Principle]
 
-GM PRINCIPLES  
+## GM PRINCIPLES  
 Each campaign frame additionally has corresponding GM principles which supplement the core game principles. These provide support and guidance for the GM to plan and facilitate a game in line with the design of the campaign frame. When creating these principles, guide the GM toward the campaign’s themes and encourage the kind of moves you want them to be making. 
 Create at least 3 GM principles.
 Keep the following guidance in mind while you GM this campaign.
@@ -108,13 +108,13 @@ Keep the following guidance in mind while you GM this campaign.
 [PRINCIPLE 3]
 [One Paragraph Description of Principle]
 
-DISTINCTIONS  
+## DISTINCTIONS  
 Distinctions are what specifically set the world of the campaign frame apart from other settings. They are the tentpoles holding up the canvas of the campaign, the supports a GM will build their story on top of. They establish the pillars of the campaign including core truths about the setting major locations prominent groups or factions and narrative elements that contribute to the setting’s atmosphere or themes (such as culture important historical events recent catastrophes conflicts and cosmology) and more. Notably they do not include custom rules for the campaign frame— those come later in their own section. 
 Distinctions also mark where the GM-facing information truly begins. While GMs can share some information from this section with their players, this is where you start layering in the secrets they’ll use to build compelling story arcs across their campaign.
 Include at least 3 distinctions, using the Building Distinctions section below to ensure you’re offering a wide variety of concepts. 
 Use this information to prepare your campaign. You can also share it with your players as needed.
 
-BUILDING DISTINCTIONS 
+## BUILDING DISTINCTIONS 
 Distinctions may be one of the first things you develop when creating the campaign frame since they serve as the pillars or core truths of that setting. Consider the following ideas when writing out your campaign frame’s distinctions: 
 How the World Works: 
 Convey the way magic functions in this setting (such as taking the form of technology in Motherboard), a prominent threat like a disease (such as the Serpent’s Sickness in The Witherwild), or other major setting elements that will inform play (such as the Lure in Beast Feast). 
@@ -137,7 +137,7 @@ Ideally the distinctions provide the baseline for tables to build on the provide
 [MAJOR FIGURE]
 [1 Paragraph Description of Major Figure]
 
-INCITING INCIDENT  
+## INCITING INCIDENT  
 The inciting incident is a sample opening to a campaign using the frame. It’s designed to introduce the party to the core themes and some of the frame’s distinctions while illustrating one possible approach for a GM to begin the campaign.  
 BUILDING AN INCITING INCIDENT 
 Inciting incidents are the intersection of three elements: adventure design, character hooks, and setting introduction. They usually take the form of a situation and an objective for the PCs to complete with an individual or faction asking the PCs to intervene. 
@@ -150,7 +150,7 @@ What motivates the PCs to get involved?
 How does this incident introduce the themes, distinctions, and mechanics of the frame? 
 What are the potential outcomes of the incident, and how could the PCs impact the future of the setting?
 
-CUSTOM MECHANICS
+## CUSTOM MECHANICS
 Each campaign frame includes new game mechanics and tools that represent elements unique to the campaign frame that enhance the experience of playing in its setting. Sometimes these mechanics are born from the genre tropes the campaign frame employs, and other times they’re tools to support the frame’s unique lore. 
 Your custom mechanics might aim to impact the campaign in any of the following ways (or another way entirely!): 
 They add more detail to an aspect of the world (like the corruption mechanics in The Witherwild and the rules for dangerous rests in The Age of Umbra)  
