@@ -457,6 +457,7 @@ Pour faire fonctionner les joutes, plusieurs mécaniques sont mises en place :
 
 - L’un des objectifs est de collecter des jetons de faveur de la foule.
 - Ces jetons constituent une réserve de points de *Espoir* pour l’écurie.
+- Il est possible d'utiliser ces jetons pour ce donner un avantage.
 - Ils peuvent être utilisés par n’importe quel membre de l’équipe pendant une joute.
 - Il n’existe pas de limite au nombre de jetons pouvant être accumulés.
 - Les jetons non utilisés à la fin d’une joute sont perdus.
@@ -501,15 +502,15 @@ Chaque spectacle peut inclure jusqu’à **trois jets**, sauf indication contrai
 
 | Résultat du jet   | Points de Espoir | Effet narratif                                      |
 |-------------------|----------------|-----------------------------------------------------|
-| Succès            | +1             | Action réussie, la foule applaudit (+1 jeton de faveur de la foule)       |
-| Succès majeur     | +2             | Ovation générale, moment marquant (+2 jetons de faveur de la foule)       |
+| Succès critique   | +2             | Ovation générale, moment marquant (+2 jetons de faveur de la foule)      |
+| Succès            | +1             | Action réussie, la foule applaudit (+1 jeton de faveur de la foule)      |
 | Échec             | 0              | Foule indifférente, tension palpable                |
-| Échec critique    | 0              | Huées, malaise dans l’arène (-1 jeton de faveur de la foule)              |
+
 
 #### Exemple narratif
 
-> *Elowen, la barde, s’élève sur la balustrade, luth en main. Elle entonne une ballade sur les exploits du chevalier Ser Alaric. Jet de Présence + Art : succès majeur ! Elle gagne 2 points de Espoir et 2 jetons de faveur de la foule.*  
-> *Lors de la deuxième passe, elle dépense 1 point de Espoir pour soutenir Ser Alaric, lui offrant un avantage sur son jet de Force. Il renverse son adversaire dans un fracas glorieux.*
+> *Viver, la barde, s’élève sur la balustrade, luth en main. Il entonne une ballade sur les exploits du chevalier Ser Ignarion. Jet de Présence + Art : succès avec espoire! Il gagne 1 points de Espoir et 1 jetons de faveur de la foule.*  
+> *Lors de la deuxième passe, il dépense 1 point de Espoir pour soutenir Ser Ignarion, lui offrant un avantage sur son jet de Force. Il renverse son adversaire dans un fracas glorieux.*
 
 #### Table aléatiore pour les joueurs ou les opposants
 
@@ -577,15 +578,11 @@ Ce système repose sur un **triangle d’avantages**, similaire à *Pierre-Papie
 
 **Cartes de Posture**
 
-Pour représenter les postures de combat, chaque joueur peut utiliser des cartes illustrées. 
-
-![|300](/Images/FrameDaggerheart/Knight/ChargePrecise.png)
-![|300](/Images/FrameDaggerheart/Knight/ChargeAgile.png)
-![|300](/Images/FrameDaggerheart/Knight/ChargeRapide.png)
+Pour représenter les postures de combat, chaque joueur peut utiliser des cartes illustrées ou des jetons de différentes couleurs. 
 
 ####  Résolution du duel
 
-La joute se déroule en **trois rounds**, chacun suivant les étapes suivantes :
+La joute se déroule normalement en **trois rounds**, chacun suivant les étapes suivantes :
 
 1. **Choix secret**  
    Chaque chevalier sélectionne secrètement une posture de combat pour le round en cours.
@@ -600,15 +597,15 @@ La joute se déroule en **trois rounds**, chacun suivant les étapes suivantes :
 #### Marquer des points
 
 Les points sont attribués en fonction des dégâts infligés à l’adversaire, selon un système distinct des points de vie.  
-Ce calcul est effectué **avant** l’application des cartes de domaine, de l’armure ou des compétences.
+Ce calcul est effectué **avant** l’application des cartes de domaine.
 
 Lorsqu’une attaque réussit, la **pointe de la lance se brise**, et sa fragmentation détermine le nombre de points obtenus :
 
 | Type de dégât       | Points gagnés | Description                          |
 |---------------------|----------------|--------------------------------------|
-| Dégât sévère        | 3 points       | Impact puissant, lance brisée en trois |
-| Dégât majeur        | 2 points       | Frappe solide, lance partiellement brisée |
-| Dégât mineur        | 1 point        | Touché léger, éclat minime           |
+| Dégât sévère        | 3 points       | Impact puissant, la lance est brisé pour 3 points |
+| Dégât majeur        | 2 points       | Frappe solide, la lance est brisé pour 2 points |
+| Dégât mineur        | 1 point        | Touché léger, la lance est brisé pour 1 point |
 | Aucun dégât         | 0 point        | Attaque manquée, aucun point gagné   |
 
 Si un chevalier **désarçonne** son adversaire, il gagne également **1 point supplémentaire**. 
@@ -619,55 +616,42 @@ Si un chevalier **désarçonne** son adversaire, il gagne également **1 point s
 
 Un chevalier peut être désarçonné dans les situations suivantes :
 - Il subit un **dégât sévère**.
-- Il obtient un **échec critique** lors d’un jet.
 - Son adversaire utilise l’action **Charge légendaire**.
-- Il subit une **conséquence majeure** (ex. : perte totale de points de vie ou de stress).
 
 **Jet de sauvegarde**
 
-Lorsque le désarçonnement est déclenché, le chevalier effectue un jet de **Force**, **Dextérité** ou **Agileté** (au choix), avec une difficulté standard de **DC 12**.
+Lorsque le désarçonnement est déclenché, le chevalier effectue un jet de **Force**, **Dextérité** ou **Agileté** (au choix), avec une difficulté standard de **15**.
 
 - **Jet réussi** : le chevalier reste en selle. 
-- **Jet raté** : le chevalier est désarçonné. L’adversaire gagne 1 jeton de faveur de la foule.
-- **Échec critique** : le chevalier est désarçonné. L’adversaire gagne 2 jetons de faveur de la foule, en raison de la puissance spectaculaire de l’impact.
-
+- **Jet raté** : le chevalier est désarçonné.
 
 **Utilisation d'espoire, de peur ou de jeton de faveur de la foule pendant le duel**
 
 Les points de Espoir peuvent être dépensés normalement, il existe cependant de nouvelle **Espoir Feature** que vous pouvez activer :
 
-| Action du chevalier     | Effet narratif et mécanique                                      |
+| Action légendaire     | Effet narratif et mécanique                                      |
 |-------------------------|------------------------------------------------------------------|
-| Cri héroïque            | Dépense 1 point de Espoir pour impressionner la foule (+1 jeton de faveur de la foule)  |
 | Coup puissant           | Dépense X points de Espoir pour augmenter la difficulté du jet de désarçonnement de X |
 | Charge légendaire       | Dépense 4 points de Espoir pour tenter de désarçonner l’adversaire |
 | Dernier rempart         | Dépense X points de Espoir pour réduire la difficulté du jet de désarçonnement de X |
 | Feinte                  | Dépense 5 points de Espoir pour changer de posture de combat       |
+| Serment de victoire     | Dépense 2 points de Espoir. Si le duel est remporté, gagne +2 jetons de faveur de la foule utilisables lors de la prochaine joute (non comptabilisés dans celle en cours). |
 
 ####  Exemple narratif
 
-> *Ser Alaric, acculé, serre son médaillon de Solen. Il dépense 2 points de Espoir pour activer "Dernier rempart". Il baisse de RC de 12 à 10. Il roule 11 avec Espoir. Jet de Force réussi : il reste stoic, le regard brûlant de détermination. La foule rugit. Son adversaire hésite.*
+> *Ser Aveline, acculé, serre le médaillon de Eunephine. Elle dépense 2 points de Espoir pour activer "Dernier rempart". Elle baisse la difficulté de 15 à 13. Elle roule 13 avec Espoir. Jet de Force réussi : Elle reste stoic, le regard brûlant de détermination. La foule rugit.*
 
-| Action de groupe           | Effet narratif et mécanique                                                                 |
-|---------------------------|----------------------------------------------------------------------------------------------|
-| Écho du passé              | Dépense X points de Espoir pour évoquer un souvenir négatif de l’adversaire. La foule retire X jetons de sa faveur. |
-| Récit inspirant            | Dépense X points de Espoir pour motiver l’équipe. La foule accorde + X jetons de faveur.       |
-| Lecture de posture         | Dépense 5 points de Espoir pour analyser la posture de l’adversaire. Permet de contrer une feinte. |
-| Préparation optimale       | Dépense X points de Espoir pour ajuster l’équipement avec précision. Réduit la difficulté (DC) du premier test de désarçonnement de X. |
-| Anticipation brillante     | Dépense 5 points de Espoir pour anticiper une manœuvre ennemie. Permet de connaître la prochaine posture de l’adversaire. |
-| Serment de victoire        | Dépense 2 points de Espoir. Si le duel est remporté, gagne +2 jetons de faveur de la foule utilisables lors de la prochaine joute (non comptabilisés dans celle en cours). |
 
 ### 🟨Fin de la joute et récompenses
 
 À l’issue du tournoi, chaque chevalier additionne les points obtenus grâce aux lances brisées et aux désarçonnements. Selon le total cumulé, il peut recevoir les récompenses suivantes :
 
-- **5 points ou plus** : reçoit un objet narratif (ex. : insigne de bravoure, bénédiction du public).
-- **10 points ou plus** : obtient une ressource pour son écurie.
-- **15 points** : commence sa prochaine joute avec 2 jetons de faveur de la foule.
+- **5 points ou plus** : obtient une ressource pour son écurie.
+- **9 points ou plus** : commence sa prochaine joute avec 2 jetons de faveur de la foule.
 
 #### Qualification pour la joute du champion
 
-Seuls les points obtenus lors des **quatre joutes de saison** organisées à **Saint-Marcelin**, dans le **duché d’Aurélion**, sont pris en compte pour les qualifications officielles.
+Seuls les points obtenus lors des **joutes de saison** organisées à **Saint-Marcelin**, dans le **duché d’Aurélion**, sont pris en compte pour les qualifications officielles.
 
 À la fin de la saison, les **deux chevaliers ayant accumulé le plus de points** s’affrontent en **finale** lors de la **joute du champion**.
 
@@ -691,7 +675,7 @@ Trois composants distincts peuvent être améliorés :
 
 Ces améliorations permettent d’obtenir trois types de bonus :
 
-1. **Optimisé** : Bonus de +2 au RC pour désarçonner l’adversaire lors de l’impact
+1. **Optimisé** : Bonus de +2 pour attaquer l’adversaire lors de l’impact
 2. **Stable** : Bonus de +2 au jet de sauvegarde contre le désarçonnement
 3. **Exotique** : Bonus de 2 jeton de faveur du public au début de la joute
 
@@ -704,14 +688,14 @@ Toute nouvelle expérience commence avec un score de **+2**.
 *Exemples d’expériences de compagnon*
 *Amical, Terrifiant, Intimidant, Loyal jusqu’à la fin, Agile, Personne ne reste derrière, En alerte maximale, Protecteur, Compagnon royal, Éclaireur, Monture de confiance, Vigilant, On les retrouve toujours.
 
-Vous pouvez prendre la fiche prévu à cette effet pour incorporer ses informations. 
+Vous pouvez prendre la fiche du compagnon du rodeur pour incorporer ses informations. 
 ---
 
 > Ces éléments permettent aux joueurs de personnaliser leur approche des joutes et d’ajouter une dimension stratégique à leur équipement équestre.
 
 
 Exemple d'une destrier exotique : Destrier de Sable d’Ashkar
-*Issu des dunes brûlantes du royaume d’Ashkar, ce destrier au pelage doré et aux yeux d’ambre est réputé pour son endurance hors pair et sa foulée silencieuse. Dressé dans les tempêtes du désert, il ne craint ni la chaleur ni le tumulte des arènes. Sa présence seule impose le respect, et sa loyauté envers son cavalier est aussi inébranlable que les murailles d’Aurélion. Bonus de + 1 jeton de faveur de la foule au début d'une joute.*
+*Issu des dunes brûlantes du royaume d’Ashkar, ce destrier au pelage doré et aux yeux d’ambre est réputé pour son endurance hors pair et sa foulée silencieuse. Dressé dans les tempêtes du désert, il ne craint ni la chaleur ni le tumulte des arènes. Sa présence seule impose le respect, et sa loyauté envers son cavalier est aussi inébranlable que les murailles d’Aurélion. Bonus de + 2 jeton de faveur de la foule au début d'une joute.*
 
 
 #### Armes tier 1
