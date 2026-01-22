@@ -77,7 +77,7 @@ Même si le monde subit la colère divine, les dieux sont bien connus et parfois
 
 | Nom        | Domaine              | Description |
 |------------|----------------------|-------------|
-| Oophianne  | Temps                | Déesse du sablier cosmique, gardienne du cycle et du calendrier |
+| Orphianne  | Temps                | Déesse du sablier cosmique, gardienne du cycle et du calendrier |
 | Justiane   | Justice              | Loi divine, gardienne des serments et du jugement |
 | Aëllora    | Vie & Mort           | Tisseuse d’âmes, équilibre entre naissance et trépas |
 | Myrdhinn   | Magie                | Dieu des arcanes et des secrets oubliés, source des mystères |
