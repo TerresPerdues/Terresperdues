@@ -42,10 +42,10 @@ Toutes les communautés sont disponibles, mais certaines ont des aspects uniques
 Considérant que ce sont des Arches lancées pour coloniser et explorer une nouvelle planète, les personnes sélectionnées pour monter à bord doivent tous avoir une utilité dans ce contexte. Le choix de qui allait ou pas était froid et répondait à des critères plus technico-pratiques qu’esthétiques. Quoique l’argent ouvre bien des portes, et que certaines personnes astucieuses sont toujours en mesure d’arriver à leurs fins. 
 **Haute société (Highborne)**
 Cette communauté regroupe à la fois des hauts représentants d’organisations internationales, de gouvernement ou de mégacorporations. Ce sont elles et eux qui ont décidé de la construction des Arches, financé leur construction, et établi les critères de sélection pour choisir qui pourrait faire partie, ou non, du voyage. Ils et elles ont embarqué sur les Arches en ayant en tête d’être les leaders des nouvelles colonies sur Gaïa. Mais est-ce que ces attentes sont réalistes, ou est-ce que la nouvelle réalité de la colonisation remettra en question cette position dominante?
-Vous êtes issus d’une famille riche et cette dernière a payé assez cher votre présence sur l’Arche. Pourquoi êtes-vous sur l’Arche?
-Votre présence sur l’Arche II ne résulte pas d’une promotion, mais plutôt d’une démotion. Qu’est-ce qui s’est passé?
-Êtes-vous issue d’une organisation internationale, d’une mégacorporation ou d’un gouvernement? Quelles sont vos attentes par rapport au voyage?
-Érudit (Loreborne)
+- *Vous êtes issus d’une famille riche et cette dernière a payé assez cher votre présence sur l’Arche. Pourquoi êtes-vous sur l’Arche?*
+- *Votre présence sur l’Arche II ne résulte pas d’une promotion, mais plutôt d’une démotion. Qu’est-ce qui s’est passé?*
+- *Êtes-vous issue d’une organisation internationale, d’une mégacorporation ou d’un gouvernement? Quelles sont vos attentes par rapport au voyage?*
+**Érudit (Loreborne)**
 Votre communauté a été active et essentielle à chaque moment clé qui a suivi la décision de partir coloniser Gaïa. Même avant, puisque ce sont des scientifiques qui ont découvert cette planète, qui ont permis les avancées technologiques d’exploration spatiale. Votre communauté a été privilégiée lors des sélections faites pour monter à bord des Arches. Vos compétences vous donnent une crédibilité et un respect auprès des autres communautés. 
 Contrairement à vos confrères et consoeurs, vous n’aviez pas une expertise recherchée pour partir sur une Arche. Qu’est-ce qui fait que vous avez été sélectionné(e)?
 Il paraît qu’on ne fait pas d’omelettes sans casser des oeufs. Quels principes ou quelles valeurs avez-vous bafouées pour monter à bord de l’Arche II?
@@ -89,16 +89,16 @@ Vous souhaitez être sur l’Arche II pour pouvoir suivre une personne avec qui 
 Vous êtes issus d’une vie sous terre, avec un environnement protégé et contrôlé. L’idée d’être en permanence face aux intempéries vous cause de l’anxiété. Comment vivez-vous avec ça et est-ce que les autres autour de vous s’en rendent compte?
 
 
-ASCENDANCES
+## ASCENDANCES
 Toutes les ascendances sont disponibles, mais certaines présentent des aspects uniques dans le cadre d'une campagne Les Arches Perdues. Si nécessaire, fournissez les informations suivantes à vos joueurs.
-Clanks
+**Clanks**
 Les Clanks sont des créations faites de métal et de matériaux artificiels. À quelques exceptions près, ils sont les seuls êtres réveillés dans les Arches, alors que le reste de l’équipage et des voyageurs est en stase cryogénique. Ces Clanks endossent le rôle crucial de sentinelles, assurant la continuité de l’existence de l’Arche en gérant l’intégralité des fonctions vitales du vaisseau: surveillance des systèmes, maintenance, réparations d’urgence… toutes tâches assurant l’arrivée des vaisseaux à destination. Certains Clanks ont été créés pour appuyer les pionniers dans le déploiement de la nouvelle colonie lors de l’arrivée. 
-Fungril
+**Fungril**
 Le réseau mycélien des Fungril est particulièrement sensible au bruit de fond de la Terre Perdue: echos de civilisations perdues, d’essences de créatures impossibles, etc. Cette résonnance, tout en ayant ses avantages, peut provoquer des hallucinations ou des suivenirs traumatiques liés à certains lieux visités. 
 Pour une raison inexplicable, il semble que les personnes d’ascendance Fungril ont une résonance particulière avec la planète. Ils semblent entendre le bruit mais aussi le bruit de fond de la planète : les échos des civilisations dormantes, les systèmes d'alarme activés des ruines, ou même l'essence des créatures de légende.
 
 
-CLASSES
+## CLASSES
 Toutes les classes sont disponibles, mais certaines ont des aspects uniques dans une campagne Les Arches Perdues. Voici les informations à fournir à vos joueurs selon les besoins.
 Toutes les classes avec capacité de lancer de sorts
 Il n’y a pas de magie à proprement parler dans les Arches Perdues, mais plutôt de la technomancie, qui consiste à la capacité d’utiliser les technologies afin de manipuler l’énergie. Certains deviennent technomanciens après des années d’étude, d’autres ressentent un appel inné aux anciennes méthodes plus génétiques. Cette transformation génétique et technologique leur confère des capacités biotiques inimaginables, fusionnant biologie et machine. Les personnages avec un trait de lancer de sorts doivent décider comment ils utilisent cette technologie pour refléter la magie et quels outils, processus ou systèmes ils emploient pour atteindre leurs objectifs.
@@ -109,7 +109,7 @@ Quand les druides se transforment en forme de bête, celle-ci devient une armure
 
 
 
-PRINCIPES DES JOUEURS ET JOUEUSES
+## PRINCIPES DES JOUEURS ET JOUEUSES
 Si votre groupe décide de jouer cette campagne, donnez-leur les informations suivantes avant la création de personnage.
 Rester ou partir, choisissez votre étoile
 Votre  personnage est confronté à un choix fondamental : reconstruire ici, sur une planète mystérieuse et dangereuse, une planète que vous n’avez pas choisi. Ou tout faire pour repartir, quitte à sacrifier ce qui a été découvert et utiliser les ressources de la planète dans ce but. Ce principe vous invite à explorer cette tension intérieure. Chaque action, chaque relation, chaque décision peut faire pencher la balance. Jouez pour révéler ce que votre personnage valorise vraiment : la sécurité, la vérité, la communauté… ou l’espoir d’un ailleurs.
@@ -121,7 +121,7 @@ Considérez le groupe de survivants comme un moyen de survie
 Vous vous retrouvez perdus sur une planète inconnue. Peu importe les différences ou les défis que vous pourriez rencontrer avec les autres survivants, vous formez dorénavant une communauté qui doit assurer sa survie grâce à la contribution de toutes et tous.
 
 
-PRINCIPES DM
+## PRINCIPES DM
 Gardez les lignes directrices suivantes en tête en tant que DM de la campagne.
 Exposez les dilemmes, ne les résolvez pas
 Votre  rôle n’est pas de trancher, mais de poser les questions. Chaque scène, chaque rencontre, chaque découverte devrait confronter les joueurs à des choix complexes. Laissez-les débattre, hésiter, se diviser. Le cadre vit dans les tensions, pas dans les réponses.
