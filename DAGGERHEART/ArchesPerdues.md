@@ -76,6 +76,8 @@ Dans cet univers où neuf dieux majeurs influencent les croyances, certains surv
 
 ### 🟨 Sauvage, Marin, Nomade, Montagnard (Wildborne, Seaborne, Rigeborne, Wanderborne)
 Seules les personnes avec des compétences très spécifiques ont été sélectionnées au sein de ces communautés. Elles possèdent une expertise et des connaissances qui se sont raréfiées sur Abitamos, mais qui sont importantes pour une expédition réussie. Les métiers liés à l’agriculture, aux pêcheries, à la survie en forêt ou dans des conditions difficiles… bref, des capacités à apprendre à vivre dans une nature sauvage qui n’a pas encore été domestiquée.
+
+### 🟨 Wildborne
 Il ne reste pour ainsi dire presque aucune forêt sauvage sur Abitamos, et celles qui le sont sont des parcs protégés. Les membres de la communauté Wildborne ont néanmoins grandi près de la nature, du moins en comparaison avec les autres communautés. Cet atout a favorisé leur sélection sur les Arches, et ils ont été nombreux à se porter volontaires, dans l’espoir de pouvoir se connecter à une nature qui n’était pas spoliée. 
 - Quels rituels uniques à votre communauté souhaitez-vous transmettre à votre arrivée sur la nouvelle planète?
 - Malgré la possibilité de voir un rêve se réaliser, vous avez hésité à présenter votre candidature. Pourquoi?
