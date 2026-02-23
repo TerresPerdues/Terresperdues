@@ -1,47 +1,46 @@
 ## Les Arches Perdues
-CONCEPT
+
+## CONCEPT
 Une arche stellaire s’écrase sur un monde sans nom, une planète invisible. Il n’y a pas de choix, les survivants doivent explorer, réparer, survivre et s’adapter. Qui sait ce qui se cache sur cette planète?
-COMPLEXITY RATING
+## COMPLEXITY RATING
 Complexity Score: ⚪⚪ (Accessible pour l’initiation, avec des mécaniques modulaires et des dilemmes narratifs croissants.)
-THE PITCH
+## THE PITCH
 Il y a cinquante ans, Abitamos a lancé cinq arches stellaires vers une exoplanète prometteuse, dans l’espoir d’y fonder une nouvelle civilisation. Chaque Arche, immense vaisseau abritant des milliers de colons en stase, suivait  une trajectoire légèrement décalée pour maximiser les chances d'arriver sur la planète choisie: Gaïa. Mais à mi-chemin, une anomalie cosmique a révélé l’impensable : une planète invisible, dissimulée dans les plis de l’espace, a surgi sur leur route.
 Vous étiez à bord de l’Arche II qui s’est écrasée sur une planète vivante et silencieuse. Vous êtes les survivants. Les systèmes sont hors service. Les autres arches sont introuvables. Vous êtes confrontés à un monde inconnu, que vous n’avez pas choisi. Cette planète sera-t-elle un obstacle… ou une seconde chance ? Explorez, survivez, réparez et décidez du sort de milliers de vies de votre arche qui sont, elles, encore en stase.
-TON & AMBIANCE
+## TON & AMBIANCE
 Mystérieux, Sombre, Technologique, Épique
-THÈMES
+## THÈMES
 Survie collective vs individualisme, Mémoire et héritage, Sacrifice et responsabilité, Exploration de l’inconnu.
-INSPIRATIONS
+## INSPIRATIONS
 The Expanse (série), Annihilation (film), Mass effect (jeu vidéo), Lost planet (jeu vidéo), Avatar (film), The Ark (série)
 
-OVERVIEW
+## OVERVIEW
 Si votre groupe décide de jouer cette campagne, donnez leur les informations suivantes avant la création de personnage. 
 Une humanité en quête de découvertes et nouvelles ressources 
 La planète Abitamos a longtemps été une planète agréable où il faisait bon vivre. Les civilisations y ont prospéré et les technologies ont évolué au cours des millénaires. Avec sa forte croissance, la planète était arrivée à la limite de ses ressources. C’est alors que les regards se sont tournés vers l’espace pour en obtenir de nouvelles. Les premières explorations spatiales se sont concentrées sur les astéroïdes et les lunes qui étaient à proximité. À mesure que la population prenait confiance en elle et développait sa technologie extra-planétaire, certaines personnes se mirent à rêver de nouveaux mondes, remplis de ressources et de promesses de renouveau.
 Une candidate idéale, d’abord nommée BEBOP-42, puis rebaptisée Gaïa, fut identifiée par des scientifiques. Toutes les conditions étaient réunies: air respirable, étendues d’eau et continents. Les sondes indiquent également une absence de vie évoluée. Plein de belles promesses, peu de risques, si ce n’est celui du voyage interstellaire. Des représentants de différentes nations, soutenus par le financement et l’expertise non négligeable de mégacorporations, se mirent au travail pour concevoir 5 arches qui amèneraient les personnes choisies sur cette nouvelle planète. 
 Nombreuses ont été les personnes intéressées à se lancer dans ce voyage, mais des critères précis ont servi à trier les dizaines de milliers candidatures reçues. Simplement dit, les personnes qui allaient arriver sur ce nouveau monde devaient avoir des compétences ou des métiers avant tout utiles pour aider aux efforts de colonisation. De nombreux robots ont été conçus pour s’occuper de la grande majorité des voyageurs qui seraient en stase durant une bonne partie du voyage.
 Chacune avec sa trajectoire propre, les Arches parcourent leur chemin depuis une cinquantaine d’années. Arrivée à mi-chemin, l’Arche II tombe sur une anomalie cosmique, impensable: une planète invisible, dissimulée dans les plis de l’espace. Ne pouvant éviter cette planète apparue de nulle part, l’Arche II s’y est écrasée. Ses systèmes sont hors service, bien que les stases demeurent dans un état stable. Les autres Arches sont introuvables.Quelques personnes sont réveillées et sont confrontées à la dure réalité à laquelle leur Arche est confrontée. 
-La Terre Perdue
+**La Terre Perdue**
 La Terre Perdue est une planète d’une richesse inouïe. Elle regorge de faune et de flore inconnues et certains biomes abritent des créatures titanesques, gardiennes de secrets oubliés. Elle possède trois lunes, dont l’une est brisée — peut-être à cause de l’impact de l’Arche I. Le soleil est à une distance idéale, l’air est pur, l’eau douce est potable. En apparence, tout semble sauvage, luxuriant, presque paradisiaque… mais la vérité est plus sombre.
 Ce monde n’est pas vierge. Sous des mètres de végétation foisonnante, des civilisations oubliées dorment encore. Leurs ruines sont piégées, leurs systèmes de défense parfois encore actifs. Des créatures de légende rôdent, comme si les mythes humains avaient trouvé refuge ici depuis des millénaires. Chaque pas est un risque. Chaque minute, une menace.
 Pourtant, cela n’empêche pas les personnes réveillées de l’Arche II, d’explorer et de tenter de survivre. Les repas deviennent des rituels de survie et de lien social. Les armes sont modulaires, influencées par des interfaces linguistiques uniques. De nombreuses questions sont posées, peu de réponses sont apportées.
 Les trois autres Arches, construites sur le même modèle que les deux premières, approchent. Si elles ne reçoivent pas de signal, elles risquent de s’écraser elles aussi. Faut-il les prévenir… ou les laisser s’écraser pour récupérer leurs ressources ? Et les survivants de l’Arche I ? Où sont-ils? Seront-ils là pour aider, pour prendre la place de l’Arche II… ou simplement pour survivre ? Partageront-ils leur savoir ou le garderont-ils pour eux ?
 Des clans émergent : ceux qui veulent rester, ceux qui veulent repartir. Et comme si ce n’était pas assez complexe comme ça, il y a une autre chose importante à considérer. Les survivants ne sont pas seuls sur la Terre Perdue.
-Les Galax
+**Les Galax**
 En effet, il existe des autochtones : les Galax. C’est un peuple mystérieux représentant l’évolution profonde de la nature, une incarnation vivante de la planète elle-même. Les Galax sont des humanoïdes-végétaux, une fusion entre la chair et la sève, témoins d’une nature qui a repris ses droits ancestraux après des siècles de ravages. Ils sont à la fois jeunes et extrêmement vieux, porteurs d’une sagesse ancienne et d’une curiosité insatiable. Leur lien avec la Terre Perdue est intime et sacré : ils cherchent à protéger ce monde fragile, conscients des cicatrices laissées par les civilisations passées.
 Leur apparence peut dérouter : des silhouettes élancées, couvertes de feuillages, de lianes et de fleurs, parfois luminescentes, rappelant que la vie peut renaître même dans les ténèbres. Leur société est complexe, mêlant traditions ancestrales et une compréhension profonde des forces occultes qui régissent leur monde.
 Les Galax ne cherchent pas la conquête ni l’exploitation. Leur curiosité les pousse à observer les survivants de l’Arche II, parfois avec méfiance, parfois avec espoir. Ils possèdent des armes primitives, mais leur véritable force réside dans une forme de magie naturelle, une connexion occulte à la planète qui leur confère des capacités uniques.
 Leur présence soulève une question cruciale : peut-on coexister avec un peuple aussi lié à la nature, ou sommes-nous déjà en train de détruire ce fragile équilibre ?
-Les dieux et la technomancie 
+*Les dieux et la technomancie* 
 Dans cet univers, neuf dieux majeurs façonnent la vision du monde et influencent les croyances des peuples. Ces divinités, chacune avec son domaine et sa personnalité, sont au cœur des mythes et des légendes qui traversent les âges.
 La magie dans Les Arches Perdues est autant un héritage divin qu’une prouesse technologique, reflétant la diversité et la complexité des mondes et des peuples qui peuplent cet univers. En fait, il n’y a pas de magie à proprement parler, mais plutôt de la technomancie.
 L’évolution des ascendances et l’expansion dans l’espace ont conduit à des voies différentes pour accéder à la technomancie. Certaines espèces possèdent une capacité  innée, un don transmis par leurs lignées divines ou leur nature profonde. D’autres ont dû recourir à la technologie et à la biotique, une science avancée permettant de modifier la biologie des êtres vivants. Cette fusion de la biologie et de la technologie confère des capacités extraordinaires, comparables à la magie ou aux pouvoirs psioniques.
 
-
-
-COMMUNAUTÉS
+## COMMUNAUTÉS
 Toutes les communautés sont disponibles, mais certaines ont des aspects uniques dans une campagne des Arhces Perdues. Au besoin, fournissez les informations suivantes à vos joueurs et choisissez une ou plusieurs questions à leur poser lors de la session 0. 
 Considérant que ce sont des Arches lancées pour coloniser et explorer une nouvelle planète, les personnes sélectionnées pour monter à bord doivent tous avoir une utilité dans ce contexte. Le choix de qui allait ou pas était froid et répondait à des critères plus technico-pratiques qu’esthétiques. Quoique l’argent ouvre bien des portes, et que certaines personnes astucieuses sont toujours en mesure d’arriver à leurs fins. 
-Haute société (Highborne)
+**Haute société (Highborne)**
 Cette communauté regroupe à la fois des hauts représentants d’organisations internationales, de gouvernement ou de mégacorporations. Ce sont elles et eux qui ont décidé de la construction des Arches, financé leur construction, et établi les critères de sélection pour choisir qui pourrait faire partie, ou non, du voyage. Ils et elles ont embarqué sur les Arches en ayant en tête d’être les leaders des nouvelles colonies sur Gaïa. Mais est-ce que ces attentes sont réalistes, ou est-ce que la nouvelle réalité de la colonisation remettra en question cette position dominante?
 Vous êtes issus d’une famille riche et cette dernière a payé assez cher votre présence sur l’Arche. Pourquoi êtes-vous sur l’Arche?
 Votre présence sur l’Arche II ne résulte pas d’une promotion, mais plutôt d’une démotion. Qu’est-ce qui s’est passé?
